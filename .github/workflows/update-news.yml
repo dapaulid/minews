@@ -1,0 +1,35 @@
+name: Update News
+on: workflow_dispatch
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0             # otherwise, you will fail to push refs to dest repo        
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          # Install a specific version of uv.
+          version: "0.9.9"
+
+      - name: Generate news briefing
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: uv run src/generate.py -o news.md
+
+      - name: Move to GitHub Pages branch
+        run: |
+          git switch gh-pages
+          mv news.md index.md
+          git add index.md
+
+      - name: Commit & Push changes
+        uses: actions-js/push@v1.5
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
