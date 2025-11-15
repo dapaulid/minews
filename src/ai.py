@@ -1,0 +1,16 @@
+from openrouter import OpenRouter
+import utils
+
+def exec(prompt: str) -> str:
+    with OpenRouter(
+        api_key=utils.getenv("OPENROUTER_API_KEY")
+    ) as client:
+        response = client.chat.send(
+            model="openai/gpt-oss-120b",#"minimax/minimax-m2",
+            messages=[
+                {"role": "user", "content": prompt},
+            ]
+        )
+        assert len(response.choices) == 1
+        print(response.usage)
+        return response.choices[0].message.content
