@@ -1,5 +1,12 @@
 _Aktualisiert: Sonntag, 16. November 2025, 13:22 Uhr_
 
+<details><summary markdown="span">Let's see some code!</summary>
+```python
+print('Hello World!')
+```
+Of course, it has to be Hello World, right?
+</details>
+
 ## Auftrag für Siemens statt Stadler: Morddrohungen gegen SBB
 
 [Blick](https://www.blick.ch/politik/wegen-absage-an-spuhler-morddrohungen-gegen-vincent-ducrot-bodyguards-muessen-sbb-chef-beschuetzen-id21424806.html) • _Sonntag, 16. November 2025, 00:01 Uhr_
