@@ -5,16 +5,6 @@ from datetime import datetime
 
 import utils
 
-def save_articles_as_markdown(articles: list[Article], filename):
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write("# News Briefing\n\n")
-        f.write(f"_Updated: {datetime.now().strftime("%c")}_\n\n")
-        if articles:
-            for article in articles:
-                f.write(article_to_md(article))
-        else:
-            f.write("Nothing important happened in the last 12 hours.\n")
-
 def article_to_md(article: Article) -> str:
     md = f"## {article.title}\n\n"
     md += f"[{article.source}]({article.url}), {article.publishedAt.strftime('%c')}\n\n"
@@ -38,3 +28,5 @@ def rate_articles(articles: list[Article]):
     # sort articles by score descending
     articles.sort(key=lambda a: a.score, reverse=True)
     
+def is_important(article: Article) -> bool:
+    return article.score >= 6 

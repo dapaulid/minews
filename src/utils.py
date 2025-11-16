@@ -7,6 +7,9 @@ def save_file(filename, data):
         import yaml
         with open(filename, 'w', encoding='utf-8') as f:
             yaml.safe_dump(data, f, allow_unicode=True, sort_keys=False)
+    elif ext == '.md':
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(data)
     else:
         raise ValueError("Unsupported file format: %s" % filename)
     # end if
