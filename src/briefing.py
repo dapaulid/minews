@@ -20,10 +20,9 @@ def format_md(articles: list[Article]) -> str:
         md += "Keine wichtigen Ereignisse in den letzten 12 Stunden.\n"
     # output unimportant articles in a collapsible section
     if unimportant:
-        md += "\n<details>\n<summary>Unwichtige Ereignisse anzeigen</summary>\n\n"
+        md += '\n<details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>\n\n'
         md += format_articles(unimportant)
         md += "\n</details>\n"
-
     return md
 
 def format_articles(articles: list[Article]) -> str:
