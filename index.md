@@ -1,13 +1,13 @@
 # News Briefing
 
-_Updated: Sun Nov 16 00:17:42 2025_
+_Updated: Sun Nov 16 06:21:41 2025_
 
-## Krieg in der Ukraine - Schwere Drohnenangriffe in der Ostukraine
+## Nach Aussagen Takaichis zu Taiwan: Japan streitet mit China
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-schwere-drohnenangriffe-in-der-ostukraine-1), Sat Nov 15 11:46:42 2025
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/wegen-taiwan-frage-nach-aussagen-der-ministerpraesidentin-japan-streitet-mit-china), Sat Nov 15 18:13:07 2025
 
-Russland fliegt schwere Angriffe im Osten der Ukraine. Kiew meldet ein weiteres Todesopfer der Angriffe vom Donnerstag.
+Zwischen Japan und China herrscht dicke Luft. Im Zentrum stehen Aussagen der neuen Ministerpräsidentin bezüglich Taiwan.
 
-Angesichts der humanitären Krise in der Ukraine sammelt die Glückskette Spenden für die betroffene ukrainische Bevölkerung. Millionen Menschen – vor allem Kinder, Frauen und ältere Menschen – sind bereits geflohen und suchen Zuflucht in den Nachbarlä... [386 chars]
+Das ist passiert: Vor einer Woche hat sich Japans neue Ministerpräsidentin Sanae Takaichi zu Taiwan geäussert: Wenn es in der dortigen Meerenge zur Gewaltanwendung käme, würde Japan mit einer militärischen Intervention antworten. Im Detail hatte der ... [2426 chars]
 
-_Relevance score: [8] - Ongoing war in Ukraine has major geopolitical, humanitarian and security implications for Europe and Switzerland (refugee flows, energy, NATO stance). While not a new turning point, the intensity of attacks remains highly relevant._
+_Relevance score: [7] - Escalating Japan‑China tensions over Taiwan could affect regional security and global trade routes, which in turn influence Swiss foreign‑policy considerations and economic exposure, though the direct impact on everyday Swiss life is limited._
