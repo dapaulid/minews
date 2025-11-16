@@ -1,6 +1,7 @@
 from article import Article
 from datetime import datetime
 import rate
+import re
 
 from babel.dates import format_datetime as babel_format_datetime
 
@@ -31,10 +32,13 @@ def format_articles(articles: list[Article]) -> str:
         md += f"## {article.title}\n\n"
         md += f"[{article.source}]({article.url}) • _{format_datetime(article.publishedAt)}_\n\n"
         md += f"{article.description}\n\n"
-        md += f"{article.content}\n"
-        md += f"\n_Relevance score: [{article.score}] - {article.reasoning}_\n"
+        md += format_content(article)
+        md += f"\n\n_Relevance score: [{article.score}] - {article.reasoning}_\n"
     return md
 
 def format_datetime(dt: datetime) -> str:
     # TODO localization
     return babel_format_datetime(dt, locale="de_CH", tzinfo="Europe/Zurich", format="EEEE, d. MMMM YYYY, hh:mm") + " Uhr"
+
+def format_content(article: Article) -> str:
+    return re.sub(r"\[\d+\s+chars\]", f"[weiterlesen]({article.url})", article.content)
