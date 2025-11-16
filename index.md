@@ -1,4 +1,4 @@
-_Aktualisiert: Sonntag, 16. November 2025, 15:38 Uhr_
+_Aktualisiert: Sonntag, 16. November 2025, 19:19 Uhr_
 
 ## Was du zum Zoll-Deal wissen musst
 
@@ -10,7 +10,40 @@ Publiziert16. November 2025, 01:23
 Details zum Zoll-Deal: Cybertruck bis Waffen: Was die USA von der Schweiz fordern
 Die USA haben Details zum Zoll-Deal mit der Schweiz veröffentlicht – mit 29 teils brisanten Bedingungen, die die Schweiz erfüllen mus... [weiterlesen](https://www.20min.ch/story/neue-details-was-wir-vom-zoll-deal-bisher-nicht-wussten-103451855)
 
-_Relevance score: [8] - The detailed US‑Switzerland customs agreement introduces 29 new conditions that will directly shape Swiss trade, industry regulation, and economic competitiveness, making it a significant national policy development._
+_Relevance score: [8] - Details on a US‑Swiss customs/defence‑related agreement with 29 conditions, affecting Swiss export controls, industry and security policy. High national significance._
+## Auftrag für Siemens statt Stadler: Morddrohungen gegen SBB
+
+[Blick](https://www.blick.ch/politik/wegen-absage-an-spuhler-morddrohungen-gegen-vincent-ducrot-bodyguards-muessen-sbb-chef-beschuetzen-id21424806.html) • _Sonntag, 16. November 2025, 00:01 Uhr_
+
+Die SBB vergeben einen Grossauftrag an Siemens statt an Stadler Rail. CEO Vincent Ducrot erhält deshalb Morddrohungen – und braucht Bodyguards.
+
+Raphael RauchBundeshausredaktor
+Die Vergabe eines 2-Milliarden-Auftrags durch die SBB sorgt für hohe Wellen – und für kriminelle Energie. Nach Informationen von Blick hat SBB-CEO Vincent Ducrot (63) Morddrohungen erhalten. Anonyme Verfasser werfen ih... [weiterlesen](https://www.blick.ch/politik/wegen-absage-an-spuhler-morddrohungen-gegen-vincent-ducrot-bodyguards-muessen-sbb-chef-beschuetzen-id21424806.html)
+
+_Relevance score: [7] - The procurement dispute between SBB and Siemens, accompanied by death threats to the CEO, underscores domestic industrial policy, security concerns and public debate over national vs. foreign contracts. Significant national relevance._
+## Personenschutz für SBB-Chef nach Morddrohungen
+
+[20 Minuten](https://www.20min.ch/story/morddrohungen-morddrohungen-gegen-sbb-chef-bodyguards-im-einsatz-103451859) • _Sonntag, 16. November 2025, 04:41 Uhr_
+
+Nach dem Siemens-Zuschlag erhielt SBB-CEO Vincent Ducrot anonyme Drohungen. Die SBB und das Fedpol reagieren mit Schutzmassnahmen.
+
+SBB-CEO Vincent Ducrot hat Morddrohungen erhalten, wie der «SonntagsBlick» berichtet. Anonyme Verfasser werfen ihm Landesverrat vor, da ein SBB-Grossauftrag an die deutsche Siemens AG vergeben wurde – und nicht an den Thurgauer Stadler Konzern.
+Ducro... [weiterlesen](https://www.20min.ch/story/morddrohungen-morddrohungen-gegen-sbb-chef-bodyguards-im-einsatz-103451859)
+
+_Relevance score: [6] - Threats against the head of Switzerland’s national railway highlight security, corporate governance, and the political fallout of a major procurement decision. Notable national impact._
+
+<details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
+
+## Britische Regierung will Asylregeln drastisch verschärfen
+
+[Watson](https://www.watson.ch/international/grossbritannien/812724453-britische-regierung-will-asylregeln-drastisch-verschaerfen) • _Sonntag, 16. November 2025, 06:21 Uhr_
+
+Grossbritanniens sozialdemokratische Regierung will die Asylgesetze des Landes drastisch verschärfen.
+
+Grossbritanniens sozialdemokratische Regierung will die Asylgesetze des Landes drastisch verschärfen.
+In einem Zeitungsinterview kündigte Innenministerin Shabana Mahmood eine Rede im Unterhaus des Parlaments am Montag an, bei der sie Reformpläne zur ... [weiterlesen](https://www.watson.ch/international/grossbritannien/812724453-britische-regierung-will-asylregeln-drastisch-verschaerfen)
+
+_Relevance score: [5] - Major policy change in the UK’s asylum system. Important for global migration discourse but indirect relevance for Swiss audiences; moderate long‑term significance._
 ## Grossbritannien plant deutliche Asyl-Verschärfungen
 
 [Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/nach-daenischem-vorbild-grossbritannien-plant-deutliche-asyl-verschaerfungen) • _Sonntag, 16. November 2025, 02:29 Uhr_
@@ -21,31 +54,38 @@ Grossbritannien will seine Migrationspolitik nach dem Vorbild Dänemarks grundle
 Unter anderem soll die Dauer des Flüchtlingsstatus von bisher 5 auf 2.5 Jahre verkürzt werden, wie das Innenministerium am Samstag mitteilte.
 Weiter müss... [weiterlesen](https://www.srf.ch/news/international/nach-daenischem-vorbild-grossbritannien-plant-deutliche-asyl-verschaerfungen)
 
-_Relevance score: [7] - A major policy shift in the UK’s asylum system affects migration governance across Europe and could influence Swiss asylum procedures and international refugee flows; structural and long‑term relevance but limited direct impact on Switzerland._
-## Auftrag für Siemens statt Stadler: Morddrohungen gegen SBB
+_Relevance score: [5] - Another report on the UK’s tightening of asylum rules. Same assessment as the earlier British asylum story – moderate global relevance, low direct impact on Switzerland._
+## Die Schweiz schlägt Schweden 4:1
 
-[Blick](https://www.blick.ch/politik/wegen-absage-an-spuhler-morddrohungen-gegen-vincent-ducrot-bodyguards-muessen-sbb-chef-beschuetzen-id21424806.html) • _Sonntag, 16. November 2025, 00:01 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/sport/fussball/mit-kitsch-kontinuitaet-und-klasse-der-schweizer-sieg-gegen-schweden-ist-ein-spiegelbild-dieser-wm-kampagne-ld.1912076) • _Sonntag, 16. November 2025, 03:38 Uhr_
 
-Die SBB vergeben einen Grossauftrag an Siemens statt an Stadler Rail. CEO Vincent Ducrot erhält deshalb Morddrohungen – und braucht Bodyguards.
+Wie immer seit 2006 wird sich das Nationalteam für die Fussball-Weltmeisterschaft qualifizieren. Beim 4:1 in Genf gegen Schweden steht auch Johan Manzambi im Fokus. Er ist ein Geschenk für den Schweizer Fussball.
 
-Raphael RauchBundeshausredaktor
-Die Vergabe eines 2-Milliarden-Auftrags durch die SBB sorgt für hohe Wellen – und für kriminelle Energie. Nach Informationen von Blick hat SBB-CEO Vincent Ducrot (63) Morddrohungen erhalten. Anonyme Verfasser werfen ih... [weiterlesen](https://www.blick.ch/politik/wegen-absage-an-spuhler-morddrohungen-gegen-vincent-ducrot-bodyguards-muessen-sbb-chef-beschuetzen-id21424806.html)
+Am Ende wird es kitschig. Natürlich ist es Johan Manzambi, der in der Nachspielzeit das 4:1 für das Schweizer Nationalteam gegen Schweden erzielt. Manzambi, vor wenigen Wochen erst 20 Jahre alt geworden, ist Genfer, er verliess den lokalen Klub Serve... [weiterlesen](https://www.nzz.ch/sport/fussball/mit-kitsch-kontinuitaet-und-klasse-der-schweizer-sieg-gegen-schweden-ist-ein-spiegelbild-dieser-wm-kampagne-ld.1912076)
 
-_Relevance score: [6] - The SBB’s 2‑billion‑franc contract and ensuing death threats raise security concerns for a key national infrastructure operator and highlight political pressure on public procurement, giving it moderate national significance._
+_Relevance score: [4] - Sporting result that secures World Cup qualification. Generates national pride but limited long‑term societal impact._
+## Samsung plant deutlich schlankeres Galaxy Z Flip 8
 
-<details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
+[Allround-PC](https://www.allround-pc.com/news/samsung-plant-deutlich-schlankeres-galaxy-z-flip-8) • _Sonntag, 16. November 2025, 06:55 Uhr_
 
-## 4:1-Sieg in Genf in WM-Quali - Die Nati schlägt Schweden klar und das WM-Ticket liegt bereit
+Samsung möchte das Galaxy Z Flip 8 rund zehn Prozent dünner und leichter gestalten.
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/fussball/nationalmannschaft/4-1-sieg-in-genf-in-wm-quali-die-nati-schlaegt-schweden-klar-und-das-wm-ticket-liegt-bereit) • _Samstag, 15. November 2025, 23:04 Uhr_
+Samsung hat sein großes Foldable mit dem Galaxy Z Fold 7 spürbar verschlankt, beim diesjährigen Z Flip 7 fiel die Überarbeitung jedoch eher zurückhaltend aus – zumindest was die Bauweise betrifft. Trotz etwas dünnerem Gehäuse wirkt das aktuelle Klapp... [weiterlesen](https://www.allround-pc.com/news/samsung-plant-deutlich-schlankeres-galaxy-z-flip-8)
 
-Die Schweiz erfüllt mit einem 4:1 gegen Schweden die Pflicht. Damit ist die WM-Endrunden-Teilnahme praktisch sicher.
+_Relevance score: [3] - New consumer‑electronics product preview. Affects tech market but has limited societal or economic relevance for Switzerland or globally._
+## Polarlichter am Schweizer Himmel und weitere Fotos der Woche
 
-Die Schweiz feiert im Rahmen der WM-Qualifikation in Genf einen 4:1-Heimsieg gegen Schweden und stösst die Türe zur WM ganz, ganz weit auf.
-Breel Embolo, Granit Xhaka, Dan Ndoye und Johan Manzambi schiessen die Tore für die Nati.
-Weil der Kosovo sein... [weiterlesen](https://www.srf.ch/sport/fussball/nationalmannschaft/4-1-sieg-in-genf-in-wm-quali-die-nati-schlaegt-schweden-klar-und-das-wm-ticket-liegt-bereit)
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/gesellschaft/bilder-der-woche-polarlichter-am-schweizer-himmel-und-weitere-fotos-der-woche) • _Sonntag, 16. November 2025, 06:57 Uhr_
 
-_Relevance score: [4] - Securing a World Cup berth is a notable sporting achievement with strong public interest, but it does not affect governance, economy, or long‑term societal structures._
+Seltene Lichtspektakel, Käse-WM in Bern und 374 Dudelsäcke: Das sind die Bilder der Woche.
+
+Anfang Bildergalerie
+Bildergalerie überspringen
+Bild 1 von 4. Seltenes Spektakel: In der Nacht auf Mittwoch konnte man in unseren Breitengraden Nordlichter im Nachthimmel sehen. Hier in Baltersweil am 12.11.2025. Bildquelle: Jürg Alean.
+1 / 4
+Bild 2 ... [weiterlesen](https://www.srf.ch/news/gesellschaft/bilder-der-woche-polarlichter-am-schweizer-himmel-und-weitere-fotos-der-woche)
+
+_Relevance score: [2] - A photo‑gallery of aurora borealis and other human‑interest images. Primarily cultural/entertainment, little structural or civic impact._
 ## Greene berichtet von Drohungen aus Trump-Lager
 
 [20 Min](https://www.20min.ch/story/usa-greene-berichtet-von-drohungen-aus-trump-lager-103451854) • _Sonntag, 16. November 2025, 00:39 Uhr_
@@ -54,60 +94,17 @@ Nach ihrer Kritik in der Epstein-Affäre lässt US-Präsident Donald Trump die R
 
 Die republikanische US-Abgeordnete Marjorie Taylor Greene wird nach den Attacken von Präsident Donald Trump im Streit um die Ermittlungsakten zu dem verstorbenen Sexualstraftäter Jeffrey Epstein nach eigenen Angaben massiv bedroht. Die Rechtsaussen-P... [weiterlesen](https://www.20min.ch/story/usa-greene-berichtet-von-drohungen-aus-trump-lager-103451854)
 
-_Relevance score: [3] - US internal political drama with limited relevance to Swiss citizens or policy; while it reflects broader democratic tensions, its impact on Switzerland is negligible._
-## Tennis: Schweizerinnen im Billie Jean King Cup in Rücklage
+_Relevance score: [2] - US political drama concerning a congresswoman’s safety. Little relevance to Swiss civic or economic matters._
+## "Ich bin clean": Rapper Haftbefehl irritiert mit weiterem Kurzauftritt
 
-[Blick](https://www.blick.ch/sport/tennis/billie-jean-king-cup-bandecchi-verliert-nach-super-start-komplett-den-faden-id21425150.html) • _Samstag, 15. November 2025, 21:54 Uhr_
+[Watson](https://www.watson.ch/international/people-news/622726340-ich-bin-clean-rapper-haftbefehl-irritiert-mit-weiterem-kurzauftritt) • _Sonntag, 16. November 2025, 06:17 Uhr_
 
-Die Schweiz schlägt die Slowakei im Billie Jean King Cup mit 2:1 Matches und spielt gegen Argentinien um den Gruppensieg.
+Deutsch-Rapper Haftbefehl hat in der Nacht erneut auf der Bühne gestanden – sein Clubauftritt im deutschen Giessen war nach ein paar Liedern wieder vorbei.
 
-Keystone-SDADie Schweizer Nachrichtenagentur
-Die Schweizerinnen spielen am Sonntag im Playoff des Billie Jean King Cups gegen Argentinien um den Verbleib in der höchsten Klasse. Sie verdienten sich den Final im argentinischen Cordoba mit dem Sieg geg... [weiterlesen](https://www.blick.ch/sport/tennis/billie-jean-king-cup-bandecchi-verliert-nach-super-start-komplett-den-faden-id21425150.html)
+«Ich bin clean»: Haftbefehl irritiert mit weiterem Kurzauftritt
+Deutsch-Rapper Haftbefehl hat in der Nacht erneut auf der Bühne gestanden – sein Clubauftritt im deutschen Giessen war allerdings nach ein paar Liedern schon wieder vorbei.
+Das zweite Ko... [weiterlesen](https://www.watson.ch/international/people-news/622726340-ich-bin-clean-rapper-haftbefehl-irritiert-mit-weiterem-kurzauftritt)
 
-_Relevance score: [3] - National tennis result of moderate interest; does not influence policy or structural matters._
-## Baumgartner schiesst SCB nach Durststrecke zum Sieg gegen Tigers
-
-[Blick](https://www.blick.ch/sport/eishockey/nl/national-league-scl-tigers-sc-bern-15-11-2025-id21423800.html) • _Samstag, 15. November 2025, 22:35 Uhr_
-
-Dank eines Treffers des künftigen SCB-Stürmers Rohrbach scheinen die SCL Tigers auf Kurs zum Sieg. Doch dann schlägt erneut die Berner Reihe mit Baumgartner, Lehmann und Vermin zu.
-
-Stephan RothStv. Eishockey-Chef
-Ein starkes Backchecking von Lehmann, der Felcman den Puck abknöpft und sofort den Konter einleitet, steht am Ursprung der frühen SCB-Führung. Dann gehts rassig. Vermin legt herrlich zurück auf Baumgartner. Der Österre... [weiterlesen](https://www.blick.ch/sport/eishockey/nl/national-league-scl-tigers-sc-bern-15-11-2025-id21423800.html)
-
-_Relevance score: [2] - A single hockey match report, relevant only to a niche fan base; minimal broader impact._
-## National League am Samstag - SCB gewinnt Derby in der Overtime - Lakers stoppen Pleitenserie
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/eishockey/national-league/national-league-am-samstag-scb-gewinnt-derby-in-der-overtime-lakers-stoppen-pleitenserie) • _Samstag, 15. November 2025, 22:18 Uhr_
-
-Der SCB ringt die SCL Tigers im Derby auswärts 4:3 n.V. nieder. Die SCRJ Lakers siegen erstmals nach 7 Niederlagen.
-
-Der SC Bern gewinnt das Kantonsderby auswärts bei den SCL Tigers mit 4:3 n.V.
-Die Rapperswil-Jona Lakers schlagen Kloten 3:2 n.V. und feiern den ersten Erfolg nach 7 Niederlagen in Serie.
-Ajoie feiert beim 2:0 gegen Genf-Servette den erst 4. Saisonsi... [weiterlesen](https://www.srf.ch/sport/eishockey/national-league/national-league-am-samstag-scb-gewinnt-derby-in-der-overtime-lakers-stoppen-pleitenserie)
-
-_Relevance score: [2] - Another sports recap with limited relevance outside the hockey community; minor national interest._
-## Freiburger Käser wird Fondue-Weltmeister
-
-[Blick](https://www.blick.ch/schweiz/freiburg/auch-brasilien-wollte-gewinnen-freiburger-kaeser-wird-fondue-weltmeister-id21425808.html) • _Samstag, 15. November 2025, 22:35 Uhr_
-
-Benedikt Wüthrich aus Auboranges FR hat die Fondue-Weltmeisterschaft gewonnen. Die Veranstaltung mit zahlreichen Attraktionen soll bis am Sonntag über 10'000 Käse-Fans nach Tartegnin VD locken.
-
-Keystone-SDADie Schweizer Nachrichtenagentur
-In Tartegnin VD ist am Samstagabend die Fondue-Weltmeisterschaft ausgetragen worden. Fast 200 Teilnehmerinnen und Teilnehmer stritten im 240-Seelen-Dorf oberhalb des Genfersees um den Titel, darunter gut z... [weiterlesen](https://www.blick.ch/schweiz/freiburg/auch-brasilien-wollte-gewinnen-freiburger-kaeser-wird-fondue-weltmeister-id21425808.html)
-
-_Relevance score: [1] - Cultural novelty with limited civic or economic significance beyond a local event; largely entertainment._
-## WM-Qualifikation live: Schweiz - Schweden
-
-[20 Min](https://www.20min.ch/story/schweiz-schweden-00-nati-kann-das-wm-ticket-klarmachen-diese-elf-soll-es-richten-103451419) • _Samstag, 15. November 2025, 21:49 Uhr_
-
-Die Nati trifft am Samstagabend auf Schweden. Verfolge das spannende WM-Quali-Spiel live!
-
-78'
-Die letzten beiden Wechsel bei Schweden werden Tatsache. Elanga und Bernhardsson haben Feierabend, Forsberg und Lidberg kommen aufs Feld.
-75'
-3 : 1
-Ist das die Vorentscheidung? Vargas spielt einen Steckpass auf Ndoye. Dieser nimmt den Ball gut mi... [weiterlesen](https://www.20min.ch/story/schweiz-schweden-00-nati-kann-das-wm-ticket-klarmachen-diese-elf-soll-es-richten-103451419)
-
-_Relevance score: [0] - A promotional announcement for a live broadcast; trivial in terms of societal impact._
+_Relevance score: [1] - Entertainment news about a German rapper’s brief performance. No civic, economic or structural relevance._
 
 </details>
