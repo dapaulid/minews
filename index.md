@@ -1,14 +1,5 @@
 _Aktualisiert: Sonntag, 16. November 2025, 13:22 Uhr_
 
-{::options parse_block_html="true" /}
-<details><summary markdown="span">Let's see some code!</summary>
-```python
-print('Hello World!')
-```
-Of course, it has to be Hello World, right?
-</details>
-{::options parse_block_html="false" /}
-
 ## Auftrag für Siemens statt Stadler: Morddrohungen gegen SBB
 
 [Blick](https://www.blick.ch/politik/wegen-absage-an-spuhler-morddrohungen-gegen-vincent-ducrot-bodyguards-muessen-sbb-chef-beschuetzen-id21424806.html) • _Sonntag, 16. November 2025, 00:01 Uhr_
@@ -29,8 +20,7 @@ Die republikanische US-Abgeordnete Marjorie Taylor Greene wird nach den Attacken
 
 _Relevance score: [6] - Shows escalating intra‑party violence and intimidation in US politics, which can affect US governance and international perceptions, but has limited direct impact on Switzerland._
 
-<details>
-<summary>Unwichtige Ereignisse anzeigen</summary>
+<details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
 ## 4:1-Sieg in Genf in WM-Quali - Die Nati schlägt Schweden klar und das WM-Ticket liegt bereit
 
