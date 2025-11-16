@@ -1,5 +1,5 @@
 from article import Article
-from datetime import datetime
+from datetime import datetime, timezone
 import rate
 import re
 
@@ -11,7 +11,7 @@ def format_md(articles: list[Article]) -> str:
     important = [a for a in articles if rate.is_important(a)]
     unimportant = [a for a in articles if not rate.is_important(a)]
 
-    md = f"_Aktualisiert: {format_datetime(datetime.now())}_\n\n"
+    md = f"_Aktualisiert: {format_datetime(datetime.now(timezone.utc))}_\n\n"
 
     # output important articles first
     if important:
@@ -38,7 +38,7 @@ def format_articles(articles: list[Article]) -> str:
 
 def format_datetime(dt: datetime) -> str:
     # TODO localization
-    return babel_format_datetime(dt, locale="de_CH", tzinfo="Europe/Zurich", format="EEEE, d. MMMM YYYY, hh:mm") + " Uhr"
+    return babel_format_datetime(dt, locale="de_CH", tzinfo="Europe/Zurich", format="EEEE, d. MMMM YYYY, HH:mm") + " Uhr"
 
 def format_content(article: Article) -> str:
     return re.sub(r"\[\d+\s+chars\]", f"[weiterlesen]({article.url})", article.content)
