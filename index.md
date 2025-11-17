@@ -1,110 +1,112 @@
-_Aktualisiert: Sonntag, 16. November 2025, 19:19 Uhr_
+_Aktualisiert: Montag, 17. November 2025, 07:23 Uhr_
 
-## Was du zum Zoll-Deal wissen musst
+## Schweiz: Steigende Grippefälle wecken Sorgen um H3N2-Welle
 
-[20 Min](https://www.20min.ch/story/neue-details-was-wir-vom-zoll-deal-bisher-nicht-wussten-103451855) • _Sonntag, 16. November 2025, 01:23 Uhr_
+[20 Minuten](https://www.20min.ch/story/alarm-in-grossbritannien-droht-auch-der-schweiz-eine-heftige-grippesaison-mit-virus-h3n2-103452161) • _Sonntag, 16. November 2025, 17:18 Uhr_
 
-Von Cybertruck bis Waffen: Die USA haben Details zum Zoll-Deal veröffentlicht – mit 29 Bedingungen, die die Schweiz erfüllen muss.
+In der Schweiz steigen die Infektionszahlen, während Experten die Grippesaison beobachten. Droht eine ähnliche Situation wie in Grossbritannien?
 
-Publiziert16. November 2025, 01:23
-Details zum Zoll-Deal: Cybertruck bis Waffen: Was die USA von der Schweiz fordern
-Die USA haben Details zum Zoll-Deal mit der Schweiz veröffentlicht – mit 29 teils brisanten Bedingungen, die die Schweiz erfüllen mus... [weiterlesen](https://www.20min.ch/story/neue-details-was-wir-vom-zoll-deal-bisher-nicht-wussten-103451855)
+Spitäler in Grossbritannien bereiten sich auf eine Grippesaison vor, wie sie laut Gesundheitsexperten nur etwa einmal pro Jahrzehnt vorkommt. Eine mutierte Variante des Influenza-Virus, H3N2, breitet sich derzeit vor allem unter jüngeren Menschen und... [weiterlesen](https://www.20min.ch/story/alarm-in-grossbritannien-droht-auch-der-schweiz-eine-heftige-grippesaison-mit-virus-h3n2-103452161)
 
-_Relevance score: [8] - Details on a US‑Swiss customs/defence‑related agreement with 29 conditions, affecting Swiss export controls, industry and security policy. High national significance._
-## Auftrag für Siemens statt Stadler: Morddrohungen gegen SBB
-
-[Blick](https://www.blick.ch/politik/wegen-absage-an-spuhler-morddrohungen-gegen-vincent-ducrot-bodyguards-muessen-sbb-chef-beschuetzen-id21424806.html) • _Sonntag, 16. November 2025, 00:01 Uhr_
-
-Die SBB vergeben einen Grossauftrag an Siemens statt an Stadler Rail. CEO Vincent Ducrot erhält deshalb Morddrohungen – und braucht Bodyguards.
-
-Raphael RauchBundeshausredaktor
-Die Vergabe eines 2-Milliarden-Auftrags durch die SBB sorgt für hohe Wellen – und für kriminelle Energie. Nach Informationen von Blick hat SBB-CEO Vincent Ducrot (63) Morddrohungen erhalten. Anonyme Verfasser werfen ih... [weiterlesen](https://www.blick.ch/politik/wegen-absage-an-spuhler-morddrohungen-gegen-vincent-ducrot-bodyguards-muessen-sbb-chef-beschuetzen-id21424806.html)
-
-_Relevance score: [7] - The procurement dispute between SBB and Siemens, accompanied by death threats to the CEO, underscores domestic industrial policy, security concerns and public debate over national vs. foreign contracts. Significant national relevance._
-## Personenschutz für SBB-Chef nach Morddrohungen
-
-[20 Minuten](https://www.20min.ch/story/morddrohungen-morddrohungen-gegen-sbb-chef-bodyguards-im-einsatz-103451859) • _Sonntag, 16. November 2025, 04:41 Uhr_
-
-Nach dem Siemens-Zuschlag erhielt SBB-CEO Vincent Ducrot anonyme Drohungen. Die SBB und das Fedpol reagieren mit Schutzmassnahmen.
-
-SBB-CEO Vincent Ducrot hat Morddrohungen erhalten, wie der «SonntagsBlick» berichtet. Anonyme Verfasser werfen ihm Landesverrat vor, da ein SBB-Grossauftrag an die deutsche Siemens AG vergeben wurde – und nicht an den Thurgauer Stadler Konzern.
-Ducro... [weiterlesen](https://www.20min.ch/story/morddrohungen-morddrohungen-gegen-sbb-chef-bodyguards-im-einsatz-103451859)
-
-_Relevance score: [6] - Threats against the head of Switzerland’s national railway highlight security, corporate governance, and the political fallout of a major procurement decision. Notable national impact._
+_Relevance score: [7] - Rising flu cases pose a public‑health risk nationwide, potentially straining healthcare and influencing policy, thus high relevance._
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Britische Regierung will Asylregeln drastisch verschärfen
+## Gigantischer US-Flugzeugträger in der Karibik angekommen
 
-[Watson](https://www.watson.ch/international/grossbritannien/812724453-britische-regierung-will-asylregeln-drastisch-verschaerfen) • _Sonntag, 16. November 2025, 06:21 Uhr_
+[blue News](https://www.bluewin.ch/de/news/international/kampf-gegen-drogen-us-flugzeugtraeger-in-der-karibik-2964945.html) • _Sonntag, 16. November 2025, 18:11 Uhr_
 
-Grossbritanniens sozialdemokratische Regierung will die Asylgesetze des Landes drastisch verschärfen.
+Das grösste Kriegsschiff der Welt ist in der Karibik angekommen. Die USA betonen, den Drogenschmuggel bekämpfen zu wollen. Doch Venezuela sieht in der Militärpräsenz eine Drohgebärde.
 
-Grossbritanniens sozialdemokratische Regierung will die Asylgesetze des Landes drastisch verschärfen.
-In einem Zeitungsinterview kündigte Innenministerin Shabana Mahmood eine Rede im Unterhaus des Parlaments am Montag an, bei der sie Reformpläne zur ... [weiterlesen](https://www.watson.ch/international/grossbritannien/812724453-britische-regierung-will-asylregeln-drastisch-verschaerfen)
+Das grösste Kriegsschiff der Welt ist in der Karibik angekommen. Die USA betonen, den Drogenschmuggel bekämpfen zu wollen. Doch Venezuela sieht in der Militärpräsenz eine Drohgebärde.
+Nach tödlichen US-Militärschlägen gegen angebliche Drogenschmuggle... [weiterlesen](https://www.bluewin.ch/de/news/international/kampf-gegen-drogen-us-flugzeugtraeger-in-der-karibik-2964945.html)
 
-_Relevance score: [5] - Major policy change in the UK’s asylum system. Important for global migration discourse but indirect relevance for Swiss audiences; moderate long‑term significance._
-## Grossbritannien plant deutliche Asyl-Verschärfungen
+_Relevance score: [5] - U.S. military deployment has geopolitical implications; while globally relevant, its direct impact on Switzerland is moderate._
+## Schnee im Flachland? Kaltfront senkt Schneefallgrenze in der Schweiz
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/nach-daenischem-vorbild-grossbritannien-plant-deutliche-asyl-verschaerfungen) • _Sonntag, 16. November 2025, 02:29 Uhr_
+[20 Minuten](https://www.20min.ch/story/schneefallgrenze-kaltfront-rollt-an-gibt-es-zum-wochenstart-erste-flocken-103452042) • _Sonntag, 16. November 2025, 18:28 Uhr_
 
-So sollen die Dauer des Flüchtlingsstatus verkürzt und Ausweisungen in sichere Herkunftsländer vereinfacht werden.
+Die Kaltfront bringt am Montag Regen und sinkende Temperaturen. Gibt es schon Schnee im Flachland oder bleibt es trocken?
 
-Grossbritannien will seine Migrationspolitik nach dem Vorbild Dänemarks grundlegend verschärfen.
-Unter anderem soll die Dauer des Flüchtlingsstatus von bisher 5 auf 2.5 Jahre verkürzt werden, wie das Innenministerium am Samstag mitteilte.
-Weiter müss... [weiterlesen](https://www.srf.ch/news/international/nach-daenischem-vorbild-grossbritannien-plant-deutliche-asyl-verschaerfungen)
+Nachdem diese Woche einige Gemeinden noch Rekord-Temperaturen für den November registriert hatten, ist es nun fürs Erste vorbei mit dem milden Wetter: Am Montag erreicht eine Kaltfront die Schweiz und bringt erstmal nassgraues Wetter mit sich.
+Wie Me... [weiterlesen](https://www.20min.ch/story/schneefallgrenze-kaltfront-rollt-an-gibt-es-zum-wochenstart-erste-flocken-103452042)
 
-_Relevance score: [5] - Another report on the UK’s tightening of asylum rules. Same assessment as the earlier British asylum story – moderate global relevance, low direct impact on Switzerland._
-## Die Schweiz schlägt Schweden 4:1
+_Relevance score: [4] - A cold front bringing snowfall to low‑lying areas can affect transport and local economies, giving it modest national relevance._
+## Leader Davos schlägt Zug - Lausanne schlägt ZSC im Penaltyschiessen
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/sport/fussball/mit-kitsch-kontinuitaet-und-klasse-der-schweizer-sieg-gegen-schweden-ist-ein-spiegelbild-dieser-wm-kampagne-ld.1912076) • _Sonntag, 16. November 2025, 03:38 Uhr_
+[Watson](https://www.watson.ch/sport/eishockey/650010878-leader-davos-schlaegt-zug-lausanne-schlaegt-zsc-im-penaltyschiessen) • _Sonntag, 16. November 2025, 18:40 Uhr_
 
-Wie immer seit 2006 wird sich das Nationalteam für die Fussball-Weltmeisterschaft qualifizieren. Beim 4:1 in Genf gegen Schweden steht auch Johan Manzambi im Fokus. Er ist ein Geschenk für den Schweizer Fussball.
+Der HC Davos findet nach der Niederlage am Freitag zum Siegen zurück. Die Bündner gewinnen souverän 5:1 gegen Zug.
 
-Am Ende wird es kitschig. Natürlich ist es Johan Manzambi, der in der Nachspielzeit das 4:1 für das Schweizer Nationalteam gegen Schweden erzielt. Manzambi, vor wenigen Wochen erst 20 Jahre alt geworden, ist Genfer, er verliess den lokalen Klub Serve... [weiterlesen](https://www.nzz.ch/sport/fussball/mit-kitsch-kontinuitaet-und-klasse-der-schweizer-sieg-gegen-schweden-ist-ein-spiegelbild-dieser-wm-kampagne-ld.1912076)
+Leader Davos fertigt Zug ab – Lausanne schlägt ZSC im Penaltyschiessen
+Der HC Davos findet nach der Niederlage am Freitag zum Siegen zurück. Die Bündner gewinnen souverän 5:1 gegen Zug.
+Davos – Zug 5:1
+Der HC Davos fliegt nicht mehr ganz so unantastb... [weiterlesen](https://www.watson.ch/sport/eishockey/650010878-leader-davos-schlaegt-zug-lausanne-schlaegt-zsc-im-penaltyschiessen)
 
-_Relevance score: [4] - Sporting result that secures World Cup qualification. Generates national pride but limited long‑term societal impact._
-## Samsung plant deutlich schlankeres Galaxy Z Flip 8
+_Relevance score: [3] - A Swiss National League hockey result is of interest to sports fans but has no broader economic, political or societal impact._
+## Davos schlägt Zug gleich mit 5:1
 
-[Allround-PC](https://www.allround-pc.com/news/samsung-plant-deutlich-schlankeres-galaxy-z-flip-8) • _Sonntag, 16. November 2025, 06:55 Uhr_
+[Blick](https://www.blick.ch/sport/eishockey/nl/national-league-hc-davos-ev-zug-16-11-2025-id21426086.html) • _Sonntag, 16. November 2025, 18:17 Uhr_
 
-Samsung möchte das Galaxy Z Flip 8 rund zehn Prozent dünner und leichter gestalten.
+Der HC Davos reagiert auf die Niederlage gegen Fribourg vom Freitag und fegt den EV Zug gleich mit 5:1 vom Feld. Es ist der zwölfte Sieg im zwölften Spiel vor heimischem Anhang.
 
-Samsung hat sein großes Foldable mit dem Galaxy Z Fold 7 spürbar verschlankt, beim diesjährigen Z Flip 7 fiel die Überarbeitung jedoch eher zurückhaltend aus – zumindest was die Bauweise betrifft. Trotz etwas dünnerem Gehäuse wirkt das aktuelle Klapp... [weiterlesen](https://www.allround-pc.com/news/samsung-plant-deutlich-schlankeres-galaxy-z-flip-8)
+Gian-Andri BaumgartnerRedaktor Sport
+Die Davoser Heimbilanz bleibt in dieser Saison makellos: Gegen Zug gibts für den National-League-Leader den zwöflten Sieg im zwölften Spiel vor heimischem Anhang – und dies gleich mit 5:1.
+Einen besonderen Sonntag... [weiterlesen](https://www.blick.ch/sport/eishockey/nl/national-league-hc-davos-ev-zug-16-11-2025-id21426086.html)
 
-_Relevance score: [3] - New consumer‑electronics product preview. Affects tech market but has limited societal or economic relevance for Switzerland or globally._
-## Polarlichter am Schweizer Himmel und weitere Fotos der Woche
+_Relevance score: [3] - Another Swiss hockey match report; limited to sports fans and lacks wider significance._
+## 19-Jähriger rast mit 204 km/h über die A12 bei Bösingen
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/gesellschaft/bilder-der-woche-polarlichter-am-schweizer-himmel-und-weitere-fotos-der-woche) • _Sonntag, 16. November 2025, 06:57 Uhr_
+[20 Minuten](https://www.20min.ch/story/kanton-freiburg-19-jaehriger-rast-mit-204-kmh-ueber-die-autobahn-103452235) • _Sonntag, 16. November 2025, 17:51 Uhr_
 
-Seltene Lichtspektakel, Käse-WM in Bern und 374 Dudelsäcke: Das sind die Bilder der Woche.
+Ein 19-jähriger Autofahrer wurde auf der A12 mit 204 km/h geblitzt. Die Polizei verhängte ein Fahrverbot und beschlagnahmte sein Auto.
 
-Anfang Bildergalerie
-Bildergalerie überspringen
-Bild 1 von 4. Seltenes Spektakel: In der Nacht auf Mittwoch konnte man in unseren Breitengraden Nordlichter im Nachthimmel sehen. Hier in Baltersweil am 12.11.2025. Bildquelle: Jürg Alean.
-1 / 4
-Bild 2 ... [weiterlesen](https://www.srf.ch/news/gesellschaft/bilder-der-woche-polarlichter-am-schweizer-himmel-und-weitere-fotos-der-woche)
+Ein 19-jähriger Autofahrer ist am Samstag kurz vor 13 Uhr auf der A12 bei Bösingen mit einer Nettogeschwindigkeit von 204 Kilometern pro Stunde gemessen worden. Der Raser war mit vier Passagieren unterwegs.
+Die Kantonspolizei Freiburg hielt das Auto ... [weiterlesen](https://www.20min.ch/story/kanton-freiburg-19-jaehriger-rast-mit-204-kmh-ueber-die-autobahn-103452235)
 
-_Relevance score: [2] - A photo‑gallery of aurora borealis and other human‑interest images. Primarily cultural/entertainment, little structural or civic impact._
-## Greene berichtet von Drohungen aus Trump-Lager
+_Relevance score: [3] - A high‑speed traffic violation highlights road safety concerns locally but does not affect national policy or larger trends._
+## Kulturnews in Kurzform - Haftbefehl gibt Comeback-Konzert
 
-[20 Min](https://www.20min.ch/story/usa-greene-berichtet-von-drohungen-aus-trump-lager-103451854) • _Sonntag, 16. November 2025, 00:39 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-haftbefehl-gibt-comeback-konzert) • _Sonntag, 16. November 2025, 18:23 Uhr_
 
-Nach ihrer Kritik in der Epstein-Affäre lässt US-Präsident Donald Trump die Republikanerin Marjorie Taylor Greene fallen. Diese berichtet von Drohungen.
+Der Rapper zeigt sich am ersten Konzert seit der kontroversen Netflix-Doku deutlich schlanker und mit verdeckter Nase.
 
-Die republikanische US-Abgeordnete Marjorie Taylor Greene wird nach den Attacken von Präsident Donald Trump im Streit um die Ermittlungsakten zu dem verstorbenen Sexualstraftäter Jeffrey Epstein nach eigenen Angaben massiv bedroht. Die Rechtsaussen-P... [weiterlesen](https://www.20min.ch/story/usa-greene-berichtet-von-drohungen-aus-trump-lager-103451854)
+Autor: Am Ticker ist SRF
+Haftbefehl gibt Comeback-Konzert: Der Rapper zeigt sich am ersten Konzert seit der kontroversen Netflix-Doku deutlich schlanker und mit verdeckter Nase.
+Hark Bohm gilt als einer der profiliertesten und engagiertesten deutsche... [weiterlesen](https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-haftbefehl-gibt-comeback-konzert)
 
-_Relevance score: [2] - US political drama concerning a congresswoman’s safety. Little relevance to Swiss civic or economic matters._
-## "Ich bin clean": Rapper Haftbefehl irritiert mit weiterem Kurzauftritt
+_Relevance score: [2] - A rap concert comeback is entertainment‑focused and does not influence civic or structural matters._
+## Vitamin D: Alles, was du zu Mangel und Einnahme wissen willst
 
-[Watson](https://www.watson.ch/international/people-news/622726340-ich-bin-clean-rapper-haftbefehl-irritiert-mit-weiterem-kurzauftritt) • _Sonntag, 16. November 2025, 06:17 Uhr_
+[Watson](https://www.watson.ch/wissen/leben/660215641-vitamin-d-alles-was-du-zu-mangel-und-einnahme-wissen-willst) • _Sonntag, 16. November 2025, 16:55 Uhr_
 
-Deutsch-Rapper Haftbefehl hat in der Nacht erneut auf der Bühne gestanden – sein Clubauftritt im deutschen Giessen war nach ein paar Liedern wieder vorbei.
+Vitamin D: Wundermittel oder Hype? Wir haben uns über Funktion, Wirkung, Mangel und Aufnahme informiert. Hier erfährst du das Wichtigste zum Sonnenvitamin.
 
-«Ich bin clean»: Haftbefehl irritiert mit weiterem Kurzauftritt
-Deutsch-Rapper Haftbefehl hat in der Nacht erneut auf der Bühne gestanden – sein Clubauftritt im deutschen Giessen war allerdings nach ein paar Liedern schon wieder vorbei.
-Das zweite Ko... [weiterlesen](https://www.watson.ch/international/people-news/622726340-ich-bin-clean-rapper-haftbefehl-irritiert-mit-weiterem-kurzauftritt)
+Die Tage werden kürzer: Warum die Einnahme von Vitamin D den meisten trotzdem nicht hilft
+Kaum ein medizinisches Thema wird so kontrovers diskutiert wie Vitamin D: Die einen sehen es als Wundermittel, das sogar Krebs heilen kann, andere haben Vitamin... [weiterlesen](https://www.watson.ch/wissen/leben/660215641-vitamin-d-alles-was-du-zu-mangel-und-einnahme-wissen-willst)
 
-_Relevance score: [1] - Entertainment news about a German rapper’s brief performance. No civic, economic or structural relevance._
+_Relevance score: [2] - Health‑information article, useful for personal knowledge but not a news event with measurable societal effect._
+## Warum Dianas skandalöses TV-Interview bis heute nachhallt
+
+[blue News](https://www.bluewin.ch/de/entertainment/warum-dianas-skandaloeses-tv-interview-bis-heute-nachhallt-2964453.html) • _Sonntag, 16. November 2025, 16:53 Uhr_
+
+Gefälschte Dokumente, intime Details und ein Beben für die britische Monarchie: Das Gespräch von Prinzessin Diana mit dem TV-Sender BBC bleibt bis heute ein Wendepunkt für das britische Königshaus und Medien.
+
+Gefälschte Dokumente, intime Details und ein Beben für die britische Monarchie: Das Gespräch von Prinzessin Diana mit dem TV-Sender BBC bleibt bis heute ein Wendepunkt für das britische Königshaus und Medien.
+Die jahrelange Liebschaft von Prinz Charl... [weiterlesen](https://www.bluewin.ch/de/entertainment/warum-dianas-skandaloeses-tv-interview-bis-heute-nachhallt-2964453.html)
+
+_Relevance score: [2] - A retrospective on a British royal interview is of cultural‑historical interest but lacks direct relevance to Swiss or global structural issues._
+## Rematch: Physische Elite Edition jetzt erhältlich - diese Extras sind dabei
+
+[Eurogamer.de](https://www.eurogamer.de/rematch-physische-elite-edition-jetzt-erhaltlich-diese-extras-sind-dabei) • _Sonntag, 16. November 2025, 17:00 Uhr_
+
+Ab sofort könnt ihr euch von Rematch auch eine physische Elite Edition kaufen.
+
+Rematch: Elite Edition von Sloclap jetzt für PlayStation 5, Xbox Series X und PC erhältlich.
+Dabei handelt es sich um eine physische Version des Online-Fußballspiels, die für 39,99 Euro erhältlich ist.
+Rematch fürs Regal
+Nach einem "enorm erfolgreich... [weiterlesen](https://www.eurogamer.de/rematch-physische-elite-edition-jetzt-erhaltlich-diese-extras-sind-dabei)
+
+_Relevance score: [1] - A video‑game release is consumer entertainment; it carries negligible civic or structural impact._
 
 </details>
