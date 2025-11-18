@@ -1,109 +1,104 @@
-_Aktualisiert: Montag, 17. November 2025, 19:21 Uhr_
+_Aktualisiert: Dienstag, 18. November 2025, 07:22 Uhr_
 
-## Experten warnen: KI-Diagnosen müssen immer menschlich überprüft werden
+## Grossbritannien will Asylsystem verschärfen
 
-[20 Minuten](https://www.20min.ch/story/experteneinschaetzung-ja-ki-wird-eingesetzt-darf-aber-nie-ungeprueft-bleiben-103450993) • _Montag, 17. November 2025, 05:57 Uhr_
+[Watson](https://www.watson.ch/international/grossbritannien/780685902-grossbritannien-will-asylsystem-verschaerfen) • _Montag, 17. November 2025, 19:17 Uhr_
 
-Der Fall von Alex Liefermann zeigt, wie gefährlich KI-Fehldiagnosen sein können. Experten fordern dringend menschliche Kontrolle.
+Unter dem Druck der rechtspopulistischen Gegner hat Grossbritanniens sozialdemokratische Regierung eine drastische Verschärfung der Asylregeln angekündigt.
 
-Der Fall von Alex Liefermann zeigt, wie schnell eine reine KI-radiologische Fehldiagnose weitreichende Folgen haben kann. Wie Liefermann die dramatischen Folgen der Fehldiagnose erlebte, liest du hier. Für Prof. Dr. Axel S. Merseburger, Direktor der ... [weiterlesen](https://www.20min.ch/story/experteneinschaetzung-ja-ki-wird-eingesetzt-darf-aber-nie-ungeprueft-bleiben-103450993)
+Grossbritannien will 20 Jahre bis Aufenthaltsrecht warten und Wertgegenstände einbehalten
+Unter dem Druck der rechtspopulistischen Gegner hat Grossbritanniens sozialdemokratische Regierung eine drastische Verschärfung der Asylregeln angekündigt. Die ... [weiterlesen](https://www.watson.ch/international/grossbritannien/780685902-grossbritannien-will-asylsystem-verschaerfen)
 
-_Relevance score: [8] - Highlights a critical issue in healthcare policy—potential risks of unchecked AI diagnostics. The topic has long‑term implications for patient safety, medical regulations, and public trust._
-## Fahrleitungsstörung sorgt für Puff Pendler-Chaos in Bern – zahlreiche Züge fallen aus
+_Relevance score: [7] - A major change to the UK’s asylum regime affects migration flows, international human‑rights norms and EU‑UK relations. While primarily a domestic policy shift, the UK's global influence makes it structurally relevant worldwide._
+## Sabotage in Polen: Wichtige Eisenbahnlinie mehrfach beschädigt
 
-[blue News](https://www.bluewin.ch/de/news/schweiz/pendler-chaos-in-bern-zahlreiche-zuege-fallen-aus-2965309.html) • _Montag, 17. November 2025, 07:09 Uhr_
+[20 Minuten](https://www.20min.ch/story/polen-explosion-anschlag-auf-bahngleis-sollte-vermutlich-zug-sprengen-103452696) • _Montag, 17. November 2025, 18:38 Uhr_
 
-In Bern ist der Zugverkehr am Montagmorgen gestört. Eine Fahrleitungsstörung legt Teile des Bahnhofs lahm – Reisende müssen auf mehreren Linien mit Verspätungen, Ausfällen und Umleitungen rechnen.
+In Polen gab es einen Anschlag auf die Strategisch wichtige Eisenbahnlinie Warschau-Lublin. Sie ist wichtig für die Ukrainehilfe.
 
-In Bern ist der Zugverkehr am Montagmorgen gestört. Eine Fahrleitungsstörung legt Teile des Bahnhofs lahm – Reisende müssen auf mehreren Linien mit Verspätungen, Ausfällen und Umleitungen rechnen.
-Der Bahnverkehr am Bahnhof Bern ist am Montagmorgen b... [weiterlesen](https://www.bluewin.ch/de/news/schweiz/pendler-chaos-in-bern-zahlreiche-zuege-fallen-aus-2965309.html)
+In Polen haben Unbekannte einen Sprengstoffanschlag auf die Linie Warschau–Lublin verübt. Die Eisenbahnlinie ist strategisch von grosser Bedeutung, denn Lublin ist der wichtigste Umschlagplatz für Waffenhilfen für die Ukraine. Die jetzt betroffene St... [weiterlesen](https://www.20min.ch/story/polen-explosion-anschlag-auf-bahngleis-sollte-vermutlich-zug-sprengen-103452696)
 
-_Relevance score: [6] - A major disruption of the Bern railway network affects daily commuters and public transport reliability. The effect is short‑term but directly impacts a large number of citizens and the capital’s mobility._
+_Relevance score: [7] - The sabotage of the Warsaw‑Lublin rail line threatens a key logistical corridor for Ukrainian aid, with repercussions for European security cooperation and the war effort in Ukraine._
+## Mutmasslicher Anschlag auf polnische Bahnstrecke: Das ist bekannt
+
+[Blick](https://www.blick.ch/ausland/mutmasslicher-anschlag-auf-polnische-bahnstrecke-im-auftrag-putins-eine-weitere-rote-linie-die-russland-ueberschritten-hat-id21431018.html) • _Montag, 17. November 2025, 18:03 Uhr_
+
+Noch ist unklar, wer hinter der Sprengstoffexplosion auf einer wichtigen Bahnstrecke in Polen steckt. Die polnische Regierung spricht von einem Sabotageakt. Ein Experte will derweil einen Verantwortlichen ausgemacht haben. Das ist bereits zu den Vorfällen bekannt.
+
+Sandra MarschnerRedaktorin News-Desk
+In Polen laufen die Ermittlungen wegen eines mutmasslichen Sabotageaktes auf Hochtouren. Am Sonntag kam es auf der Bahnstrecke zwischen Warschau und Lublin zu drei Vorfällen. Dabei wurden Teile der Strecke mit Spr... [weiterlesen](https://www.blick.ch/ausland/mutmasslicher-anschlag-auf-polnische-bahnstrecke-im-auftrag-putins-eine-weitere-rote-linie-die-russland-ueberschritten-hat-id21431018.html)
+
+_Relevance score: [6] - A suspected sabotage of a Polish rail line, especially one linking to Ukraine aid, raises security concerns in Europe and may affect supply chains, though details remain unclear._
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Wintereinbruch in der Schweiz: Schnee bis auf 500 Meter und Glättegefahr
+## WM-Quali-Abschluss im Kosovo - Die Nati will mit Dominanz und Effizienz das WM-Ticket lösen
 
-[20 Minuten](https://www.20min.ch/story/wetter-schweiz-wintereinbruch-bund-warnt-vor-schnee-und-glatten-strassen-103452346) • _Montag, 17. November 2025, 06:46 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/fussball/nationalmannschaft/wm-quali-abschluss-im-kosovo-die-nati-will-mit-dominanz-und-effizienz-das-wm-ticket-loesen) • _Montag, 17. November 2025, 18:37 Uhr_
 
-Die Schneefallgrenze sinkt am Montag auf 500 Meter. Der Bund warnt vor glatten Strassen in den Alpen und Voralpen.
+Die Schweiz steht unmittelbar vor einer weiteren WM-Teilnahme. In Pristina kann eigentlich fast nichts mehr schiefgehen.
 
-Am Montag erreicht eine Kaltfront die Schweiz. Während am Morgen die Schneefallgrenze noch bei 1800 Metern liegt, sinkt diese im Verlauf des Tages schnell ab. Kühler Polarluft sorgt dafür, dass gegen Abend sogar Schneeflocken auf bis 500 Meter möglic... [weiterlesen](https://www.20min.ch/story/wetter-schweiz-wintereinbruch-bund-warnt-vor-schnee-und-glatten-strassen-103452346)
+Viel fehlt nicht mehr und die Schweizer Nati fährt zum 6. Mal nacheinander an eine Weltmeisterschaft. Im letzten WM-Quali-Spiel im Kosovo müsste schon ein Fussballwunder geschehen, damit die WM 2026 in den USA, Kanada und Mexiko womöglich ohne die Sc... [weiterlesen](https://www.srf.ch/sport/fussball/nationalmannschaft/wm-quali-abschluss-im-kosovo-die-nati-will-mit-dominanz-und-effizienz-das-wm-ticket-loesen)
 
-_Relevance score: [4] - A severe weather warning that lowers the snow line and creates hazardous road conditions affects safety and transport across a wide region. Impact is notable but primarily short‑term._
-## Beachvolleyball-WM in Adelaide - Zwei weitere Schweizer Duos weiter - "Team Zouk" makellos
+_Relevance score: [4] - National football qualification is a matter of public interest and pride but does not alter societal structures or policy; its relevance is limited to sports culture._
+## Kosovos "12. Mann": Die Fans - Hajdari: "Will nicht wissen, was gegen die Schweiz abgehen wird"
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/mehr-sport/beachvolleyball/beachvolleyball-wm-in-adelaide-zwei-weitere-schweizer-duos-weiter-team-zouk-makellos) • _Montag, 17. November 2025, 07:11 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/fussball/nationalmannschaft/kosovos-12-mann-die-fans-hajdari-will-nicht-wissen-was-gegen-die-schweiz-abgehen-wird) • _Montag, 17. November 2025, 18:07 Uhr_
 
-Yves Haussener und Julian Friedli stehen in Australien als zweites Schweizer Männer-Duo in den WM-Sechzehntelfinals.
+Am Dienstag empfängt der Kosovo die Schweiz. Die leise Hoffnung auf ein Wunder wird gestärkt vom Rückhalt der Fans.
 
-Yves Haussener und Julian Friedli beenden die Vorrunde in ihrer Gruppe auf Platz 2. Der Basler und der Aargauer bezwangen in ihrem letzten Gruppenspiel die Aussenseiter Damian Gomez/Eblis Veranes aus Kuba sicher 21:13, 21:18 und zeigten damit die erh... [weiterlesen](https://www.srf.ch/sport/mehr-sport/beachvolleyball/beachvolleyball-wm-in-adelaide-zwei-weitere-schweizer-duos-weiter-team-zouk-makellos)
+«Es kann nicht mehr gross etwas passieren, wenn man realistisch ist», muss auch Albian Hajdari eingestehen. Der Verteidiger, der sich jüngst auf Kosten der Schweiz für den Kosovo entschieden hat, spricht den Kampf um das WM-Ticket zwischen den beiden... [weiterlesen](https://www.srf.ch/sport/fussball/nationalmannschaft/kosovos-12-mann-die-fans-hajdari-will-nicht-wissen-was-gegen-die-schweiz-abgehen-wird)
 
-_Relevance score: [3] - A Swiss beach‑volleyball duo reaching the World Championship knock‑out stage is a positive sports achievement but has limited structural or civic impact on Swiss society._
-## Auch Haussener/Friedli an der Beachvolley
+_Relevance score: [3] - Pre‑match commentary about a football match has minor relevance beyond fan sentiment and does not impact broader civic or economic matters._
+## Istanbul: Polizei nimmt 11 Verdächtige nach Vergiftung deutscher Familie fest
 
-[Blick](https://www.blick.ch/sport/beachvolley/zwei-von-drei-maenner-teams-weiter-naechstes-schweizer-beachvolley-duo-in-der-k-o-runde-id21428123.html) • _Montag, 17. November 2025, 06:56 Uhr_
+[20 Minuten](https://www.20min.ch/story/istanbul-deutsche-familie-vergiftet-schon-11-festnahmen-103452725) • _Montag, 17. November 2025, 17:42 Uhr_
 
-Nach Marco Krattiger und Leo Dillier hat sich auch das Beachvolleyball-Duo Yves Haussener und Julian Friedli für die WM-Sechzehntelfinals qualifiziert. Ein drittes TSchweizer Team könnte noch dazukommen.
+Nach dem Tod einer deutschen Mutter und ihrer Kinder in Istanbul vermuten die Behörden Pestizide als Ursache. Der Vater kämpft um sein Leben.
+
+Der tragische Vergiftungsfall in Istanbul hat ein weiteres Todesopfer gefordert. Nachdem bereits die Mutter und zwei Kinder einer deutsch-türkischen Familie an den Folgen der Vergiftung ums Leben gekommen waren, sei nun auch der Vater im Spital verst... [weiterlesen](https://www.20min.ch/story/istanbul-deutsche-familie-vergiftet-schon-11-festnahmen-103452725)
+
+_Relevance score: [3] - A criminal case involving a German‑Turkish family is serious but largely confined to Turkish jurisdiction and does not directly affect Swiss or global governance._
+## Heimberg BE: Polizist unvermittelt angegriffen
+
+[Blick](https://www.blick.ch/schweiz/bern/von-mann-angegriffen-polizist-bei-einsatz-in-heimberg-be-verletzt-id21431196.html) • _Montag, 17. November 2025, 18:48 Uhr_
+
+In Heimberg wurde ein Berner Kantonspolizist bei einem nächtlichen Einsatz in einer Wohnung tätlich angegriffen. Der Beamte musste ins Spital gebracht werden. Der Angreifer wurde festgenommen.
 
 Keystone-SDADie Schweizer Nachrichtenagentur
-Yves Haussener und Julian Friedli haben an der WM in Adelaide als zweites Schweizer Männer-Duo den Platz in den Sechzehntelfinals auf sicher. Sie beenden die Vorrunde in ihrer Gruppe auf Platz 2.
-Der Basle... [weiterlesen](https://www.blick.ch/sport/beachvolley/zwei-von-drei-maenner-teams-weiter-naechstes-schweizer-beachvolley-duo-in-der-k-o-runde-id21428123.html)
+Ein Berner Kantonspolizist ist in Heimberg in der Nacht auf Montag bei einem Einsatz in einer Wohnung verletzt worden. Er musste ins Spital gebracht werden.
+Die Kantonspolizei habe kurz vor ein Uhr nachts ... [weiterlesen](https://www.blick.ch/schweiz/bern/von-mann-angegriffen-polizist-bei-einsatz-in-heimberg-be-verletzt-id21431196.html)
 
-_Relevance score: [3] - Similar to the first item – another Swiss beach‑volleyball team advancing in the World Championships. Not a structural event, limited to sports fans._
-## Der Gstaader Winter startet - in Zürich!
+_Relevance score: [2] - A local assault on a cantonal police officer is a criminal incident with limited broader impact on Swiss society or governance._
+## Kulturnews in Kurzform - Die Labubus sollen ins Kino kommen
 
-[gaultmillau.ch](https://www.gaultmillau.ch/starchefs/der-gstaader-winter-startet-in-zurich-880973) • _Montag, 17. November 2025, 06:53 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-die-labubus-sollen-ins-kino-kommen) • _Montag, 17. November 2025, 17:46 Uhr_
 
-Martin Göschel als Botschafter für den Skiort Gstaad: Der 18-Punkter kochte mit Stefan Jäckel im «Storchen».
+Sony will aus dem viralen Plüschtier eine Filmfigur machen. Ob animiert oder als Realfilm, ist noch offen.
 
-Mit dem Auto in der City. Martin Göschels Mission? Den «Gstaader Winter iilüüte» und bei den Zürcherinnen und Zürchern einen bleibenden Eindruck hinterlassen! Darum kochte der Starchef aus Gstaad («The Alpina», 18 Punkte) zusammen mit seinem Zürcher ... [weiterlesen](https://www.gaultmillau.ch/starchefs/der-gstaader-winter-startet-in-zurich-880973)
+Autor: Am Ticker ist Julian Mintert
+Erst Spielzeug, dann Modeaccessoire – jetzt Filmfigur? Die viralen Labubu-Plüschtiere sollen zur Hauptfigur eines neuen Kinoprojekts werden. Noch offen ist, ob es ein Animations- oder Realfilm werden soll.
+Nach 100... [weiterlesen](https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-die-labubus-sollen-ins-kino-kommen)
 
-_Relevance score: [2] - A culinary promotion linking Gstaad and Zurich is a tourism‑marketing piece. It has modest economic relevance but no substantial long‑term or civic impact._
-## Norwegen fertigt Italien ab und fährt an die WM
+_Relevance score: [1] - Announcement of a film project based on a viral toy is entertainment‑focused and has no substantive impact on societal structures or policy._
+## Ukrainer (30) donnert mit 195 km/h durch Adliswil ZH
 
-[Watson](https://www.watson.ch/sport/fussball/903634364-norwegen-fertigt-italien-ab-und-faehrt-an-die-wm) • _Montag, 17. November 2025, 06:32 Uhr_
+[Blick](https://www.blick.ch/schweiz/zuerich/billett-sofort-weg-ukrainer-30-donnert-mit-195-km-h-durchs-sihltal-id21430302.html) • _Montag, 17. November 2025, 17:34 Uhr_
 
-Norwegen gewinnt gegen Italien mit 4:1 und fährt an die WM. Beim Sieg in Mailand erzielte Erling Haaland einen Doppelpack.
+Die Kantonspolizei Zürich hat in der Nacht auf Samstag in Adliswil einen Autofahrer erwischt, der mit rund 195 km/h bei erlaubten 80 km/h unterwegs war. Sein Billett musste der Ukrainer umgehend abgeben.
 
-Norwegen fertigt Italien ab und fährt an die WM – Azzurri müssen in die Playoffs
-Es hätte ja mit dem Teufel zugehen müssen, hätte Italien in der Gruppe I am letzten Spieltag noch den Gruppensieg vor Norwegen geholt. Schliesslich gingen die Skandinavi... [weiterlesen](https://www.watson.ch/sport/fussball/903634364-norwegen-fertigt-italien-ab-und-faehrt-an-die-wm)
+Janine EnderliRedaktorin News
+Kurz nach drei Uhr in der Nacht auf Samstag fiel einer Patrouille der Kantonspolizei Zürich in Adliswil ein Fahrzeug aufgrund dessen Fahrweise auf: Als das Auto von der Albisstrasse in die Sihltalstrasse abbog, beschleun... [weiterlesen](https://www.blick.ch/schweiz/zuerich/billett-sofort-weg-ukrainer-30-donnert-mit-195-km-h-durchs-sihltal-id21430302.html)
 
-_Relevance score: [2] - An international football result that does not involve Switzerland; while it may be of interest to sports fans, its relevance to Swiss society is minimal._
-## Lossless Scaling im Steam Store mit satten 50% Rabatt zur Black Week
+_Relevance score: [1] - A traffic violation by an individual driver is a localized safety incident with minimal broader relevance._
+## Adliswil: Raser im Sihltal erwischt
 
-[PocketPC.ch](https://www.pocketpc.ch/magazin/news/lossless-scaling-black-week-103034/) • _Montag, 17. November 2025, 06:38 Uhr_
+[zh.ch](https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2025/11/251117f_adliswil_raser.html) • _Montag, 17. November 2025, 17:17 Uhr_
 
-Lossless Scaling ist zur Black Week massiv reduziert! Ein "Must-Have"-Programm vor allem für PC-Gaming-Handheld-Fans.
+Die Kantonspolizei Zürich hat in der Nacht auf Samstag (15.11.2025) in Adliswil einen Autofahrer erwischt, der mit rund 195 km/h bei erlaubten 80 km/h unterwegs war.
 
-Eines der beliebtesten Programme (nein, kein Spiel) auf Steam ist definitiv die kleine Applikation “Lossless Scaling”. Diese ist aktuell zum Black November, genauer gesagt zur Black Week, richtig stark reduziert und sollte in keiner Gaming-Bibliothek... [weiterlesen](https://www.pocketpc.ch/magazin/news/lossless-scaling-black-week-103034/)
+Kurz nach 3 Uhr in der Nacht fiel einer Patrouille der Kantonspolizei Zürich in Adliswil ein Fahrzeug aufgrund dessen Fahrweise auf. Als das Fahrzeug von der Albisstrasse in die Sihltalstrasse abbog, beschleunigte der Autofahrer massiv bis zu einer S... [weiterlesen](https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2025/11/251117f_adliswil_raser.html)
 
-_Relevance score: [1] - A software discount for gamers is a commercial promotion with negligible relevance to broader societal or economic issues._
-## Krimiparodie "Tschugger" kommt zurück
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/kultur/film-serien/kultcops-aus-dem-wallis-krimiparodie-tschugger-kommt-zurueck-als-film) • _Montag, 17. November 2025, 06:35 Uhr_
-
-«Bax» und Co. gehen erneut auf Verbrecherjagd: Die «Tschugger»-Reihe wird fortgesetzt, diesmal als Kinofilm.
-
-Die «Tschugger»-Reihe wird fortgesetzt, diesmal als Kinofilm.
-David Constantin soll als «Bax» auch wieder dabei sein.
-Die Produktionsfirma Shining Nice und SRF als Koproduzentin sind an den Vorbereitungen.
-Gedreht werden soll im kommenden Jahr.
-David... [weiterlesen](https://www.srf.ch/kultur/film-serien/kultcops-aus-dem-wallis-krimiparodie-tschugger-kommt-zurueck-als-film)
-
-_Relevance score: [1] - A comedy‑crime film announcement is entertainment‑focused and does not affect public policy, economy, or civic life._
-## Krimiparodie "Tschugger" kommt zurück
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/kultur/film-serien/kultcops-aus-dem-wallis-krimiparodie-tschugger-kommt-zurueck-als-kinofilm) • _Montag, 17. November 2025, 06:31 Uhr_
-
-«Bax» und Co. gehen erneut auf Verbrecherjagd: Die «Tschugger»-Reihe wird fortgesetzt, diesmal als Kinofilm.
-
-Die «Tschugger»-Reihe wird fortgesetzt, diesmal als Kinofilm.
-David Constantin soll als «Bax» auch wieder dabei sein.
-Die Produktionsfirma Shining Nice und SRF als Koproduzentin sind an den Vorbereitungen.
-Gedreht werden soll im kommenden Jahr.
-David... [weiterlesen](https://www.srf.ch/kultur/film-serien/kultcops-aus-dem-wallis-krimiparodie-tschugger-kommt-zurueck-als-kinofilm)
-
-_Relevance score: [1] - Duplicate of the earlier entertainment piece; still low relevance._
+_Relevance score: [1] - Same as the previous item – a local speeding case, limited to law‑enforcement action without wider significance._
 
 </details>
