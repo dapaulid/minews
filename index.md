@@ -1,104 +1,103 @@
-_Aktualisiert: Dienstag, 18. November 2025, 07:22 Uhr_
+_Aktualisiert: Dienstag, 18. November 2025, 19:22 Uhr_
 
-## Grossbritannien will Asylsystem verschärfen
+## Neubauverbot für AKWs in der Schweiz: Die Folgen einer Aufhebung
 
-[Watson](https://www.watson.ch/international/grossbritannien/780685902-grossbritannien-will-asylsystem-verschaerfen) • _Montag, 17. November 2025, 19:17 Uhr_
+[Watson](https://www.watson.ch/schweiz/energie/143558312-neubauverbot-fuer-akws-in-der-schweiz-die-folgen-einer-aufhebung) • _Dienstag, 18. November 2025, 07:00 Uhr_
 
-Unter dem Druck der rechtspopulistischen Gegner hat Grossbritanniens sozialdemokratische Regierung eine drastische Verschärfung der Asylregeln angekündigt.
+Eine Aufhebung des AKW-Neubauverbots verzögert die Energiewende. Schon die Aussicht auf ein neues AKW bremst Investitionen und verunmöglicht die Ziele bei den erneuerbaren Energien.
 
-Grossbritannien will 20 Jahre bis Aufenthaltsrecht warten und Wertgegenstände einbehalten
-Unter dem Druck der rechtspopulistischen Gegner hat Grossbritanniens sozialdemokratische Regierung eine drastische Verschärfung der Asylregeln angekündigt. Die ... [weiterlesen](https://www.watson.ch/international/grossbritannien/780685902-grossbritannien-will-asylsystem-verschaerfen)
+Warum sich Atomkraft und erneuerbare Energien nicht vertragen
+Eine Aufhebung des AKW-Neubauverbots verzögert die Energiewende. Allein schon die vage Aussicht auf ein neues Atomkraftwerk bremst Investitionen und verunmöglicht die Ausbauziele bei den e... [weiterlesen](https://www.watson.ch/schweiz/energie/143558312-neubauverbot-fuer-akws-in-der-schweiz-die-folgen-einer-aufhebung)
 
-_Relevance score: [7] - A major change to the UK’s asylum regime affects migration flows, international human‑rights norms and EU‑UK relations. While primarily a domestic policy shift, the UK's global influence makes it structurally relevant worldwide._
-## Sabotage in Polen: Wichtige Eisenbahnlinie mehrfach beschädigt
+_Relevance score: [8] - Potential reversal of Switzerland’s nuclear‑new‑build ban directly influences the national energy transition, investment climate and climate‑policy targets – a major structural issue._
+## Wohnungsknappheit in der Schweiz: Staatliche Regulierung verschärft laut Studie das Problem
 
-[20 Minuten](https://www.20min.ch/story/polen-explosion-anschlag-auf-bahngleis-sollte-vermutlich-zug-sprengen-103452696) • _Montag, 17. November 2025, 18:38 Uhr_
+[20 Min](https://www.20min.ch/story/studie-zeigt-regulierung-fuehrt-zu-wohnungsknappheit-und-hohen-mieten-103452667) • _Dienstag, 18. November 2025, 04:33 Uhr_
 
-In Polen gab es einen Anschlag auf die Strategisch wichtige Eisenbahnlinie Warschau-Lublin. Sie ist wichtig für die Ukrainehilfe.
+Eine neue Studie belegt, dass staatliche Eingriffe in den Wohnungsmarkt die Mieten erhöhen und das Angebot verringern.
 
-In Polen haben Unbekannte einen Sprengstoffanschlag auf die Linie Warschau–Lublin verübt. Die Eisenbahnlinie ist strategisch von grosser Bedeutung, denn Lublin ist der wichtigste Umschlagplatz für Waffenhilfen für die Ukraine. Die jetzt betroffene St... [weiterlesen](https://www.20min.ch/story/polen-explosion-anschlag-auf-bahngleis-sollte-vermutlich-zug-sprengen-103452696)
+Wohnen ist teuer geworden. In der Schweiz gibt es so wenige Wohnungen wie seit Jahrzehnten nicht mehr, die Mietpreise steigen. Während die Politik sich darüber streitet, mit welchen Massnahmen die Wohnungskrise entschärft werden soll, hat eine neue S... [weiterlesen](https://www.20min.ch/story/studie-zeigt-regulierung-fuehrt-zu-wohnungsknappheit-und-hohen-mieten-103452667)
 
-_Relevance score: [7] - The sabotage of the Warsaw‑Lublin rail line threatens a key logistical corridor for Ukrainian aid, with repercussions for European security cooperation and the war effort in Ukraine._
-## Mutmasslicher Anschlag auf polnische Bahnstrecke: Das ist bekannt
+_Relevance score: [8] - Study linking housing policy to rising rents and supply shortages touches on a key national socioeconomic challenge, affecting many citizens and policy debates._
+## Mobilisierung von Reservisten zum Schutz gegen Drohnenangriffe
 
-[Blick](https://www.blick.ch/ausland/mutmasslicher-anschlag-auf-polnische-bahnstrecke-im-auftrag-putins-eine-weitere-rote-linie-die-russland-ueberschritten-hat-id21431018.html) • _Montag, 17. November 2025, 18:03 Uhr_
+[NZZ](https://www.nzz.ch/international/russland-mobilisierung-von-reservisten-zum-schutz-gegen-drohnenangriffe-ld.1911880) • _Dienstag, 18. November 2025, 05:30 Uhr_
 
-Noch ist unklar, wer hinter der Sprengstoffexplosion auf einer wichtigen Bahnstrecke in Polen steckt. Die polnische Regierung spricht von einem Sabotageakt. Ein Experte will derweil einen Verantwortlichen ausgemacht haben. Das ist bereits zu den Vorfällen bekannt.
+Die ukrainischen Drohnen treffen die Erdöl- und die Rüstungsindustrie. Reservisten sollen nun Raffinerien schützen
 
-Sandra MarschnerRedaktorin News-Desk
-In Polen laufen die Ermittlungen wegen eines mutmasslichen Sabotageaktes auf Hochtouren. Am Sonntag kam es auf der Bahnstrecke zwischen Warschau und Lublin zu drei Vorfällen. Dabei wurden Teile der Strecke mit Spr... [weiterlesen](https://www.blick.ch/ausland/mutmasslicher-anschlag-auf-polnische-bahnstrecke-im-auftrag-putins-eine-weitere-rote-linie-die-russland-ueberschritten-hat-id21431018.html)
+Ende Oktober ging ein Bild um die Welt. Es zeigt vor dem Hintergrund der Kreml-Mauern in Moskau einen Pick-up mit aufgebautem Maschinengewehr, das in den Nachthimmel zielt. Zwei Uniformierte stehen daneben. Die Einrichtung diente der Drohnenabwehr. D... [weiterlesen](https://www.nzz.ch/international/russland-mobilisierung-von-reservisten-zum-schutz-gegen-drohnenangriffe-ld.1911880)
 
-_Relevance score: [6] - A suspected sabotage of a Polish rail line, especially one linking to Ukraine aid, raises security concerns in Europe and may affect supply chains, though details remain unclear._
+_Relevance score: [6] - Ukraine’s mobilisation of reservists to protect critical infrastructure is part of an ongoing conflict with worldwide energy‑security ramifications; relevance to Swiss markets and security considerations is moderate._
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## WM-Quali-Abschluss im Kosovo - Die Nati will mit Dominanz und Effizienz das WM-Ticket lösen
+## Trump reagiert auf steigende Konsumpreise und korrigiert teilweise seine Zölle
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/fussball/nationalmannschaft/wm-quali-abschluss-im-kosovo-die-nati-will-mit-dominanz-und-effizienz-das-wm-ticket-loesen) • _Montag, 17. November 2025, 18:37 Uhr_
+[NZZ](https://www.nzz.ch/wirtschaft/trump-beugt-sich-dem-anstieg-der-lebensmittelpreise-und-rudert-im-zollkrieg-zurueck-ld.1912163) • _Dienstag, 18. November 2025, 05:30 Uhr_
 
-Die Schweiz steht unmittelbar vor einer weiteren WM-Teilnahme. In Pristina kann eigentlich fast nichts mehr schiefgehen.
+Die Zollpolitik schmälert die Kaufkraft der Amerikaner und führt zu Unmut. Die Regierung hat daher einen diskreten Kurswechsel eingeleitet. Doch vielleicht kommt dieser schon zu spät.
 
-Viel fehlt nicht mehr und die Schweizer Nati fährt zum 6. Mal nacheinander an eine Weltmeisterschaft. Im letzten WM-Quali-Spiel im Kosovo müsste schon ein Fussballwunder geschehen, damit die WM 2026 in den USA, Kanada und Mexiko womöglich ohne die Sc... [weiterlesen](https://www.srf.ch/sport/fussball/nationalmannschaft/wm-quali-abschluss-im-kosovo-die-nati-will-mit-dominanz-und-effizienz-das-wm-ticket-loesen)
+Das hat sich Donald Trump wohl einfacher vorgestellt: Die Zölle sollten den USA nicht nur steigende Staatseinnahmen bescheren, sondern auch höheren Wohlstand, mehr Jobs und zufriedenere Wähler. Doch bei dieser Gleichung blieb ein Faktor vernachlässig... [weiterlesen](https://www.nzz.ch/wirtschaft/trump-beugt-sich-dem-anstieg-der-lebensmittelpreise-und-rudert-im-zollkrieg-zurueck-ld.1912163)
 
-_Relevance score: [4] - National football qualification is a matter of public interest and pride but does not alter societal structures or policy; its relevance is limited to sports culture._
-## Kosovos "12. Mann": Die Fans - Hajdari: "Will nicht wissen, was gegen die Schweiz abgehen wird"
+_Relevance score: [5] - US tariff adjustments have global trade implications, yet the direct effect on Switzerland is indirect and moderate. Still noteworthy for economic observers._
+## Verliert die Schweiz auch Mega-Talent Mladen Mijajlovic?
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/fussball/nationalmannschaft/kosovos-12-mann-die-fans-hajdari-will-nicht-wissen-was-gegen-die-schweiz-abgehen-wird) • _Montag, 17. November 2025, 18:07 Uhr_
+[bluewin E-Mail](https://www.bluewin.ch/de/sport/fussball-schweiz/verliert-die-schweiz-auch-mega-talent-mladen-mijajlovic-2968756.html) • _Dienstag, 18. November 2025, 06:53 Uhr_
 
-Am Dienstag empfängt der Kosovo die Schweiz. Die leise Hoffnung auf ein Wunder wird gestärkt vom Rückhalt der Fans.
+Mladen Mijajlovic zeigt an der U17-WM in Katar starke Leistungen. Für den Schweizer Spielmacher interessiert sich offenbar auch der serbische Verband. Verliert der SFV das nächste grosse Talent?
 
-«Es kann nicht mehr gross etwas passieren, wenn man realistisch ist», muss auch Albian Hajdari eingestehen. Der Verteidiger, der sich jüngst auf Kosten der Schweiz für den Kosovo entschieden hat, spricht den Kampf um das WM-Ticket zwischen den beiden... [weiterlesen](https://www.srf.ch/sport/fussball/nationalmannschaft/kosovos-12-mann-die-fans-hajdari-will-nicht-wissen-was-gegen-die-schweiz-abgehen-wird)
+Mladen Mijajlovic zeigt an der U17-WM in Katar starke Leistungen. Für den Schweizer Spielmacher interessiert sich offenbar auch der serbische Verband. Verliert der SFV das nächste grosse Talent?
+Die Nati begeistert an der U17-FIFA-WM in Katar. Die Tr... [weiterlesen](https://www.bluewin.ch/de/sport/fussball-schweiz/verliert-die-schweiz-auch-mega-talent-mladen-mijajlovic-2968756.html)
 
-_Relevance score: [3] - Pre‑match commentary about a football match has minor relevance beyond fan sentiment and does not impact broader civic or economic matters._
-## Istanbul: Polizei nimmt 11 Verdächtige nach Vergiftung deutscher Familie fest
+_Relevance score: [4] - Discussion of a promising youth footballer; relevant to sport fans but limited long‑term impact on the broader society or economy._
+## Mutiertes Grippevirus breitet sich aus: Was Österreich droht
 
-[20 Minuten](https://www.20min.ch/story/istanbul-deutsche-familie-vergiftet-schon-11-festnahmen-103452725) • _Montag, 17. November 2025, 17:42 Uhr_
+[VOL.AT](https://www.vol.at/mutiertes-grippevirus-breitet-sich-aus-was-oesterreich-droht/9811619) • _Dienstag, 18. November 2025, 05:15 Uhr_
 
-Nach dem Tod einer deutschen Mutter und ihrer Kinder in Istanbul vermuten die Behörden Pestizide als Ursache. Der Vater kämpft um sein Leben.
+Eine mutierte Influenza-H3N2-Variante breitet sich in Großbritannien immer weiter aus - Österreich beobachtet die Lage mit erhöhter Aufmerksamkeit. Was die neue Grippewelle für Impfschutz und Vorsorge bedeutet.
 
-Der tragische Vergiftungsfall in Istanbul hat ein weiteres Todesopfer gefordert. Nachdem bereits die Mutter und zwei Kinder einer deutsch-türkischen Familie an den Folgen der Vergiftung ums Leben gekommen waren, sei nun auch der Vater im Spital verst... [weiterlesen](https://www.20min.ch/story/istanbul-deutsche-familie-vergiftet-schon-11-festnahmen-103452725)
+Eine mutierte Influenza-H3N2-Variante breitet sich in Großbritannien immer weiter aus - Österreich beobachtet die Lage mit erhöhter Aufmerksamkeit. Was die neue Grippewelle für Impfschutz und Vorsorge bedeutet.
+Grippe-Variante H3N2 breitet sich aus –... [weiterlesen](https://www.vol.at/mutiertes-grippevirus-breitet-sich-aus-was-oesterreich-droht/9811619)
 
-_Relevance score: [3] - A criminal case involving a German‑Turkish family is serious but largely confined to Turkish jurisdiction and does not directly affect Swiss or global governance._
-## Heimberg BE: Polizist unvermittelt angegriffen
+_Relevance score: [4] - A health alert centred on Austria with potential cross‑border spread; importance for Swiss public‑health preparedness is limited but not negligible._
+## Glatte Strassen im Flachland: Bund gibt Warnung für Dienstagmorgen heraus
 
-[Blick](https://www.blick.ch/schweiz/bern/von-mann-angegriffen-polizist-bei-einsatz-in-heimberg-be-verletzt-id21431196.html) • _Montag, 17. November 2025, 18:48 Uhr_
+[20 Min](https://www.20min.ch/story/kaltes-wetter-bund-warnt-vor-glatten-strassen-in-mehreren-regionen-103452871) • _Dienstag, 18. November 2025, 06:40 Uhr_
 
-In Heimberg wurde ein Berner Kantonspolizist bei einem nächtlichen Einsatz in einer Wohnung tätlich angegriffen. Der Beamte musste ins Spital gebracht werden. Der Angreifer wurde festgenommen.
+Der Bund warnt vor glatten Strassen im Flachland. Temperaturen unter null Grad sorgen für Rutschgefahr.
 
-Keystone-SDADie Schweizer Nachrichtenagentur
-Ein Berner Kantonspolizist ist in Heimberg in der Nacht auf Montag bei einem Einsatz in einer Wohnung verletzt worden. Er musste ins Spital gebracht werden.
-Die Kantonspolizei habe kurz vor ein Uhr nachts ... [weiterlesen](https://www.blick.ch/schweiz/bern/von-mann-angegriffen-polizist-bei-einsatz-in-heimberg-be-verletzt-id21431196.html)
+In der Schweiz liegen am Dienstagmorgen die Temperaturen im Flachland verbreitet unter null Grad. Weil die Strassen zum Teil noch nass sind, warnt der Bund fast im ganzen Flachland vor rutschigen Strassen. Lediglich die Kantone Genf und Waadt sind ni... [weiterlesen](https://www.20min.ch/story/kaltes-wetter-bund-warnt-vor-glatten-strassen-in-mehreren-regionen-103452871)
 
-_Relevance score: [2] - A local assault on a cantonal police officer is a criminal incident with limited broader impact on Swiss society or governance._
-## Kulturnews in Kurzform - Die Labubus sollen ins Kino kommen
+_Relevance score: [3] - A federal safety warning that may affect driver behaviour for a single morning; important for public safety but narrow in scope and duration._
+## Kein Handy bis zur 7. Klasse: Könizer Eltern stellen Regeln auf
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-die-labubus-sollen-ins-kino-kommen) • _Montag, 17. November 2025, 17:46 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/smartphone-in-kinderhaenden-handy-erst-ab-der-7-klasse-eltern-setzen-auf-gemeinsame-regeln) • _Dienstag, 18. November 2025, 05:50 Uhr_
 
-Sony will aus dem viralen Plüschtier eine Filmfigur machen. Ob animiert oder als Realfilm, ist noch offen.
+An einigen Schulen sind Smartphones bereits tabu. In Köniz BE wollen Eltern nun auch privat klare Grenzen setzen.
 
-Autor: Am Ticker ist Julian Mintert
-Erst Spielzeug, dann Modeaccessoire – jetzt Filmfigur? Die viralen Labubu-Plüschtiere sollen zur Hauptfigur eines neuen Kinoprojekts werden. Noch offen ist, ob es ein Animations- oder Realfilm werden soll.
-Nach 100... [weiterlesen](https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-die-labubus-sollen-ins-kino-kommen)
+«Ist es normal, dass Kinder zum zehnten Geburtstag ein eigenes Handy geschenkt bekommen?» Diese Frage treibt Sandra Keller um. Ihr Sohn besucht die vierte Klasse in Köniz BE – und hat noch kein Smartphone. Die Eltern möchten das auch noch eine Weile ... [weiterlesen](https://www.srf.ch/news/schweiz/smartphone-in-kinderhaenden-handy-erst-ab-der-7-klasse-eltern-setzen-auf-gemeinsame-regeln)
 
-_Relevance score: [1] - Announcement of a film project based on a viral toy is entertainment‑focused and has no substantive impact on societal structures or policy._
-## Ukrainer (30) donnert mit 195 km/h durch Adliswil ZH
+_Relevance score: [3] - Local debate on children’s smartphone use; reflects societal attitudes but impacts only a limited community and lacks broader policy relevance._
+## Beachvolleyball-WM in Adelaide - Zwei von drei Schweizer Männer-Duos out
 
-[Blick](https://www.blick.ch/schweiz/zuerich/billett-sofort-weg-ukrainer-30-donnert-mit-195-km-h-durchs-sihltal-id21430302.html) • _Montag, 17. November 2025, 17:34 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/mehr-sport/beachvolleyball/beachvolleyball-wm-in-adelaide-zwei-von-drei-schweizer-maenner-duos-out) • _Dienstag, 18. November 2025, 07:18 Uhr_
 
-Die Kantonspolizei Zürich hat in der Nacht auf Samstag in Adliswil einen Autofahrer erwischt, der mit rund 195 km/h bei erlaubten 80 km/h unterwegs war. Sein Billett musste der Ukrainer umgehend abgeben.
+Für die Paarungen Haussener/Friedli und Heidrich/Jordan sind die Weltmeisterschaften in Adelaide zu Ende.
 
-Janine EnderliRedaktorin News
-Kurz nach drei Uhr in der Nacht auf Samstag fiel einer Patrouille der Kantonspolizei Zürich in Adliswil ein Fahrzeug aufgrund dessen Fahrweise auf: Als das Auto von der Albisstrasse in die Sihltalstrasse abbog, beschleun... [weiterlesen](https://www.blick.ch/schweiz/zuerich/billett-sofort-weg-ukrainer-30-donnert-mit-195-km-h-durchs-sihltal-id21430302.html)
+Das Männer-Duo Yves Haussener/Julian Friedli scheidet an der WM in Adelaide in den Sechzehntelfinals aus.
+Adrian Heidrich und Jonathan Jordan erwischt es bereits eine Runde früher.
+Am Dienstag müssen auch beide Schweizer Frauen-Teams ihre Segel strei... [weiterlesen](https://www.srf.ch/sport/mehr-sport/beachvolleyball/beachvolleyball-wm-in-adelaide-zwei-von-drei-schweizer-maenner-duos-out)
 
-_Relevance score: [1] - A traffic violation by an individual driver is a localized safety incident with minimal broader relevance._
-## Adliswil: Raser im Sihltal erwischt
+_Relevance score: [2] - A sporting result that affects only the Swiss beach‑volleyball team. Limited civic impact and no structural relevance beyond fan interest._
+## Ariana Grande bei Premiere bedrängt: Fan muss ins Gefängnis
 
-[zh.ch](https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2025/11/251117f_adliswil_raser.html) • _Montag, 17. November 2025, 17:17 Uhr_
+[Watson](https://www.watson.ch/international/people/683574414-ariana-grande-bei-premiere-bedraengt-fan-muss-ins-gefaengnis) • _Dienstag, 18. November 2025, 07:14 Uhr_
 
-Die Kantonspolizei Zürich hat in der Nacht auf Samstag (15.11.2025) in Adliswil einen Autofahrer erwischt, der mit rund 195 km/h bei erlaubten 80 km/h unterwegs war.
+Weil er bei einer Premiere in Singapur über eine Absperrung sprang und auf Sängerin Ariana Grande zulief, ist ein Australier zu 9Tagen Haft verurteilt worden.
 
-Kurz nach 3 Uhr in der Nacht fiel einer Patrouille der Kantonspolizei Zürich in Adliswil ein Fahrzeug aufgrund dessen Fahrweise auf. Als das Fahrzeug von der Albisstrasse in die Sihltalstrasse abbog, beschleunigte der Autofahrer massiv bis zu einer S... [weiterlesen](https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2025/11/251117f_adliswil_raser.html)
+Ariana Grande bei Premiere bedrängt – jetzt muss der Mann ins Gefängnis
+Weil er bei einer Filmpremiere in Singapur über eine Absperrung sprang und auf Sängerin Ariana Grande zulief, ist ein 26-jähriger Australier zu neun Tagen Haft verurteilt worden.... [weiterlesen](https://www.watson.ch/international/people/683574414-ariana-grande-bei-premiere-bedraengt-fan-muss-ins-gefaengnis)
 
-_Relevance score: [1] - Same as the previous item – a local speeding case, limited to law‑enforcement action without wider significance._
+_Relevance score: [1] - An isolated legal case in Singapore involving an international pop star. No appreciable effect on Swiss society, politics or economy._
 
 </details>
