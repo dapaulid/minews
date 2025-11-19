@@ -1,103 +1,108 @@
-_Aktualisiert: Dienstag, 18. November 2025, 19:22 Uhr_
+_Aktualisiert: Mittwoch, 19. November 2025, 07:23 Uhr_
 
-## Neubauverbot für AKWs in der Schweiz: Die Folgen einer Aufhebung
+## Donald Trump spielt Khashoggi-Mord herunter: "Dinge passieren"
 
-[Watson](https://www.watson.ch/schweiz/energie/143558312-neubauverbot-fuer-akws-in-der-schweiz-die-folgen-einer-aufhebung) • _Dienstag, 18. November 2025, 07:00 Uhr_
+[20 Minuten](https://www.20min.ch/story/usa-dinge-passieren-trumps-antwort-auf-mord-an-journalisten-103453338) • _Dienstag, 18. November 2025, 19:20 Uhr_
 
-Eine Aufhebung des AKW-Neubauverbots verzögert die Energiewende. Schon die Aussicht auf ein neues AKW bremst Investitionen und verunmöglicht die Ziele bei den erneuerbaren Energien.
+US-Präsident Trump empfängt den saudischen Kronprinzen und ignoriert Khashoggi-Frage. Investitionen von bis zu 1 Billion Dollar angekündigt.
 
-Warum sich Atomkraft und erneuerbare Energien nicht vertragen
-Eine Aufhebung des AKW-Neubauverbots verzögert die Energiewende. Allein schon die vage Aussicht auf ein neues Atomkraftwerk bremst Investitionen und verunmöglicht die Ausbauziele bei den e... [weiterlesen](https://www.watson.ch/schweiz/energie/143558312-neubauverbot-fuer-akws-in-der-schweiz-die-folgen-einer-aufhebung)
+US-Präsident Donald Trump hat am Dienstag im Weissen Haus den saudischen Kronprinzen Mohammed bin Salman empfangen. Es war dessen erster Besuch in den USA seit der Ermordung des Journalisten Jamal Khashoggi 2018.
+Beim Treffen wurden Investitionen von... [weiterlesen](https://www.20min.ch/story/usa-dinge-passieren-trumps-antwort-auf-mord-an-journalisten-103453338)
 
-_Relevance score: [8] - Potential reversal of Switzerland’s nuclear‑new‑build ban directly influences the national energy transition, investment climate and climate‑policy targets – a major structural issue._
-## Wohnungsknappheit in der Schweiz: Staatliche Regulierung verschärft laut Studie das Problem
+_Relevance score: [8] - A US‑Saudi meeting with a trillion‑dollar investment pledge has major implications for global geopolitics and the world economy, and the US president’s dismissal of a high‑profile human‑rights murder draws worldwide attention._
+## Umfragen zu Abstimmung im November 2025: Doppeltes Nein zeichnet sich ab
 
-[20 Min](https://www.20min.ch/story/studie-zeigt-regulierung-fuehrt-zu-wohnungsknappheit-und-hohen-mieten-103452667) • _Dienstag, 18. November 2025, 04:33 Uhr_
+[Watson](https://www.watson.ch/schweiz/umfrage/541674417-umfragen-zu-abstimmung-im-november-2025-doppeltes-nein-zeichnet-sich-ab) • _Dienstag, 18. November 2025, 19:08 Uhr_
 
-Eine neue Studie belegt, dass staatliche Eingriffe in den Wohnungsmarkt die Mieten erhöhen und das Angebot verringern.
+Die neuesten Umfragen des Meinungsforschungsinstitutes YouGov zeigen: An der Abstimmung am 30. November 2025 gibt es wohl ein doppeltes Nein.
 
-Wohnen ist teuer geworden. In der Schweiz gibt es so wenige Wohnungen wie seit Jahrzehnten nicht mehr, die Mietpreise steigen. Während die Politik sich darüber streitet, mit welchen Massnahmen die Wohnungskrise entschärft werden soll, hat eine neue S... [weiterlesen](https://www.20min.ch/story/studie-zeigt-regulierung-fuehrt-zu-wohnungsknappheit-und-hohen-mieten-103452667)
+Die Zustimmung für die beiden bevorstehenden Volksinitiativen über eine Dienstpflicht für alle und eine Erbschaftssteuer für Superreiche nimmt weiter ab. Das geht aus einer Umfrage von YouGov Schweiz hervor. Das schweizerische Markt- und Sozialforsch... [weiterlesen](https://www.watson.ch/schweiz/umfrage/541674417-umfragen-zu-abstimmung-im-november-2025-doppeltes-nein-zeichnet-sich-ab)
 
-_Relevance score: [8] - Study linking housing policy to rising rents and supply shortages touches on a key national socioeconomic challenge, affecting many citizens and policy debates._
-## Mobilisierung von Reservisten zum Schutz gegen Drohnenangriffe
+_Relevance score: [7] - The poll reflects Swiss public sentiment on two forthcoming national initiatives (mandatory service and a wealth‑tax on the super‑rich). The outcome could reshape Swiss fiscal and defence policy, making it a notable domestic political development._
+## EZB warnt: Risiko für Bankenschock so hoch wie nie zuvor
 
-[NZZ](https://www.nzz.ch/international/russland-mobilisierung-von-reservisten-zum-schutz-gegen-drohnenangriffe-ld.1911880) • _Dienstag, 18. November 2025, 05:30 Uhr_
+[Blick](https://www.blick.ch/wirtschaft/europaeische-zentralbank-warnt-in-aufsichtsbericht-risiko-eines-banken-schocks-ist-so-hoch-wie-nie-zuvor-id21434061.html) • _Dienstag, 18. November 2025, 17:33 Uhr_
 
-Die ukrainischen Drohnen treffen die Erdöl- und die Rüstungsindustrie. Reservisten sollen nun Raffinerien schützen
+Die Europäische Zentralbank (EZB) warnt ihre Banken im Euroraum vor einem «noch nie dagewesenen Schockrisiko». Um möglichst gut dagegen gewappnet zu sein, plant die Aufsicht deshalb einen Stresstest für die EU-Banken, wie aus einem neuen Bericht hervorgeht.
 
-Ende Oktober ging ein Bild um die Welt. Es zeigt vor dem Hintergrund der Kreml-Mauern in Moskau einen Pick-up mit aufgebautem Maschinengewehr, das in den Nachthimmel zielt. Zwei Uniformierte stehen daneben. Die Einrichtung diente der Drohnenabwehr. D... [weiterlesen](https://www.nzz.ch/international/russland-mobilisierung-von-reservisten-zum-schutz-gegen-drohnenangriffe-ld.1911880)
+Nathalie BennRedaktorin Wirtschaft
+Kriege, politische Spannungen, zunehmende Teuerung: Davon bleiben auch Banken und andere Finanzinstitute nicht verschont. Sie bewegen sich derzeit in einem besonders «herausfordernden Umfeld», heisst es in einem neu... [weiterlesen](https://www.blick.ch/wirtschaft/europaeische-zentralbank-warnt-in-aufsichtsbericht-risiko-eines-banken-schocks-ist-so-hoch-wie-nie-zuvor-id21434061.html)
 
-_Relevance score: [6] - Ukraine’s mobilisation of reservists to protect critical infrastructure is part of an ongoing conflict with worldwide energy‑security ramifications; relevance to Swiss markets and security considerations is moderate._
+_Relevance score: [7] - The ECB’s warning about unprecedented shock risk to banks and upcoming stress tests is highly relevant for the European financial system and indirectly for Swiss banks and the national economy._
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Trump reagiert auf steigende Konsumpreise und korrigiert teilweise seine Zölle
+## Gericht erlaubt weiterhin Verkauf von Perrier-Wasser
 
-[NZZ](https://www.nzz.ch/wirtschaft/trump-beugt-sich-dem-anstieg-der-lebensmittelpreise-und-rudert-im-zollkrieg-zurueck-ld.1912163) • _Dienstag, 18. November 2025, 05:30 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/beschwerde-wegen-filterung-franzoesisches-gericht-erlaubt-weiteren-verkauf-von-perrier-wasser) • _Dienstag, 18. November 2025, 18:52 Uhr_
 
-Die Zollpolitik schmälert die Kaufkraft der Amerikaner und führt zu Unmut. Die Regierung hat daher einen diskreten Kurswechsel eingeleitet. Doch vielleicht kommt dieser schon zu spät.
+Es gebe nicht genug Beweise für ein drängendes Gesundheitsrisiko oder eine eindeutige Rechtsverletzung, so das Gericht.
 
-Das hat sich Donald Trump wohl einfacher vorgestellt: Die Zölle sollten den USA nicht nur steigende Staatseinnahmen bescheren, sondern auch höheren Wohlstand, mehr Jobs und zufriedenere Wähler. Doch bei dieser Gleichung blieb ein Faktor vernachlässig... [weiterlesen](https://www.nzz.ch/wirtschaft/trump-beugt-sich-dem-anstieg-der-lebensmittelpreise-und-rudert-im-zollkrieg-zurueck-ld.1912163)
+Der Lebensmittelkonzern Nestlé hat im Streit um seine französische Wasser-Marke Perrier einen juristischen Erfolg erzielt.
+Ein französisches Gericht lehnte den Antrag einer Verbraucherorganisation ab, das in charakteristischen grünen Flaschen abgefül... [weiterlesen](https://www.srf.ch/news/international/beschwerde-wegen-filterung-franzoesisches-gericht-erlaubt-weiteren-verkauf-von-perrier-wasser)
 
-_Relevance score: [5] - US tariff adjustments have global trade implications, yet the direct effect on Switzerland is indirect and moderate. Still noteworthy for economic observers._
-## Verliert die Schweiz auch Mega-Talent Mladen Mijajlovic?
+_Relevance score: [4] - A French court ruling concerning Nestlé’s Perrier brand has modest relevance for Swiss corporate interests but limited impact on the Swiss public or the wider economy._
+## Geologen erwarten Felsabbruch in Brienz GR
 
-[bluewin E-Mail](https://www.bluewin.ch/de/sport/fussball-schweiz/verliert-die-schweiz-auch-mega-talent-mladen-mijajlovic-2968756.html) • _Dienstag, 18. November 2025, 06:53 Uhr_
+[Blick](https://www.blick.ch/schweiz/graubuenden/deutliche-beschleunigung-im-teilbereich-plateau-ost-geologen-erwarten-felsabbruch-in-brienz-gr-in-naechsten-tagen-id21434281.html) • _Dienstag, 18. November 2025, 18:36 Uhr_
 
-Mladen Mijajlovic zeigt an der U17-WM in Katar starke Leistungen. Für den Schweizer Spielmacher interessiert sich offenbar auch der serbische Verband. Verliert der SFV das nächste grosse Talent?
+Ein drohender Felsabbruch in Brienz/Brinzauls hält die Behörden in Atem. Der Frühwarndienst beobachtet eine starke Beschleunigung im Teilbereich «Plateau Ost», mit Bewegungen von bis zu 10 Zentimetern pro Tag. Der Zugang zum Dorf ist gesperrt.
 
-Mladen Mijajlovic zeigt an der U17-WM in Katar starke Leistungen. Für den Schweizer Spielmacher interessiert sich offenbar auch der serbische Verband. Verliert der SFV das nächste grosse Talent?
-Die Nati begeistert an der U17-FIFA-WM in Katar. Die Tr... [weiterlesen](https://www.bluewin.ch/de/sport/fussball-schweiz/verliert-die-schweiz-auch-mega-talent-mladen-mijajlovic-2968756.html)
+Bevorstehender Felsabbruch in Brienz/Brinzauls: Seit einigen Tagen beobachtet der Frühwarndienst eine deutliche Beschleunigung im Teilbereich «Plateau Ost» hoch über Brienz/Brinzauls, heisst es in einer Medienmitteilung.
+«Der Frühwarndienst und die b... [weiterlesen](https://www.blick.ch/schweiz/graubuenden/deutliche-beschleunigung-im-teilbereich-plateau-ost-geologen-erwarten-felsabbruch-in-brienz-gr-in-naechsten-tagen-id21434281.html)
 
-_Relevance score: [4] - Discussion of a promising youth footballer; relevant to sport fans but limited long‑term impact on the broader society or economy._
-## Mutiertes Grippevirus breitet sich aus: Was Österreich droht
+_Relevance score: [4] - Potential rockfall poses a safety risk for a specific Alpine community and may require local emergency measures, but its implications do not extend far beyond the region._
+## Geologen warnen: Abbruch in Brienz GR droht in den nächsten Tagen
 
-[VOL.AT](https://www.vol.at/mutiertes-grippevirus-breitet-sich-aus-was-oesterreich-droht/9811619) • _Dienstag, 18. November 2025, 05:15 Uhr_
+[20 Minuten](https://www.20min.ch/story/brienz-gr-geologen-rechnen-mit-abbruch-in-den-naechsten-tagen-103453320) • _Dienstag, 18. November 2025, 18:29 Uhr_
 
-Eine mutierte Influenza-H3N2-Variante breitet sich in Großbritannien immer weiter aus - Österreich beobachtet die Lage mit erhöhter Aufmerksamkeit. Was die neue Grippewelle für Impfschutz und Vorsorge bedeutet.
+In Brienz GR beschleunigt sich die Bewegung des Plateaus. Experten rechnen mit einem Abbruch von bis zu 150'000 Kubikmetern Gestein.
 
-Eine mutierte Influenza-H3N2-Variante breitet sich in Großbritannien immer weiter aus - Österreich beobachtet die Lage mit erhöhter Aufmerksamkeit. Was die neue Grippewelle für Impfschutz und Vorsorge bedeutet.
-Grippe-Variante H3N2 breitet sich aus –... [weiterlesen](https://www.vol.at/mutiertes-grippevirus-breitet-sich-aus-was-oesterreich-droht/9811619)
+Der Frühwarndienst beobachtet seit einigen Tagen eine deutliche Beschleunigung im Bereich «Plateau Ost» hoch über Brienz/Brinzauls. Geologen gehen davon aus, dass in den nächsten Tagen Teile des Plateaus abbrechen könnten. Aus Sicherheitsgründen ist ... [weiterlesen](https://www.20min.ch/story/brienz-gr-geologen-rechnen-mit-abbruch-in-den-naechsten-tagen-103453320)
 
-_Relevance score: [4] - A health alert centred on Austria with potential cross‑border spread; importance for Swiss public‑health preparedness is limited but not negligible._
-## Glatte Strassen im Flachland: Bund gibt Warnung für Dienstagmorgen heraus
+_Relevance score: [4] - Same event as the previous entry; while locally important for public safety, it remains a regional issue with limited national significance._
+## WM: Schweiz schlägt Irland und steht im Viertelfinal
 
-[20 Min](https://www.20min.ch/story/kaltes-wetter-bund-warnt-vor-glatten-strassen-in-mehreren-regionen-103452871) • _Dienstag, 18. November 2025, 06:40 Uhr_
+[Blick](https://www.blick.ch/sport/fussball/nati/u17-wm-achtelfinal-schweiz-irland-live-im-ticker-id21433387.html) • _Dienstag, 18. November 2025, 17:39 Uhr_
 
-Der Bund warnt vor glatten Strassen im Flachland. Temperaturen unter null Grad sorgen für Rutschgefahr.
+Die Schweiz reitet an der U17-WM in Katar weiter auf einer Erfolgswelle: Im Achtelfinal gegen Irland tut sie sich lange schwer, steigert sich aber in der zweiten Halbzeit und siegt letztendlich souverän mit 3:1. Nun wartet im Viertelfinal Portugal.
 
-In der Schweiz liegen am Dienstagmorgen die Temperaturen im Flachland verbreitet unter null Grad. Weil die Strassen zum Teil noch nass sind, warnt der Bund fast im ganzen Flachland vor rutschigen Strassen. Lediglich die Kantone Genf und Waadt sind ni... [weiterlesen](https://www.20min.ch/story/kaltes-wetter-bund-warnt-vor-glatten-strassen-in-mehreren-regionen-103452871)
+Welche Worte Coach Luigi Pisino in der Pause gewählt hat, ist nicht bekannt, aber sie zeigen eindeutig Wirkung: Die Minuten nach dem Seitenwechsel sind die besten der U17-Nati in diesem Achtelfinal gegen Irland – und letztendlich die entscheidenden.
+... [weiterlesen](https://www.blick.ch/sport/fussball/nati/u17-wm-achtelfinal-schweiz-irland-live-im-ticker-id21433387.html)
 
-_Relevance score: [3] - A federal safety warning that may affect driver behaviour for a single morning; important for public safety but narrow in scope and duration._
-## Kein Handy bis zur 7. Klasse: Könizer Eltern stellen Regeln auf
+_Relevance score: [3] - A youth football victory generates national pride but has little effect on politics, economy, or long‑term societal issues._
+## 3:1 über Irland an der WM - U17-Nati weiter im Hoch: Nächster Halt Viertelfinal
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/smartphone-in-kinderhaenden-handy-erst-ab-der-7-klasse-eltern-setzen-auf-gemeinsame-regeln) • _Dienstag, 18. November 2025, 05:50 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/fussball/fussball-allgemein/3-1-ueber-irland-an-der-wm-u17-nati-weiter-im-hoch-naechster-halt-viertelfinal) • _Dienstag, 18. November 2025, 17:39 Uhr_
 
-An einigen Schulen sind Smartphones bereits tabu. In Köniz BE wollen Eltern nun auch privat klare Grenzen setzen.
+Die Schweizer U17 setzt ihren Lauf an der WM in Doha fort. Gegen Irland siegt die Schweizer Auswahl im Achtelfinal 3:1.
 
-«Ist es normal, dass Kinder zum zehnten Geburtstag ein eigenes Handy geschenkt bekommen?» Diese Frage treibt Sandra Keller um. Ihr Sohn besucht die vierte Klasse in Köniz BE – und hat noch kein Smartphone. Die Eltern möchten das auch noch eine Weile ... [weiterlesen](https://www.srf.ch/news/schweiz/smartphone-in-kinderhaenden-handy-erst-ab-der-7-klasse-eltern-setzen-auf-gemeinsame-regeln)
+Die Schweizer U17 schlägt Irland im Achtelfinal der WM in Katar souverän 3:1.
+Alle Tore fallen in der zweiten Halbzeit. Adrien Llukes, Sandro Wyss und Mladen Mijajlovic treffen für die Nati.
+Im Viertelfinal trifft die Schweiz am Freitag auf Portugal.... [weiterlesen](https://www.srf.ch/sport/fussball/fussball-allgemein/3-1-ueber-irland-an-der-wm-u17-nati-weiter-im-hoch-naechster-halt-viertelfinal)
 
-_Relevance score: [3] - Local debate on children’s smartphone use; reflects societal attitudes but impacts only a limited community and lacks broader policy relevance._
-## Beachvolleyball-WM in Adelaide - Zwei von drei Schweizer Männer-Duos out
+_Relevance score: [3] - Duplicate sports news; same limited civic relevance as the previous item._
+## U17-WM: Schweiz schlägt Irland und steht im Viertelfinal
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/mehr-sport/beachvolleyball/beachvolleyball-wm-in-adelaide-zwei-von-drei-schweizer-maenner-duos-out) • _Dienstag, 18. November 2025, 07:18 Uhr_
+[Watson](https://www.watson.ch/sport/fussball/325684277-u17-wm-schweiz-schlaegt-irland-und-steht-im-viertelfinal) • _Dienstag, 18. November 2025, 17:39 Uhr_
 
-Für die Paarungen Haussener/Friedli und Heidrich/Jordan sind die Weltmeisterschaften in Adelaide zu Ende.
+Die Schweizer U17-Nationalmannschaft schlägt Irland und steht im WM-Viertelfinal. Dort trifft die Schweiz am Freitag auf Portugal.
 
-Das Männer-Duo Yves Haussener/Julian Friedli scheidet an der WM in Adelaide in den Sechzehntelfinals aus.
-Adrian Heidrich und Jonathan Jordan erwischt es bereits eine Runde früher.
-Am Dienstag müssen auch beide Schweizer Frauen-Teams ihre Segel strei... [weiterlesen](https://www.srf.ch/sport/mehr-sport/beachvolleyball/beachvolleyball-wm-in-adelaide-zwei-von-drei-schweizer-maenner-duos-out)
+Die Schweizer U17 steht im WM-Viertelfinal – dort wartet ein echter Brocken
+Die Schweiz übersteht an der U17-WM in Katar auch das zweite K.o.-Spiel. Das Team von Trainer Luigi Pisino bezwingt Irland 3:1 und trifft im Viertelfinal auf Portugal.
+Nach e... [weiterlesen](https://www.watson.ch/sport/fussball/325684277-u17-wm-schweiz-schlaegt-irland-und-steht-im-viertelfinal)
 
-_Relevance score: [2] - A sporting result that affects only the Swiss beach‑volleyball team. Limited civic impact and no structural relevance beyond fan interest._
-## Ariana Grande bei Premiere bedrängt: Fan muss ins Gefängnis
+_Relevance score: [3] - Another repeat of the U‑17 football result; modest national interest but no structural impact._
+## Schwerer Verkehrsunfall in Schiers mit Personenschaden
 
-[Watson](https://www.watson.ch/international/people/683574414-ariana-grande-bei-premiere-bedraengt-fan-muss-ins-gefaengnis) • _Dienstag, 18. November 2025, 07:14 Uhr_
+[Blick](https://www.blick.ch/schweiz/graubuenden/rettungsheli-im-einsatz-schwerer-verkehrsunfall-in-schiers-gr-id21433769.html) • _Dienstag, 18. November 2025, 18:58 Uhr_
 
-Weil er bei einer Premiere in Singapur über eine Absperrung sprang und auf Sängerin Ariana Grande zulief, ist ein Australier zu 9Tagen Haft verurteilt worden.
+In Schiers ist es am Dienstagabend zu einem schweren Verkehrsunfall gekommen. Ein Blick-Leser berichtete von einem grossen Aufgebot an Polizei- und Rettungskräften. Klar ist: Mindestens eine Person wurde verletzt.
 
-Ariana Grande bei Premiere bedrängt – jetzt muss der Mann ins Gefängnis
-Weil er bei einer Filmpremiere in Singapur über eine Absperrung sprang und auf Sängerin Ariana Grande zulief, ist ein 26-jähriger Australier zu neun Tagen Haft verurteilt worden.... [weiterlesen](https://www.watson.ch/international/people/683574414-ariana-grande-bei-premiere-bedraengt-fan-muss-ins-gefaengnis)
+Janine EnderliRedaktorin News
+Schwerer Unfall in Schiers GR: Ein Blick-Leser wurde am Dienstag gegen 16 Uhr auf der Hauptstrasse Zeuge eines Verkehrsunfalls.
+Bilder des Mannes zeigen die Unfallstelle, wo Polizei, Sanität und Rettungshelikopter im Ein... [weiterlesen](https://www.blick.ch/schweiz/graubuenden/rettungsheli-im-einsatz-schwerer-verkehrsunfall-in-schiers-gr-id21433769.html)
 
-_Relevance score: [1] - An isolated legal case in Singapore involving an international pop star. No appreciable effect on Swiss society, politics or economy._
+_Relevance score: [2] - A local traffic accident with injuries is limited to a single municipality and does not affect national policy or broader societal trends._
 
 </details>
