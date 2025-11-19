@@ -1,108 +1,102 @@
-_Aktualisiert: Mittwoch, 19. November 2025, 07:23 Uhr_
+_Aktualisiert: Mittwoch, 19. November 2025, 19:22 Uhr_
 
-## Donald Trump spielt Khashoggi-Mord herunter: "Dinge passieren"
+## Doppelter Totalabsturz droht: Service-Citoyen- und Juso-Initiative im Sinkflug
 
-[20 Minuten](https://www.20min.ch/story/usa-dinge-passieren-trumps-antwort-auf-mord-an-journalisten-103453338) • _Dienstag, 18. November 2025, 19:20 Uhr_
+[20 Minuten](https://www.20min.ch/story/abstimmungsumfrage-service-citoyen-und-juso-initiative-doppelter-totalabsturz-droht-103453103) • _Mittwoch, 19. November 2025, 04:33 Uhr_
 
-US-Präsident Trump empfängt den saudischen Kronprinzen und ignoriert Khashoggi-Frage. Investitionen von bis zu 1 Billion Dollar angekündigt.
+Die neusten Umfragen zeigen einen drastischen Rückgang der Unterstützung für die Service-Citoyen- und Juso-Initiative.
 
-US-Präsident Donald Trump hat am Dienstag im Weissen Haus den saudischen Kronprinzen Mohammed bin Salman empfangen. Es war dessen erster Besuch in den USA seit der Ermordung des Journalisten Jamal Khashoggi 2018.
-Beim Treffen wurden Investitionen von... [weiterlesen](https://www.20min.ch/story/usa-dinge-passieren-trumps-antwort-auf-mord-an-journalisten-103453338)
+In weniger als zwei Wochen entscheidet die Schweizer Stimmbevölkerung, ob alle Jungen künftig einen Bürgerdienst leisten müssen – und ob grosse Erbschaften ab 50 Millionen zur Hälfte besteuert werden.
+Wie die aktuelle Umfrage von LeeWas im Auftrag vo... [weiterlesen](https://www.20min.ch/story/abstimmungsumfrage-service-citoyen-und-juso-initiative-doppelter-totalabsturz-droht-103453103)
 
-_Relevance score: [8] - A US‑Saudi meeting with a trillion‑dollar investment pledge has major implications for global geopolitics and the world economy, and the US president’s dismissal of a high‑profile human‑rights murder draws worldwide attention._
-## Umfragen zu Abstimmung im November 2025: Doppeltes Nein zeichnet sich ab
+_Relevance score: [8] - Covers two upcoming referendums on mandatory civilian service and a wealth‑tax proposal—issues that could materially alter Swiss fiscal and civic policy, making it highly relevant._
+## "Reuss-Initiative": Wie wird ein Fluss zur Rechtspersönlichkeit?
 
-[Watson](https://www.watson.ch/schweiz/umfrage/541674417-umfragen-zu-abstimmung-im-november-2025-doppeltes-nein-zeichnet-sich-ab) • _Dienstag, 18. November 2025, 19:08 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/recht-fuer-die-natur-wenn-der-fluss-vor-gericht-geht) • _Mittwoch, 19. November 2025, 07:02 Uhr_
 
-Die neuesten Umfragen des Meinungsforschungsinstitutes YouGov zeigen: An der Abstimmung am 30. November 2025 gibt es wohl ein doppeltes Nein.
+Im Kanton Luzern ist die Idee, dass Gewässer Rechte erhalten sollen, einen Schritt weiter.
 
-Die Zustimmung für die beiden bevorstehenden Volksinitiativen über eine Dienstpflicht für alle und eine Erbschaftssteuer für Superreiche nimmt weiter ab. Das geht aus einer Umfrage von YouGov Schweiz hervor. Das schweizerische Markt- und Sozialforsch... [weiterlesen](https://www.watson.ch/schweiz/umfrage/541674417-umfragen-zu-abstimmung-im-november-2025-doppeltes-nein-zeichnet-sich-ab)
+Braucht die Natur ein Recht auf Recht? Im Kanton Luzern sollen alle öffentlichen Gewässer Grundrechte bekommen: Sie sollen eigene Rechtspersönlichkeiten werden. Das will die Reuss-Initiative. Über 5000 Personen unterstützen die Forderung. Das bedeute... [weiterlesen](https://www.srf.ch/news/schweiz/recht-fuer-die-natur-wenn-der-fluss-vor-gericht-geht)
 
-_Relevance score: [7] - The poll reflects Swiss public sentiment on two forthcoming national initiatives (mandatory service and a wealth‑tax on the super‑rich). The outcome could reshape Swiss fiscal and defence policy, making it a notable domestic political development._
-## EZB warnt: Risiko für Bankenschock so hoch wie nie zuvor
-
-[Blick](https://www.blick.ch/wirtschaft/europaeische-zentralbank-warnt-in-aufsichtsbericht-risiko-eines-banken-schocks-ist-so-hoch-wie-nie-zuvor-id21434061.html) • _Dienstag, 18. November 2025, 17:33 Uhr_
-
-Die Europäische Zentralbank (EZB) warnt ihre Banken im Euroraum vor einem «noch nie dagewesenen Schockrisiko». Um möglichst gut dagegen gewappnet zu sein, plant die Aufsicht deshalb einen Stresstest für die EU-Banken, wie aus einem neuen Bericht hervorgeht.
-
-Nathalie BennRedaktorin Wirtschaft
-Kriege, politische Spannungen, zunehmende Teuerung: Davon bleiben auch Banken und andere Finanzinstitute nicht verschont. Sie bewegen sich derzeit in einem besonders «herausfordernden Umfeld», heisst es in einem neu... [weiterlesen](https://www.blick.ch/wirtschaft/europaeische-zentralbank-warnt-in-aufsichtsbericht-risiko-eines-banken-schocks-ist-so-hoch-wie-nie-zuvor-id21434061.html)
-
-_Relevance score: [7] - The ECB’s warning about unprecedented shock risk to banks and upcoming stress tests is highly relevant for the European financial system and indirectly for Swiss banks and the national economy._
+_Relevance score: [7] - Introduces legal personhood for rivers in Canton Luzern, a pioneering change that could reshape Swiss environmental law and set a precedent for nationwide nature‑rights legislation._
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Gericht erlaubt weiterhin Verkauf von Perrier-Wasser
+## Die Schweiz fährt an die WM 2026
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/beschwerde-wegen-filterung-franzoesisches-gericht-erlaubt-weiteren-verkauf-von-perrier-wasser) • _Dienstag, 18. November 2025, 18:52 Uhr_
+[NZZ](https://www.nzz.ch/sport/die-schweiz-faehrt-an-die-wm-2026-die-qualifikation-endet-mit-dem-11-in-kosovo-ld.1912522) • _Mittwoch, 19. November 2025, 05:30 Uhr_
 
-Es gebe nicht genug Beweise für ein drängendes Gesundheitsrisiko oder eine eindeutige Rechtsverletzung, so das Gericht.
+Mit dem 1:1 in Kosovo beenden die Schweizer Fussballer nicht nur die WM-Qualifikation, sondern auch das Kalenderjahr ungeschlagen. Die Kontinuität hat viel mit Murat Yakin zu tun, der als Nationaltrainer bisher noch jedes Ziel erreicht hat.
 
-Der Lebensmittelkonzern Nestlé hat im Streit um seine französische Wasser-Marke Perrier einen juristischen Erfolg erzielt.
-Ein französisches Gericht lehnte den Antrag einer Verbraucherorganisation ab, das in charakteristischen grünen Flaschen abgefül... [weiterlesen](https://www.srf.ch/news/international/beschwerde-wegen-filterung-franzoesisches-gericht-erlaubt-weiteren-verkauf-von-perrier-wasser)
+Als Granit Xhaka in der 76. Minute vom Feld ging und dem Publikum applaudierte, gaben sich die kosovarischen Fans doch noch versöhnlich: Sie verabschiedeten den Captain der Schweizer mit Standing Ovations. Zuvor hatte ein Teil des kosovarischen Anhan... [weiterlesen](https://www.nzz.ch/sport/die-schweiz-faehrt-an-die-wm-2026-die-qualifikation-endet-mit-dem-11-in-kosovo-ld.1912522)
 
-_Relevance score: [4] - A French court ruling concerning Nestlé’s Perrier brand has modest relevance for Swiss corporate interests but limited impact on the Swiss public or the wider economy._
-## Geologen erwarten Felsabbruch in Brienz GR
+_Relevance score: [4] - Qualifying for the World Cup is a source of national pride and media interest, yet its impact on society or policy is modest and short‑term._
+## Die Schweiz ist an der WM 2026 dabei - da reicht ein 1:1 gegen Kosovo
 
-[Blick](https://www.blick.ch/schweiz/graubuenden/deutliche-beschleunigung-im-teilbereich-plateau-ost-geologen-erwarten-felsabbruch-in-brienz-gr-in-naechsten-tagen-id21434281.html) • _Dienstag, 18. November 2025, 18:36 Uhr_
+[Watson](https://www.watson.ch/sport/fussball/165944349-die-schweiz-ist-an-der-wm-2026-dabei-da-reicht-ein-1-1-gegen-kosovo) • _Dienstag, 18. November 2025, 23:52 Uhr_
 
-Ein drohender Felsabbruch in Brienz/Brinzauls hält die Behörden in Atem. Der Frühwarndienst beobachtet eine starke Beschleunigung im Teilbereich «Plateau Ost», mit Bewegungen von bis zu 10 Zentimetern pro Tag. Der Zugang zum Dorf ist gesperrt.
+Die Schweiz ist für die WM 2026 qualifiziert. Im Kosovo reichte der Nati ein 1:1-Unentschieden. Granit Xhaka wurde in Pristina ausgebuht.
 
-Bevorstehender Felsabbruch in Brienz/Brinzauls: Seit einigen Tagen beobachtet der Frühwarndienst eine deutliche Beschleunigung im Teilbereich «Plateau Ost» hoch über Brienz/Brinzauls, heisst es in einer Medienmitteilung.
-«Der Frühwarndienst und die b... [weiterlesen](https://www.blick.ch/schweiz/graubuenden/deutliche-beschleunigung-im-teilbereich-plateau-ost-geologen-erwarten-felsabbruch-in-brienz-gr-in-naechsten-tagen-id21434281.html)
+Die Schweiz ist an der WM 2026 dabei! Zum Abschluss reicht ein 1:1 im Kosovo
+Das Schweizer Fussball-Nationalteam nimmt nächstes Jahr zum sechsten Mal in Folge an einer WM-Endrunde teil. Den entscheidenden letzten macht man mit einem 1:1 im Kosovo.
+Be... [weiterlesen](https://www.watson.ch/sport/fussball/165944349-die-schweiz-ist-an-der-wm-2026-dabei-da-reicht-ein-1-1-gegen-kosovo)
 
-_Relevance score: [4] - Potential rockfall poses a safety risk for a specific Alpine community and may require local emergency measures, but its implications do not extend far beyond the region._
-## Geologen warnen: Abbruch in Brienz GR droht in den nächsten Tagen
+_Relevance score: [4] - Another report on the football qualification; carries the same moderate national‑interest value as the earlier WM story._
+## Rückblick auf die Quali - Die Nati an der WM 2026 - dank Startfurioso und Bollwerk
 
-[20 Minuten](https://www.20min.ch/story/brienz-gr-geologen-rechnen-mit-abbruch-in-den-naechsten-tagen-103453320) • _Dienstag, 18. November 2025, 18:29 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/fussball/nationalmannschaft/rueckblick-auf-die-quali-die-nati-an-der-wm-2026-dank-startfurioso-und-bollwerk) • _Dienstag, 18. November 2025, 22:53 Uhr_
 
-In Brienz GR beschleunigt sich die Bewegung des Plateaus. Experten rechnen mit einem Abbruch von bis zu 150'000 Kubikmetern Gestein.
+Das Team von Trainer Murat Yakin kann für die WM 2026 in Übersee planen. Wir lassen die Qualifikation Revue passieren.
 
-Der Frühwarndienst beobachtet seit einigen Tagen eine deutliche Beschleunigung im Bereich «Plateau Ost» hoch über Brienz/Brinzauls. Geologen gehen davon aus, dass in den nächsten Tagen Teile des Plateaus abbrechen könnten. Aus Sicherheitsgründen ist ... [weiterlesen](https://www.20min.ch/story/brienz-gr-geologen-rechnen-mit-abbruch-in-den-naechsten-tagen-103453320)
+2006, 2010, 2014, 2018, 2022 – und nun 2026. Die Schweiz hat zum 6. Mal in Folge das Ticket für eine Weltmeisterschaft gelöst. Selten präsentierte sich die Nati so souverän wie in dieser Kampagne. Wir blicken zurück und stellen fest: Der Grundstein f... [weiterlesen](https://www.srf.ch/sport/fussball/nationalmannschaft/rueckblick-auf-die-quali-die-nati-an-der-wm-2026-dank-startfurioso-und-bollwerk)
 
-_Relevance score: [4] - Same event as the previous entry; while locally important for public safety, it remains a regional issue with limited national significance._
-## WM: Schweiz schlägt Irland und steht im Viertelfinal
+_Relevance score: [4] - A retrospective on the qualification campaign; primarily sports coverage with limited structural impact._
+## Sind 2000 IE Vitamin D am Tag zu viel?
 
-[Blick](https://www.blick.ch/sport/fussball/nati/u17-wm-achtelfinal-schweiz-irland-live-im-ticker-id21433387.html) • _Dienstag, 18. November 2025, 17:39 Uhr_
+[Augsburger Allgemeine](https://www.augsburger-allgemeine.de/gesundheit/sind-2000-ie-vitamin-d-am-tag-zu-viel-19-11-25-109045564) • _Mittwoch, 19. November 2025, 06:57 Uhr_
 
-Die Schweiz reitet an der U17-WM in Katar weiter auf einer Erfolgswelle: Im Achtelfinal gegen Irland tut sie sich lange schwer, steigert sich aber in der zweiten Halbzeit und siegt letztendlich souverän mit 3:1. Nun wartet im Viertelfinal Portugal.
+Die Diskussion um die optimale Dosierung von Vitamin D bleibt unter Experten umstritten. Sind 2000 Vitamin D am Tag sicher?
 
-Welche Worte Coach Luigi Pisino in der Pause gewählt hat, ist nicht bekannt, aber sie zeigen eindeutig Wirkung: Die Minuten nach dem Seitenwechsel sind die besten der U17-Nati in diesem Achtelfinal gegen Irland – und letztendlich die entscheidenden.
-... [weiterlesen](https://www.blick.ch/sport/fussball/nati/u17-wm-achtelfinal-schweiz-irland-live-im-ticker-id21433387.html)
+Vitamin D soll etlichen Krankheiten vorbeugen können. Obwohl in den Medien häufig vor Nebenwirkungen gewarnt wird, nehmen viele, auch ohne Rücksprache mit dem Arzt, Vitamin D ein. Einige gängige Präparate starten bei 2000 IE am Tag. Ist das bereits z... [weiterlesen](https://www.augsburger-allgemeine.de/gesundheit/sind-2000-ie-vitamin-d-am-tag-zu-viel-19-11-25-109045564)
 
-_Relevance score: [3] - A youth football victory generates national pride but has little effect on politics, economy, or long‑term societal issues._
-## 3:1 über Irland an der WM - U17-Nati weiter im Hoch: Nächster Halt Viertelfinal
+_Relevance score: [3] - Provides health‑related guidance on vitamin‑D dosing; useful for individuals but unlikely to affect public policy or large‑scale health outcomes in Switzerland._
+## Mord: Trump weist kritische Journalistin zurecht
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/fussball/fussball-allgemein/3-1-ueber-irland-an-der-wm-u17-nati-weiter-im-hoch-naechster-halt-viertelfinal) • _Dienstag, 18. November 2025, 17:39 Uhr_
+[Blick](https://www.blick.ch/ausland/zweiter-zornausbruch-trumps-in-zwei-tagen-mord-an-khashoggi-journalistin-wagt-brisante-frage-ueber-saudi-kronprinz-id21435175.html) • _Mittwoch, 19. November 2025, 00:32 Uhr_
 
-Die Schweizer U17 setzt ihren Lauf an der WM in Doha fort. Gegen Irland siegt die Schweizer Auswahl im Achtelfinal 3:1.
+Der Mord an Jamal Khashoggi verfolgt die Weltpolitik bis heute. Während Donald Trump den saudischen Kronprinzen in Washington hofiert, bringt eine Journalistin den US-Präsidenten mit einer Khashoggi-Frage auf die Palme.
 
-Die Schweizer U17 schlägt Irland im Achtelfinal der WM in Katar souverän 3:1.
-Alle Tore fallen in der zweiten Halbzeit. Adrien Llukes, Sandro Wyss und Mladen Mijajlovic treffen für die Nati.
-Im Viertelfinal trifft die Schweiz am Freitag auf Portugal.... [weiterlesen](https://www.srf.ch/sport/fussball/fussball-allgemein/3-1-ueber-irland-an-der-wm-u17-nati-weiter-im-hoch-naechster-halt-viertelfinal)
+Daniel KestenholzRedaktor Nachtdienst
+Am 2. Oktober 2018 verschwand der damals prominenteste saudische Regimekritiker Adnan Khashoggi (†59) spurlos. Der Journalist war in Saudi-Arabiens Konsulat in Istanbul gelockt worden – und wurde nie mehr gesehen... [weiterlesen](https://www.blick.ch/ausland/zweiter-zornausbruch-trumps-in-zwei-tagen-mord-an-khashoggi-journalistin-wagt-brisante-frage-ueber-saudi-kronprinz-id21435175.html)
 
-_Relevance score: [3] - Duplicate sports news; same limited civic relevance as the previous item._
-## U17-WM: Schweiz schlägt Irland und steht im Viertelfinal
+_Relevance score: [3] - Focuses on US political drama; while globally visible, it holds minimal direct significance for Swiss public affairs._
+## 120 Jahre ikonische Uhren und Raritäten
 
-[Watson](https://www.watson.ch/sport/fussball/325684277-u17-wm-schweiz-schlaegt-irland-und-steht-im-viertelfinal) • _Dienstag, 18. November 2025, 17:39 Uhr_
+[NZZ Bellevue](https://bellevue.nzz.ch/stil-design/uhren-schmuck/rolex-buch-von-jamens-dowling-120-jahre-ikonische-uhren-und-raritaeten-ld.1908928) • _Mittwoch, 19. November 2025, 06:00 Uhr_
 
-Die Schweizer U17-Nationalmannschaft schlägt Irland und steht im WM-Viertelfinal. Dort trifft die Schweiz am Freitag auf Portugal.
+Der Rolex-Experte James Dowling erzählt in einem neuen Buch die 120-jährige Geschichte der Schweizer Uhrenmanufaktur anhand von 120 ausgewählten Uhren.
 
-Die Schweizer U17 steht im WM-Viertelfinal – dort wartet ein echter Brocken
-Die Schweiz übersteht an der U17-WM in Katar auch das zweite K.o.-Spiel. Das Team von Trainer Luigi Pisino bezwingt Irland 3:1 und trifft im Viertelfinal auf Portugal.
-Nach e... [weiterlesen](https://www.watson.ch/sport/fussball/325684277-u17-wm-schweiz-schlaegt-irland-und-steht-im-viertelfinal)
+Der Autor James Dowling, weltweit als «Mr. Rolex» bekannt, führt in seinem neuen Buch durch die Geschichte einer der bekanntesten Uhrenmarken der Welt. Von der wasserdichten Oyster über die Explorer und die Submariner bis zur Daytona zeigt er auf, wi... [weiterlesen](https://bellevue.nzz.ch/stil-design/uhren-schmuck/rolex-buch-von-jamens-dowling-120-jahre-ikonische-uhren-und-raritaeten-ld.1908928)
 
-_Relevance score: [3] - Another repeat of the U‑17 football result; modest national interest but no structural impact._
-## Schwerer Verkehrsunfall in Schiers mit Personenschaden
+_Relevance score: [2] - A book about Swiss watch history; culturally interesting but limited to niche interest and without broader civic or economic impact._
+## Klimt-Gemälde erzielt Rekordpreis bei Auktion
 
-[Blick](https://www.blick.ch/schweiz/graubuenden/rettungsheli-im-einsatz-schwerer-verkehrsunfall-in-schiers-gr-id21433769.html) • _Dienstag, 18. November 2025, 18:58 Uhr_
+[20 Minuten](https://www.20min.ch/story/rekordpreis-bei-sotheby-s-klimt-gemaelde-fuer-2364-millionen-dollar-versteigert-103453586) • _Mittwoch, 19. November 2025, 05:42 Uhr_
 
-In Schiers ist es am Dienstagabend zu einem schweren Verkehrsunfall gekommen. Ein Blick-Leser berichtete von einem grossen Aufgebot an Polizei- und Rettungskräften. Klar ist: Mindestens eine Person wurde verletzt.
+Das Gemälde «Portrait of Elisabeth Lederer» vom Maler Gustav Klimt setzt neuen Auktionsrekord bei Sotheby’s – auch ein goldenes Klo wird versteigert.
 
-Janine EnderliRedaktorin News
-Schwerer Unfall in Schiers GR: Ein Blick-Leser wurde am Dienstag gegen 16 Uhr auf der Hauptstrasse Zeuge eines Verkehrsunfalls.
-Bilder des Mannes zeigen die Unfallstelle, wo Polizei, Sanität und Rettungshelikopter im Ein... [weiterlesen](https://www.blick.ch/schweiz/graubuenden/rettungsheli-im-einsatz-schwerer-verkehrsunfall-in-schiers-gr-id21433769.html)
+Ein Gemälde des österreichischen Malers Gustav Klimt (1862-1918) ist in New York für 236,4 Millionen Dollar versteigert worden – und damit zum zweitteuersten je bei einer Auktion verkauften Werk der Kunstgeschichte geworden. Das Gemälde «Portrait of ... [weiterlesen](https://www.20min.ch/story/rekordpreis-bei-sotheby-s-klimt-gemaelde-fuer-2364-millionen-dollar-versteigert-103453586)
 
-_Relevance score: [2] - A local traffic accident with injuries is limited to a single municipality and does not affect national policy or broader societal trends._
+_Relevance score: [2] - Record art sale is notable in the luxury market but bears little relevance to Swiss society, governance, or long‑term structural issues._
+## Das ist neu das zweitteuerste Gemälde der Geschichte
+
+[Watson](https://www.watson.ch/international/kunst/376333877-das-ist-neu-das-zweitteuerste-gemaelde-der-geschichte) • _Mittwoch, 19. November 2025, 05:02 Uhr_
+
+Ein Gemälde des österreichischen Malers Gustav Klimt (1862-1918) ist in New York für 236,4 Millionen Dollar (etwa 189 Millionen Franken) versteigert worden
+
+Das ist neu das zweitteuerste Gemälde der Geschichte (und die Nummern 1 und 3)
+Ein Gemälde des österreichischen Malers Gustav Klimt (1862-1918) ist in New York für 236,4 Millionen Dollar (etwa 189 Millionen Franken) versteigert worden – und damit zum... [weiterlesen](https://www.watson.ch/international/kunst/376333877-das-ist-neu-das-zweitteuerste-gemaelde-der-geschichte)
+
+_Relevance score: [2] - Repeats the Klimt auction news; same limited relevance to broader Swiss or global affairs._
 
 </details>
