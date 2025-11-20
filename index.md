@@ -1,101 +1,107 @@
-_Aktualisiert: Donnerstag, 20. November 2025, 07:22 Uhr_
+_Aktualisiert: Donnerstag, 20. November 2025, 19:22 Uhr_
 
-## USA und Russland entwickeln geheimen Friedensplan für die Ukraine
-
-[20 Minuten](https://www.20min.ch/story/ohne-europa-und-kiew-russland-und-usa-arbeiten-geheimen-ukraine-friedensplan-aus-103453916) • _Mittwoch, 19. November 2025, 18:13 Uhr_
-
-Ein geheimer 28-Punkte-Plan von USA und Russland könnte den Ukraine-Konflikt beenden, ohne Europa und Kiew einzubeziehen.
-
-Washington hat laut einem Bericht des US-Nachrichtenportals «Axios» heimlich einen Plan mit Russland ausgearbeitet, um den Krieg in der Ukraine zu beenden. Der neue 28-Punkte-Plan soll demnach «Sicherheitsgarantien, Sicherheit in Europa sowie die kün... [weiterlesen](https://www.20min.ch/story/ohne-europa-und-kiew-russland-und-usa-arbeiten-geheimen-ukraine-friedensplan-aus-103453916)
-
-_Relevance score: [8] - A covert US‑Russia initiative to end the Ukraine war could reshape European security architecture, affect Swiss neutrality considerations, and have long‑term geopolitical consequences._
-## Zoll-Deal mit Trump: Wie die Schweiz im Vergleich zur EU abschneidet
-
-[NZZ](https://www.nzz.ch/wirtschaft/zoll-deal-mit-trump-wie-die-schweiz-im-vergleich-zur-eu-abschneidet-ld.1912560) • _Mittwoch, 19. November 2025, 17:30 Uhr_
-
-Die USA haben mit massiven Zolldrohungen von anderen Akteuren Konzessionen erpresst. Für die Schweiz sieht das Bild noch etwas schlechter aus als für die EU.
-
-Hat die Schweiz von den USA einen besseren oder schlechteren Deal bekommen als die EU? Diese Frage ist nicht schlüssig zu beantworten. In beiden Fällen liegen erst rechtlich unverbindliche und zum Teil diffuse Absichtserklärungen vor. Dennoch liefert... [weiterlesen](https://www.nzz.ch/wirtschaft/zoll-deal-mit-trump-wie-die-schweiz-im-vergleich-zur-eu-abschneidet-ld.1912560)
-
-_Relevance score: [7] - Analysis of US trade pressure and Switzerland’s position relative to the EU touches on national economic interests and could influence future customs negotiations._
+Keine wichtigen Ereignisse in den letzten 12 Stunden.
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Botschafterin Callista Gingrich in Bern: «Wir stehen an der Schwelle zu einer aufregenden Partnerschaft»
+## Händler Costco eröffnet heute in Mülhausen (F) nahe Basel
 
-[20 Minuten](https://www.20min.ch/story/zoll-absichtserklaerung-neue-us-botschafterin-in-bern-koennen-fast-alles-erreichen-103453663) • _Mittwoch, 19. November 2025, 18:53 Uhr_
+[Blick](https://www.blick.ch/wirtschaft/neue-filiale-von-us-riese-in-mulhouse-f-jetzt-gehen-bei-costco-die-tueren-auf-id21439012.html) • _Donnerstag, 20. November 2025, 07:05 Uhr_
 
-Die neue US-Botschafterin in Bern, Callista Gingrich, will die wirtschaftlichen Beziehungen zur Schweiz intensivieren und spricht von einer aufregenden Zukunft.
+Heute um 7 Uhr eröffnete der US-Händler Costco seine erste Filiale nahe der Schweizer Grenze. Der Mega-Store ist nur 25 Autominuten von Basel entfernt und lockt mit Hunderten Gratis-Parkplätzen und 14'000 Quadratmeter Einkaufsfläche. Blick berichtet live vor Ort.
 
-Die neue US-Botschafterin in Bern, Callista Gingrich, hat sich offenbar gut in der Bundesstadt eingelebt. Die Amerikanerin mit Vorfahren aus dem Kanton Bern ist seit rund einem Monat im Amt. Am Dienstagabend hat sie im noblen Bellevue Palace in Bern ... [weiterlesen](https://www.20min.ch/story/zoll-absichtserklaerung-neue-us-botschafterin-in-bern-koennen-fast-alles-erreichen-103453663)
+Plötzlich ging alles ganz schnell: Lange machte der US-Händler Costco ein Geheimnis darum, wann er seinen ersten Standort nahe der Schweizer Grenze eröffnen wird. Heute ist es so weit: Nur 25 Autominuten von Basel entfernt öffnet der Konzern aus den ... [weiterlesen](https://www.blick.ch/wirtschaft/neue-filiale-von-us-riese-in-mulhouse-f-jetzt-gehen-bei-costco-die-tueren-auf-id21439012.html)
 
-_Relevance score: [4] - The appointment of a new US ambassador and her diplomatic rhetoric are relevant for Swiss‑US relations, but the statement is largely symbolic and does not signal an immediate policy shift._
-## "Richtet das euren unzähligen Bots aus"
+_Relevance score: [5] - The opening of a large US retailer close to the Swiss border will affect cross‑border shopping, retail competition and local employment, giving it moderate national relevance._
+## Donald Trumps Beliebtheit fällt in den USA auf neuen Tiefstand
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/richtet-das-euren-unzaehligen-bots-aus-die-nerven-ziemlich-der-freisinn-greift-die-svp-an-ld.1912633) • _Mittwoch, 19. November 2025, 17:57 Uhr_
+[Watson](https://www.watson.ch/international/usa/992986655-donald-trumps-beliebtheit-faellt-in-den-usa-auf-neuen-tiefstand) • _Donnerstag, 20. November 2025, 05:13 Uhr_
 
-Die FDP entdeckt in diesen Tagen eine neue Lust an politischen Provokationen.
+Nur noch 38 Prozent der US-Amerikaner unterstützen Donald Trump. Dafür gibt es hauptsächlich zwei Gründe.
 
-Schnitzelbänkler freuen sich: In Bern ist die Fasnacht schon lanciert.
-Anfang Woche veröffentlichte Susanne Vincenz-Stauffacher, Co-Präsidentin der FDP und Befürworterin der neuen EU-Verträge, im Internet einen Beitrag, in dem sie die SVP kritisierte... [weiterlesen](https://www.nzz.ch/schweiz/richtet-das-euren-unzaehligen-bots-aus-die-nerven-ziemlich-der-freisinn-greift-die-svp-an-ld.1912633)
+Nur noch 38 Prozent der US-Amerikaner unterstützen Donald Trump. Dafür gibt es hauptsächlich zwei Gründe.
+Die Zustimmung zu US-Präsident Donald Trump ist einer Umfrage zufolge auf den niedrigsten Stand seiner zweiten Amtszeit gefallen. Demnach sind n... [weiterlesen](https://www.watson.ch/international/usa/992986655-donald-trumps-beliebtheit-faellt-in-den-usa-auf-neuen-tiefstand)
 
-_Relevance score: [4] - The piece reflects intra‑Swiss political sparring between the FDP and SVP; while it shows partisan tension, it does not alter policy or institutional structures._
-## AI-Musikunternehmen Suno nach jüngster Finanzierungsrunde mit 2,45 Milliarden Dollar bewertet
+_Relevance score: [5] - US political poll; globally noteworthy but has limited direct effect on Swiss public affairs or policy._
+## Ameti und Manser-Egli geben Präsidium von Operation Libero ab
 
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/ki-musikunternehmen-suno-erreicht-bewertung-von-2-45-milliarden-us-dollar-nach-juengster-finanzierung-ce7d5ed9db8cf322) • _Mittwoch, 19. November 2025, 18:27 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/wechsel-im-co-praesidium-ameti-und-manser-egli-geben-praesidium-von-operation-libero-ab) • _Donnerstag, 20. November 2025, 06:51 Uhr_
 
-Suno gab am Mittwoch bekannt, dass das Unternehmen in einer von Menlo Ventures geleiteten Finanzierungsrunde 250 Millionen US-Dollar eingesammelt hat. Damit wird das auf künstliche Intelligenz...
+Sanija Ameti und Stefan Manser-Egli geben das Co-Präsidium ab. Die Suche nach der geeigneten Nachfolge laufe ab sofort.
 
-Suno gab am Mittwoch bekannt, dass das Unternehmen in einer von Menlo Ventures geleiteten Finanzierungsrunde 250 Millionen US-Dollar eingesammelt hat. Damit wird das auf künstliche Intelligenz spezialisierte Musikunternehmen mit 2,45 Milliarden US-Do... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/ki-musikunternehmen-suno-erreicht-bewertung-von-2-45-milliarden-us-dollar-nach-juengster-finanzierung-ce7d5ed9db8cf322)
+Die Bewegung Operation Libero muss sich ein neues Präsidium suchen. Das Co-Präsidium Sanija Ameti und Stefan Manser-Egli hört auf.
+Im Interview mit dem Onlinemagazin «Republik» gaben die beiden den Entscheid bekannt.
+Die Nachfolgesuche ist im Gang.
+«... [weiterlesen](https://www.srf.ch/news/schweiz/wechsel-im-co-praesidium-ameti-und-manser-egli-geben-praesidium-von-operation-libero-ab)
 
-_Relevance score: [3] - A US‑based AI music startup’s valuation is notable for the tech sector but has limited direct impact on Switzerland’s economy, politics, or society._
-## Kulturnews in Kurzform - Keine Chance auf Buchpreis - wegen KI-Covern
+_Relevance score: [4] - Leadership change in a Swiss political movement may influence liberal activism, but the effect is limited to a niche political circle._
+## Symbol für Deutschlands Versagen bei Grossprojekten
 
-[srf.ch](https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-keine-chance-auf-buchpreis-wegen-ki-covern) • _Mittwoch, 19. November 2025, 18:18 Uhr_
+[NZZ](https://www.nzz.ch/der-andere-blick/deutschland-lernt-nichts-dazu-die-verschiebung-von-stuttgart-21-ist-ein-symbol-fuer-das-versagen-bei-grossprojekten-ld.1912653) • _Donnerstag, 20. November 2025, 05:30 Uhr_
 
-Neuseeland: Zwei Autorinnen wurden wegen ihrer KI-Buchcover vom wichtigsten Literaturpreis des Landes ausgeschlossen.
+Es ist unsicher, wann der unterirdische Bahnhof eröffnet wird. Deutschland macht sich zum Gespött. Die Schweiz zeigt, wie es besser gehen kann.
 
-Autor: Am Ticker ist Tino Gerdesius
-Die Bücher zweier preisgekrönter neuseeländischer Autorinnen wurden vom wichtigsten Literaturpreis des Landes ausgeschlossen, da sie bei der Erstellung ihrer Coverdesigns künstliche Intelligenz verwendet haben.
-Vor... [weiterlesen](https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-keine-chance-auf-buchpreis-wegen-ki-covern)
+Sie lesen einen Auszug aus dem Newsletter «Der andere Blick am Morgen», heute von Susann Kreutzmann, Redaktorin NZZ Deutschland. Abonnieren Sie den Newsletter kostenlos. Nicht in Deutschland wohnhaft? Hier profitieren.
+Wieder einmal wurde die Eröffnu... [weiterlesen](https://www.nzz.ch/der-andere-blick/deutschland-lernt-nichts-dazu-die-verschiebung-von-stuttgart-21-ist-ein-symbol-fuer-das-versagen-bei-grossprojekten-ld.1912653)
 
-_Relevance score: [2] - The controversy concerns New Zealand literary awards and AI‑generated cover art; it has no substantive effect on Swiss cultural policy or public life._
-## Töffli-Fahrerin stirbt nach Kollision mit Auto in Knutwil
+_Relevance score: [4] - Commentary on a German infrastructure project (Stuttgart‑21) with a Swiss comparative angle; relevance is indirect and mainly illustrative, not a direct Swiss issue._
+## Schweizer Shops verkaufen Carolina-Reaper-Chili: Gefährliche Mutprobe für Jugendliche?
 
-[20 Minuten](https://www.20min.ch/story/knutwil-lu-frontalcrash-zwischen-toeff-und-auto-fordert-ein-todesopfer-103453935) • _Mittwoch, 19. November 2025, 17:23 Uhr_
+[20 Minuten](https://www.20min.ch/story/ultrascharfe-chili-nach-hot-chip-skandal-jetzt-verkaufen-shops-ganze-schoten-103452947) • _Donnerstag, 20. November 2025, 04:52 Uhr_
 
-Eine 57-jährige Töffli-Fahrerin verstarb bei einem Unfall in Knutwil, als sie nach links abbiegen wollte und mit einem Auto kollidierte.
+Nach dem Hot-Chip-Skandal bieten Online-Shops in der Schweiz nun ganze Carolina-Reaper-Schoten an, die extreme Schmerzen verursachen können.
 
-Am Mittwochmorgen ist im Kanton Luzern eine Motorradfahrerin bei einem Unfall ums Leben gekommen. Die 57-Jährige fuhr um etwa 10.50 Uhr in Knutwil mit einem Kleinmotorrad auf der Mauenseestrasse Richtung Mauensee.
-Auf Höhe Bollmatt wollte sie nach li... [weiterlesen](https://www.20min.ch/story/knutwil-lu-frontalcrash-zwischen-toeff-und-auto-fordert-ein-todesopfer-103453935)
+Vor zwei Jahren ging die «Hot Chip Challenge» viral: Kinder und Jugendliche bissen als Mutprobe in ultrastarke Chips mit Carolina-Reaper-Chili – und bis zu 2,2 Millionen Scoville. Die Folgen waren drastisch: In Deutschland gab es Hospitalisierungen, ... [weiterlesen](https://www.20min.ch/story/ultrascharfe-chili-nach-hot-chip-skandal-jetzt-verkaufen-shops-ganze-schoten-103452947)
 
-_Relevance score: [2] - A tragic local traffic accident is of human interest but bears no broader civic or structural significance beyond the immediate community._
-## Synopsys, Inc. ernennt Mike Ellow zum Chief Revenue Officer ab dem 20. November
+_Relevance score: [3] - Reports on the sale of extremely hot chilies and associated youth safety concerns; modest public‑health relevance within Switzerland._
+## Beachvolleyball-WM in Adelaide - Krattiger/Dillier scheitern im Achtelfinal
 
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/synopsys-inc-ernennt-mike-ellow-zum-chief-revenue-officer-ab-dem-20-november-ce7d5ed9d88df720) • _Mittwoch, 19. November 2025, 16:22 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/mehr-sport/beachvolleyball/beachvolleyball-wm-in-adelaide-krattiger-dillier-scheitern-im-achtelfinal) • _Donnerstag, 20. November 2025, 07:14 Uhr_
 
-Synopsys, Inc. hat bekannt gegeben, dass Mike Ellow ab dem 20. November als Chief Revenue Officer in das Unternehmen eintritt. In dieser Funktion wird er die Go-to-Market-Organisation des Unternehmens...
+Für das letzte Schweizer Duo Marco Krattiger/Leo Dillier bedeutet der Achtelfinal in Adelaide Endstation.
 
-Synopsys, Inc. hat bekannt gegeben, dass Mike Ellow ab dem 20. November als Chief Revenue Officer in das Unternehmen eintritt. In dieser Funktion wird er die Go-to-Market-Organisation des Unternehmens leiten und dem Führungsteam beitreten. Er bericht... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/synopsys-inc-ernennt-mike-ellow-zum-chief-revenue-officer-ab-dem-20-november-ce7d5ed9d88df720)
+Die Schweiz ist in der Endphase der Beachvolleyball-WM in Adelaide nicht mehr vertreten: Marco Krattiger und Leo Dillier haben den Viertelfinal-Einzug verpasst.
+Krattiger und Dillier hielten gegen das brasilianische Gespann Evandro/Arthur Lanci, die ... [weiterlesen](https://www.srf.ch/sport/mehr-sport/beachvolleyball/beachvolleyball-wm-in-adelaide-krattiger-dillier-scheitern-im-achtelfinal)
 
-_Relevance score: [2] - Executive changes at a US semiconductor firm are important for the company’s investors but have negligible direct impact on Swiss industry or policy._
-## Fauxpas bei Treffen mit König Charles
+_Relevance score: [2] - A sports result for a Swiss duo; interesting to fans but no structural, economic or political impact on Switzerland or the world._
+## Schweizer Autorin Katja Früh thematisiert Narzissmus im Roman. "Vielleicht ist die Liebe so"
 
-[Blick](https://www.blick.ch/people-tv/international/bei-treffen-mit-koenig-charles-nippel-panik-bei-titanic-star-kate-winslet-id21438035.html) • _Mittwoch, 19. November 2025, 17:06 Uhr_
+[20 Minuten](https://www.20min.ch/story/schweizer-autorin-katja-frueh-thematisiert-narzissmus-im-roman-vielleicht-ist-die-liebe-so-103450406) • _Donnerstag, 20. November 2025, 04:51 Uhr_
 
-Kate Winslet berichtet von ihrem ersten Treffen mit König Charles im Jahr 1996. Damals trug sie ein transparentes Spitzen-Outfit und geriet in Panik, wegen eines möglichen Nippel-Fauxpas.
+In «Vielleicht ist die Liebe so» verarbeitet Katja Früh ihre Erfahrungen mit einer narzisstischen Mutter und beleuchtet deren Auswirkungen.
 
-«Nippel! Nippel! Nippel! Oh mein Gott!» Diese Worte schossen Kate Winslet (50) durch den Kopf, als der heutige König Charles (77) im Jahr 1996 zum ersten Mal auf sie zukam. Sie realisierte, dass sie ein durchsichtiges Spitzen-Outfit trug. Völlig unpa... [weiterlesen](https://www.blick.ch/people-tv/international/bei-treffen-mit-koenig-charles-nippel-panik-bei-titanic-star-kate-winslet-id21438035.html)
+In ihrem Debütroman «Vielleicht ist die Liebe so» beleuchtet Katja Früh (72) das Thema weiblicher Narzissmus. Ihre Protagonistin Anja kämpft mit einer narzisstischen Mutter. Im Interview mit 20 Minuten erzählt die Zürcherin, wie ihre eigenen Erfahrun... [weiterlesen](https://www.20min.ch/story/schweizer-autorin-katja-frueh-thematisiert-narzissmus-im-roman-vielleicht-ist-die-liebe-so-103450406)
 
-_Relevance score: [1] - Celebrity anecdote about a 1996 meeting offers entertainment value only and bears no relevance to Swiss or global public affairs._
-## Neuauflage "Anthology": Deshalb sind Fans sauer auf die Beatles
+_Relevance score: [2] - Literary interview; cultural interest but negligible impact on societal structures or policy._
+## "Remnick" auf Apple TV+: der eiskalte Thriller, der einen nicht mehr loslässt
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/radio-srf-3/musik/neuauflage-anthology-2025-deshalb-sind-die-fans-sauer-auf-die-beatles) • _Mittwoch, 19. November 2025, 15:48 Uhr_
+[Cineman](https://www.cineman.ch/article/remnick-auf-apple-tv-der-eiskalte-thriller-der-einen-nicht-mehr-losl%C3%A4sst) • _Donnerstag, 20. November 2025, 07:00 Uhr_
 
-Die «Anthology» wird neu aufgelegt und enttäuscht Fans schon vor dem Release.
+Cineman - Nach dem Film ist vor dem Film. Kinoprogramme, Filmkritiken, DVD, Poster, Trailer, Interviews, Startlisten, Filmnews, Charts, Wettbewerbe und vieles mehr.
 
-«Wir haben Besseres verdient», schreibt ein Fan über die Neuauflage der «Anthology» auf Reddit. Der Ärger ist gross – vielleicht gerade deshalb, weil die «Anthology» für viele fast heilig ist: Endlich miterleben, wie Ringo Starr seinen Kumpels das er... [weiterlesen](https://www.srf.ch/radio-srf-3/musik/neuauflage-anthology-2025-deshalb-sind-die-fans-sauer-auf-die-beatles)
+Am 10. Oktober stellten Jon Bokenkamp und Richard D'Ovidio ihre neue Serie «Remnick» vor. Während die achte Folge kurz vor der Veröffentlichung steht, bleibt noch genug Zeit, in diese mitreissende Geschichte einzutauchen, bevor am 5. Dezember das gro... [weiterlesen](https://www.cineman.ch/article/remnick-auf-apple-tv-der-eiskalte-thriller-der-einen-nicht-mehr-losl%C3%A4sst)
 
-_Relevance score: [1] - Fan reaction to a reissued Beatles compilation is cultural gossip without measurable effect on Swiss society or the broader music market._
+_Relevance score: [1] - Pure entertainment news; no civic, economic or long‑term significance for Switzerland or globally._
+## Tales of Berseria Remastered erscheint im Februar 2026
+
+[Nau.ch](https://www.nau.ch/news/games/tales-of-berseria-remastered-erscheint-im-februar-2026-67067355) • _Donnerstag, 20. November 2025, 05:43 Uhr_
+
+Bandai Namco bringt Tales of Berseria Remastered mit neuen Features, DLCs und Qualitätsverbesserungen zurück.
+
+Sandra Morgenroth
+Japan , 20.11.2025 - 05:43
+Bandai Namco bringt Tales of Berseria Remastered mit neuen Features, DLCs und Qualitätsverbesserungen zurück.
+Bandai Namco kündigte die Veröffentlichung von Tales of Berseria Remastered am 18. November 202... [weiterlesen](https://www.nau.ch/news/games/tales-of-berseria-remastered-erscheint-im-februar-2026-67067355)
+
+_Relevance score: [1] - Announcement of a video‑game re‑release; culturally interesting but without broader societal impact._
+## Super scharfe Chilis essen: Was passiert mit deinem Körper?
+
+[20 Minuten](https://www.20min.ch/story/scharfmacher-das-passiert-in-deinem-koerper-wenn-du-eine-carolina-reaper-isst-103452636) • _Donnerstag, 20. November 2025, 04:52 Uhr_
+
+Das Capsaicin verleiht Chilis ihre Schärfe. Wer zu viel davon verdrückt, mutet seinem Körper einiges zu. Was genau geschieht?
+
+Schaffe ich es, eine ganze Flasche Chilisauce leer zu trinken? Kann ich wirklich 50 Carolina-Reaper-Chilis auf einmal verdrücken? Extreme Schärfe übt augenscheinlich einen unwiderstehlichen Reiz auf gewisse experimentierfreudige Individuen aus. Doch ... [weiterlesen](https://www.20min.ch/story/scharfmacher-das-passiert-in-deinem-koerper-wenn-du-eine-carolina-reaper-isst-103452636)
+
+_Relevance score: [1] - Health‑focused lifestyle piece; little beyond individual curiosity, no structural relevance._
 
 </details>
