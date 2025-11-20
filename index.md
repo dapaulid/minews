@@ -1,102 +1,101 @@
-_Aktualisiert: Mittwoch, 19. November 2025, 19:22 Uhr_
+_Aktualisiert: Donnerstag, 20. November 2025, 07:22 Uhr_
 
-## Doppelter Totalabsturz droht: Service-Citoyen- und Juso-Initiative im Sinkflug
+## USA und Russland entwickeln geheimen Friedensplan für die Ukraine
 
-[20 Minuten](https://www.20min.ch/story/abstimmungsumfrage-service-citoyen-und-juso-initiative-doppelter-totalabsturz-droht-103453103) • _Mittwoch, 19. November 2025, 04:33 Uhr_
+[20 Minuten](https://www.20min.ch/story/ohne-europa-und-kiew-russland-und-usa-arbeiten-geheimen-ukraine-friedensplan-aus-103453916) • _Mittwoch, 19. November 2025, 18:13 Uhr_
 
-Die neusten Umfragen zeigen einen drastischen Rückgang der Unterstützung für die Service-Citoyen- und Juso-Initiative.
+Ein geheimer 28-Punkte-Plan von USA und Russland könnte den Ukraine-Konflikt beenden, ohne Europa und Kiew einzubeziehen.
 
-In weniger als zwei Wochen entscheidet die Schweizer Stimmbevölkerung, ob alle Jungen künftig einen Bürgerdienst leisten müssen – und ob grosse Erbschaften ab 50 Millionen zur Hälfte besteuert werden.
-Wie die aktuelle Umfrage von LeeWas im Auftrag vo... [weiterlesen](https://www.20min.ch/story/abstimmungsumfrage-service-citoyen-und-juso-initiative-doppelter-totalabsturz-droht-103453103)
+Washington hat laut einem Bericht des US-Nachrichtenportals «Axios» heimlich einen Plan mit Russland ausgearbeitet, um den Krieg in der Ukraine zu beenden. Der neue 28-Punkte-Plan soll demnach «Sicherheitsgarantien, Sicherheit in Europa sowie die kün... [weiterlesen](https://www.20min.ch/story/ohne-europa-und-kiew-russland-und-usa-arbeiten-geheimen-ukraine-friedensplan-aus-103453916)
 
-_Relevance score: [8] - Covers two upcoming referendums on mandatory civilian service and a wealth‑tax proposal—issues that could materially alter Swiss fiscal and civic policy, making it highly relevant._
-## "Reuss-Initiative": Wie wird ein Fluss zur Rechtspersönlichkeit?
+_Relevance score: [8] - A covert US‑Russia initiative to end the Ukraine war could reshape European security architecture, affect Swiss neutrality considerations, and have long‑term geopolitical consequences._
+## Zoll-Deal mit Trump: Wie die Schweiz im Vergleich zur EU abschneidet
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/recht-fuer-die-natur-wenn-der-fluss-vor-gericht-geht) • _Mittwoch, 19. November 2025, 07:02 Uhr_
+[NZZ](https://www.nzz.ch/wirtschaft/zoll-deal-mit-trump-wie-die-schweiz-im-vergleich-zur-eu-abschneidet-ld.1912560) • _Mittwoch, 19. November 2025, 17:30 Uhr_
 
-Im Kanton Luzern ist die Idee, dass Gewässer Rechte erhalten sollen, einen Schritt weiter.
+Die USA haben mit massiven Zolldrohungen von anderen Akteuren Konzessionen erpresst. Für die Schweiz sieht das Bild noch etwas schlechter aus als für die EU.
 
-Braucht die Natur ein Recht auf Recht? Im Kanton Luzern sollen alle öffentlichen Gewässer Grundrechte bekommen: Sie sollen eigene Rechtspersönlichkeiten werden. Das will die Reuss-Initiative. Über 5000 Personen unterstützen die Forderung. Das bedeute... [weiterlesen](https://www.srf.ch/news/schweiz/recht-fuer-die-natur-wenn-der-fluss-vor-gericht-geht)
+Hat die Schweiz von den USA einen besseren oder schlechteren Deal bekommen als die EU? Diese Frage ist nicht schlüssig zu beantworten. In beiden Fällen liegen erst rechtlich unverbindliche und zum Teil diffuse Absichtserklärungen vor. Dennoch liefert... [weiterlesen](https://www.nzz.ch/wirtschaft/zoll-deal-mit-trump-wie-die-schweiz-im-vergleich-zur-eu-abschneidet-ld.1912560)
 
-_Relevance score: [7] - Introduces legal personhood for rivers in Canton Luzern, a pioneering change that could reshape Swiss environmental law and set a precedent for nationwide nature‑rights legislation._
+_Relevance score: [7] - Analysis of US trade pressure and Switzerland’s position relative to the EU touches on national economic interests and could influence future customs negotiations._
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Die Schweiz fährt an die WM 2026
+## Botschafterin Callista Gingrich in Bern: «Wir stehen an der Schwelle zu einer aufregenden Partnerschaft»
 
-[NZZ](https://www.nzz.ch/sport/die-schweiz-faehrt-an-die-wm-2026-die-qualifikation-endet-mit-dem-11-in-kosovo-ld.1912522) • _Mittwoch, 19. November 2025, 05:30 Uhr_
+[20 Minuten](https://www.20min.ch/story/zoll-absichtserklaerung-neue-us-botschafterin-in-bern-koennen-fast-alles-erreichen-103453663) • _Mittwoch, 19. November 2025, 18:53 Uhr_
 
-Mit dem 1:1 in Kosovo beenden die Schweizer Fussballer nicht nur die WM-Qualifikation, sondern auch das Kalenderjahr ungeschlagen. Die Kontinuität hat viel mit Murat Yakin zu tun, der als Nationaltrainer bisher noch jedes Ziel erreicht hat.
+Die neue US-Botschafterin in Bern, Callista Gingrich, will die wirtschaftlichen Beziehungen zur Schweiz intensivieren und spricht von einer aufregenden Zukunft.
 
-Als Granit Xhaka in der 76. Minute vom Feld ging und dem Publikum applaudierte, gaben sich die kosovarischen Fans doch noch versöhnlich: Sie verabschiedeten den Captain der Schweizer mit Standing Ovations. Zuvor hatte ein Teil des kosovarischen Anhan... [weiterlesen](https://www.nzz.ch/sport/die-schweiz-faehrt-an-die-wm-2026-die-qualifikation-endet-mit-dem-11-in-kosovo-ld.1912522)
+Die neue US-Botschafterin in Bern, Callista Gingrich, hat sich offenbar gut in der Bundesstadt eingelebt. Die Amerikanerin mit Vorfahren aus dem Kanton Bern ist seit rund einem Monat im Amt. Am Dienstagabend hat sie im noblen Bellevue Palace in Bern ... [weiterlesen](https://www.20min.ch/story/zoll-absichtserklaerung-neue-us-botschafterin-in-bern-koennen-fast-alles-erreichen-103453663)
 
-_Relevance score: [4] - Qualifying for the World Cup is a source of national pride and media interest, yet its impact on society or policy is modest and short‑term._
-## Die Schweiz ist an der WM 2026 dabei - da reicht ein 1:1 gegen Kosovo
+_Relevance score: [4] - The appointment of a new US ambassador and her diplomatic rhetoric are relevant for Swiss‑US relations, but the statement is largely symbolic and does not signal an immediate policy shift._
+## "Richtet das euren unzähligen Bots aus"
 
-[Watson](https://www.watson.ch/sport/fussball/165944349-die-schweiz-ist-an-der-wm-2026-dabei-da-reicht-ein-1-1-gegen-kosovo) • _Dienstag, 18. November 2025, 23:52 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/richtet-das-euren-unzaehligen-bots-aus-die-nerven-ziemlich-der-freisinn-greift-die-svp-an-ld.1912633) • _Mittwoch, 19. November 2025, 17:57 Uhr_
 
-Die Schweiz ist für die WM 2026 qualifiziert. Im Kosovo reichte der Nati ein 1:1-Unentschieden. Granit Xhaka wurde in Pristina ausgebuht.
+Die FDP entdeckt in diesen Tagen eine neue Lust an politischen Provokationen.
 
-Die Schweiz ist an der WM 2026 dabei! Zum Abschluss reicht ein 1:1 im Kosovo
-Das Schweizer Fussball-Nationalteam nimmt nächstes Jahr zum sechsten Mal in Folge an einer WM-Endrunde teil. Den entscheidenden letzten macht man mit einem 1:1 im Kosovo.
-Be... [weiterlesen](https://www.watson.ch/sport/fussball/165944349-die-schweiz-ist-an-der-wm-2026-dabei-da-reicht-ein-1-1-gegen-kosovo)
+Schnitzelbänkler freuen sich: In Bern ist die Fasnacht schon lanciert.
+Anfang Woche veröffentlichte Susanne Vincenz-Stauffacher, Co-Präsidentin der FDP und Befürworterin der neuen EU-Verträge, im Internet einen Beitrag, in dem sie die SVP kritisierte... [weiterlesen](https://www.nzz.ch/schweiz/richtet-das-euren-unzaehligen-bots-aus-die-nerven-ziemlich-der-freisinn-greift-die-svp-an-ld.1912633)
 
-_Relevance score: [4] - Another report on the football qualification; carries the same moderate national‑interest value as the earlier WM story._
-## Rückblick auf die Quali - Die Nati an der WM 2026 - dank Startfurioso und Bollwerk
+_Relevance score: [4] - The piece reflects intra‑Swiss political sparring between the FDP and SVP; while it shows partisan tension, it does not alter policy or institutional structures._
+## AI-Musikunternehmen Suno nach jüngster Finanzierungsrunde mit 2,45 Milliarden Dollar bewertet
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/fussball/nationalmannschaft/rueckblick-auf-die-quali-die-nati-an-der-wm-2026-dank-startfurioso-und-bollwerk) • _Dienstag, 18. November 2025, 22:53 Uhr_
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/ki-musikunternehmen-suno-erreicht-bewertung-von-2-45-milliarden-us-dollar-nach-juengster-finanzierung-ce7d5ed9db8cf322) • _Mittwoch, 19. November 2025, 18:27 Uhr_
 
-Das Team von Trainer Murat Yakin kann für die WM 2026 in Übersee planen. Wir lassen die Qualifikation Revue passieren.
+Suno gab am Mittwoch bekannt, dass das Unternehmen in einer von Menlo Ventures geleiteten Finanzierungsrunde 250 Millionen US-Dollar eingesammelt hat. Damit wird das auf künstliche Intelligenz...
 
-2006, 2010, 2014, 2018, 2022 – und nun 2026. Die Schweiz hat zum 6. Mal in Folge das Ticket für eine Weltmeisterschaft gelöst. Selten präsentierte sich die Nati so souverän wie in dieser Kampagne. Wir blicken zurück und stellen fest: Der Grundstein f... [weiterlesen](https://www.srf.ch/sport/fussball/nationalmannschaft/rueckblick-auf-die-quali-die-nati-an-der-wm-2026-dank-startfurioso-und-bollwerk)
+Suno gab am Mittwoch bekannt, dass das Unternehmen in einer von Menlo Ventures geleiteten Finanzierungsrunde 250 Millionen US-Dollar eingesammelt hat. Damit wird das auf künstliche Intelligenz spezialisierte Musikunternehmen mit 2,45 Milliarden US-Do... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/ki-musikunternehmen-suno-erreicht-bewertung-von-2-45-milliarden-us-dollar-nach-juengster-finanzierung-ce7d5ed9db8cf322)
 
-_Relevance score: [4] - A retrospective on the qualification campaign; primarily sports coverage with limited structural impact._
-## Sind 2000 IE Vitamin D am Tag zu viel?
+_Relevance score: [3] - A US‑based AI music startup’s valuation is notable for the tech sector but has limited direct impact on Switzerland’s economy, politics, or society._
+## Kulturnews in Kurzform - Keine Chance auf Buchpreis - wegen KI-Covern
 
-[Augsburger Allgemeine](https://www.augsburger-allgemeine.de/gesundheit/sind-2000-ie-vitamin-d-am-tag-zu-viel-19-11-25-109045564) • _Mittwoch, 19. November 2025, 06:57 Uhr_
+[srf.ch](https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-keine-chance-auf-buchpreis-wegen-ki-covern) • _Mittwoch, 19. November 2025, 18:18 Uhr_
 
-Die Diskussion um die optimale Dosierung von Vitamin D bleibt unter Experten umstritten. Sind 2000 Vitamin D am Tag sicher?
+Neuseeland: Zwei Autorinnen wurden wegen ihrer KI-Buchcover vom wichtigsten Literaturpreis des Landes ausgeschlossen.
 
-Vitamin D soll etlichen Krankheiten vorbeugen können. Obwohl in den Medien häufig vor Nebenwirkungen gewarnt wird, nehmen viele, auch ohne Rücksprache mit dem Arzt, Vitamin D ein. Einige gängige Präparate starten bei 2000 IE am Tag. Ist das bereits z... [weiterlesen](https://www.augsburger-allgemeine.de/gesundheit/sind-2000-ie-vitamin-d-am-tag-zu-viel-19-11-25-109045564)
+Autor: Am Ticker ist Tino Gerdesius
+Die Bücher zweier preisgekrönter neuseeländischer Autorinnen wurden vom wichtigsten Literaturpreis des Landes ausgeschlossen, da sie bei der Erstellung ihrer Coverdesigns künstliche Intelligenz verwendet haben.
+Vor... [weiterlesen](https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-keine-chance-auf-buchpreis-wegen-ki-covern)
 
-_Relevance score: [3] - Provides health‑related guidance on vitamin‑D dosing; useful for individuals but unlikely to affect public policy or large‑scale health outcomes in Switzerland._
-## Mord: Trump weist kritische Journalistin zurecht
+_Relevance score: [2] - The controversy concerns New Zealand literary awards and AI‑generated cover art; it has no substantive effect on Swiss cultural policy or public life._
+## Töffli-Fahrerin stirbt nach Kollision mit Auto in Knutwil
 
-[Blick](https://www.blick.ch/ausland/zweiter-zornausbruch-trumps-in-zwei-tagen-mord-an-khashoggi-journalistin-wagt-brisante-frage-ueber-saudi-kronprinz-id21435175.html) • _Mittwoch, 19. November 2025, 00:32 Uhr_
+[20 Minuten](https://www.20min.ch/story/knutwil-lu-frontalcrash-zwischen-toeff-und-auto-fordert-ein-todesopfer-103453935) • _Mittwoch, 19. November 2025, 17:23 Uhr_
 
-Der Mord an Jamal Khashoggi verfolgt die Weltpolitik bis heute. Während Donald Trump den saudischen Kronprinzen in Washington hofiert, bringt eine Journalistin den US-Präsidenten mit einer Khashoggi-Frage auf die Palme.
+Eine 57-jährige Töffli-Fahrerin verstarb bei einem Unfall in Knutwil, als sie nach links abbiegen wollte und mit einem Auto kollidierte.
 
-Daniel KestenholzRedaktor Nachtdienst
-Am 2. Oktober 2018 verschwand der damals prominenteste saudische Regimekritiker Adnan Khashoggi (†59) spurlos. Der Journalist war in Saudi-Arabiens Konsulat in Istanbul gelockt worden – und wurde nie mehr gesehen... [weiterlesen](https://www.blick.ch/ausland/zweiter-zornausbruch-trumps-in-zwei-tagen-mord-an-khashoggi-journalistin-wagt-brisante-frage-ueber-saudi-kronprinz-id21435175.html)
+Am Mittwochmorgen ist im Kanton Luzern eine Motorradfahrerin bei einem Unfall ums Leben gekommen. Die 57-Jährige fuhr um etwa 10.50 Uhr in Knutwil mit einem Kleinmotorrad auf der Mauenseestrasse Richtung Mauensee.
+Auf Höhe Bollmatt wollte sie nach li... [weiterlesen](https://www.20min.ch/story/knutwil-lu-frontalcrash-zwischen-toeff-und-auto-fordert-ein-todesopfer-103453935)
 
-_Relevance score: [3] - Focuses on US political drama; while globally visible, it holds minimal direct significance for Swiss public affairs._
-## 120 Jahre ikonische Uhren und Raritäten
+_Relevance score: [2] - A tragic local traffic accident is of human interest but bears no broader civic or structural significance beyond the immediate community._
+## Synopsys, Inc. ernennt Mike Ellow zum Chief Revenue Officer ab dem 20. November
 
-[NZZ Bellevue](https://bellevue.nzz.ch/stil-design/uhren-schmuck/rolex-buch-von-jamens-dowling-120-jahre-ikonische-uhren-und-raritaeten-ld.1908928) • _Mittwoch, 19. November 2025, 06:00 Uhr_
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/synopsys-inc-ernennt-mike-ellow-zum-chief-revenue-officer-ab-dem-20-november-ce7d5ed9d88df720) • _Mittwoch, 19. November 2025, 16:22 Uhr_
 
-Der Rolex-Experte James Dowling erzählt in einem neuen Buch die 120-jährige Geschichte der Schweizer Uhrenmanufaktur anhand von 120 ausgewählten Uhren.
+Synopsys, Inc. hat bekannt gegeben, dass Mike Ellow ab dem 20. November als Chief Revenue Officer in das Unternehmen eintritt. In dieser Funktion wird er die Go-to-Market-Organisation des Unternehmens...
 
-Der Autor James Dowling, weltweit als «Mr. Rolex» bekannt, führt in seinem neuen Buch durch die Geschichte einer der bekanntesten Uhrenmarken der Welt. Von der wasserdichten Oyster über die Explorer und die Submariner bis zur Daytona zeigt er auf, wi... [weiterlesen](https://bellevue.nzz.ch/stil-design/uhren-schmuck/rolex-buch-von-jamens-dowling-120-jahre-ikonische-uhren-und-raritaeten-ld.1908928)
+Synopsys, Inc. hat bekannt gegeben, dass Mike Ellow ab dem 20. November als Chief Revenue Officer in das Unternehmen eintritt. In dieser Funktion wird er die Go-to-Market-Organisation des Unternehmens leiten und dem Führungsteam beitreten. Er bericht... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/synopsys-inc-ernennt-mike-ellow-zum-chief-revenue-officer-ab-dem-20-november-ce7d5ed9d88df720)
 
-_Relevance score: [2] - A book about Swiss watch history; culturally interesting but limited to niche interest and without broader civic or economic impact._
-## Klimt-Gemälde erzielt Rekordpreis bei Auktion
+_Relevance score: [2] - Executive changes at a US semiconductor firm are important for the company’s investors but have negligible direct impact on Swiss industry or policy._
+## Fauxpas bei Treffen mit König Charles
 
-[20 Minuten](https://www.20min.ch/story/rekordpreis-bei-sotheby-s-klimt-gemaelde-fuer-2364-millionen-dollar-versteigert-103453586) • _Mittwoch, 19. November 2025, 05:42 Uhr_
+[Blick](https://www.blick.ch/people-tv/international/bei-treffen-mit-koenig-charles-nippel-panik-bei-titanic-star-kate-winslet-id21438035.html) • _Mittwoch, 19. November 2025, 17:06 Uhr_
 
-Das Gemälde «Portrait of Elisabeth Lederer» vom Maler Gustav Klimt setzt neuen Auktionsrekord bei Sotheby’s – auch ein goldenes Klo wird versteigert.
+Kate Winslet berichtet von ihrem ersten Treffen mit König Charles im Jahr 1996. Damals trug sie ein transparentes Spitzen-Outfit und geriet in Panik, wegen eines möglichen Nippel-Fauxpas.
 
-Ein Gemälde des österreichischen Malers Gustav Klimt (1862-1918) ist in New York für 236,4 Millionen Dollar versteigert worden – und damit zum zweitteuersten je bei einer Auktion verkauften Werk der Kunstgeschichte geworden. Das Gemälde «Portrait of ... [weiterlesen](https://www.20min.ch/story/rekordpreis-bei-sotheby-s-klimt-gemaelde-fuer-2364-millionen-dollar-versteigert-103453586)
+«Nippel! Nippel! Nippel! Oh mein Gott!» Diese Worte schossen Kate Winslet (50) durch den Kopf, als der heutige König Charles (77) im Jahr 1996 zum ersten Mal auf sie zukam. Sie realisierte, dass sie ein durchsichtiges Spitzen-Outfit trug. Völlig unpa... [weiterlesen](https://www.blick.ch/people-tv/international/bei-treffen-mit-koenig-charles-nippel-panik-bei-titanic-star-kate-winslet-id21438035.html)
 
-_Relevance score: [2] - Record art sale is notable in the luxury market but bears little relevance to Swiss society, governance, or long‑term structural issues._
-## Das ist neu das zweitteuerste Gemälde der Geschichte
+_Relevance score: [1] - Celebrity anecdote about a 1996 meeting offers entertainment value only and bears no relevance to Swiss or global public affairs._
+## Neuauflage "Anthology": Deshalb sind Fans sauer auf die Beatles
 
-[Watson](https://www.watson.ch/international/kunst/376333877-das-ist-neu-das-zweitteuerste-gemaelde-der-geschichte) • _Mittwoch, 19. November 2025, 05:02 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/radio-srf-3/musik/neuauflage-anthology-2025-deshalb-sind-die-fans-sauer-auf-die-beatles) • _Mittwoch, 19. November 2025, 15:48 Uhr_
 
-Ein Gemälde des österreichischen Malers Gustav Klimt (1862-1918) ist in New York für 236,4 Millionen Dollar (etwa 189 Millionen Franken) versteigert worden
+Die «Anthology» wird neu aufgelegt und enttäuscht Fans schon vor dem Release.
 
-Das ist neu das zweitteuerste Gemälde der Geschichte (und die Nummern 1 und 3)
-Ein Gemälde des österreichischen Malers Gustav Klimt (1862-1918) ist in New York für 236,4 Millionen Dollar (etwa 189 Millionen Franken) versteigert worden – und damit zum... [weiterlesen](https://www.watson.ch/international/kunst/376333877-das-ist-neu-das-zweitteuerste-gemaelde-der-geschichte)
+«Wir haben Besseres verdient», schreibt ein Fan über die Neuauflage der «Anthology» auf Reddit. Der Ärger ist gross – vielleicht gerade deshalb, weil die «Anthology» für viele fast heilig ist: Endlich miterleben, wie Ringo Starr seinen Kumpels das er... [weiterlesen](https://www.srf.ch/radio-srf-3/musik/neuauflage-anthology-2025-deshalb-sind-die-fans-sauer-auf-die-beatles)
 
-_Relevance score: [2] - Repeats the Klimt auction news; same limited relevance to broader Swiss or global affairs._
+_Relevance score: [1] - Fan reaction to a reissued Beatles compilation is cultural gossip without measurable effect on Swiss society or the broader music market._
 
 </details>
