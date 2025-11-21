@@ -1,103 +1,134 @@
-_Aktualisiert: Freitag, 21. November 2025, 19:20 Uhr_
+_Aktualisiert: Freitag, 21. November 2025, 23:40 Uhr_
 
-## Labormodell ermöglicht Nachbildung des menschlichen Knochenmarks
+## Aleksandar Vucic: Teilnahme an umstrittener «Menschen
 
-[mt-portal.de](https://mt-portal.de/aktuell/labormodell-ermoeglicht-nachbildung-des-menschlichen-knochenmarks/) • _Freitag, 21. November 2025, 07:02 Uhr_
+[20 Minuten](https://www.20min.ch/story/schwere-vorwuerfe-menschen-safari-nahm-serbiens-praesident-teil-103454714) • _Freitag, 21. November 2025, 10:30 Uhr_
 
-Die Blutfabrik unseres Körpers besteht aus einem spezialisierten Gewebe mit Knochenzellen, Blutgefäßen, Nerven und anderen Zelltypen. Erstmals ist es Forschenden nun gelungen, diese zelluläre Komplexität des Knochenmarks aus menschlichen Zellen im Labor nachzubilden. Dieses System könnte Tierversuche für viele Anwendungen reduzieren.
+Schwere Vorwürfe belasten Serbiens Präsidenten, der an einer blutigen Touristen-Attraktion beteiligt gewesen sein soll.
 
-Unser Knochenmark erledigt seinen Job in der Regel völlig unbemerkt und unbeachtet. Nur wenn es erkrankt, etwa an Krebs, rückt es in den Fokus. In solchen Fällen ist es entscheidend zu verstehen, wie die Blutproduktion in unserem Körper genau funktio... [weiterlesen](https://mt-portal.de/aktuell/labormodell-ermoeglicht-nachbildung-des-menschlichen-knochenmarks/)
+### Vorwürfe gegen Aleksandar Vučić
+- Der serbische Präsident [Aleksandar Vučić](https://de.wikipedia.org/wiki/Aleksandar_Vu%C4%8Di%C4%87) soll in den 1990er-Jahren während der [Belagerung von Sarajevo](https://de.wikipedia.org/wiki/Belagerung_von_Sarajevo) an einer umstrittenen «Menschen-Safari» teilgenommen haben, bei der reiche Ausländer für Zehntausende Euro auf Zivilisten schossen.
+- Der kroatische Investigativjournalist Domagoj Margetić hat Strafanzeige bei der Mailänder Staatsanwaltschaft erstattet und behauptet, beweisen zu können, dass Vučić – damals Freiwilliger im [Bosnienkrieg](https://de.wikipedia.org/wiki/Bosnienkrieg) – an einem militärischen Stützpunkt in Sarajevo anwesend war.
 
-_Relevance score: [7] - First‑in‑the‑world lab recreation of human bone‑marrow tissue, a breakthrough for biomedical research that can reduce animal testing and accelerate therapies for blood cancers and other disorders. Global scientific significance and long‑term health impact._
-## Die wichtigsten Fragen und Antworten
+### Die «Menschen-Safari» als blutige Touristen-Attraktion
+- Reiche Touristen, darunter mindestens fünf Italiener aus Mailand, Turin und Triest, sollen 80.000 bis 100.000 Euro bezahlt haben, um von Hügeln aus auf Zivilisten in der belagerten Stadt zu schießen.
+- Das Phänomen wird im Buch «Sarajevo Safaris» des Autors Ezio Gavazzeni beschrieben, der ebenfalls Anzeige bei der Mailänder Staatsanwaltschaft erstattet hat.
 
-[NZZ](https://www.nzz.ch/international/neuer-friedensplan-fuer-den-ukraine-krieg-us-delegation-stellt-selenski-den-plan-vor-ld.1912845) • _Freitag, 21. November 2025, 06:54 Uhr_
+### Aktuelle Ermittlungen und historischer Kontext
+- In Italien laufen Ermittlungen gegen die genannten Italiener wegen ihrer mutmaßlichen Beteiligung.
+- Die Belagerung Sarajevos (1992–1996) forderte über 10.000 Tote; viele gelten bis heute als vermisst.
 
-Die USA und Russland haben sich laut Medienberichten auf einen umfassenden Friedensplan geeinigt. Der Plan wurde über Wochen von Aussenminister Marco Rubio und Trumps Sondergesandtem Steve Witkoff ausgearbeitet. Von Kiew werden grosse Zugeständnisse verlangt. Das sind die wichtigsten Fragen und Antworten.
+>Relevance score: [7] - Allegations of Serbian president's involvement in war-era atrocity tourism; significant for regional governance and historical accountability if substantiated.
+## Kleines Molekül Spermin könnte gegen Alzheimer helfen
 
-Gibt es einen neuen Friedensplan?
-Mehrere Medien haben in den vergangenen Tagen über einen angeblich ausgearbeiteten Friedensplan zwischen den USA und Russland für den Ukraine-Krieg berichtet. Sie stützten sich auf vertrauliche Quellen. Nach jenen um... [weiterlesen](https://www.nzz.ch/international/neuer-friedensplan-fuer-den-ukraine-krieg-us-delegation-stellt-selenski-den-plan-vor-ld.1912845)
+[Watson](https://www.watson.ch/leben/forschung/975663394-kleines-molekuel-spermin-koennte-gegen-alzheimer-helfen) • _Freitag, 21. November 2025, 11:00 Uhr_
 
-_Relevance score: [7] - Discussion of a purported US‑Russia peace plan for the Ukraine war. If accurate, could reshape European security and geopolitical dynamics, making it highly relevant globally and for Swiss foreign‑policy considerations._
-## Satellitenbilder zeigen das heutige Ausmass
+Das kleine Molekül Spermin könnte Krankheiten wie Alzheimer und Parkinson vorbeugen.
 
-[NZZ](https://www.nzz.ch/visuals/diese-salzwueste-war-der-groesste-see-in-iran-nun-steht-sie-dafuer-was-dem-land-besonders-fehlt-ld.1911557) • _Freitag, 21. November 2025, 05:30 Uhr_
+- Das körpereigene Molekül **[Spermin](https://de.wikipedia.org/wiki/Spermin)** könnte Krankheiten wie die **[Alzheimer-Krankheit](https://de.wikipedia.org/wiki/Alzheimer-Krankheit)** und **[Morbus Parkinson](https://de.wikipedia.org/wiki/Morbus_Parkinson)** vorbeugen, indem es schädliche **[Amyloidproteine](https://de.wikipedia.org/wiki/Amyloid)** unschädlich macht – ähnlich wie Käse Nudeln verklebt.
+- Forschende um Studienleiter Jinghui Luo vom **[Paul-Scherrer-Institut (PSI)](https://de.wikipedia.org/wiki/Paul-Scherrer-Institut)** zeigten in Experimenten mit Fadenwürmern: Spermin verlängert das Leben, verbessert die Bewegung im Alter und stärkt die **[Mitochondrien](https://de.wikipedia.org/wiki/Mitochondrium)**, fördert somit Zellmobilität und -aktivität.
+- Bisherige Hinweise: Spermin schützt Nervenzellen und mildert altersbedingten Gedächtnisverlust; neu ist das Verständnis, wie es **[Autophagie](https://de.wikipedia.org/wiki/Autophagie)** unterstützt, um nervenschädigende Amyloid-Ablagerungen (falsch gefaltete Proteine wie Fasern oder Spaghetti) zu entsorgen.
+- Mechanismus: Spermin bewirkt durch biomolekulare Kondensation eine Klumpung der Proteine via schwacher elektrischer Kräfte, was die Autophagie erleichtert – Zellen verpacken und bauen sie enzymatisch ab.
+- Zitat von Luo: «Die Autophagie kann mit grösseren Proteinklumpen effektiver umgehen»; Analogie: «Spermin ist wie Käse, der die langen dünnen Nudeln miteinander verbindet, ohne sie zu verkleben, sodass sie besser verdaulich sind.»
+- Potenzial: Neue Erkenntnisse könnten Grundlage für Therapien sein, da bisher keine effektiven Behandlungen gegen solche Eiweissablagerungen existieren.
 
-Die schlimmste Dürre seit Jahrzehnten führt Iran an den Abgrund – und zu kontroversen Massnahmen
+>Relevance score: [6] - Early-stage research on potential treatment for major diseases; promising but unproven, niche scientific interest with possible long-term health impact.
+## Nach erneuten Senkungen: Preiskampf bei Aldi: Warum Lidl jetzt öffentlich zurückschiesst
 
-Wenn die Natur keinen Regen bringt, muss nachgeholfen werden. Am vergangenen Wochenende, so berichtete es die staatliche iranische Nachrichtenagentur Irna, wurde in der Nähe des Urmiasees im Westen des Landes mit «Cloud Seeding» begonnen. Übersetzt: ... [weiterlesen](https://www.nzz.ch/visuals/diese-salzwueste-war-der-groesste-see-in-iran-nun-steht-sie-dafuer-was-dem-land-besonders-fehlt-ld.1911557)
+[bluewin E-Mail](https://www.bluewin.ch/de/news/wirtschaft-boerse/aldi-preissenkung-lidl-reaktion-bauernverband-kritik-2973517.html) • _Freitag, 21. November 2025, 10:39 Uhr_
 
-_Relevance score: [7] - Satellite evidence of a severe drought‑induced crisis in Iran, highlighting climate‑change impacts, potential migration and regional stability issues. Significant for global environmental and geopolitical awareness._
+Aldi löst mit massiven Preissenkungen eine Debatte um Preisdruck aus. Lidl distanziert sich – und der Bauernverband warnt vor Folgen für die Landwirtschaft.
+
+### Aldis Preissenkungen
+- [[Aldi]] Schweiz hat Preise für Frischfleisch (z. B. Rindsentrecôte, Bio-Poulet, Lammnierstücke) und Brot um bis zu 30 % gesenkt, als «Preisoffensive zur Vorweihnachtszeit» beworben.
+
+### Kritik des Schweizer Bauernverbands (SBV)
+- Der [[Schweizer Bauernverband]] (SBV) verurteilt dies als «verantwortungsloses [Preisdumping](https://de.wikipedia.org/wiki/Preisdumping)» und «Preisspirale nach unten», die die gesamte [Wertschöpfungskette](https://de.wikipedia.org/wiki/Wertsch%C3%B6pfungskette) gefährdet.
+- Langfristig entsteht Druck auf Lieferanten und Bauern, Nachhaltigkeit wird bedroht; Schweizer Haushalte geben nur 6,2 % ihres Einkommens für Lebensmittel aus (international niedrig).
+- Dumping fördert Lebensmittelverschwendung: «Was nichts kostet, ist auch nichts wert.» SBV fordert kostendeckende Produzentenpreise.
+
+### Lidls Abgrenzung
+- [[Lidl]] Schweiz distanziert sich öffentlich: Keine eigenen medienwirksamen Preissenkungen in sensiblen Bereichen wie Fleisch oder Brot initiieren, nur Reaktion auf Wettbewerber, um Preisversprechen zu halten.
+- Einkaufsleiter Andreas Zufelde und CEO Nicholas Pennanen betonen «Preisführerschaft mit Verantwortung»: Verzicht auf Marge, effiziente Strukturen, stabile Zahlungen an Bauern, Fokus auf «Qualité Suisse»-Linie und langfristige Partnerschaften.
+- Lidl differenziert sich von Mitbewerbern, die unnötig Druck auf Landwirtschaft ausüben; Debatte umfasst Nachhaltigkeit und Produzentenpreise.
+
+### Ausblick
+- Preiskampf zwischen Aldi und Lidl hält an, beeinflusst von Marketing, Wettbewerb und realen Kosten.
+
+>Relevance score: [6] - Price competition in Swiss retail affects consumers and agriculture; moderate economic impact on national scale.
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Absturz der McDonnell Douglas MD-11: NTSB findet Risse an der Triebwerksaufhängung
+## Digitalisierung im Verkehr - E-Vignette wird immer beliebter
 
-[aeroTELEGRAPH](https://www.aerotelegraph.com/sicherheit/absturz-der-mcdonnell-douglas-md-11-ntsb-findet-risse-an-der-triebwerksaufhaengung/173plqz) • _Freitag, 21. November 2025, 06:03 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/digitalisierung-im-verkehr-e-vignette-wird-immer-beliebter) • _Freitag, 21. November 2025, 11:24 Uhr_
 
-Die McDonnell Douglas MD-11 von UPS verlor beim Start in Louisville ihr linkes Triebwerk - ein seltenes und verheerendes Versagen der Aufhängung. Im ersten Zwischenbericht nennt die Ermittlungsbehörde neue Details und erste Hinweise, wie es zum Unglück kommen konnte.
+Immer mehr Menschen in der Schweiz kaufen digitale Vignetten, während Österreich die Klebe-Variante bald ganz abschafft.
 
-Für die Crew war Flug 5X2976 von UPS vom 4. November reine Routine. Denn sie war sehr erfahren. Der Flugkapitän hatte 8613 Flugstunden Erfahrung, davon fast 60 Prozent auf der McDonnell Douglas MD-11. Auch der Kopilot hatte bereits 9200 Flugstunden a... [weiterlesen](https://www.aerotelegraph.com/sicherheit/absturz-der-mcdonnell-douglas-md-11-ntsb-findet-risse-an-der-triebwerksaufhaengung/173plqz)
+Die Nachfrage der Schweizer E-Vignette für Autobahnen steigt 2025 um 10 Prozent.
+Die digitale Vignette der Schweiz wird auch im Ausland gekauft.
+Österreich geht einen Schritt weiter und schafft die Klebe-Vignette Ende nächstes Jahr ganz ab.
+Die digit... [weiterlesen](https://www.srf.ch/news/schweiz/digitalisierung-im-verkehr-e-vignette-wird-immer-beliebter)
 
-_Relevance score: [5] - Investigation of a rare aircraft failure that could inform safety regulations and airline operational standards worldwide. Moderate relevance for transport safety._
-## Florida: 63-Jähriger wird wegen Mordes hingerichtet
+>Relevance score: [5] - Increasing adoption of digital vignettes in Switzerland affects daily traffic and administration for millions; moderate national civic relevance.
+## Schweizerinnen und Schweizer setzen vermehrt auf E-Vignette
 
-[20 Min](https://www.20min.ch/story/44-exekution-in-usa-63-jaehriger-in-florida-mit-giftspritze-hingerichtet-103454680) • _Freitag, 21. November 2025, 05:25 Uhr_
+[srf.ch](https://www.srf.ch/news/schweiz/digitalisierung-im-verkehr-die-autobahn-vignette-auf-dem-handy-wird-immer-beliebter) • _Freitag, 21. November 2025, 11:24 Uhr_
 
-Norman Grim wurde in Florida mit der Giftspritze hingerichtet. Er war wegen Mordes und Vergewaltigung verurteilt.
+Immer mehr Menschen in der Schweiz kaufen digitale Vignetten, während Österreich die Klebe-Variante bald ganz abschafft.
 
-Im US-Bundesstaat Florida ist Norman Grim durch eine Giftspritze hingerichtet worden. Der 63-Jährige wurde in einem Gefängnis in der Stadt Raiford getötet, wie Floridas Strafvollzugsbehörde am Donnerstag mitteilte. Er war 1988 wegen der Vergewaltigun... [weiterlesen](https://www.20min.ch/story/44-exekution-in-usa-63-jaehriger-in-florida-mit-giftspritze-hingerichtet-103454680)
+Die Nachfrage der Schweizer E-Vignette für Autobahnen steigt 2025 um 10 Prozent.
+Die digitale Vignette der Schweiz wird auch im Ausland gekauft.
+Österreich geht einen Schritt weiter und schafft die Klebe-Vignette Ende nächstes Jahr ganz ab.
+Die digit... [weiterlesen](https://www.srf.ch/news/schweiz/digitalisierung-im-verkehr-die-autobahn-vignette-auf-dem-handy-wird-immer-beliebter)
 
-_Relevance score: [5] - Report of an execution in the United States; relevant to human‑rights debates but limited direct impact on Swiss or global policy beyond broader discussions on capital punishment._
-## Der Walliser Modedesigner Kévin Germanier glänzt mit Upcycling-Mode
+>Relevance score: [5] - Duplicate of prior item; moderate national relevance to Swiss transport digitalization and convenience.
+## Verkehrsunfall in Illnau: Autofahrer erfasst 10
 
-[srf.ch](https://www.srf.ch/kultur/kunst/walliser-modedesigner-vom-wallis-nach-paris-kevin-germanier-glaenzt-mit-upcycling-mode) • _Freitag, 21. November 2025, 06:59 Uhr_
+[20 Min](https://www.20min.ch/story/illnau-zh-auf-fussgaengerstreifen-autofahrer-faehrt-maedchen-10-an-103454795) • _Freitag, 21. November 2025, 10:33 Uhr_
 
-Kévin Germanier ist im Kreis der Pariser Haute Couture angekommen. Das Mudac Lausanne widmet ihm eine glitzernde Schau.
+Ein 10-jähriges Mädchen wurde in Illnau von einem Auto erfasst und verletzt. Die Ermittlungen zur Unfallursache laufen.
 
-Stricken und recyclen, futuristische Formen und hunderte kräftiger Farben – und reichlich Bergbezüge: Das ist Teil der Formel, die Kévin Germanier in der Modeszene erfolgreich gemacht hat.
-Die Ausstellung «Les Monstrueuses» im Designmuseum Mudac bele... [weiterlesen](https://www.srf.ch/kultur/kunst/walliser-modedesigner-vom-wallis-nach-paris-kevin-germanier-glaenzt-mit-upcycling-mode)
+Am Donnerstagabend, nach 18 Uhr, kam es in Illnau-Effretikon ZH zu einem Verkehrsunfall. Ein 56-jähriger Autofahrer fuhr auf der Bisikonerstrasse Richtung der Verzweigung mit der Usterstrasse. Auf Höhe des Fussgängerstreifens erfasste der Autofahrer ... [weiterlesen](https://www.20min.ch/story/illnau-zh-auf-fussgaengerstreifen-autofahrer-faehrt-maedchen-10-an-103454795)
 
-_Relevance score: [3] - Cultural news about a Swiss designer’s exhibition. Interesting for the arts but limited structural or civic effect; impact confined to niche fashion circles._
-## Bild von Frida Kahlo wird zum teuersten versteigerten Werk einer Frau
+>Relevance score: [2] - Local traffic accident injuring a child; minor, isolated incident with no broader implications.
+## Neuanfang in Portugal: Familie setzt auf Bitcoin für finanzielle Freiheit
 
-[Watson](https://www.watson.ch/international/kunst/601104121-bild-von-frida-kahlo-wird-zum-teuersten-versteigerten-werk-einer-frau) • _Freitag, 21. November 2025, 06:55 Uhr_
+[20 Min](https://www.20min.ch/story/bitcoin-familie-alles-verkauft-und-ausgewandert-andreas-wettet-auf-den-bitcoin-103454498) • _Freitag, 21. November 2025, 11:27 Uhr_
 
-Ein Gemälde der mexikanischen Künstlerin Frida Kahlo (1907-1954) ist in New York für 54,7 Millionen US-Dollar (etwa 44 Millionen Franken) versteigert worden.
+Andreas und Ananda haben alles verkauft und hoffen, dass ihre Bitcoins sie bis ans Lebensende tragen werden.
 
-Dieses Bild von Frida Kahlo wird zum teuersten je versteigerten Kunstwerk einer Frau
-Ein Gemälde der mexikanischen Künstlerin Frida Kahlo (1907-1954) ist in New York für 54,7 Millionen US-Dollar (etwa 44 Millionen Franken) versteigert worden – und da... [weiterlesen](https://www.watson.ch/international/kunst/601104121-bild-von-frida-kahlo-wird-zum-teuersten-versteigerten-werk-einer-frau)
+Raus aus dem Hamsterrad im gut bezahlten Vollzeit-Job, rein ins idyllische Landleben in Portugal: Die Geschichte von Andreas (37), Ananda und ihrem 1,5 Jahre alten Sohn klingt wie eine klassische Auswanderer-Story. Es gibt aber einen Unterschied: «Wi... [weiterlesen](https://www.20min.ch/story/bitcoin-familie-alles-verkauft-und-ausgewandert-andreas-wettet-auf-den-bitcoin-103454498)
 
-_Relevance score: [3] - Historic auction price in the art market; noteworthy for cultural economics but no direct effect on public policy or society at large._
-## Vom Nepo-Baby zur Macht in Hollywood
+>Relevance score: [1] - Personal anecdote of a family's financial gamble; no broader societal, economic, or structural impact.
+## Schauspieler werben für Taucheruhr
 
-[NZZ](https://www.nzz.ch/wirtschaft/david-ellison-der-milliardaerssohn-der-hollywood-umkrempelt-ld.1912725) • _Freitag, 21. November 2025, 05:30 Uhr_
+[persoenlich.com](https://www.persoenlich.com/kategorie-werbung/schauspieler-werben-fur-taucheruhr) • _Freitag, 21. November 2025, 11:27 Uhr_
 
-David Ellison will nach Paramount nun auch das traditionsreiche Filmstudio Warner Bros. übernehmen. Dabei hilft ihm das Geld seines Vaters Larry – und eine gute Beziehung zu Donald Trump.
+Omega setzt Glen Powell und Aaron Taylor-Johnson für die Kampagne zur neuen «Seamaster Planet Ocean» ein.
 
-In Hollywood verschwinden derzeit alte Gewissheiten. Die grossen Studios, jahrzehntelang das Gerüst der amerikanischen Filmindustrie, schrumpfen, werden zerschlagen oder von Konzernen geschluckt. Und doch hält sich mancherorts die Illusion ihrer Unve... [weiterlesen](https://www.nzz.ch/wirtschaft/david-ellison-der-milliardaerssohn-der-hollywood-umkrempelt-ld.1912725)
+Die vierte Generation der Taucheruhr präsentiert eine neue ästhetische Struktur mit Veränderungen an Gehäuse und Armband, die von historischen Taucheruhren der Marke inspiriert sind. Die «Seamaster Planet Ocean» ist seit 2005 Teil von Omegas Taucheru... [weiterlesen](https://www.persoenlich.com/kategorie-werbung/schauspieler-werben-fur-taucheruhr)
 
-_Relevance score: [3] - Profile of Hollywood power dynamics; primarily entertainment‑industry gossip without substantial societal implications._
-## NHL: Kurashev führt Sharks zum Sieg gegen Fialas Kings
+>Relevance score: [0] - Commercial promotion of a luxury watch; pure advertising and entertainment, no civic or structural relevance.
+## Fátima Bosch wird zur Miss Universe gekürt - begleitet von Skandalen
 
-[Watson](https://www.watson.ch/sport/nhl/949535425-nhl-kurashev-fuehrt-sharks-zum-sieg-gegen-fialas-kings) • _Freitag, 21. November 2025, 07:20 Uhr_
+[bluewin E-Mail](https://www.bluewin.ch/de/entertainment/mexikanische-kandidatin-wird-nach-skandal-zur-miss-universe-gekuert-2973377.html) • _Freitag, 21. November 2025, 11:09 Uhr_
 
-In der NHL überzeugen die Schweizer: Philipp Kurashev führt die San Jose Sharks zum Sieg gegen Kevin Fialas LA Kings und J.J. Moser dominiert Connor McDavid.
+Nach einem Eklat wird ausgerechnet die Teilnehmerin aus Mexiko zur neuen Miss Universe gekürt. Der Beauty Contest in Thailand war von Skandalen und einem Sturz geprägt.
 
-Kurashev führt Sharks zum Sieg gegen Fialas Kings – Moser dominiert McDavid
-Tampa Bay – Edmonton 2:1nV
-Janis Moser, 1 Assist, 1 Schuss, 4 Blocks, 21:51 TOI
-J.J Moser zeigt beim 2:1-Heimsieg nach Verlängerung seiner Tampa Bay Lightning gegen die Edmon... [weiterlesen](https://www.watson.ch/sport/nhl/949535425-nhl-kurashev-fuehrt-sharks-zum-sieg-gegen-fialas-kings)
+Nach einem Eklat wird ausgerechnet die Teilnehmerin aus Mexiko zur neuen Miss Universe gekürt. Der Beauty Contest in Thailand war von Skandalen und einem Sturz geprägt.
+Nach einem von Skandalen geprägten Wettbewerb ist die amtierende Miss Mexiko, Fát... [weiterlesen](https://www.bluewin.ch/de/entertainment/mexikanische-kandidatin-wird-nach-skandal-zur-miss-universe-gekuert-2973377.html)
 
-_Relevance score: [2] - Pure sport event centred on a Swiss player’s performance. No broader societal, economic or political impact beyond fan interest; therefore low relevance._
-## ZOOPUNK: TiGames erweitert das Animal-Punk-Universum auf PS5 und Xbox
+>Relevance score: [0] - Beauty pageant outcome with scandals; entertainment and hype, no meaningful global or national impact.
+## Zwillinge: Das waren die Männer in ihrem Leben
 
-[PlayFront](https://playfront.de/zoopunk-tigames-erweitert-das-animal-punk-universum-auf-ps5-und-xbox/) • _Freitag, 21. November 2025, 06:21 Uhr_
+[Blick](https://www.blick.ch/people-tv/international/da-konnte-ich-nicht-nein-sagen-das-waren-die-maenner-im-leben-der-kessler-zwillinge-89-id21443334.html) • _Freitag, 21. November 2025, 11:08 Uhr_
 
-ZOOPUNK bringt frischen 3D-Action-Adventure-Wind ins F.I.S.T.-Universum. Neue Charaktere, neue Ära, neuer Konflikt – jetzt offiziell für PS5, Xbox Series & PC.
+Die Kessler-Zwillinge teilten alles: Sie standen zusammen auf der Bühne, lebten gemeinsam in einer Villa, sie gingen gemeinsam in den Tod. Nur in einem Bereich hatte jede ihre eigene Geschichte: in der Liebe. Blick fasst die wichtigsten Männer in ihrem Leben zusammen.
 
-Wenn ein Studio wie TiGames ein neues Kapitel im Animal-Punk-Kosmos aufschlägt, lohnt sich genaues Hinsehen. ZOOPUNK spielt Jahrzehnte vor F.I.S.T.: Forged In Shadow Torch und nimmt uns mit in eine Zeit, in der Torch City noch nicht die vertraute Met... [weiterlesen](https://playfront.de/zoopunk-tigames-erweitert-das-animal-punk-universum-auf-ps5-und-xbox/)
+Sophie OferRedaktorin People
+Die Kessler-Zwillinge galten zu ihrer Zeit als absolute Traumfrauen. Doch trotz der zahlreichen Verehrer waren weder Alice noch Ellen Kessler jemals verheiratet. Auch ist keine der beiden je Mutter geworden. Selbstbestimm... [weiterlesen](https://www.blick.ch/people-tv/international/da-konnte-ich-nicht-nein-sagen-das-waren-die-maenner-im-leben-der-kessler-zwillinge-89-id21443334.html)
 
-_Relevance score: [2] - Announcement of a new video‑game expansion; purely entertainment‑industry news with negligible broader impact._
+>Relevance score: [0] - Celebrity gossip about personal lives; socially irrelevant.
 
 </details>
