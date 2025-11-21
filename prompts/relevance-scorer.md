@@ -6,13 +6,14 @@ Your goal is to identify events that meaningfully affect people's understanding 
 Scope: Global and National (Switzerland)
 
 ## Task
-Evaluate this news item relative to the specified scope. 
-Prioritize structural importance, civic relevance, scale of impact, and long-term significance.
-Ignore hype, celebrity gossip, viral culture, and entertainment.
+- Evaluate this news item relative to the specified scope. 
+- Prioritize structural importance, civic relevance, scale of impact, and long-term significance.
+- Ignore hype, celebrity gossip, viral culture, and entertainment.
+- Be conservative in your scoring. We want to reduce noise. It's okay if nothing important happens one day.
 
 ## Scoring guide
-9–10: Major structural impact, widely significant long-term event
-7–8: Significant impact within the scope's society/economy/governance
+9–10: Major structural impact, widely significant long-term event that has a deep impact on society
+7–8: Significant impact within the scope's society/economy/governance, affecting a significant number of people
 5–6: Moderate relevance or niche but meaningful event
 3–4: Minor impact or limited audience relevance
 0–2: Trivial, entertainment, or socially irrelevant

@@ -2,6 +2,9 @@ from article import Article
 from datetime import datetime, timezone
 import rate
 import re
+import utils
+import ai
+import scraper
 
 from babel.dates import format_datetime as babel_format_datetime
 
@@ -15,6 +18,9 @@ def format_md(articles: list[Article]) -> str:
 
     # output important articles first
     if important:
+        # summarize important articles
+        for article in important:
+            article.content = summarize_article(article)
         md += format_articles(important)
     else:
         md += "Keine wichtigen Ereignisse in den letzten 12 Stunden.\n"
@@ -32,8 +38,18 @@ def format_articles(articles: list[Article]) -> str:
         md += f"[{article.source}]({article.url}) • _{format_datetime(article.publishedAt)}_\n\n"
         md += f"{article.description}\n\n"
         md += format_content(article)
-        md += f"\n\n_Relevance score: [{article.score}] - {article.reasoning}_\n"
+        md += f"\n\n>Relevance score: [{article.score}] - {article.reasoning}\n"
     return md
+
+def summarize_article(article: Article) -> str:
+
+    content = scraper.get_full_article(article.url)
+
+    prompt = utils.load_file('prompts/article-summarizer.md')
+    prompt += f"# {article.title}\n\n{content}\n"
+
+    summary = ai.exec(prompt)
+    return summary
 
 def format_datetime(dt: datetime) -> str:
     # TODO localization
