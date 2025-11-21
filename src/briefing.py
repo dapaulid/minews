@@ -38,7 +38,7 @@ def format_articles(articles: list[Article]) -> str:
         md += f"[{article.source}]({article.url}) • _{format_datetime(article.publishedAt)}_\n\n"
         md += f"{article.description}\n\n"
         md += format_content(article)
-        md += f"\n\n>Relevance score: [{article.score}] - {article.reasoning}\n"
+        md += f"\n\n>Relevance score: [{article.score}] - {article.reasoning}\n\n"
     return md
 
 def summarize_article(article: Article) -> str:
