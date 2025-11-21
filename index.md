@@ -1,101 +1,103 @@
-_Aktualisiert: Freitag, 21. November 2025, 07:23 Uhr_
+_Aktualisiert: Freitag, 21. November 2025, 19:20 Uhr_
 
-## Autonome Fahrzeuge erobern Zürcher und Aargauer Strassen
+## Labormodell ermöglicht Nachbildung des menschlichen Knochenmarks
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/zukunft-auf-vier-raedern-autonome-fahrzeuge-erobern-zuercher-und-aargauer-strassen) • _Donnerstag, 20. November 2025, 17:54 Uhr_
+[mt-portal.de](https://mt-portal.de/aktuell/labormodell-ermoeglicht-nachbildung-des-menschlichen-knochenmarks/) • _Freitag, 21. November 2025, 07:02 Uhr_
 
-In den Kantonen Zürich und Aargau sind selbstfahrende Autos unterwegs. Schon 2026 sollen auch Kunden einsteigen können.
+Die Blutfabrik unseres Körpers besteht aus einem spezialisierten Gewebe mit Knochenzellen, Blutgefäßen, Nerven und anderen Zelltypen. Erstmals ist es Forschenden nun gelungen, diese zelluläre Komplexität des Knochenmarks aus menschlichen Zellen im Labor nachzubilden. Dieses System könnte Tierversuche für viele Anwendungen reduzieren.
 
-Im Furttal hält die Zukunft Einzug. Der Bund hat die Bewilligung erteilt, dass nordwestlich der Stadt Zürich bis in den Kanton Aargau selbstfahrende Fahrzeuge unterwegs sein können. Damit werden erstmals Autos ohne Fahrer im Strassenverkehr eingesetz... [weiterlesen](https://www.srf.ch/news/schweiz/zukunft-auf-vier-raedern-autonome-fahrzeuge-erobern-zuercher-und-aargauer-strassen)
+Unser Knochenmark erledigt seinen Job in der Regel völlig unbemerkt und unbeachtet. Nur wenn es erkrankt, etwa an Krebs, rückt es in den Fokus. In solchen Fällen ist es entscheidend zu verstehen, wie die Blutproduktion in unserem Körper genau funktio... [weiterlesen](https://mt-portal.de/aktuell/labormodell-ermoeglicht-nachbildung-des-menschlichen-knochenmarks/)
 
-_Relevance score: [8] - First nationwide approval for driver‑less cars in Switzerland, affecting transport policy, road safety regulations, and future mobility. Significant for Swiss infrastructure and could set a precedent internationally._
-## Munition wieder zu Hause
+_Relevance score: [7] - First‑in‑the‑world lab recreation of human bone‑marrow tissue, a breakthrough for biomedical research that can reduce animal testing and accelerate therapies for blood cancers and other disorders. Global scientific significance and long‑term health impact._
+## Die wichtigsten Fragen und Antworten
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/entscheid-staenderatskommission-soldaten-sollen-wieder-munition-nach-hause-nehmen) • _Donnerstag, 20. November 2025, 17:28 Uhr_
+[NZZ](https://www.nzz.ch/international/neuer-friedensplan-fuer-den-ukraine-krieg-us-delegation-stellt-selenski-den-plan-vor-ld.1912845) • _Freitag, 21. November 2025, 06:54 Uhr_
 
-Aufgrund der Sicherheitslage müsse es Soldaten ermöglicht werden, Taschenmunition bei sich aufbewahren zu können.
+Die USA und Russland haben sich laut Medienberichten auf einen umfassenden Friedensplan geeinigt. Der Plan wurde über Wochen von Aussenminister Marco Rubio und Trumps Sondergesandtem Steve Witkoff ausgearbeitet. Von Kiew werden grosse Zugeständnisse verlangt. Das sind die wichtigsten Fragen und Antworten.
 
-Darüber wunderte man sich im Ausland immer wieder: Der Schweizer Soldat hatte nicht nur sein eigenes Sturmgewehr zu Hause, sondern auch eine Blechbüchse mit Munition – die Taschenmunition. Doch weil es immer wieder Suizide und Tötungsdelikte gab, wur... [weiterlesen](https://www.srf.ch/news/schweiz/entscheid-staenderatskommission-soldaten-sollen-wieder-munition-nach-hause-nehmen)
+Gibt es einen neuen Friedensplan?
+Mehrere Medien haben in den vergangenen Tagen über einen angeblich ausgearbeiteten Friedensplan zwischen den USA und Russland für den Ukraine-Krieg berichtet. Sie stützten sich auf vertrauliche Quellen. Nach jenen um... [weiterlesen](https://www.nzz.ch/international/neuer-friedensplan-fuer-den-ukraine-krieg-us-delegation-stellt-selenski-den-plan-vor-ld.1912845)
 
-_Relevance score: [7] - Policy change allowing Swiss soldiers to keep ammunition at home touches on national security, public safety, and civil‑military relations. It is a controversial civic issue with medium‑long‑term implications._
+_Relevance score: [7] - Discussion of a purported US‑Russia peace plan for the Ukraine war. If accurate, could reshape European security and geopolitical dynamics, making it highly relevant globally and for Swiss foreign‑policy considerations._
+## Satellitenbilder zeigen das heutige Ausmass
+
+[NZZ](https://www.nzz.ch/visuals/diese-salzwueste-war-der-groesste-see-in-iran-nun-steht-sie-dafuer-was-dem-land-besonders-fehlt-ld.1911557) • _Freitag, 21. November 2025, 05:30 Uhr_
+
+Die schlimmste Dürre seit Jahrzehnten führt Iran an den Abgrund – und zu kontroversen Massnahmen
+
+Wenn die Natur keinen Regen bringt, muss nachgeholfen werden. Am vergangenen Wochenende, so berichtete es die staatliche iranische Nachrichtenagentur Irna, wurde in der Nähe des Urmiasees im Westen des Landes mit «Cloud Seeding» begonnen. Übersetzt: ... [weiterlesen](https://www.nzz.ch/visuals/diese-salzwueste-war-der-groesste-see-in-iran-nun-steht-sie-dafuer-was-dem-land-besonders-fehlt-ld.1911557)
+
+_Relevance score: [7] - Satellite evidence of a severe drought‑induced crisis in Iran, highlighting climate‑change impacts, potential migration and regional stability issues. Significant for global environmental and geopolitical awareness._
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Feuer bricht auf Gelände der Klimakonferenz in Belém aus - Gebäude evakuiert
+## Absturz der McDonnell Douglas MD-11: NTSB findet Risse an der Triebwerksaufhängung
 
-[20 Minuten](https://www.20min.ch/story/belem-feuer-auf-gelaende-der-klimakonferenz-103454527) • _Donnerstag, 20. November 2025, 18:14 Uhr_
+[aeroTELEGRAPH](https://www.aerotelegraph.com/sicherheit/absturz-der-mcdonnell-douglas-md-11-ntsb-findet-risse-an-der-triebwerksaufhaengung/173plqz) • _Freitag, 21. November 2025, 06:03 Uhr_
 
-Ein Feuer zwingt zur Evakuierung des Hauptpavillons der Klimakonferenz in Belém. Die Feuerwehr kämpft gegen die Flammen.
+Die McDonnell Douglas MD-11 von UPS verlor beim Start in Louisville ihr linkes Triebwerk - ein seltenes und verheerendes Versagen der Aufhängung. Im ersten Zwischenbericht nennt die Ermittlungsbehörde neue Details und erste Hinweise, wie es zum Unglück kommen konnte.
 
-Auf dem Hauptpavillon der UN-Klimakonferenz im brasilianischen Belém ist am Donnerstagabend ein Feuer ausgebrochen. Laut der Reporterin Isabela Mota von Rádio BandNews FM wurde das Gebäude derzeit vollständig evakuiert, um die Sicherheit aller Anwese... [weiterlesen](https://www.20min.ch/story/belem-feuer-auf-gelaende-der-klimakonferenz-103454527)
+Für die Crew war Flug 5X2976 von UPS vom 4. November reine Routine. Denn sie war sehr erfahren. Der Flugkapitän hatte 8613 Flugstunden Erfahrung, davon fast 60 Prozent auf der McDonnell Douglas MD-11. Auch der Kopilot hatte bereits 9200 Flugstunden a... [weiterlesen](https://www.aerotelegraph.com/sicherheit/absturz-der-mcdonnell-douglas-md-11-ntsb-findet-risse-an-der-triebwerksaufhaengung/173plqz)
 
-_Relevance score: [5] - The fire disrupts a UN climate conference, a globally significant diplomatic event. While it may temporarily affect negotiations, the incident itself does not alter climate policy and its long‑term impact is limited._
-## WM: Der Schweizer Weg in den Final und die grossen Figuren
+_Relevance score: [5] - Investigation of a rare aircraft failure that could inform safety regulations and airline operational standards worldwide. Moderate relevance for transport safety._
+## Florida: 63-Jähriger wird wegen Mordes hingerichtet
 
-[Blick](https://www.blick.ch/sport/fussball/nati/u17-wm-geht-in-heisse-phase-was-die-schweiz-jetzt-erwartet-und-wer-ueberrascht-id21437862.html) • _Donnerstag, 20. November 2025, 17:51 Uhr_
+[20 Min](https://www.20min.ch/story/44-exekution-in-usa-63-jaehriger-in-florida-mit-giftspritze-hingerichtet-103454680) • _Freitag, 21. November 2025, 05:25 Uhr_
 
-Im Rennen um den U17-WM-Titel sind nur noch acht Nationen dabei – und die Schweiz ist mittendrin. Welche Hürden warten noch auf die Nati? Und wie sieht die Zukunft des Turniers aus? Blick beantwortet die wichtigsten Fragen.
+Norman Grim wurde in Florida mit der Giftspritze hingerichtet. Er war wegen Mordes und Vergewaltigung verurteilt.
 
-Nach dem Gruppensieg und den souveränen Auftritten in den ersten beiden K.o.-Runden gegen Ägypten und Irland (beide 3:1) wartet im Viertelfinal nun ein Hochkaräter auf die Schweiz: Portugal holte sich im Juni den Titel an der U17-Europameisterschaft ... [weiterlesen](https://www.blick.ch/sport/fussball/nati/u17-wm-geht-in-heisse-phase-was-die-schweiz-jetzt-erwartet-und-wer-ueberrascht-id21437862.html)
+Im US-Bundesstaat Florida ist Norman Grim durch eine Giftspritze hingerichtet worden. Der 63-Jährige wurde in einem Gefängnis in der Stadt Raiford getötet, wie Floridas Strafvollzugsbehörde am Donnerstag mitteilte. Er war 1988 wegen der Vergewaltigun... [weiterlesen](https://www.20min.ch/story/44-exekution-in-usa-63-jaehriger-in-florida-mit-giftspritze-hingerichtet-103454680)
 
-_Relevance score: [4] - U‑17 football tournament progress is of national interest and contributes to sport culture, but it has limited civic or structural impact beyond fan engagement._
-## WM 2026: Schweiz kennt Topf für Auslosung der Gruppen
+_Relevance score: [5] - Report of an execution in the United States; relevant to human‑rights debates but limited direct impact on Swiss or global policy beyond broader discussions on capital punishment._
+## Der Walliser Modedesigner Kévin Germanier glänzt mit Upcycling-Mode
 
-[Blick](https://www.blick.ch/sport/fussball/wm/wm-2026-schweiz-kennt-topf-fuer-auslosung-der-gruppen-id21441074.html) • _Donnerstag, 20. November 2025, 16:50 Uhr_
+[srf.ch](https://www.srf.ch/kultur/kunst/walliser-modedesigner-vom-wallis-nach-paris-kevin-germanier-glaenzt-mit-upcycling-mode) • _Freitag, 21. November 2025, 06:59 Uhr_
 
-Nachdem heute die Playoffs auf dem Weg zur WM 2026 ausgelost wurden, geht anfangs Dezember jene für die Gruppen über die Bühne. Die Schweizer Nati ist nicht in Topf 1 und wird dadurch einen dicken Brocken zugelost bekommen.
+Kévin Germanier ist im Kreis der Pariser Haute Couture angekommen. Das Mudac Lausanne widmet ihm eine glitzernde Schau.
 
-Alexander HornsteinSEO-Redaktor
-Die Qualifikation für die WM 2026 tütete die Schweizer Nati dank eines 1:1 gegen den Kosovo im letzten Gruppenspiel am vergangenen Dienstag ein. Die Gruppenauslosung für das XXL-Turnier vom kommenden Sommer mit erstmal... [weiterlesen](https://www.blick.ch/sport/fussball/wm/wm-2026-schweiz-kennt-topf-fuer-auslosung-der-gruppen-id21441074.html)
+Stricken und recyclen, futuristische Formen und hunderte kräftiger Farben – und reichlich Bergbezüge: Das ist Teil der Formel, die Kévin Germanier in der Modeszene erfolgreich gemacht hat.
+Die Ausstellung «Les Monstrueuses» im Designmuseum Mudac bele... [weiterlesen](https://www.srf.ch/kultur/kunst/walliser-modedesigner-vom-wallis-nach-paris-kevin-germanier-glaenzt-mit-upcycling-mode)
 
-_Relevance score: [4] - Football World Cup qualification draw news is of moderate national interest but does not affect policy, economy, or long‑term societal issues._
-## Es geht um ein Fahrzeug: Neuer Zeugenaufruf im Fall Fabian (†8)
+_Relevance score: [3] - Cultural news about a Swiss designer’s exhibition. Interesting for the arts but limited structural or civic effect; impact confined to niche fashion circles._
+## Bild von Frida Kahlo wird zum teuersten versteigerten Werk einer Frau
 
-[Blick](https://www.blick.ch/ausland/es-geht-um-ein-fahrzeug-neuer-zeugenaufruf-im-fall-fabian-8-id21435419.html) • _Donnerstag, 20. November 2025, 18:12 Uhr_
+[Watson](https://www.watson.ch/international/kunst/601104121-bild-von-frida-kahlo-wird-zum-teuersten-versteigerten-werk-einer-frau) • _Freitag, 21. November 2025, 06:55 Uhr_
 
-Im Fall des getöteten Knaben aus dem deutschen Güstrow hat die Polizei einen neuen Zeugenaufruf gestartet. Es geht um ein auffälliges Auto.
+Ein Gemälde der mexikanischen Künstlerin Frida Kahlo (1907-1954) ist in New York für 54,7 Millionen US-Dollar (etwa 44 Millionen Franken) versteigert worden.
 
-Marian NadlerRedaktor News
-Vor sechs Wochen wurde Fabian (†8) in der Nähe der deutschen Stadt Güstrow getötet. Nun hat die Polizei einen neuen Zeugenaufruf gestartet. Die Behörden erhoffen sich Hinweise auf einen auffälligen, orangefarbenen Pickup.
-D... [weiterlesen](https://www.blick.ch/ausland/es-geht-um-ein-fahrzeug-neuer-zeugenaufruf-im-fall-fabian-8-id21435419.html)
+Dieses Bild von Frida Kahlo wird zum teuersten je versteigerten Kunstwerk einer Frau
+Ein Gemälde der mexikanischen Künstlerin Frida Kahlo (1907-1954) ist in New York für 54,7 Millionen US-Dollar (etwa 44 Millionen Franken) versteigert worden – und da... [weiterlesen](https://www.watson.ch/international/kunst/601104121-bild-von-frida-kahlo-wird-zum-teuersten-versteigerten-werk-einer-frau)
 
-_Relevance score: [2] - A criminal investigation in Germany with no direct Swiss or global systemic relevance. Its impact is confined to a local community._
-## Nach Tod von Familie in Istanbul: So schützt du dich vor Pestizideinsatz
+_Relevance score: [3] - Historic auction price in the art market; noteworthy for cultural economics but no direct effect on public policy or society at large._
+## Vom Nepo-Baby zur Macht in Hollywood
 
-[20 Minuten](https://www.20min.ch/story/nach-tod-in-istanbul-wie-kann-ich-mich-als-hotelgast-vor-pestizidmitteln-schuetzen-103453736) • _Donnerstag, 20. November 2025, 17:02 Uhr_
+[NZZ](https://www.nzz.ch/wirtschaft/david-ellison-der-milliardaerssohn-der-hollywood-umkrempelt-ld.1912725) • _Freitag, 21. November 2025, 05:30 Uhr_
 
-In der Türkei starb eine deutsche Familie nach einer mutmasslichen Pestizidvergiftung. So kannst du dich vor einem Pestizidverdacht schützten.
+David Ellison will nach Paramount nun auch das traditionsreiche Filmstudio Warner Bros. übernehmen. Dabei hilft ihm das Geld seines Vaters Larry – und eine gute Beziehung zu Donald Trump.
 
-In Istanbul ist eine vierköpfige Familie aus Hamburg laut Ermittlungen vermutlich an einer Vergiftung durch ein gefährliches Pestizidmittel gestorben, das im Hotelzimmer gegen Bekämpfung von Bettwanzen eingesetzt wurde. Andere Touristen berichteten v... [weiterlesen](https://www.20min.ch/story/nach-tod-in-istanbul-wie-kann-ich-mich-als-hotelgast-vor-pestizidmitteln-schuetzen-103453736)
+In Hollywood verschwinden derzeit alte Gewissheiten. Die grossen Studios, jahrzehntelang das Gerüst der amerikanischen Filmindustrie, schrumpfen, werden zerschlagen oder von Konzernen geschluckt. Und doch hält sich mancherorts die Illusion ihrer Unve... [weiterlesen](https://www.nzz.ch/wirtschaft/david-ellison-der-milliardaerssohn-der-hollywood-umkrempelt-ld.1912725)
 
-_Relevance score: [2] - Travel‑safety advice following a tragic incident abroad; relevant only to a small audience of Swiss travelers, no broader societal impact._
-## Ismail Ali: Vermisster Ladenbesitzer taucht nach fünf Jahren überraschend auf
+_Relevance score: [3] - Profile of Hollywood power dynamics; primarily entertainment‑industry gossip without substantial societal implications._
+## NHL: Kurashev führt Sharks zum Sieg gegen Fialas Kings
 
-[20 Minuten](https://www.20min.ch/story/5-jahre-vermisst-ismael-wird-fuer-tot-erklaert-tage-spaeter-taucht-er-wieder-auf-103454501) • _Donnerstag, 20. November 2025, 17:58 Uhr_
+[Watson](https://www.watson.ch/sport/nhl/949535425-nhl-kurashev-fuehrt-sharks-zum-sieg-gegen-fialas-kings) • _Freitag, 21. November 2025, 07:20 Uhr_
 
-Nach seiner offiziellen Todeserklärung überrascht Ismail Ali die Ermittler und seine Angehörigen mit seinem Wiederauftauchen.
+In der NHL überzeugen die Schweizer: Philipp Kurashev führt die San Jose Sharks zum Sieg gegen Kevin Fialas LA Kings und J.J. Moser dominiert Connor McDavid.
 
-Das rätselhafte Verschwinden eines Ladenbesitzers aus Bradford, rund 13 Kilometer westlich von Leeds in Nordengland, hat nach mehr als fünf Jahren eine überraschende Wendung genommen: Ismail Ali ist wieder wohlbehalten aufgetaucht. Die Polizei teilte... [weiterlesen](https://www.20min.ch/story/5-jahre-vermisst-ismael-wird-fuer-tot-erklaert-tage-spaeter-taucht-er-wieder-auf-103454501)
+Kurashev führt Sharks zum Sieg gegen Fialas Kings – Moser dominiert McDavid
+Tampa Bay – Edmonton 2:1nV
+Janis Moser, 1 Assist, 1 Schuss, 4 Blocks, 21:51 TOI
+J.J Moser zeigt beim 2:1-Heimsieg nach Verlängerung seiner Tampa Bay Lightning gegen die Edmon... [weiterlesen](https://www.watson.ch/sport/nhl/949535425-nhl-kurashev-fuehrt-sharks-zum-sieg-gegen-fialas-kings)
 
-_Relevance score: [1] - Human‑interest story about a missing UK shop owner; no structural or civic significance for Switzerland or the wider world._
-## Das BBC-Interview mit Prinzessin Diana ist 30 Jahre her
+_Relevance score: [2] - Pure sport event centred on a Swiss player’s performance. No broader societal, economic or political impact beyond fan interest; therefore low relevance._
+## ZOOPUNK: TiGames erweitert das Animal-Punk-Universum auf PS5 und Xbox
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/gesellschaft/30-jahre-spaeter-waren-zu-dritt-in-dieser-ehe-wie-diana-die-welt-schockte) • _Donnerstag, 20. November 2025, 17:15 Uhr_
+[PlayFront](https://playfront.de/zoopunk-tigames-erweitert-das-animal-punk-universum-auf-ps5-und-xbox/) • _Freitag, 21. November 2025, 06:21 Uhr_
 
-Dianas Skandal-Interview hat die BBC und das Verhältnis zwischen Öffentlichkeit und Königshaus nachhaltig verändert.
+ZOOPUNK bringt frischen 3D-Action-Adventure-Wind ins F.I.S.T.-Universum. Neue Charaktere, neue Ära, neuer Konflikt – jetzt offiziell für PS5, Xbox Series & PC.
 
-Im November 1995 sass die damals 34-jährige Prinzessin Diana vor den Kameras des britischen Senders BBC und sprach über Untreue, Einsamkeit und tief sitzenden Schmerz. «Wir waren zu dritt in dieser Ehe», sagte sie über das Verhältnis von Charles zu C... [weiterlesen](https://www.srf.ch/news/gesellschaft/30-jahre-spaeter-waren-zu-dritt-in-dieser-ehe-wie-diana-die-welt-schockte)
+Wenn ein Studio wie TiGames ein neues Kapitel im Animal-Punk-Kosmos aufschlägt, lohnt sich genaues Hinsehen. ZOOPUNK spielt Jahrzehnte vor F.I.S.T.: Forged In Shadow Torch und nimmt uns mit in eine Zeit, in der Torch City noch nicht die vertraute Met... [weiterlesen](https://playfront.de/zoopunk-tigames-erweitert-das-animal-punk-universum-auf-ps5-und-xbox/)
 
-_Relevance score: [1] - Historical media piece about a British public figure; no direct impact on Swiss or global structural matters._
-## Borderlands® 4 Bounty Pack 1: Wie Rush den Söldnertag rettete ab heute kostenlos* für alle Borderlands® 4 Spieler:innen verfügbar
-
-[2K Games](https://newsroom-de.2k.com/news/borderlandsr-4-bounty-pack-1-wie-rush-den-soldnertag-rettete-ab-heute-kostenlos-fur-alle-borderlandsr-4-spielerinnen-verfugbar) • _Donnerstag, 20. November 2025, 17:34 Uhr_
-
-Schließt euch mit Rush zusammen und feiert fröhlich und heftig zugleich, mit neuer Ausrüstung, neuen Cosmetics und neuen Missionen 
-Ein zusätzliches fünftes Bounty Pack ist in Arbeit, weitere Details folgen
-
-Heute veröffentlichen 2K und Gearbox Software voller Stolz das Bounty Pack 1 „Wie Rush den Söldnertag rettete“. Als besonderes Weihnachts-Dankeschön an die fantastische Borderlands® 4 Community ist das Pack ab heute für alle Spieler:innen kostenlos v... [weiterlesen](https://newsroom-de.2k.com/news/borderlandsr-4-bounty-pack-1-wie-rush-den-soldnertag-rettete-ab-heute-kostenlos-fur-alle-borderlandsr-4-spielerinnen-verfugbar)
-
-_Relevance score: [0] - Pure entertainment news about a video‑game update; no relevance to societal, economic, or political matters._
+_Relevance score: [2] - Announcement of a new video‑game expansion; purely entertainment‑industry news with negligible broader impact._
 
 </details>
