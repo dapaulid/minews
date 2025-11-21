@@ -1,107 +1,101 @@
-_Aktualisiert: Donnerstag, 20. November 2025, 19:22 Uhr_
+_Aktualisiert: Freitag, 21. November 2025, 07:23 Uhr_
 
-Keine wichtigen Ereignisse in den letzten 12 Stunden.
+## Autonome Fahrzeuge erobern Zürcher und Aargauer Strassen
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/zukunft-auf-vier-raedern-autonome-fahrzeuge-erobern-zuercher-und-aargauer-strassen) • _Donnerstag, 20. November 2025, 17:54 Uhr_
+
+In den Kantonen Zürich und Aargau sind selbstfahrende Autos unterwegs. Schon 2026 sollen auch Kunden einsteigen können.
+
+Im Furttal hält die Zukunft Einzug. Der Bund hat die Bewilligung erteilt, dass nordwestlich der Stadt Zürich bis in den Kanton Aargau selbstfahrende Fahrzeuge unterwegs sein können. Damit werden erstmals Autos ohne Fahrer im Strassenverkehr eingesetz... [weiterlesen](https://www.srf.ch/news/schweiz/zukunft-auf-vier-raedern-autonome-fahrzeuge-erobern-zuercher-und-aargauer-strassen)
+
+_Relevance score: [8] - First nationwide approval for driver‑less cars in Switzerland, affecting transport policy, road safety regulations, and future mobility. Significant for Swiss infrastructure and could set a precedent internationally._
+## Munition wieder zu Hause
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/entscheid-staenderatskommission-soldaten-sollen-wieder-munition-nach-hause-nehmen) • _Donnerstag, 20. November 2025, 17:28 Uhr_
+
+Aufgrund der Sicherheitslage müsse es Soldaten ermöglicht werden, Taschenmunition bei sich aufbewahren zu können.
+
+Darüber wunderte man sich im Ausland immer wieder: Der Schweizer Soldat hatte nicht nur sein eigenes Sturmgewehr zu Hause, sondern auch eine Blechbüchse mit Munition – die Taschenmunition. Doch weil es immer wieder Suizide und Tötungsdelikte gab, wur... [weiterlesen](https://www.srf.ch/news/schweiz/entscheid-staenderatskommission-soldaten-sollen-wieder-munition-nach-hause-nehmen)
+
+_Relevance score: [7] - Policy change allowing Swiss soldiers to keep ammunition at home touches on national security, public safety, and civil‑military relations. It is a controversial civic issue with medium‑long‑term implications._
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Händler Costco eröffnet heute in Mülhausen (F) nahe Basel
+## Feuer bricht auf Gelände der Klimakonferenz in Belém aus - Gebäude evakuiert
 
-[Blick](https://www.blick.ch/wirtschaft/neue-filiale-von-us-riese-in-mulhouse-f-jetzt-gehen-bei-costco-die-tueren-auf-id21439012.html) • _Donnerstag, 20. November 2025, 07:05 Uhr_
+[20 Minuten](https://www.20min.ch/story/belem-feuer-auf-gelaende-der-klimakonferenz-103454527) • _Donnerstag, 20. November 2025, 18:14 Uhr_
 
-Heute um 7 Uhr eröffnete der US-Händler Costco seine erste Filiale nahe der Schweizer Grenze. Der Mega-Store ist nur 25 Autominuten von Basel entfernt und lockt mit Hunderten Gratis-Parkplätzen und 14'000 Quadratmeter Einkaufsfläche. Blick berichtet live vor Ort.
+Ein Feuer zwingt zur Evakuierung des Hauptpavillons der Klimakonferenz in Belém. Die Feuerwehr kämpft gegen die Flammen.
 
-Plötzlich ging alles ganz schnell: Lange machte der US-Händler Costco ein Geheimnis darum, wann er seinen ersten Standort nahe der Schweizer Grenze eröffnen wird. Heute ist es so weit: Nur 25 Autominuten von Basel entfernt öffnet der Konzern aus den ... [weiterlesen](https://www.blick.ch/wirtschaft/neue-filiale-von-us-riese-in-mulhouse-f-jetzt-gehen-bei-costco-die-tueren-auf-id21439012.html)
+Auf dem Hauptpavillon der UN-Klimakonferenz im brasilianischen Belém ist am Donnerstagabend ein Feuer ausgebrochen. Laut der Reporterin Isabela Mota von Rádio BandNews FM wurde das Gebäude derzeit vollständig evakuiert, um die Sicherheit aller Anwese... [weiterlesen](https://www.20min.ch/story/belem-feuer-auf-gelaende-der-klimakonferenz-103454527)
 
-_Relevance score: [5] - The opening of a large US retailer close to the Swiss border will affect cross‑border shopping, retail competition and local employment, giving it moderate national relevance._
-## Donald Trumps Beliebtheit fällt in den USA auf neuen Tiefstand
+_Relevance score: [5] - The fire disrupts a UN climate conference, a globally significant diplomatic event. While it may temporarily affect negotiations, the incident itself does not alter climate policy and its long‑term impact is limited._
+## WM: Der Schweizer Weg in den Final und die grossen Figuren
 
-[Watson](https://www.watson.ch/international/usa/992986655-donald-trumps-beliebtheit-faellt-in-den-usa-auf-neuen-tiefstand) • _Donnerstag, 20. November 2025, 05:13 Uhr_
+[Blick](https://www.blick.ch/sport/fussball/nati/u17-wm-geht-in-heisse-phase-was-die-schweiz-jetzt-erwartet-und-wer-ueberrascht-id21437862.html) • _Donnerstag, 20. November 2025, 17:51 Uhr_
 
-Nur noch 38 Prozent der US-Amerikaner unterstützen Donald Trump. Dafür gibt es hauptsächlich zwei Gründe.
+Im Rennen um den U17-WM-Titel sind nur noch acht Nationen dabei – und die Schweiz ist mittendrin. Welche Hürden warten noch auf die Nati? Und wie sieht die Zukunft des Turniers aus? Blick beantwortet die wichtigsten Fragen.
 
-Nur noch 38 Prozent der US-Amerikaner unterstützen Donald Trump. Dafür gibt es hauptsächlich zwei Gründe.
-Die Zustimmung zu US-Präsident Donald Trump ist einer Umfrage zufolge auf den niedrigsten Stand seiner zweiten Amtszeit gefallen. Demnach sind n... [weiterlesen](https://www.watson.ch/international/usa/992986655-donald-trumps-beliebtheit-faellt-in-den-usa-auf-neuen-tiefstand)
+Nach dem Gruppensieg und den souveränen Auftritten in den ersten beiden K.o.-Runden gegen Ägypten und Irland (beide 3:1) wartet im Viertelfinal nun ein Hochkaräter auf die Schweiz: Portugal holte sich im Juni den Titel an der U17-Europameisterschaft ... [weiterlesen](https://www.blick.ch/sport/fussball/nati/u17-wm-geht-in-heisse-phase-was-die-schweiz-jetzt-erwartet-und-wer-ueberrascht-id21437862.html)
 
-_Relevance score: [5] - US political poll; globally noteworthy but has limited direct effect on Swiss public affairs or policy._
-## Ameti und Manser-Egli geben Präsidium von Operation Libero ab
+_Relevance score: [4] - U‑17 football tournament progress is of national interest and contributes to sport culture, but it has limited civic or structural impact beyond fan engagement._
+## WM 2026: Schweiz kennt Topf für Auslosung der Gruppen
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/wechsel-im-co-praesidium-ameti-und-manser-egli-geben-praesidium-von-operation-libero-ab) • _Donnerstag, 20. November 2025, 06:51 Uhr_
+[Blick](https://www.blick.ch/sport/fussball/wm/wm-2026-schweiz-kennt-topf-fuer-auslosung-der-gruppen-id21441074.html) • _Donnerstag, 20. November 2025, 16:50 Uhr_
 
-Sanija Ameti und Stefan Manser-Egli geben das Co-Präsidium ab. Die Suche nach der geeigneten Nachfolge laufe ab sofort.
+Nachdem heute die Playoffs auf dem Weg zur WM 2026 ausgelost wurden, geht anfangs Dezember jene für die Gruppen über die Bühne. Die Schweizer Nati ist nicht in Topf 1 und wird dadurch einen dicken Brocken zugelost bekommen.
 
-Die Bewegung Operation Libero muss sich ein neues Präsidium suchen. Das Co-Präsidium Sanija Ameti und Stefan Manser-Egli hört auf.
-Im Interview mit dem Onlinemagazin «Republik» gaben die beiden den Entscheid bekannt.
-Die Nachfolgesuche ist im Gang.
-«... [weiterlesen](https://www.srf.ch/news/schweiz/wechsel-im-co-praesidium-ameti-und-manser-egli-geben-praesidium-von-operation-libero-ab)
+Alexander HornsteinSEO-Redaktor
+Die Qualifikation für die WM 2026 tütete die Schweizer Nati dank eines 1:1 gegen den Kosovo im letzten Gruppenspiel am vergangenen Dienstag ein. Die Gruppenauslosung für das XXL-Turnier vom kommenden Sommer mit erstmal... [weiterlesen](https://www.blick.ch/sport/fussball/wm/wm-2026-schweiz-kennt-topf-fuer-auslosung-der-gruppen-id21441074.html)
 
-_Relevance score: [4] - Leadership change in a Swiss political movement may influence liberal activism, but the effect is limited to a niche political circle._
-## Symbol für Deutschlands Versagen bei Grossprojekten
+_Relevance score: [4] - Football World Cup qualification draw news is of moderate national interest but does not affect policy, economy, or long‑term societal issues._
+## Es geht um ein Fahrzeug: Neuer Zeugenaufruf im Fall Fabian (†8)
 
-[NZZ](https://www.nzz.ch/der-andere-blick/deutschland-lernt-nichts-dazu-die-verschiebung-von-stuttgart-21-ist-ein-symbol-fuer-das-versagen-bei-grossprojekten-ld.1912653) • _Donnerstag, 20. November 2025, 05:30 Uhr_
+[Blick](https://www.blick.ch/ausland/es-geht-um-ein-fahrzeug-neuer-zeugenaufruf-im-fall-fabian-8-id21435419.html) • _Donnerstag, 20. November 2025, 18:12 Uhr_
 
-Es ist unsicher, wann der unterirdische Bahnhof eröffnet wird. Deutschland macht sich zum Gespött. Die Schweiz zeigt, wie es besser gehen kann.
+Im Fall des getöteten Knaben aus dem deutschen Güstrow hat die Polizei einen neuen Zeugenaufruf gestartet. Es geht um ein auffälliges Auto.
 
-Sie lesen einen Auszug aus dem Newsletter «Der andere Blick am Morgen», heute von Susann Kreutzmann, Redaktorin NZZ Deutschland. Abonnieren Sie den Newsletter kostenlos. Nicht in Deutschland wohnhaft? Hier profitieren.
-Wieder einmal wurde die Eröffnu... [weiterlesen](https://www.nzz.ch/der-andere-blick/deutschland-lernt-nichts-dazu-die-verschiebung-von-stuttgart-21-ist-ein-symbol-fuer-das-versagen-bei-grossprojekten-ld.1912653)
+Marian NadlerRedaktor News
+Vor sechs Wochen wurde Fabian (†8) in der Nähe der deutschen Stadt Güstrow getötet. Nun hat die Polizei einen neuen Zeugenaufruf gestartet. Die Behörden erhoffen sich Hinweise auf einen auffälligen, orangefarbenen Pickup.
+D... [weiterlesen](https://www.blick.ch/ausland/es-geht-um-ein-fahrzeug-neuer-zeugenaufruf-im-fall-fabian-8-id21435419.html)
 
-_Relevance score: [4] - Commentary on a German infrastructure project (Stuttgart‑21) with a Swiss comparative angle; relevance is indirect and mainly illustrative, not a direct Swiss issue._
-## Schweizer Shops verkaufen Carolina-Reaper-Chili: Gefährliche Mutprobe für Jugendliche?
+_Relevance score: [2] - A criminal investigation in Germany with no direct Swiss or global systemic relevance. Its impact is confined to a local community._
+## Nach Tod von Familie in Istanbul: So schützt du dich vor Pestizideinsatz
 
-[20 Minuten](https://www.20min.ch/story/ultrascharfe-chili-nach-hot-chip-skandal-jetzt-verkaufen-shops-ganze-schoten-103452947) • _Donnerstag, 20. November 2025, 04:52 Uhr_
+[20 Minuten](https://www.20min.ch/story/nach-tod-in-istanbul-wie-kann-ich-mich-als-hotelgast-vor-pestizidmitteln-schuetzen-103453736) • _Donnerstag, 20. November 2025, 17:02 Uhr_
 
-Nach dem Hot-Chip-Skandal bieten Online-Shops in der Schweiz nun ganze Carolina-Reaper-Schoten an, die extreme Schmerzen verursachen können.
+In der Türkei starb eine deutsche Familie nach einer mutmasslichen Pestizidvergiftung. So kannst du dich vor einem Pestizidverdacht schützten.
 
-Vor zwei Jahren ging die «Hot Chip Challenge» viral: Kinder und Jugendliche bissen als Mutprobe in ultrastarke Chips mit Carolina-Reaper-Chili – und bis zu 2,2 Millionen Scoville. Die Folgen waren drastisch: In Deutschland gab es Hospitalisierungen, ... [weiterlesen](https://www.20min.ch/story/ultrascharfe-chili-nach-hot-chip-skandal-jetzt-verkaufen-shops-ganze-schoten-103452947)
+In Istanbul ist eine vierköpfige Familie aus Hamburg laut Ermittlungen vermutlich an einer Vergiftung durch ein gefährliches Pestizidmittel gestorben, das im Hotelzimmer gegen Bekämpfung von Bettwanzen eingesetzt wurde. Andere Touristen berichteten v... [weiterlesen](https://www.20min.ch/story/nach-tod-in-istanbul-wie-kann-ich-mich-als-hotelgast-vor-pestizidmitteln-schuetzen-103453736)
 
-_Relevance score: [3] - Reports on the sale of extremely hot chilies and associated youth safety concerns; modest public‑health relevance within Switzerland._
-## Beachvolleyball-WM in Adelaide - Krattiger/Dillier scheitern im Achtelfinal
+_Relevance score: [2] - Travel‑safety advice following a tragic incident abroad; relevant only to a small audience of Swiss travelers, no broader societal impact._
+## Ismail Ali: Vermisster Ladenbesitzer taucht nach fünf Jahren überraschend auf
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/sport/mehr-sport/beachvolleyball/beachvolleyball-wm-in-adelaide-krattiger-dillier-scheitern-im-achtelfinal) • _Donnerstag, 20. November 2025, 07:14 Uhr_
+[20 Minuten](https://www.20min.ch/story/5-jahre-vermisst-ismael-wird-fuer-tot-erklaert-tage-spaeter-taucht-er-wieder-auf-103454501) • _Donnerstag, 20. November 2025, 17:58 Uhr_
 
-Für das letzte Schweizer Duo Marco Krattiger/Leo Dillier bedeutet der Achtelfinal in Adelaide Endstation.
+Nach seiner offiziellen Todeserklärung überrascht Ismail Ali die Ermittler und seine Angehörigen mit seinem Wiederauftauchen.
 
-Die Schweiz ist in der Endphase der Beachvolleyball-WM in Adelaide nicht mehr vertreten: Marco Krattiger und Leo Dillier haben den Viertelfinal-Einzug verpasst.
-Krattiger und Dillier hielten gegen das brasilianische Gespann Evandro/Arthur Lanci, die ... [weiterlesen](https://www.srf.ch/sport/mehr-sport/beachvolleyball/beachvolleyball-wm-in-adelaide-krattiger-dillier-scheitern-im-achtelfinal)
+Das rätselhafte Verschwinden eines Ladenbesitzers aus Bradford, rund 13 Kilometer westlich von Leeds in Nordengland, hat nach mehr als fünf Jahren eine überraschende Wendung genommen: Ismail Ali ist wieder wohlbehalten aufgetaucht. Die Polizei teilte... [weiterlesen](https://www.20min.ch/story/5-jahre-vermisst-ismael-wird-fuer-tot-erklaert-tage-spaeter-taucht-er-wieder-auf-103454501)
 
-_Relevance score: [2] - A sports result for a Swiss duo; interesting to fans but no structural, economic or political impact on Switzerland or the world._
-## Schweizer Autorin Katja Früh thematisiert Narzissmus im Roman. "Vielleicht ist die Liebe so"
+_Relevance score: [1] - Human‑interest story about a missing UK shop owner; no structural or civic significance for Switzerland or the wider world._
+## Das BBC-Interview mit Prinzessin Diana ist 30 Jahre her
 
-[20 Minuten](https://www.20min.ch/story/schweizer-autorin-katja-frueh-thematisiert-narzissmus-im-roman-vielleicht-ist-die-liebe-so-103450406) • _Donnerstag, 20. November 2025, 04:51 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/gesellschaft/30-jahre-spaeter-waren-zu-dritt-in-dieser-ehe-wie-diana-die-welt-schockte) • _Donnerstag, 20. November 2025, 17:15 Uhr_
 
-In «Vielleicht ist die Liebe so» verarbeitet Katja Früh ihre Erfahrungen mit einer narzisstischen Mutter und beleuchtet deren Auswirkungen.
+Dianas Skandal-Interview hat die BBC und das Verhältnis zwischen Öffentlichkeit und Königshaus nachhaltig verändert.
 
-In ihrem Debütroman «Vielleicht ist die Liebe so» beleuchtet Katja Früh (72) das Thema weiblicher Narzissmus. Ihre Protagonistin Anja kämpft mit einer narzisstischen Mutter. Im Interview mit 20 Minuten erzählt die Zürcherin, wie ihre eigenen Erfahrun... [weiterlesen](https://www.20min.ch/story/schweizer-autorin-katja-frueh-thematisiert-narzissmus-im-roman-vielleicht-ist-die-liebe-so-103450406)
+Im November 1995 sass die damals 34-jährige Prinzessin Diana vor den Kameras des britischen Senders BBC und sprach über Untreue, Einsamkeit und tief sitzenden Schmerz. «Wir waren zu dritt in dieser Ehe», sagte sie über das Verhältnis von Charles zu C... [weiterlesen](https://www.srf.ch/news/gesellschaft/30-jahre-spaeter-waren-zu-dritt-in-dieser-ehe-wie-diana-die-welt-schockte)
 
-_Relevance score: [2] - Literary interview; cultural interest but negligible impact on societal structures or policy._
-## "Remnick" auf Apple TV+: der eiskalte Thriller, der einen nicht mehr loslässt
+_Relevance score: [1] - Historical media piece about a British public figure; no direct impact on Swiss or global structural matters._
+## Borderlands® 4 Bounty Pack 1: Wie Rush den Söldnertag rettete ab heute kostenlos* für alle Borderlands® 4 Spieler:innen verfügbar
 
-[Cineman](https://www.cineman.ch/article/remnick-auf-apple-tv-der-eiskalte-thriller-der-einen-nicht-mehr-losl%C3%A4sst) • _Donnerstag, 20. November 2025, 07:00 Uhr_
+[2K Games](https://newsroom-de.2k.com/news/borderlandsr-4-bounty-pack-1-wie-rush-den-soldnertag-rettete-ab-heute-kostenlos-fur-alle-borderlandsr-4-spielerinnen-verfugbar) • _Donnerstag, 20. November 2025, 17:34 Uhr_
 
-Cineman - Nach dem Film ist vor dem Film. Kinoprogramme, Filmkritiken, DVD, Poster, Trailer, Interviews, Startlisten, Filmnews, Charts, Wettbewerbe und vieles mehr.
+Schließt euch mit Rush zusammen und feiert fröhlich und heftig zugleich, mit neuer Ausrüstung, neuen Cosmetics und neuen Missionen 
+Ein zusätzliches fünftes Bounty Pack ist in Arbeit, weitere Details folgen
 
-Am 10. Oktober stellten Jon Bokenkamp und Richard D'Ovidio ihre neue Serie «Remnick» vor. Während die achte Folge kurz vor der Veröffentlichung steht, bleibt noch genug Zeit, in diese mitreissende Geschichte einzutauchen, bevor am 5. Dezember das gro... [weiterlesen](https://www.cineman.ch/article/remnick-auf-apple-tv-der-eiskalte-thriller-der-einen-nicht-mehr-losl%C3%A4sst)
+Heute veröffentlichen 2K und Gearbox Software voller Stolz das Bounty Pack 1 „Wie Rush den Söldnertag rettete“. Als besonderes Weihnachts-Dankeschön an die fantastische Borderlands® 4 Community ist das Pack ab heute für alle Spieler:innen kostenlos v... [weiterlesen](https://newsroom-de.2k.com/news/borderlandsr-4-bounty-pack-1-wie-rush-den-soldnertag-rettete-ab-heute-kostenlos-fur-alle-borderlandsr-4-spielerinnen-verfugbar)
 
-_Relevance score: [1] - Pure entertainment news; no civic, economic or long‑term significance for Switzerland or globally._
-## Tales of Berseria Remastered erscheint im Februar 2026
-
-[Nau.ch](https://www.nau.ch/news/games/tales-of-berseria-remastered-erscheint-im-februar-2026-67067355) • _Donnerstag, 20. November 2025, 05:43 Uhr_
-
-Bandai Namco bringt Tales of Berseria Remastered mit neuen Features, DLCs und Qualitätsverbesserungen zurück.
-
-Sandra Morgenroth
-Japan , 20.11.2025 - 05:43
-Bandai Namco bringt Tales of Berseria Remastered mit neuen Features, DLCs und Qualitätsverbesserungen zurück.
-Bandai Namco kündigte die Veröffentlichung von Tales of Berseria Remastered am 18. November 202... [weiterlesen](https://www.nau.ch/news/games/tales-of-berseria-remastered-erscheint-im-februar-2026-67067355)
-
-_Relevance score: [1] - Announcement of a video‑game re‑release; culturally interesting but without broader societal impact._
-## Super scharfe Chilis essen: Was passiert mit deinem Körper?
-
-[20 Minuten](https://www.20min.ch/story/scharfmacher-das-passiert-in-deinem-koerper-wenn-du-eine-carolina-reaper-isst-103452636) • _Donnerstag, 20. November 2025, 04:52 Uhr_
-
-Das Capsaicin verleiht Chilis ihre Schärfe. Wer zu viel davon verdrückt, mutet seinem Körper einiges zu. Was genau geschieht?
-
-Schaffe ich es, eine ganze Flasche Chilisauce leer zu trinken? Kann ich wirklich 50 Carolina-Reaper-Chilis auf einmal verdrücken? Extreme Schärfe übt augenscheinlich einen unwiderstehlichen Reiz auf gewisse experimentierfreudige Individuen aus. Doch ... [weiterlesen](https://www.20min.ch/story/scharfmacher-das-passiert-in-deinem-koerper-wenn-du-eine-carolina-reaper-isst-103452636)
-
-_Relevance score: [1] - Health‑focused lifestyle piece; little beyond individual curiosity, no structural relevance._
+_Relevance score: [0] - Pure entertainment news about a video‑game update; no relevance to societal, economic, or political matters._
 
 </details>
