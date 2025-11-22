@@ -14,3 +14,7 @@ class Article:
     publishedAt: datetime
     score: int
     reasoning: str
+
+    @property
+    def headline(self) -> str:
+        return f"{self.source} - {self.title}"

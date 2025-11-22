@@ -17,7 +17,7 @@ def filter_articles(articles: list[Article]) -> list[Article]:
         prompt = utils.load_file('prompts/relevance-filter.md')
         for i, article in enumerate(articles):
             prompt += f"[{i}] {article.source} - {article.title}\n"
-        response = ai.exec(prompt)
+        response = ai.exec(prompt, "filter articles")
 
         keep_articles = []
         if response.strip() != "None.":
@@ -44,4 +44,3 @@ def print_article_counts(articles: list[Article]):
     for source, count in sorted(source_counts.items(), key=lambda x: x[1], reverse=True):
         print(f"  [{count:>3}] {source}")
     print(f"  [{len(articles):>3}] TOTAL")
-    

@@ -21,8 +21,8 @@ class UsageStats:
 
 total_usage = UsageStats()
 
-def exec(prompt: str) -> str:
-    print("Executing AI prompt...")
+def exec(prompt: str, description: str) -> str:
+    print(f"Executing AI prompt: {description}...")
     start_time = timer()
     with OpenRouter(
         api_key=utils.getenv("OPENROUTER_API_KEY")

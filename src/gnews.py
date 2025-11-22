@@ -2,56 +2,64 @@ import requests
 import utils
 import os
 import time
+from timeit import default_timer as timer
 from datetime import datetime, timezone, timedelta
 from article import Article
 
-class GNewsClient:
-    BASE_URL = "https://gnews.io/api/v4/"
+def get_top_headlines(country="us", language="en", category="general", max_requests=10) -> list[Article]:
 
-    def __init__(self):
-        self.api_key = utils.getenv("GNEWS_API_KEY")
+    # The free tier of gnews.io API includes the following:
+    # - 100 requests per day
+    # - Up to 10 articles returned per request
+    # - 10 requests/minute
+    # - 12-hour delay
+    # - 30 days historical data
+    # - one request per second / 60 requests per minute?
 
-    def get_top_headlines(self, country="us", language="en", category="general", max_requests=5):
+    print(f"Fetching top headlines from GNews...")
 
-        cache_file = f"data/{utils.today()}/gnews-{country}-{language}-{category}.yaml"
-        utils.ensure_basedir(cache_file)
+    cache_file = f"data/{utils.today()}/gnews-{country}-{language}-{category}.yaml"
+    utils.ensure_basedir(cache_file)
 
-        from_cache = os.path.exists(cache_file)
-        if from_cache:
-            fetched_articles = utils.load_file(cache_file)
-        else:
-            oldest = datetime.now(timezone.utc) - timedelta(days=1)
-            params = {
-                "apikey": self.api_key,
-                "country": country,
-                "lang": language,
-                "category": category,
-                "from": oldest.strftime('%Y-%m-%dT%H:%M:%SZ')
-            }
+    start_time = time.time()
+    from_cache = os.path.exists(cache_file)
+    if from_cache:
+        fetched_articles = utils.load_file(cache_file)
+    else:
+        oldest = datetime.now(timezone.utc) - timedelta(days=1)
+        params = {
+            "apikey": utils.getenv("GNEWS_API_KEY"),
+            "country": country,
+            "lang": language,
+            "category": category,
+            "from": oldest.strftime('%Y-%m-%dT%H:%M:%SZ')
+        }
 
-            fetched_articles = []
-            for i in range(max_requests):
-                params["page"] = i + 1
-                if i > 0:
-                    time.sleep(1.0)  # to respect rate limits
-                response = requests.get(f"{self.BASE_URL}top-headlines", params=params)
-                response.raise_for_status()
-                data = response.json()
-                page_articles = data["articles"]
-                fetched_articles += page_articles
-                if len(fetched_articles) < 10:
-                    break
-            utils.save_file(cache_file, fetched_articles)
+        fetched_articles = []
+        for i in range(max_requests):
+            params["page"] = i + 1
+            if i > 0:
+                time.sleep(1.0)  # to respect rate limits
+            print(f"  fetching page #{i+1}...")
+            response = requests.get(f"https://gnews.io/api/v4/top-headlines", params=params)
+            response.raise_for_status()
+            data = response.json()
+            page_articles = data["articles"]
+            fetched_articles += page_articles
+            if len(page_articles) < 10:
+                break
+        utils.save_file(cache_file, fetched_articles)
 
-        print(f"Fetched {len(fetched_articles)} articles from {'cache' if from_cache else 'API'}.")
+    duration = time.time() - start_time
+    print(f"  done, fetched {len(fetched_articles)} articles from {'cache' if from_cache else 'API'}, took {duration:.3f} seconds.")
 
-        # parse articles
-        articles = [self.create_article(a) for a in fetched_articles]
-        return articles
+    # parse articles
+    articles = [parse_article(a) for a in fetched_articles]
+    return articles
     
-    def create_article(self, data):
-        data['source'] = data['source']['name']
-        data['publishedAt'] = datetime.fromisoformat(data['publishedAt'])
-        data['score'] = None
-        data['reasoning'] = None
-        return Article(**data)
+def parse_article(data):
+    data['source'] = data['source']['name']
+    data['publishedAt'] = datetime.fromisoformat(data['publishedAt'])
+    data['score'] = None
+    data['reasoning'] = None
+    return Article(**data)
