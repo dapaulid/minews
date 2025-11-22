@@ -55,7 +55,7 @@ class Briefing:
             md += f"[{article.source}]({article.url}) • _{self.format_datetime(article.publishedAt)}_\n\n"
             md += f"{article.description}\n\n"
             md += self.format_content(article)
-            md += f"\n\n>Relevance score: [{article.score}] - {article.reasoning}\n\n"
+            md += f"\n\n> Relevance score: [{article.score}] - {article.reasoning}\n\n"
         return md
 
     def format_datetime(self, dt: datetime) -> str:
