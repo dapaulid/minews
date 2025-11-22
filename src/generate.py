@@ -3,6 +3,7 @@ import rate
 import briefing
 import utils
 import argparse
+import filter
 
 # parse command line
 parser = argparse.ArgumentParser(description="Generate news from filtered sources.")
@@ -12,8 +13,9 @@ args = parser.parse_args()
 
 # collect news articles
 client = gnews.GNewsClient()
-#client = worldnews.WorldNewsClient()
 articles = client.get_top_headlines(country="ch", language="de")
+# filter articles
+articles = filter.filter_articles(articles)
 # rate articles
 rate.rate_articles(articles)
 # save as markdown

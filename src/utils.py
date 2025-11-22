@@ -77,3 +77,9 @@ def ensure_basedir(filepath):
 
 def today():
     return datetime.now().strftime("%Y-%m-%d")
+
+def deduplicate(items: list, key_func) -> list:
+    unique_items = {}
+    for item in items:
+        unique_items[key_func(item)] = item
+    return list(unique_items.values())
