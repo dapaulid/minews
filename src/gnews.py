@@ -1,6 +1,7 @@
 import requests
 import utils
 import os
+import time
 from datetime import datetime, timezone, timedelta
 from article import Article
 
@@ -31,6 +32,8 @@ class GNewsClient:
             fetched_articles = []
             for i in range(max_requests):
                 params["page"] = i + 1
+                if i > 0:
+                    time.sleep(1.0)  # to respect rate limits
                 response = requests.get(f"{self.BASE_URL}top-headlines", params=params)
                 response.raise_for_status()
                 data = response.json()
