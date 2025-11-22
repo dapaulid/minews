@@ -4,6 +4,7 @@ import briefing
 import utils
 import argparse
 import filter
+import ai
 
 # parse command line
 parser = argparse.ArgumentParser(description="Generate news from filtered sources.")
@@ -20,3 +21,7 @@ articles = filter.filter_articles(articles)
 rate.rate_articles(articles)
 # save as markdown
 utils.save_file(args.output_file, briefing.format_md(articles))
+# print summary
+ai.print_usage()
+# done
+print("\nCompleted successfully.")
