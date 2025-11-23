@@ -4,9 +4,9 @@ on:
   push:
     branches:
       - main
-  # run at 06:00 and 18:00 every day
+  # run every day at 06:00 and 18:00 CET
   schedule:
-    - cron: '0 6,18 * * *'
+    - cron: '0 5,17 * * *'
   # run on manual trigger in GitHub UI 
   workflow_dispatch:    
 
