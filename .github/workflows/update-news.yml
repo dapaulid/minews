@@ -13,6 +13,8 @@ on:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: 1  # ensure real-time output from Python scripts
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
