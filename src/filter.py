@@ -22,12 +22,12 @@ def filter_articles(articles: list[Article]) -> list[Article]:
         keep_articles = []
         if response.strip() != "None.":
             for line in response.splitlines():
-                m = re.match(r'\[(\d+)\] (.*) - (.*)', line)
+                m = re.match(r'\[(\d+)\] (.*?) - (.*)', line)
                 if m:
                     index = int(m.group(1))
                     source = m.group(2)
                     title = m.group(3)
-                    assert source == articles[index].source, f"Source mismatch in filter response: expected {source}, got {articles[index].source}\nExpected title: {title}\nActual title  : {articles[index].title}"
+                    assert source == articles[index].source, f"Source mismatch in filter response: expected {articles[index].source}, got {source}\nExpected title: {articles[index].title}\nActual title  : {title}"
                     keep_articles.append(articles[index])
                 else:
                     raise ValueError("Unrecognized line in filter response: %s" % line)
