@@ -4,3 +4,8 @@
 !.gitignore
 !index.md
 !_config.yml
+!briefing
+!briefing/de
+!briefing/de/*
+!briefing/en
+!briefing/en/*
