@@ -32,13 +32,12 @@ jobs:
         env:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        run: uv run src/generate.py -o news.md
+        run: uv run src/generate.py -o output/briefing
 
       - name: Move to GitHub Pages branch
         run: |
           git switch gh-pages
-          mv news.md index.md
-          git add index.md
+          mv output/briefing/* briefing/
 
       - name: Commit & Push changes
         uses: actions-js/push@v1.5

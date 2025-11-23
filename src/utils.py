@@ -1,7 +1,9 @@
 import os
 from datetime import datetime
 
-def save_file(filename, data):
+def save_file(filename, data, create_dirs=False):
+    if create_dirs:
+        ensure_basedir(filename)
     ext = os.path.splitext(filename)[-1]
     if ext == '.yaml':
         import yaml
