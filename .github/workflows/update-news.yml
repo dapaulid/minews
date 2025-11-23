@@ -32,7 +32,7 @@ jobs:
         env:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        run: uv run src/generate.py -o output/briefing
+        run: uv run src/generate_briefing.py -o output/briefing
 
       - name: Move to GitHub Pages branch
         run: |
