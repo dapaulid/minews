@@ -37,7 +37,7 @@ jobs:
       - name: Move to GitHub Pages branch
         run: |
           git switch gh-pages
-          mv output/briefing/* briefing/
+          cp -rT output/briefing briefing
 
       - name: Commit & Push changes
         uses: actions-js/push@v1.5
