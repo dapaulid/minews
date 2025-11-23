@@ -2,125 +2,45 @@
 
 ---
 
-_Aktualisiert: Sonntag, 23. November 2025, 16:34 Uhr_
+_Aktualisiert: Sonntag, 23. November 2025, 19:21 Uhr_
 
-## Ukraine und USA wollen in der Schweiz über Friedensplan verhandeln
+## Schweizer Häuser werden immer teurer - diese Gefahr droht Eigentümern
 
-[NZZ](https://www.nzz.ch/international/verhandlungen-in-genf-ukrainer-wollen-mit-amerikanern-und-europaeern-ueber-friedensplan-sprechen-ld.1913100) • _Samstag, 22. November 2025, 16:52 Uhr_
+[Watson](https://www.watson.ch/schweiz/immobilien/798108747-schweizer-haeuser-werden-immer-teurer-diese-gefahr-droht-eigentuemern) • _Sonntag, 23. November 2025, 05:36 Uhr_
 
-Präsident Trump erwartet bis Donnerstag die Zustimmung der Ukraine zu seinem Friedensplan. Kiew hofft, bessere Bedingungen aushandeln zu können, und setzt dabei auch auf die Hilfe der Europäer.
+Eine neue Auswertung von 7500 Immobilien-Käufen fördert Bedenkliches zu Tage.
 
-### Verhandlungen in Genf
-- Eine US-Delegation trifft am Sonntag ukrainische Vertreter in [Genf](https://de.wikipedia.org/wiki/Genf), Schweiz, um den 28-Punkte-[Friedensplan](https://de.wikipedia.org/wiki/Ministerkonferenz_f%C3%BCr_europ%C3%A4ische_Sicherheit) von [Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump) zu besprechen.
-  - US-Delegation geleitet von Heeresminister und Ukraine-Beauftragtem [Dan Driscoll](https://de.wikipedia.org/wiki/Dan_Driscoll), ergänzt durch Außenminister [Marco Rubio](https://de.wikipedia.org/wiki/Marco_Rubio) und Sondergesandten [Steve Witkoff](https://de.wikipedia.org/wiki/Steve_Witkoff).
-  - Ukrainische Delegation unter Stabschef [Andri Jermak](https://de.wikipedia.org/wiki/Andrij_Jermak), inklusive Sicherheitsratschef [Rustem Umerow](https://de.wikipedia.org/wiki/Rustem_Umerow) und Militärgeheimdienstchef [Kirilo Budanow](https://de.wikipedia.org/wiki/Kyrylo_Budanov).
-- [Schweiz](https://de.wikipedia.org/wiki/Schweiz) unterstützt als Gastgeber; [Bern](https://de.wikipedia.org/wiki/Bern) im Kontakt mit allen Seiten.
-- Nächste Schritte: US trifft danach russische Verhandler, dann soll Trump mit [Wolodymyr Selenskyj](https://de.wikipedia.org/wiki/Wolodymyr_Selenskyj) eine Vereinbarung unterzeichnen, an der Russland zustimmt, aber nicht teilnimmt.
+### Steigende Immobilienpreise in der Schweiz
 
-### US-Friedensplan und Kritik
-- Plan sieht faktische Abtretung eines Fünftels ukrainischen Territoriums vor; Trump gab zunächst Frist bis Donnerstag, relativierte sie aber als verlängerbar und nicht letztes Angebot.
-- Kritik in den USA:
-  - Republikaner wie Senator [Thom Tillis](https://de.wikipedia.org/wiki/Thom_Tillis) warnen, Plan vermittle [Putin](https://de.wikipedia.org/wiki/Wladimir_Wladimirowitsch_Putin) Sieg.
-  - Senatoren ([Angus King](https://de.wikipedia.org/wiki/Angus_King), [Mike Rounds](https://de.wikipedia.org/wiki/Mike_Rounds)) nennen Plan «russische Wunschliste» nach Aussage von Rubio.
-- Rubio widerspricht auf X: Plan US-autoriert, basierend auf Input von Russland und Ukraine.
-- [J. D. Vance](https://de.wikipedia.org/wiki/J._D._Vance) kritisiert ukrainischen «Sieg»-Fantasien trotz mehr Hilfe.
+- Immobilienpreise, insbesondere für [[Einfamilienhäuser]], steigen seit über 20 Jahren; laut [[Bank für Internationalen Zahlungsausgleich]] um 135 % seit 2000.
+- Durchschnittliches Einfamilienhaus kostet heute 1,35 Mio. [[Schweizer Franken]]; Löhne sind entkoppelt, normale Familien (z. B. Müllers mit 160'000 Franken Einkommen) können es sich nicht leisten.
 
-### Ukrainische Position unter Druck
-- Selenskyj lehnt Plan nicht offen ab, um Vorwurf des Friedenswillensverweigerers zu vermeiden; appelliert an nationalen Zusammenhalt angesichts kritischer Entscheidung.
-- Ukraine bestätigt Treffen; Selenskyj warnte vor Würdeverlust oder Verlust des US-Partners.
+### Moneypark-Analyse von 7500 Käufen
 
-### Europäische Reaktion
-- Europäer (u.a. [Friedrich Merz](https://de.wikipedia.org/wiki/Friedrich_Merz), [Emmanuel Macron](https://de.wikipedia.org/wiki/Emmanuel_Macron), [Keir Starmer](https://de.wikipedia.org/wiki/Keir_Starmer)) wollen in Genf mitverhandeln; Plan ohne EU/[NATO](https://de.wikipedia.org/wiki/NATO)-Rücksprache erstellt.
-- Am [G20-Gipfel](https://de.wikipedia.org/wiki/G20) in Südafrika: Koordinierungstreffen mit Deutschland, Frankreich, Großbritannien, Japan, Kanada u.a.; gemeinsame Erklärung sieht Plan als Arbeitsgrundlage, lehnt Grenzverschiebung per Gewalt ab, fordert Waffenstillstand nur als Auftakt.
-- Ziel: Selenskyj Rückhalt geben; Merz warnt vor Kontinentfolgen bei ukrainischem Kollaps.
+- [[Moneypark]]-Chef [[Lukas Vogt]] wertete Käufe der letzten 5 Jahre aus: Viele nutzen [[Pensionskasse]] (zweite Säule), um Eigenkapital für Hypothek aufzubringen.
+  - 2250 von 7500 Käufern (jeder Dritte) entnahmen im Schnitt 70 % aus der Pensionskasse.
+- Banken prüfen Tragfähigkeit mit fiktivem 5 %-Zins: Kosten (Zinsen, Nebenkosten, Amortisation) maximal 1/3 des Einkommens.
 
-### Korruptionsskandal in der Ukraine
-- Selenskyj angeschlagen durch Skandal; Forderungen nach Personalaustausch, insb. bei Jermak und Umerow (Gerüchte um Amnestie im Plan dementiert).
-- Delegation als Signal: Selenskyj hält an Vertrauten fest; Aufarbeitung wartet wegen Kriegsdruck.
+### Aktuelle Niedrigzinsen ermöglichen Käufe
 
-> Relevance score: [8] - Diplomatic talks on Ukraine peace plan hosted in Switzerland; high potential impact on global conflict resolution and Swiss neutrality role.
+- Reale Hypothekenzinsen bei <1,5 % (10 Jahre) erlauben Käufe; Müllers-Familie bekäme Hypothek für 1,35 Mio.-Haus bei 2 % Zins.
+- Pensionskassen-Auszahlung reduziert Hypothek, passt Budget unter 1/3-Limit.
 
-## Fossile Brennstoffe und Klimaziele im Fokus
+### Risiken im Rentenalter
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/wissenschaft/weltklimagipfel-endet-ohne-beschluss-zu-exitplan-aus-fossilen-brennstoffen-eine-herbe-enttaeuschung-fuer-europaeische-diplomaten-ld.1912940) • _Samstag, 22. November 2025, 18:32 Uhr_
+- Weniger Rente durch Entnahme → sinkendes Einkommen; Wohnkosten (bei 5 %-Test + steigende Hauswerte/Nebenkosten à 1 %) überschreiten oft 1/3, ggf. 40 %.
+- Gefahr: Erzwungener Hausverkauf ("Vertreibung aus dem Paradies"), Bankwechsel unmöglich, Rückzahlungsforderung.
+- Betroffen: Ca. 70 % der Käufer ab 2010 mit mittlerem Einkommen; selten heute, könnte zunehmen.
 
-Zehn Jahre nachdem das Pariser Abkommen beschlossen wurde, können sich Regierungen noch immer kaum zu einem Ausstieg aus den fossilen Brennstoffen durchringen.
+### Empfehlungen von Moneypark
 
-### Ende der COP30 ohne Beschluss zu fossilen Brennstoffen
+- Vor Rente mehr sparen (dritte Säule), Hypothek schneller tilgen, weniger paradiesisch leben.
+- Vogt: "Finanzielle Weitsicht gefragt", um Überforderung zu vermeiden; Banken meiden Zwangsverkäufe, priorisieren stabile Zinszahlungen.
 
-- Die [COP30](https://de.wikipedia.org/wiki/COP_30) in [Belém](https://de.wikipedia.org/wiki/Bel%C3%A9m) endete ohne konkrete Verpflichtung zum Ausstieg aus fossilen Brennstoffen, trotz dominierender Debatten dazu.
-- Zehn Jahre nach dem [Pariser Abkommen](https://de.wikipedia.org/wiki/Pariser_Klimaschutzabkommen) lag der Fokus erstmals auf der Umsetzung von Zielen, nicht auf neuen Versprechen.
-- [Luiz Inácio Lula da Silva](https://de.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva) forderte einen Fahrplan zum Ausstieg aus fossilen Brennstoffen und Entwaldung; in [Dubai](https://de.wikipedia.org/wiki/UN-Klimakonferenz_2023) (vor zwei Jahren) wurde erstmals ein Übergang eingeleitet, doch Verbrauch steigt weiter.
-- Beschlüsse unterstützen Umsetzung von Klimaplänen und beschleunigen Emissionsminderungen, erwähnen Fossile nicht explizit; Welt steuert auf 2,8 Grad Erwärmung zu.
-
-### Enttäuschung für Europa und Widerstand der Schwellenländer
-
-- Schwere Enttäuschung für europäische Diplomaten; Allianz von über 80 Ländern (angeführt von [Kolumbien](https://de.wikipedia.org/wiki/Kolumbien)) forderte Fahrplan.
-  - [Wopke Hoekstra](https://de.wikipedia.org/wiki/Wopke_Hoekstra) (EU-Kommissar) drohte mit Blockade, akzeptierte Kompromiss als «schlechten Deal».
-- Starker Widerstand von Schwellenländern wie [Saudi-Arabien](https://de.wikipedia.org/wiki/Saudi-Arabien), [China](https://de.wikipedia.org/wiki/China) und [Russland](https://de.wikipedia.org/wiki/Russland).
-- Ausblick:
-  - [Kolumbien](https://de.wikipedia.org/wiki/Kolumbien) und [Niederlande](https://de.wikipedia.org/wiki/Niederlande) planen Konferenz 2026.
-  - Brasilianische COP-Präsidentschaft (André Aranha Corrêa do Lago) arbeitet an Fahrplan.
-- Spannungen durch EU-[CO₂-Grenzabgabe](https://de.wikipedia.org/wiki/EU-CO2-Grenzausgleichssystem), kritisiert von Indien und China als Handelsbremse.
-
-### Fortschritte bei Anpassung und Finanzierung
-
-- Fokus auf Anpassung an Klimawandel (Hochwasser, Hitzewellen, Dürren); Einigung, Finanzierung bis 2035 zu verdreifachen, vor allem durch Industriestaaten.
-- Entwicklungsländer zufriedener:
-  - [Sierra Leone](https://de.wikipedia.org/wiki/Sierra_Leone): Bedeutende Schritte (Jiwoh Abdulai).
-  - [Kenia](https://de.wikipedia.org/wiki/Kenia): Forderung nach Einhaltung von Zusagen (Ali Mohamed).
-- Aktuell fließt weniger als ein Drittel der Klimafinanzierung in Anpassung; EU wollte Flexibilität gegen strengere Reduktionspflichten eintauschen.
-
-### Energiewende und brasilianische Perspektive
-
-- Globale Energiewende im Gange mit wirtschaftlichen Chancen, aber zu langsam für Klimaziele.
-- [USA](https://de.wikipedia.org/wiki/Vereinigte_Staaten)-Ausstieg großer Schlag; COP30 betonte mühsame Umsetzung unter Druck (Wahlen, Fake News, Frustration).
-- Brasilien nutzte Gastgeberschaft, um Chancen für Schwellenländer zu zeigen: Neue Wirtschaft mit Wachstum und Jobs durch Klima-Agenda.
-
-> Relevance score: [7] - Highlights persistent global challenges in climate policy 10 years post-Paris Agreement; long-term economic and environmental significance.
-
-## Tausende demonstrieren für bessere Arbeitsbedingungen
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/gesundheitsberufe-tausende-demonstrieren-in-bern-fuer-umsetzung-der-pflegeinitiative) • _Samstag, 22. November 2025, 17:16 Uhr_
-
-Sie forderten faire Arbeitsbedingungen und eine sichere Gesundheitsversorgung.
-
-### Demonstration in Bern
-- Mehrere tausend Menschen demonstrierten am Samstagnachmittag auf dem [[Bundesplatz (Bern)|Berner Bundesplatz]] für eine rasche Umsetzung der [[Pflegeinitiative (Schweiz)|Pflegeinitiative]].
-- Organisatoren sprachen von mindestens 5000 Teilnehmenden; Gewerkschaften wie [[Unia (Gewerkschaft)|Unia]], [[VPOD|VPOD]] und [[Syna|Syna]] waren vertreten.
-
-### Forderungen und Kritik
-- Demonstrierende forderten faire Arbeitsbedingungen und sichere Gesundheitsversorgung.
-- Transparente wie «Klatschen holt uns nicht in den Beruf zurück» kritisierten: Vier Jahre nach der Abstimmung 2021 fehlen anforderungsgerechte Bedingungen; das Gesundheitswesen steckt tiefer in der Krise.
-- Pflegekräfte äußerten Frust über das «System», nicht über Chefs; [[Flavia Wasserfallen|Berner SP-Ständerätin Flavia Wasserfallen]] forderte verbindliche Vorgaben vom Bund.
-
-### Bündnis und Umsetzungskritik
-- Aufgerufen hatte das [[Bündnis des Gesundheitspersonals]], zu dem der [[Berufsverband Schweizer Pflegefachfrauen und -fachmänner|Berufsverband der Pflegefachpersonen]] und der [[VSAO|Verband Schweizerischer Assistenz- und Oberärztinnen und -ärzte]] gehören.
-- Kritik am Gesetzesentwurf: Fehlende sichere Stellenschlüssel und ausreichende Finanzierung machen bessere Bedingungen zu «Schall und Rauch»; zweite Etappe (berufliche Entwicklung) hängt im Parlament.
-
-### Hintergrund der Pflegeinitiative
-- Im November 2021 nahmen die Stimmberechtigten die Initiative mit 61% Ja an.
-- Umsetzung in zwei Etappen:
-  - Erste: Ausbildungsoffensive.
-  - Zweite: Berufliche Entwicklung von Pflegenden (derzeit im Parlament).
-
-### Weitere Beteiligte
-- Regisseurin [[Petra Volpe]] schaltete sich zu; ihr Film «[[Heldin (2023)|Heldin]]» beleuchtet Krankenhauspersonal und verstärkt die Stimme der Pflegenden.
-
-> Relevance score: [6] - Swiss national demonstration for healthcare worker rights; moderate civic relevance to labor and health policy.
+> Relevance score: [8] - Rising house prices based on 7500 transactions signal ongoing affordability crisis and potential bubble risk, structurally impacting Swiss homeowners' wealth, economy, and long-term housing market stability for a broad population.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
-
-## Die Lage in Nahost - Mindestens 20 Tote bei gewaltsamen Vorfällen in Gaza
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/nahost/die-lage-in-nahost-mindestens-20-tote-bei-gewaltsamen-vorfaellen-in-gaza) • _Samstag, 22. November 2025, 19:13 Uhr_
-
-Die palästinensische Nachrichtenagentur Wafa berichtet über mehrere israelische Angriffe im Gazastreifen.
-
-Die Eskalation des Krieges im Nahen Osten hat zu einer humanitären Krise im Gazastreifen geführt. Wegen der sich täglich verschlechternden Lage der Zivilbevölkerung verstärkt die Glückskette ihre Hilfe für die Betroffenen der humanitären Krise in der... [weiterlesen](https://www.srf.ch/news/international/nahost/die-lage-in-nahost-mindestens-20-tote-bei-gewaltsamen-vorfaellen-in-gaza)
-
-> Relevance score: [4] - Routine casualties in ongoing Gaza conflict; contributes to humanitarian crisis but no major escalation or policy shift.
 
 ## Berset-Vertraute kassierten mehr als 750’000 Franken
 
@@ -134,7 +54,7 @@ Bei seinem Abschied aus dem Bundesrat verteilte der Sozialdemokrat grosszügige 
 Publiziert: 00:02 Uhr
 Alain Berset war von 2012 bis 2023 Bundesrat... [weiterlesen](https://www.blick.ch/politik/abgangsentschaedigungen-vertraute-von-alain-berset-kassierten-mehr-als-750-000-franken-id21447353.html)
 
-> Relevance score: [2] - Minor political payout story involving former Swiss official; limited structural or civic impact beyond tabloid interest.
+> Relevance score: [4] - Reveals specific payouts to associates by former Federal Councillor, raising governance transparency concerns but limited to one politician's departure with modest financial scale and no broad systemic impact.
 
 
 </details>
