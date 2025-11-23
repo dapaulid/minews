@@ -2,7 +2,7 @@
 
 ---
 
-_Aktualisiert: Sonntag, 23. November 2025, 22:27 Uhr_
+_Aktualisiert: Sonntag, 23. November 2025, 23:07 Uhr_
 
 ## Jetzt gehts ums Ganze: Blocher will UBS aufspalten
 
@@ -10,78 +10,29 @@ _Aktualisiert: Sonntag, 23. November 2025, 22:27 Uhr_
 
 Trennbanken-System, Swiss Style: SVP-Tycoon schlägt Aufteilung in UBS Schweiz und UBS America vor. Schlacht in Medien nimmt Fahrt auf.
 
-### Blochers Vorschlag zur UBS-Aufspaltung
-- Die *SonntagsZeitung* präsentiert die Idee von SVP-Doyen [Christoph Blocher](https://de.wikipedia.org/wiki/Christoph_Blocher), die [UBS](https://de.wikipedia.org/wiki/UBS) in eine UBS Schweiz und eine UBS Übersee aufzuteilen.
-- Grund: UBS ist „[too big to fail](https://de.wikipedia.org/wiki/Too_Big_to_Fail)“ – „zu gross für die Schweiz“; mehr Regelungen oder Eigenkapital lösen das Problem nicht.
+### Blochers Aufspaltungsvorschlag für die UBS
+- Die *SonntagsZeitung* präsentiert die Idee des [SVP](https://de.wikipedia.org/wiki/Schweizerische_Volkspartei)-Doyens [Christoph Blocher](https://de.wikipedia.org/wiki/Christoph_Blocher): Aufteilung der [UBS](https://de.wikipedia.org/wiki/UBS) in eine UBS Schweiz und eine UBS Übersee (Amerika), um das „[too big to fail](https://de.wikipedia.org/wiki/Too_Big_to_Fail)“-Problem zu lösen.
+- Blocher: UBS sei „zu gross für die Schweiz“, mehr Regelung oder Eigenkapital helfe nicht; die Schweiz sprenge die Alpenrepublik durch UBS-Risiken.
 
-### Reaktionen bei UBS
-- Alarmsirenen im Zürcher Headquarter; für Präsident [Colm Kelleher](https://en.wikipedia.org/wiki/Colm_Kelleher) und CEO [Sergio Ermotti](https://de.wikipedia.org/wiki/Sergio_Ermotti) wäre es das Ende von Macht, Grösse und Boni.
-- Ermotti nannte die Wegzugs-Debatte auf Podium von [JPMorgan](https://de.wikipedia.org/wiki/JPMorgan_Chase) „Bullshit“.
-- Schützenhilfe für Kelleher im *SonntagsBlick*: Klärung zu [Financial Times](https://de.wikipedia.org/wiki/Financial_Times)-Story über „Geheimgespräche“ mit Trumps Finanzminister – kein UBS-Wegzug nach New York, sondern alte Kundenbeziehung.
+### Reaktionen der UBS-Führung
+- Für Präsident [Colm Kelleher](https://de.wikipedia.org/wiki/Colm_Kelleher) und CEO [Sergio Ermotti](https://de.wikipedia.org/wiki/Sergio_Ermotti) wäre die Spaltung das Ende von Macht, Grösse und Boni.
+- Ermotti nennt Wegzugs-Debatte „Bullshit“ auf [JPMorgan](https://de.wikipedia.org/wiki/JPMorgan_Chase)-Podium.
+- *SonntagsBlick* (Ringier) gibt Kelleher Schützenhilfe: [Financial Times](https://de.wikipedia.org/wiki/Financial_Times)-Story über „Geheimgespräche“ mit Trumps Finanzminister drehte sich nicht um UBS-Wegzug nach New York, sondern um alte Kundenbeziehung.
 
-### Konkreter Aufspaltungsplan
-- Aktionären zwei Aktien geben: eine für UBS Schweiz (unter schweizerischem Recht), eine für UBS Amerika (unter US-Recht).
-- Vollständige Trennung in zwei eigenständige Banken mit Firmensitz in zwei Ländern.
-- Schweiz haftet nicht mehr für US-Geschäft; UBS Schweiz ggf. weiter „too big to fail“-prüfen.
+### Details des machbaren Plans
+- Aktionären zwei Aktien geben:
+  - Eine für UBS Schweiz unter schweizerischem Recht (Hauptsitz Zürich).
+  - Eine für UBS Amerika unter US-Recht (kein zusätzliches Eigenkapital nötig, wenn USA nicht verlangt).
+- Vollständige Trennung in zwei eigenständige Banken mit Sitz in zwei Ländern; Schweiz haftet nicht mehr für US-Geschäft.
+- Falls UBS Schweiz allein noch „too big to fail“ ist, separat lösen.
 
 ### Beispiele und Vorteile
-- Vorbilder: Zement-Multi spaltete US-Geschäft als [Amrize](https://de.wikipedia.org/wiki/Holcim) ab; [Dottikon](https://de.wikipedia.org/wiki/Dottikon_Exclusive_Synthesis) von [Ems-Chemie](https://de.wikipedia.org/wiki/Ems-Chemie) entwickelte sich prächtig.
-- Vorteile für Schweiz, Bank, Eigentümer und Amerika.
-- Blocher zu Ermotti: „Der Tod gehört zum Leben“ – jedes Unternehmen ist vom Tod bedroht, darf aber nicht die Volkswirtschaft mitreissen.
+- Vorbilder:
+  * [Holcim](https://de.wikipedia.org/wiki/Holcim) spaltete US-Geschäft als [Amrize](https://de.wikipedia.org/wiki/Holcim#LafargeHolcim) ab.
+  * [Dottikon](https://de.wikipedia.org/wiki/Dottikon_ES) trennte sich von [Ems-Chemie](https://de.wikipedia.org/wiki/Ems-Chemie) (Blocher-Familie) und entwickelte sich prächtig.
+- Blocher: Vorteilhaft für Schweiz, Bank, Eigentümer und Amerika; Widerstand von Ermotti verständlich, aber unvermeidbar wie „Tod“ – kerngesundes Unternehmen darf nicht Volkswirtschaft mitreißen.
 
-> Relevance score: [7] - Proposal by influential figure to restructure major Swiss bank amid risk concerns; could affect national economy and banking stability if pursued, sparking significant debate.
-
-## Pfister will vorerst weniger US-Kampfjets kaufen - die Sonntagsnews
-
-[Watson](https://www.watson.ch/international/schweiz/928798271-pfister-will-vorerst-weniger-us-kampfjets-kaufen-die-sonntagsnews) • _Sonntag, 23. November 2025, 07:10 Uhr_
-
-Pfister will weniger F-35-Kampfjets, Verbindungen von Epstein in die Schweiz und Ermittlungen im Schnellverfahren gegen Seriendiebe: Die Sonntagsnews.
-
-### Pfister will weniger US-Jets kaufen – vorerst
-- Verteidigungsminister [Martin Pfister](https://de.wikipedia.org/wiki/Martin_Pfister_(Politiker)) plant gemäss «SonntagsBlick» vorerst 30 statt 36 [F-35](https://de.wikipedia.org/wiki/Lockheed_Martin_F-35)-Kampfjets zu kaufen, um das Kostendach von sechs Milliarden Franken einzuhalten.
-- Eine spätere Option für zehn zusätzliche Jets bleibt offen; die Entscheidung der Landesregierung steht bevor.
-
-### Epstein hatte auch Kontakte nach Zürich und Zug
-- Dokumente des verstorbenen Sexualstraftäters [Jeffrey Epstein](https://de.wikipedia.org/wiki/Jeffrey_Epstein) zeigen Verbindungen in die Schweiz, insbesondere zur mutmasslichen Beschaffung junger Frauen für seinen Sexhandel («NZZ am Sonntag»).
-  - Eine E-Mail von 2016 bot eine «Assistentin aus Zürich» an, wobei «Assistentin» ein Codewort war.
-  - Epstein war Kunde einer Schweizer Bank; Verbindungen zum [Zuger](https://de.wikipedia.org/wiki/Kanton_Zug) Crypto Valley bestanden.
-- Das Bundesamt für Justiz erhielt kein Rechtshilfeersuchen aus den USA.
-
-### Serientäter aus Maghreb: Behörden prüfen neue Schnellverfahren
-- Ermittler setzen Schnellverfahren (48 Stunden von Verhaftung bis Strafbefehl) gegen Serientäter aus Nordafrika ein («SonntagsZeitung»).
-- Das föderale System begünstigt Delinquenten durch begrenzte Haftdauer (max. zwei Tage), was Kantonswechsel erleichtert.
-- Taskforce «Sicherheit im Asyl- und Ausländerbereich» koordiniert Pilotprojekt schweizweit; Asylausschuss diskutiert erweiterte Haftmöglichkeiten.
-
-### Mehrheit der Schweizerinnen und Schweizer für Palästina-Anerkennung
-- 57 % der Befragten unterstützen die Anerkennung [Palästinas](https://de.wikipedia.org/wiki/Pal%C3%A4stinensische_Autonomiebeh%C3%B6rde) als Staat (Sotomo-Umfrage, «NZZ am Sonntag», 7.–20. November, 2088 Personen in Deutsch- und Westschweiz).
-  - 33 % lehnen ab, 10 % unschlüssig.
-  - Starke Unterstützung bei Frauen (fast 2/3) und in der Westschweiz.
-
-### Roche-Boss war nicht reich genug für Trump-Treffen
-- [Roche](https://de.wikipedia.org/wiki/Roche_Holding)-Präsident [Severin Schwan](https://de.wikipedia.org/wiki/Severin_Schwan) durfte nicht am Treffen Schweizer Konzerne mit [Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump) teilnehmen, da er nicht reich genug sei («NZZ am Sonntag»).
-- Schwan nahm an Video-Calls mit [Seco](https://de.wikipedia.org/wiki/Staatssekretariat_f%C3%BCr_Wirtschaft)-Direktorin [Helene Budliger Artieda](https://de.wikipedia.org/wiki/Helene_Budliger_Artieda) teil und kontaktierte Konzernchefs zur Steigerung von Direktinvestitionen.
-- [UBS](https://de.wikipedia.org/wiki/UBS)-Präsident [Colm Kelleher](https://de.wikipedia.org/wiki/Colm_Kelleher) unterstützte im Zollstreit via US-Kontakte («SonntagsBlick»).
-
-### SP will gemeinsame Luftwaffe mit Österreich prüfen
-- Die [SP](https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz) Schweiz prüft eine gemeinsame Luftwaffe mit [Österreich](https://de.wikipedia.org/wiki/%C3%96sterreich) zur Kostenersparnis und Sicherheitserhöhung (Positionspapier, Tamedia).
-- Ablehnung von [F-35](https://de.wikipedia.org/wiki/Lockheed_Martin_F-35) und [Patriot](https://de.wikipedia.org/wiki/MIM-104_Patriot)-System; leichte Jets (ca. ein Dutzend) besser gegen Drohnen, da Patriot-Schuss 2 Mio. Franken kostet.
-
-### Mehr Fragezeichen um Migros-Deal in Deutschland
-- [Migros](https://de.wikipedia.org/wiki/Migros) Zürichs Beteiligung am deutschen Händler [Tegut](https://de.wikipedia.org/wiki/Tegut) birgt höhere Risiken: hohe Miet- und Kreditschulden («SonntagsZeitung»).
-  - Ausserbilanzliche Verpflichtungen >730 Mio. Euro; potenzieller Verlust bei Aufgabe: ca. 1 Mrd. Franken.
-- Migros widerspricht: Bewertung ignoriere Vermögenswerte.
-
-### Berset-Mitarbeitende erhielten Hunderttausende Franken Abfindung
-- Nach Rücktritt von Altbundesrat [Alain Berset](https://de.wikipedia.org/wiki/Alain_Berset) erhielten Mitarbeitende >750'000 Franken Abgangsentschädigung («SonntagsBlick»).
-  - [Lukas Gresch](https://de.wikipedia.org/wiki/Lukas_Gresch): 370'000 Franken.
-  - Stefan Honegger: 150'000 Franken.
-  - Michael Brändle: etwas weniger.
-  - Rémy Lüthy: 54'000 Franken; Gianna Blum: 44'000 Franken.
-
-> Relevance score: [6] - Swiss defense minister scaling back F-35 purchases impacts national military budget and procurement; moderate civic relevance for security policy.
-
-
-<details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
+> Relevance score: [7] - Proposal by influential Swiss figure to restructure UBS amid risk concerns post-Credit Suisse; significant for Swiss financial stability and economy, sparking national debate.
 
 ## Republik Srpska: Moskau-Verbündeter lobbyiert in den USA
 
@@ -89,9 +40,84 @@ Pfister will weniger F-35-Kampfjets, Verbindungen von Epstein in die Schweiz und
 
 Milorad Dodik ist ein umstrittener Politiker auf dem Balkan. Warum haben die USA die Sanktionen gegen ihn aufgehoben?
 
-Noch vor ein paar Wochen schien Milorad Dodik politisch isoliert. Ein Gericht in Sarajevo hatte in letzter Instanz ein sechsjähriges Ämterverbot gegen ihn verhängt, weil er gegen den Friedensvertrag verstossen hatte, der vor dreissig Jahren den Bosni... [weiterlesen](https://www.srf.ch/news/international/nationalistischer-politiker-republika-srpska-moskau-verbuendeter-lobbyiert-in-den-usa)
+### Milorad Dodik und seine Rolle
+- [Milorad Dodik](https://de.wikipedia.org/wiki/Milorad_Dodik), umstrittener Politiker auf dem [Balkan](https://de.wikipedia.org/wiki/Balkan), dominiert seit fast zwei Jahrzehnten die [Republika Srpska](https://de.wikipedia.org/wiki/Republika_Srpska), den serbisch geprägten Landesteil [Bosnien-Herzegowinas](https://de.wikipedia.org/wiki/Bosnien_und_Herzegowina).
+- Vertreten nationalistische Politik mit wiederholten Abspaltungsandrohungen, die Kriegsgefahr bergen; enge Beziehungen zu [Wladimir Putin](https://de.wikipedia.org/wiki/Wladimir_Putin).
+- [Barack Obama](https://de.wikipedia.org/wiki/Barack_Obama) verhängte 2017 Sanktionen wegen Destabilisierung, später auf Umfeld ausgeweitet; Sanktionen Ende Oktober 2025 aufgehoben, trotz unveränderter Haltung Dodiks.
 
-> Relevance score: [5] - Geopolitical development in Balkans with US sanctions lift on pro-Moscow figure; potential impact on Bosnia stability and European security, but limited direct Swiss relevance and not transformative.
+### Kürzliche Entwicklungen
+- Gericht in [Sarajevo](https://de.wikipedia.org/wiki/Sarajevo) verhängte sechsjähriges Ämterverbot wegen Verstoßes gegen [Friedensvertrag](https://de.wikipedia.org/wiki/Dayton-Abkommen), der den [Bosnienkrieg](https://de.wikipedia.org/wiki/Bosnienkrieg) 1995 beendete.
+- Dodik trat als Präsident der Republika Srpska zurück; Nachfolge am Sonntag zu wählen, doch er bleibt voraussichtlich einflussreich im Hintergrund.
+
+### Vermuteter Deal und Lobbying
+- [Kurt Bassuener](https://en.wikipedia.org/wiki/Democratization_Policy_Council), Co-Direktor des Think-Tanks [Democratization Policy Council](https://en.wikipedia.org/wiki/Democratization_Policy_Council) in Sarajevo, vermutet Abkommen: Dodik akzeptiert Urteil und zieht sich formell zurück, USA heben Sanktionen auf.
+- Öffentliche US-Lobbydokumente belegen Millionenverträge mit Personen und Firmen, gezielt auf US-Präsident ausgerichtet; frühere Lobbyarbeit eskaliert nun.
+
+### Verbreitung von Verschwörungstheorien
+- Dodik inszeniert sich als Opfer globaler Elite, analog zu [Trump](https://de.wikipedia.org/wiki/Donald_Trump), kämpft angeblich gegen Muslime und Globalisten, die Christen unterdrücken.
+  - Meinungsbeitrag in der [Washington Post](https://de.wikipedia.org/wiki/The_Washington_Post) von [Rod Blagojevich](https://de.wikipedia.org/wiki/Rod_Blagojevich), ex-Gouverneur Illinois, begnadigt von Trump, mit Lobbyvertrag der Republika Srpska: Sarajevo als Iran-Proxy.
+  - Tweet von [Laura Loomer](https://en.wikipedia.org/wiki/Laura_Loomer), MAGA-Influencerin.
+  - Podcast in MAGA-Sphäre: Dodik behauptet, Bosnien werde muslimischer Staat, Justiz missbraucht.
+- Realität: Keine islamistischen Tendenzen in Bosnien-Herzegowina; Dodik verurteilt auf gesetzlicher Basis, hat Urteil faktisch akzeptiert.
+
+### Offizielle Reaktion und Analyse
+- US-Außenministerium (auf CNN-Anfrage): Kein Zusammenhang mit Lobbying, sondern Reaktion auf konstruktive Schritte des Parlaments der Republika Srpska.
+- Beobachter sehen plötzliche Aufhebung aller Sanktionen (nicht schrittweise) als klares Indiz für erfolgreiches US-Lobbying.
+
+> Relevance score: [6] - Geopolitical shift with US lifting sanctions on Bosnian Serb leader Dodik, Russia ally, potentially destabilizing Balkans peace; moderate global relevance to European security but limited direct Swiss impact.
+
+## Pfister will vorerst weniger US-Kampfjets kaufen - die Sonntagsnews
+
+[Watson](https://www.watson.ch/international/schweiz/928798271-pfister-will-vorerst-weniger-us-kampfjets-kaufen-die-sonntagsnews) • _Sonntag, 23. November 2025, 07:10 Uhr_
+
+Pfister will weniger F-35-Kampfjets, Verbindungen von Epstein in die Schweiz und Ermittlungen im Schnellverfahren gegen Seriendiebe: Die Sonntagsnews.
+
+### Pfister will vorerst weniger US-Jets kaufen
+- Verteidigungsminister [Martin Pfister](https://de.wikipedia.org/wiki/Martin_Pfister_(Politiker)) plant gemäss «SonntagsBlick» den Kauf von 30 statt 36 [F-35](https://de.wikipedia.org/wiki/Lockheed_Martin_F-35)-Kampfjets, um das Kostendach von sechs Milliarden Franken einzuhalten.
+- Option für zehn zusätzliche Jets in einer späteren Phase bleibt offen.
+- Entscheidung der Landesregierung steht bevor.
+
+### Epstein-Verbindungen in die Schweiz
+- Dokumente zeigen Kontakte des verstorbenen Sexualstraftäters [Jeffrey Epstein](https://de.wikipedia.org/wiki/Jeffrey_Epstein) nach Zürich und Zug, inklusive mutmasslicher Beschaffung junger Frauen für Sexhandel.
+  - E-Mail von 2016 bot «Assistentin aus Zürich» an; «Assistentin» als Codewort im Epstein-Umfeld.
+- Epstein war Kunde einer Schweizer Bank; Verbindungen zum [Zuger Crypto Valley](https://de.wikipedia.org/wiki/Crypto_Valley).
+- Kein Rechtshilfeersuchen des [Bundesamts für Justiz](https://de.wikipedia.org/wiki/Bundesamt_f%C3%BCr_Justiz) aus den USA.
+
+### Schnellverfahren gegen Serientäter aus dem Maghreb
+- Ermittler prüfen 48-Stunden-Schnellverfahren (Verhaftung bis Strafbefehl) gegen Seriendiebe aus Nordafrika, berichtet «SonntagsZeitung».
+- Föderales System begünstigt Delinquenten: Max. zwei Tage Haft pro Kanton.
+- Taskforce «Sicherheit im Asyl- und Ausländerbereich» koordiniert Pilotprojekt schweizweit.
+- Asylausschuss diskutiert erweiterte Haftmöglichkeiten.
+
+### Mehrheit für Palästina-Anerkennung
+- Umfrage von [Sotomo](https://de.wikipedia.org/wiki/Sotomo) für «NZZ am Sonntag»: 57 % der Schweizer befürworten Anerkennung [Palästinas](https://de.wikipedia.org/wiki/Staat_Pal%C3%A4stina) als Staat (2088 Befragte, 7.–20. November).
+  - 33 % dagegen, 10 % unschlüssig.
+  - Starke Unterstützung bei Frauen (fast 2/3) und in Westschweiz.
+
+### Roche-Boss zu arm für Trump-Treffen
+- [Roche](https://de.wikipedia.org/wiki/Roche_Holding)-Präsident [Severin Schwan](https://de.wikipedia.org/wiki/Severin_Schwan) durfte nicht am Treffen Schweizer Konzerne mit [Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump) teilnehmen, da nicht reich genug, meint «Team Switzerland» unter Seco-Direktorin [Helene Budliger Artieda](https://de.wikipedia.org/wiki/Helene_Budliger_Artieda).
+- Schwan aktiv im Hintergrund via Video-Calls und Kontakte zu Konzernchefs.
+- [UBS](https://de.wikipedia.org/wiki/UBS)-Präsident [Colm Kelleher](https://de.wikipedia.org/wiki/Colm_Kelleher) unterstützt Schweiz im Zollstreit mit USA.
+
+### SP für gemeinsame Luftwaffe mit Österreich
+- [SP](https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz) will alternatives Schutzkonzept prüfen: Gemeinsame Luftwaffe mit [Österreich](https://de.wikipedia.org/wiki/%C3%96sterreich) für Kostenersparnis und mehr Sicherheit (Positionspapier, Tamedia).
+- Ablehnung von [F-35](https://de.wikipedia.org/wiki/Lockheed_Martin_F-35) und [Patriot](https://de.wikipedia.org/wiki/MIM-104_Patriot)-System; Schuss kostet zwei Mio. Franken, ungeeignet gegen Drohnen.
+- Vorschlag: Kauf von ca. einem Dutzend leichter Jets.
+
+### Mehr Risiken beim Migros-Tegut-Deal
+- [Migros Zürich](https://de.wikipedia.org/wiki/Migros) sieht höhere Risiken bei Beteiligung am deutschen Händler [Tegut](https://de.wikipedia.org/wiki/Tegut): Hohe Miet- und Kreditverpflichtungen (>730 Mio. Euro außerbilanzlich).
+- Potenzieller Verlust von rund einer Mrd. Franken bei Aufgabe, widerspricht Migros (ignoriert Vermögenswerte), berichtet «SonntagsZeitung».
+
+### Abfindungen für Berset-Mitarbeitende
+- Nach Rücktritt von Ex-[Bundesrat Alain Berset](https://de.wikipedia.org/wiki/Alain_Berset) erhielten Mitarbeitende >750'000 Franken Abgangsentschädigung («SonntagsBlick»).
+  - Höchst: Generalsekretär [Lukas Gresch](https://de.wikipedia.org/wiki/Lukas_Gresch) mit 370'000 Franken.
+  - [Stefan Honegger](https://de.wikipedia.org/wiki/Stefan_Honegger): 150'000 Franken.
+  - Weitere: Michael Brändle (~150'000), Rémy Lüthy (54'000), Gianna Blum (44'000).
+
+> Relevance score: [6] - Swiss defense minister scales back F-35 purchases; affects national security budget and procurement, moderate civic relevance in Switzerland.
+
+
+<details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
 ## Schweizer Häuser werden immer teurer - diese Gefahr droht Eigentümern
 
@@ -104,7 +130,7 @@ Eine neue Auswertung von 7500 Käufen fördert Bedenkliches zu Tage.
 Niklaus Vontobel / ch media
 Die Immobilienpreise steigen in der Schweiz immer höher, und dies schon seit... [weiterlesen](https://www.watson.ch/schweiz/immobilien/798108747-schweizer-haeuser-werden-immer-teurer-diese-gefahr-droht-eigentuemern)
 
-> Relevance score: [5] - Rising Swiss real estate prices signal ongoing housing market pressures affecting homeowners; notable economic trend but not a sudden structural shift.
+> Relevance score: [5] - Ongoing rise in Swiss housing prices with risks highlighted by new data; affects many citizens economically but routine market trend without major new event.
 
 ## Berset-Vertraute kassierten mehr als 750’000 Franken
 
@@ -118,7 +144,7 @@ Bei seinem Abschied aus dem Bundesrat verteilte der Sozialdemokrat grosszügige 
 Publiziert: 00:02 Uhr
 Alain Berset war von 2012 bis 2023 Bundesrat... [weiterlesen](https://www.blick.ch/politik/abgangsentschaedigungen-vertraute-von-alain-berset-kassierten-mehr-als-750-000-franken-id21447353.html)
 
-> Relevance score: [3] - Severance payments to associates of former Swiss minister; minor political controversy with limited broader governance or societal impact.
+> Relevance score: [4] - Severance payments to associates of former Swiss minister; minor governance transparency issue with limited broader impact.
 
 ## Queen» Taylor Greene tritt nach Streit mit Trump aus Kongress zurück
 
@@ -128,7 +154,7 @@ Alain Berset war von 2012 bis 2023 Bundesrat... [weiterlesen](https://www.blick.
 
 Ihre Beziehung erinnerte zuletzt an eine Ehe im Niedergang. Der amerikanische Präsident Donald Trump und die republikanische Kongressabgeordnete Marjorie Taylor Greene waren lange unzertrennlich gewesen, doch seit einigen Monaten fielen immer öfter h... [weiterlesen](https://www.nzz.ch/technologie/maga-queen-taylor-greene-tritt-nach-streit-mit-trump-aus-kongress-zurueck-ld.1913119)
 
-> Relevance score: [2] - Internal US Republican Party drama and personality feud; lacks structural impact on governance or society, more political theater.
+> Relevance score: [2] - Internal US Republican Party drama and speculation on future elections; political gossip with no structural US or global impact.
 
 
 </details>
