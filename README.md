@@ -10,6 +10,14 @@
 - Provide bullet-point summaries for articles, including links to [Wikipedia](https://www.wikipedia.org/) for background info.
 - Focus on Switzerland, with briefings in German and English.
 
+## How it Works
+1. News update is started every day around 06:00 and 18:00 CET using a [GitHub Action](.github/workflows/update-news.yml).
+2. Headlines from various news sources are collected from the last 24 hours.
+3. The collected headlines are de-duplicated and filtered using AI.
+4. The remaining headlines including a brief summary are scored for relevancy using AI.
+5. For the most relevant headlines, the full article is fetched and summarized using AI.
+6. The news briefing is generated in [Markdown](https://commonmark.org/) format and published using [Github Pages](https://docs.github.com/en/pages).
+
 ## Limitations
 - News are delayed by 12 hours due to the use of a free-tier API.
 
