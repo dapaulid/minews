@@ -2,7 +2,7 @@
 *
 # But not these files...
 !.gitignore
-!index.md
+!index.html
 !_config.yml
 !briefing
 !briefing/de
