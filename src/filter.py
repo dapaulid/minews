@@ -27,7 +27,7 @@ def filter_articles(articles: list[Article]) -> list[Article]:
                     index = int(m.group(1))
                     source = m.group(2)
                     title = m.group(3)
-                    assert source == articles[index].source
+                    assert source == articles[index].source, f"Source mismatch in filter response: expected {source}, got {articles[index].source}\nExpected title: {title}\nActual title  : {articles[index].title}"
                     keep_articles.append(articles[index])
                 else:
                     raise ValueError("Unrecognized line in filter response: %s" % line)
