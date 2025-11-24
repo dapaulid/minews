@@ -2,238 +2,249 @@
 
 ---
 
-_Aktualisiert: Montag, 24. November 2025, 06:26 Uhr_
+_Aktualisiert: Montag, 24. November 2025, 18:25 Uhr_
 
-## Entführung Hunderter Kinder und Gläubiger schockiert Nigeria
+## Die Lage in Nahost - Israel: Hisbollah-Anführer in Beirut getötet
 
-[Watson](https://www.watson.ch/international/afrika/884638403-entfuehrung-hunderter-kinder-und-glaeubiger-schockiert-nigeria) • _Sonntag, 23. November 2025, 15:05 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/nahost/die-lage-in-nahost-israel-hisbollah-anfuehrer-in-beirut-getoetet) • _Sonntag, 23. November 2025, 19:04 Uhr_
 
-Bewaffnete verschleppten am Freitag 303 Kinder und 12 Lehrer aus einer katholischen Grund- und Sekundarschule im Bundesstaat Niger.
+Es handele sich um Haitham Ali Tabatabai, den Generalstabschef der Hisbollah-Miliz, teilte das Militär mit.
 
-### Aktuelle Entführungen
-- Bewaffnete entführten am Freitag 303 Kinder und 12 Lehrer aus einer katholischen Schule im Bundesstaat [Niger](https://de.wikipedia.org/wiki/Niger_(Bundesstaat)).
-- Am Montag zuvor wurden 25 Mädchen aus einer Schule im Bundesstaat [Kebbi](https://de.wikipedia.org/wiki/Kebbi) verschleppt.
-- Kurz danach nahmen Angreifer 38 Gläubige in einer Kirche im Bundesstaat [Kwara](https://de.wikipedia.org/wiki/Kwara) gefangen.
-- Bei den Angriffen wurden mehrere Menschen erschossen.
+### Eskalation im Nahen Osten
+- Israel hat den [Hisbollah](https://de.wikipedia.org/wiki/Hisbollah)-Anführer in [Beirut](https://de.wikipedia.org/wiki/Beirut) getötet, was die Lage im [Nahen Osten](https://de.wikipedia.org/wiki/Naher_und_Mittlerer_Osten) weiter eskaliert.
 
-### Besondere Sorge um kleine Kinder
-- Unter den Entführten viele Sechsjährige und Kinder unter zehn Jahren.
-- Entführte werden unter harten Bedingungen gehalten und sterben oft während Verhandlungen oder Suchaktionen.
+### Humanitäre Krise im [Gazastreifen](https://de.wikipedia.org/wiki/Gazastreifen)
+- Die Zivilbevölkerung leidet unter extremem Mangel an Nahrungsmitteln, Wasser, Medikamenten und Strom.
+- Es droht eine Hungersnot aufgrund der täglich verschlechternden Lage.
 
-### Reaktion des Papstes
-- [Papst Leo XIV.](https://de.wikipedia.org/wiki/Papst#Liste_der_P%C3%A4pste) äußerte am Sonntag vor dem Angelus-Gebet Trauer über die Entführungen.
-- Appellierte an Beteiligte, Geiseln freizulassen, und forderte Behörden zu zeitnahen Entscheidungen auf.
+### Hilfe der Glückskette
+- Die Glückskette verstärkt ihre Unterstützung für Schweizer Partnerorganisationen vor Ort, wo die Bedürfnisse am grössten sind.
+  - Partnerorganisationen überwachen die Hilfeleistungen.
+  - Sie gewährleisten, dass die Hilfe die Betroffenen erreicht.
+- Die Organisation ruft dringend zu Spenden auf, um die humanitäre Krise zu bekämpfen.
 
-### Historischer Kontext und Statistiken
-- Im Norden und Zentrum [Nigerias](https://de.wikipedia.org/wiki/Nigeria) entführen kriminelle Banden und islamistische Gruppen regelmäßig Menschen.
-- Berühmt: Entführung von 276 Schülerinnen durch [Boko Haram](https://de.wikipedia.org/wiki/Boko_Haram) 2014 in [Chibok](https://de.wikipedia.org/wiki/Chibok), 82 noch vermisst.
-- Seitdem mindestens 2'500 weitere Schüler entführt (laut «Vanguard» basierend auf UN-Daten).
-- Zwischen Juni 2024 und Juni 2025: 4'722 Entführungen in 997 Vorfällen, 762 Tote, Lösegelder mind. 1,6 Mio. Euro (SBM Intel).
+> Relevance score: [9] - Targeted killing of senior Hezbollah leader escalates Middle East conflict; major global security and humanitarian implications.
 
-### Täter und Motive
-- Keine Gruppe übernahm Verantwortung, aber hauptsächlich «Banditen» (kriminelle Gruppen) aktiv.
-- Ziel: Lösegeld, z. B. 100 Mio. Naira (ca. 60'000 Euro) für Kirchen-Entführte.
-- Ursachen: Arbeitslosigkeit, Unsicherheit, Naira-Absturz treiben Jugendliche zu Banden.
+## Fedpol-Chefin warnt: Türkische Mafia breitet sich aus
 
-### Sicherheitslage und Behördenreaktion
-- Militär schlecht ausgerüstet trotz großer Armee; Korruption schwächt Staat.
-- Suchaktionen bisher ergebnislos, Erfolg in [Zamfara](https://de.wikipedia.org/wiki/Zamfara): 25 Frauen und Kinder gerettet.
-- Schulen und Internate in Nord-Bundesstaaten geschlossen; Präsident [Bola Tinubu](https://de.wikipedia.org/wiki/Bola_Tinubu) blieb vom G20-Gipfel fern.
-- Lösegeldzahlungen seit 2022 verboten, Familien zahlen aber privat.
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/auch-in-der-schweiz-fedpol-chefin-warnt-tuerkische-mafia-breitet-sich-aus) • _Montag, 24. November 2025, 05:19 Uhr_
 
-### Religiöse Dimension
-- Nigeria (ca. 220 Mio. Einwohner, halb Christen, halb Muslime) zunehmend entlang religiöser Linien gewalttätig.
-- [International Christian Concern](https://en.wikipedia.org/wiki/International_Christian_Concern) nannte Nigeria 2022 gefährlichstes Land für Christen.
-- Auch Muslime Opfer von Banditen, Terror und Racheakten.
-- [US-Präsident Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump) drohte mit Militäreinsatz für Christenschutz.
+Drogen, Menschenschmuggel und hohe Gewaltbereitschaft: Kriminelle Organisationen aus der Türkei sind auf Vormarsch.
 
-> Relevance score: [8] - Mass kidnapping of 300+ children highlights ongoing global security crisis and humanitarian emergency in Nigeria with broad implications for instability.
+### Warnung der Fedpol-Chefin
+- Die [Fedpol](https://de.wikipedia.org/wiki/Fedpol)-Chefin [Eva Wildi-Cortés](https://de.wikipedia.org/wiki/Eva_Wildi-Cort%C3%A9s) warnt in der *Rundschau*, dass sich die türkische Mafia zunehmend von Deutschland in die Schweiz ausbreitet.
 
-## Jetzt gehts ums Ganze: Blocher will UBS aufspalten
+### Kriminelle Aktivitäten
+- Betreiben [Drogenhandel](https://de.wikipedia.org/wiki/Drogenhandel), [Menschenschmuggel](https://de.wikipedia.org/wiki/Menschenschmuggel), illegales Spielgeschäft und Telefonbetrug.
+- Hohes Gewaltpotenzial durch Generationenwechsel: Neue Generation ist gewaltbereiter und trägt Rivalitäten mit Waffen aus, inklusive Schiessereien auf offener Strasse in Deutschland.
 
-[Inside Paradeplatz](https://insideparadeplatz.ch/2025/11/23/jetzt-gehts-ums-ganze-blocher-will-ubs-aufspalten/) • _Sonntag, 23. November 2025, 07:58 Uhr_
+### Zunehmende Gewalt in der Schweiz
+- Häufigere offene Auseinandersetzungen zwischen rivalisierenden kriminellen Gruppierungen.
+- Drogenhandel als lukratives Geschäft führt zu Ruhe, solange alle profitieren, aber zu Verteilungskämpfen.
+- Über 800 solcher Gruppierungen aktiv in Europa, auch in der Schweiz; besorgniserregend steigendes Gewaltpotenzial.
 
-Trennbanken-System, Swiss Style: SVP-Tycoon schlägt Aufteilung in UBS Schweiz und UBS America vor. Schlacht in Medien nimmt Fahrt auf.
+### Rolle der Schweiz im Drogenbusiness
+- Dient als Transit- und Umschlagplatz sowie Zielland.
+- Massnahmen: Nicht nur Drogenbeschlagnahme, sondern Aufdeckung von Netzwerken, Verfolgung der Geldflüsse und Eindämmung der [Geldwäsche](https://de.wikipedia.org/wiki/Geldw%C3%A4sche).
 
-### Blochers Vorschlag zur UBS-Aufspaltung
-- Die [SonntagsZeitung](https://de.wikipedia.org/wiki/SonntagsZeitung) präsentiert den Plan von [SVP](https://de.wikipedia.org/wiki/Schweizerische_Volkspartei)-Doyen [Christoph Blocher](https://de.wikipedia.org/wiki/Christoph_Blocher), die [UBS](https://de.wikipedia.org/wiki/UBS) in eine UBS Schweiz und eine UBS Übersee aufzuteilen.
-- Grund: UBS ist „[too big to fail](https://de.wikipedia.org/wiki/Too_big_to_fail)“ und zu groß für die Schweiz; mehr Regelungen oder Eigenkapital lösen das Problem nicht.
+### Herausforderungen bei der Bekämpfung
+- Laut [Europol](https://de.wikipedia.org/wiki/Europol) werden nur rund 2 % der Einnahmen aus organisierter Kriminalität beschlagnahmt.
+- Rest wird in legalen Wirtschaftskreislauf eingeschleust; gleiche Zahlen gelten für die Schweiz.
 
-### Reaktionen bei UBS
-- Im Zürcher Headquarter heulen Alarmsirenen; für Präsident [Colm Kelleher](https://de.wikipedia.org/wiki/Colm_Kelleher) und CEO [Sergio Ermotti](https://de.wikipedia.org/wiki/Sergio_Ermotti) würde die Aufspaltung Macht, Größe und Boni bedeuten.
-- Ermotti nannte die Wegzugs-Debatte auf einem [JPMorgan](https://de.wikipedia.org/wiki/JPMorgan_Chase)-Podium „Bullshit“.
-- [SonntagsBlick](https://de.wikipedia.org/wiki/SonntagsBlick) (Ringier) gibt Kelleher Schützenhilfe und klärt [Financial Times](https://de.wikipedia.org/wiki/Financial_Times)-Bericht über „Geheimgespräche“ mit Trumps Finanzminister: Es ging um alte Kundenbeziehung, nicht um UBS-Wegzug.
+> Relevance score: [8] - Expansion of organized crime into Switzerland involving drugs and smuggling; significant national security and public safety implications.
 
-### Details des Aufspaltungsplans
-- **Vorgehen**: Bestehenden Aktionären zwei Aktien geben – eine für UBS Schweiz (unter schweizerischem Recht), eine für UBS Amerika (unter US-Recht).
-- Vollständige Trennung in zwei eigenständige Banken mit Sitz in jeweiligem Land.
-- **Beispiele**:
-  - Zement-Multi spaltete US-Geschäft als [Amrize](https://de.wikipedia.org/wiki/Holcim) ab.
-  - [Dottikon](https://de.wikipedia.org/wiki/Dottikon_Exclusive_Synthesis_AG) entwickelte sich nach Abspaltung von [Ems-Chemie](https://de.wikipedia.org/wiki/EMS-Chemie) (Blocher-Familie) erfolgreich.
+## Neuer Friedensplan: So soll der Ukraine
 
-### Vorteile und Blochers Botschaft
-- Schweiz haftet nicht mehr für US-Risiken; UBS Schweiz könnte bei Bedarf weiter angepasst werden.
-- Vorteilhaft für Schweiz, Bank, Eigentümer und Amerika.
-- Zu Ermotti: „Der Tod gehört zum Leben“ – jedes Unternehmen ist vom Untergang bedroht, darf aber nicht die Volkswirtschaft mitreißen.
+[Blick](https://www.blick.ch/ausland/krieg-in-der-ukraine-diese-aenderungen-am-friedensplan-wurden-in-genf-beschlossen-id21449081.html) • _Sonntag, 23. November 2025, 21:02 Uhr_
 
-> Relevance score: [7] - Prominent Swiss figure proposes splitting major bank UBS; significant for Swiss economy, governance, and banking stability.
+Trump legte einen Plan vor, um den Krieg in der Ukraine zu beenden. Die europäischen Vertreter waren nicht mit allen Punkten des Plans einverstanden. Nun ist bekannt, welche Punkte geändert werden.
 
-## Pfister will vorerst weniger US-Kampfjets kaufen - die Sonntagsnews
+### Hintergrund des Treffens
+- Vertreter der [Ukraine](https://de.wikipedia.org/wiki/Ukraine), der [USA](https://de.wikipedia.org/wiki/Vereinigte_Staaten) und unterstützender europäischer Länder trafen sich am Sonntag in [Genf](https://de.wikipedia.org/wiki/Genf), angekündigt am Samstag.
+- Grund: Uneinigkeit mit [Donald Trumps](https://de.wikipedia.org/wiki/Donald_Trump) 28-Punkte-[Friedensplan](https://de.wikipedia.org/wiki/Friedensverhandlungen_im_Russisch-Ukrainischen_Krieg) für den [Ukraine-Krieg](https://de.wikipedia.org/wiki/Russisch-Ukrainischer_Krieg).
+- Einigungen auf Änderungen; finale Entscheidung durch Staatsoberhäupter.
+- Streitpunkte:
+  - Verteilung eingefrorener russischer Gelder.
+  - Gebietsabtretung.
+  - Aufhebung von [Sanktionen](https://de.wikipedia.org/wiki/Wirtschaftssanktionen_gegen_Russland_seit_2014) gegen [Russland](https://de.wikipedia.org/wiki/Russland).
 
-[Watson](https://www.watson.ch/international/schweiz/928798271-pfister-will-vorerst-weniger-us-kampfjets-kaufen-die-sonntagsnews) • _Sonntag, 23. November 2025, 07:10 Uhr_
+### Überarbeiteter Friedensplan (28 Punkte)
+#### Souveränität, Nichtangriff und NATO-Dialog
+- Bleibt gleich: Bestätigung der ukrainischen Souveränität.
+- Bleibt gleich: Nichtangriffsabkommen zwischen Russland, Ukraine und Europa.
+- Gest richen: Russland greift keine Nachbarländer an; keine [NATO](https://de.wikipedia.org/wiki/NATO)-Erweiterung.
+- Bleibt gleich: Dialog Russland-[NATO](https://de.wikipedia.org/wiki/NATO) unter US-Vermittlung für Deeskalation.
+- Bleibt gleich: Verlässliche Sicherheitsgarantien für Ukraine.
+- Bleibt gleich: Keine dauerhaften NATO-Truppen in Ukraine zu Friedenszeiten.
+- Neu: Stationierung von NATO-Kampfflugzeugen in Polen.
 
-Pfister will weniger F-35-Kampfjets, Verbindungen von Epstein in die Schweiz und Ermittlungen im Schnellverfahren gegen Seriendiebe: Die Sonntagsnews.
+#### Militär, Beitritte und Garantien
+- Änderung: Ukrainische Armee auf 800'000 Soldaten begrenzt (vorher 600'000; aktuell 850'000).
+- Änderung: Ukraine-NATO-Beitritt hängt von Konsens der Mitglieder ab (der fehlt).
+- Änderung: US-Garantie ähnelt [Artikel 5](https://de.wikipedia.org/wiki/NATO-Vertrag#Artikel_5), aber konditional (z. B. entfällt bei ukrainischem Angriff, Sanktionen bei russischem).
+- Änderung: Ukraine darf [EU](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union)-Mitglied werden.
 
-### Pfister will weniger F-35-Kampfjets kaufen
-- Verteidigungsminister [Martin Pfister](https://de.wikipedia.org/wiki/Martin_Pfister_(Politiker)) plant gemäss «SonntagsBlick» den Kauf von 30 statt 36 [F-35](https://de.wikipedia.org/wiki/Lockheed_Martin_F-35) um das Kostendach von sechs Milliarden Franken einzuhalten.
-- Eine spätere Option für zehn zusätzliche Jets bleibt offen; die Regierung entscheidet bald.
+#### Wiederaufbau, Sanktionen und Wirtschaft
+- Änderung/umfangreicher: Detailliertes Wiederaufbauprogramm mit Fonds, Gasinfrastruktur und [Weltbank](https://de.wikipedia.org/wiki/Weltbank)-Finanzierung.
+- Änderung/umfangreicher: Schrittweise Wiedereingliederung Russlands in Weltwirtschaft; gestaffelte Sanktionsaufhebung, Rückkehr in [G8](https://de.wikipedia.org/wiki/G8).
+- Änderung: Vollständiger Wiederaufbau/Entschädigung; eingefrorene russische Vermögen (ca. 100 Mrd. USD) bleiben bis Kompensation eingefroren (vorher: Nutzung für Ukraine, USA 50% Gewinn, Europa 100 Mrd. USD).
+- Bleibt gleich: Freier Dnepr für Handel, Getreideexport über Schwarzes Meer.
 
-### Epsteins Verbindungen in die Schweiz
-- Dokumente zeigen Kontakte des verstorbenen [Jeffrey Epstein](https://de.wikipedia.org/wiki/Jeffrey_Epstein) nach Zürich und Zug, inklusive einer 2016 angebotenen «Assistentin aus Zürich» als Codewort für Sexhandel.
-- Epstein war Kunde einer Schweizer Bank; Verbindungen zum [Crypto Valley](https://de.wikipedia.org/wiki/Crypto_Valley) in Zug; kein Rechtshilfeersuchen an das Bundesamt für Justiz.
+#### Sicherheit, Nuklear und Humanitäres
+- Änderung: Gemeinsame Sicherheitsarbeitsgruppe mit USA, Russland, Ukraine, Europa (vorher russisch-amerikanisch).
+- Bleibt gleich: Russische gesetzliche Nichtangriffspflicht gegenüber Europa/Ukraine.
+- Bleibt gleich: Verlängerung nuklearer Verträge USA-Russland inkl. «Fair Start».
+- Bleibt gleich: Ukraine nuklearfrei gemäß [NPT](https://de.wikipedia.org/wiki/Vertrag_%C3%BCber_die_Nichterweiterung_der_Atomwaffen).
+- Bleibt gleich: [AKW Saporischschja](https://de.wikipedia.org/wiki/AKW_Saporischschja) unter [IAEA](https://de.wikipedia.org/wiki/Internationale_Atomenergie-Organisation)-Aufsicht; Strom 50:50 Russland/Ukraine.
+- Änderung: Ukraine verzichtet auf militärische Rückeroberung besetzter Gebiete; Verhandlungen über Gebietsaustausch an Kontaktlinie.
+- Änderung: Keine gewaltsame Änderung der Vereinbarungen, sonst Entzug von Garantien.
+- Ausführlicher: Humanitäres Komitee für «alle gegen alle»-Gefangenenaustausch, Rückführung von Geiseln/Zivilisten/Kinder, Familienzusammenführung, Opferhilfe.
+- Bleibt gleich: Ukraine übernimmt EU-Regeln für religiöse Toleranz/Minderheitenschutz.
 
-### Schnellverfahren gegen Serientäter aus dem Maghreb
-- Ermittler nutzen 48-Stunden-Schnellverfahren mit Strafbefehl gegen nordafrikanische Seriendiebe.
-- Föderales System erschwert Haft; Taskforce «Sicherheit im Asyl- und Ausländerbereich» koordiniert Pilotprojekt; Asylausschuss diskutiert längere Haft.
+#### Umsetzung und Kontrolle
+- Bleibt gleich: Schnelle Wahlen in Ukraine nach Abkommen (ursprünglich 100 Tage).
+- Bleibt gleich: Volle Amnestie für Kriegsakte; keine zukünftigen Ansprüche.
+- Bleibt gleich: Punkte verbindlich; [Friedensrat](https://de.wikipedia.org/wiki/Friedensverhandlungen_im_Russisch-Ukrainischen_Krieg) unter Vorsitz Trumps kontrolliert, Verstöße führen zu Sanktionen.
+- Ausführlicher: Sofortiger Waffenstillstand bei Zustimmung; US-überwachte Umsetzung.
 
-### Mehrheit für Palästina-Anerkennung
-- 57 % der Schweizer befürworten in Sotomo-Umfrage (7.–20. November, 2088 Befragte) die Anerkennung [Palästinas](https://de.wikipedia.org/wiki/Staat_Palästina) als Staat; 33 % dagegen, 10 % unsicher.
-- Starke Unterstützung bei Frauen (zwei Drittel) und in der Westschweiz.
+### Abschließende Statements
+- US-Außenminister [Marco Rubio](https://de.wikipedia.org/wiki/Marco_Rubio): «Sehr gutes Arbeitsergebnis» auf Basis aller Beiträge.
+- Ukrainischer Generalstabschef [Andrij Jermak](https://de.wikipedia.org/wiki/Andrij_Jermak): «Sehr produktives» Treffen mit Fortschritten zu «gerechtem und dauerhaftem Frieden»; endgültige Entscheidung durch «unsere Präsidenten»; Dank an USA/Trump.
 
-### Roche-Boss zu arm für Trump-Treffen
-- [Roche](https://de.wikipedia.org/wiki/Roche_Holding)-Präsident [Severin Schwan](https://de.wikipedia.org/wiki/Severin_Schwan) durfte nicht am «Team Switzerland»-Treffen mit [Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump) teilnehmen, da nicht reich genug.
-- Schwan half im Hintergrund via Video-Calls und Kontakte; [UBS](https://de.wikipedia.org/wiki/UBS)-Präsident [Colm Kelleher](https://en.wikipedia.org/wiki/Colm_Kelleher) unterstützte im Zollstreit.
+> Relevance score: [8] - Diplomatic developments on Ukraine peace plan with meetings in Geneva; high global geopolitical impact with Swiss involvement.
 
-### SP für gemeinsame Luftwaffe mit Österreich
-- [SP](https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz) schlägt in Positionspapier Prüfung einer Luftwaffe mit [Österreich](https://de.wikipedia.org/wiki/%C3%96sterreich) vor, um Kosten zu sparen und Sicherheit zu steigern.
-- Ablehnung von [F-35](https://de.wikipedia.org/wiki/Lockheed_Martin_F-35) und [Patriot](https://de.wikipedia.org/wiki/MIM-104_Patriot); Vorschlag für leichte Jets gegen Drohnen.
+## USA und Ukraine geben sich zuversichtlich
 
-### Risiken beim Migros-Tegut-Deal
-- [Migros](https://de.wikipedia.org/wiki/Migros) Zürich steht vor hohen Risiken bei Beteiligung an [Tegut](https://de.wikipedia.org/wiki/Tegut); Miet- und Kreditverpflichtungen über 730 Mio. Euro, potenzieller Verlust von einer Mrd. Franken.
-- Migros widerspricht, da Vermögenswerte ignoriert würden.
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/bisher-produktivstes-treffen-die-ukraine-und-die-usa-geben-sich-bei-den-verhandlungen-ueber-den-friedensplan-in-genf-zuversichtlich-ld.1913147) • _Sonntag, 23. November 2025, 20:25 Uhr_
 
-### Abfindungen für Berset-Mitarbeitende
-- Nach Rücktritt von [Alain Berset](https://de.wikipedia.org/wiki/Alain_Berset) erhielten Mitarbeitende über 750'000 Franken Abfindung.
-  - Lukas Gresch: ca. 370'000 Franken.
-  - Stefan Honegger: ca. 150'000 Franken.
-  - Michael Brändle: etwas weniger.
-  - Rémy Lüthy: 54'000 Franken; Gianna Blum: 44'000 Franken.
+Die Ukraine steht vor Schicksalstagen – und mit ihr auch Europa. Hinter verschlossenen Türen versuchen ihre Vertreter, den amerikanischen Vorschlag abzuändern und das Schlimmste abzuwenden. Aus Washington kommen widersprüchliche Signale.
 
-> Relevance score: [7] - Swiss defense minister scales back F-35 purchases; affects national security policy and budget with civic relevance.
+### Verhandlungen in Genf
+- Delegationen aus den [USA](https://de.wikipedia.org/wiki/Vereinigte_Staaten), der [Ukraine](https://de.wikipedia.org/wiki/Ukraine), europäischen Staaten und der [EU](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union) beraten hinter verschlossenen Türen über den 28-Punkte-[Friedensplan](https://de.wikipedia.org/wiki/Friedensvertrag), den US-Sondergesandter [Dan Driscoll](https://de.wikipedia.org/wiki/Special_Representative_for_Ukraine_and_Russia) am Donnerstag [Wolodymyr Selenskyj](https://de.wikipedia.org/wiki/Wolodymyr_Selenskyj) überreichte.
+- Ziel der [Ukrainer](https://de.wikipedia.org/wiki/Ukraine) und Europäer: Änderung schmerzhafter Konzessionen für Kiew.
 
-## Republik Srpska: Moskau-Verbündeter lobbyiert in den USA
+### Inhalt des US-Vorschlags
+- Starke Rücksicht auf russische Sicherheitsprioritäten und US-Wirtschaftsinteressen.
+- Ukraine soll:
+  - Ein Fünftel ihres Territoriums abtreten.
+  - Streitkräfte reduzieren.
+  - Auf [NATO](https://de.wikipedia.org/wiki/NATO)-Beitritt verzichten.
+- Wiederaufbau unter US-Führung, finanziert durch EU-Gelder; Europäer als Zahlmeister.
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/nationalistischer-politiker-republika-srpska-moskau-verbuendeter-lobbyiert-in-den-usa) • _Sonntag, 23. November 2025, 10:09 Uhr_
+### Zuversichtliche Erklärungen
+- Gemeinsame Erklärung USA/Ukraine: Überarbeiteter Plan entstanden, Arbeit fortsetzen mit europäischen Partnern; finale Entscheidungen durch Selenskyj und [Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump).
+- [Andrij Jermak](https://de.wikipedia.org/wiki/Andrij_Jermak) (ukrainischer Delegationsleiter): Sehr gute Fortschritte zu gerechten, dauerhaften Frieden.
+- [Marco Rubio](https://de.wikipedia.org/wiki/Marco_Rubio) (US-Außenminister): «Bisher produktivstes Treffen», substanzieller Fortschritt bei offenen Fragen, keine unlösbaren Streitpunkte.
 
-Milorad Dodik ist ein umstrittener Politiker auf dem Balkan. Warum haben die USA die Sanktionen gegen ihn aufgehoben?
+### Ukrainischer Druck
+- Trump-Deadline bis Thanksgiving (Donnerstag): Zustimmung oder US-Unterstützung endet, verschärft Frontlage.
+- Selenskyj bildet Delegation unter Jermak trotz Korruptionsskandal um Jermak/Umerow; signalisiert Einheit statt innenpolitischer Kämpfe.
 
-### Milorad Dodik und seine Politik
-- [Milorad Dodik](https://de.wikipedia.org/wiki/Milorad_Dodik), umstrittener Politiker auf dem Balkan mit engen Beziehungen zu [Wladimir Putin](https://de.wikipedia.org/wiki/Wladimir_Putin), dominierte fast zwei Jahrzehnte die Politik in der [Republika Srpska](https://de.wikipedia.org/wiki/Republika_Srpska), dem serbisch geprägten Teil [Bosnien-Herzegowinas](https://de.wikipedia.org/wiki/Bosnien_und_Herzegowina).
-- Er verfolgt eine nationalistische Linie, drohte wiederholt mit Abspaltung und Destabilisierung, was Kriegsgefahr birgt.
-- 2017 verhängte [Barack Obama](https://de.wikipedia.org/wiki/Barack_Obama) Sanktionen gegen Dodik und sein Umfeld wegen dieser Politik; diese wurden Ende Oktober 2025 vollständig aufgehoben, obwohl sich Dodiks Haltung nicht geändert hat.
+### Europäische Position
+- Telefonkonferenz der Außenminister: Erleichterung über Mitsprache nach Plan ohne Beteiligung.
+- Forderungen:
+  - Keine Grenzverschiebungen durch Gewalt.
+  - Keine Schwächung ukrainischer Armee als Verteidigungslinie gegen [Russland](https://de.wikipedia.org/wiki/Russland).
+  - EU zentraler Akteur in Sicherheitsarchitektur (z. B. Stationierung von Truppen).
+- 140-Milliarden-Kredit aus russischem Vermögen in Schwebe durch Plan (100 Mrd. USD US-gesteuert, 100 Mrd. EU-zusätzlich).
 
-### Jüngste Gerichtsentscheidung und Rücktritt
-- Ein Gericht in Sarajevo erließ ein sechsjähriges Ämterverbot gegen Dodik wegen Verstoßes gegen das [Dayton-Abkommen](https://de.wikipedia.org/wiki/Dayton-Abkommen), das den [Bosnienkrieg](https://de.wikipedia.org/wiki/Bosnienkrieg) 1995 beendete.
-- Dodik kündigte zunächst Nicht-Respektierung an, trat dann aber als Präsident der Republika Srpska zurück.
-- Am Sonntag wird sein Nachfolger gewählt; Beobachter erwarten Dodiks anhaltenden Einfluss im Hintergrund.
+### Kontroversen und Signale aus Washington
+- Kritik an prorussischer Schlagseite: [Mitch McConnell](https://de.wikipedia.org/wiki/Mitch_McConnell) warnt vor Belohnung russischer «Schlachterei».
+- Trump: Plan nicht final, Frist flexibel; Klage über ukrainische Undankbarkeit.
+- Urheberschaft umstritten: Rubio dementiert russische «Wunschliste», betont US-Autorenschaft mit Anregungen; [Donald Tusk](https://de.wikipedia.org/wiki/Donald_Tusk) fordert Klarheit.
+- Spekulationen über russische Übersetzung durch Formulierungen.
 
-### Vermuteter Deal mit den USA
-- [Kurt Bassuener](https://en.wikipedia.org/wiki/Kurt_Bassuener), Co-Direktor des Think-Tanks *Democratization Policy Council* in Sarajevo, sieht ein Abkommen: Dodik akzeptiert das Urteil und zieht sich formell zurück, im Gegenzug Sanktionsaufhebung.
+### Kriegsgeschehen und Ausblick
+- Kein Einfluss auf Front: Russischer Luftangriff auf [Ternopil](https://de.wikipedia.org/wiki/Ternopil) tötete 34 Personen.
+- US-Delegation reist nach den [Genf](https://de.wikipedia.org/wiki/Genf)-Gesprächen nach Moskau.
 
-### Lobbykampagne in den USA
-- Öffentliche US-Lobbydokumente belegen Verträge in Millionenhöhe mit Personen und Firmen, gezielt auf den US-Präsidenten ausgerichtet.
-- Frühere Lobbyarbeit wurde intensiviert, um Sanktionen aufzuheben.
+> Relevance score: [8] - Progress in Ukraine war diplomacy; significant for global stability and European security.
 
-### Verbreitung von Verschwörungstheorien
-- Dodik inszeniert sich als Opfer einer globalen Elite (analog zu Trump), kämpft angeblich gegen Muslime und Globalisten, die Christen in der Republika Srpska unterdrücken.
-  - Meinungsbeitrag in der [*Washington Post*](https://de.wikipedia.org/wiki/The_Washington_Post) von [Rod Blagojevich](https://de.wikipedia.org/wiki/Rod_Blagojevich), ex-Gouverneur von Illinois, korrupt verurteilt, von Trump begnadigt und mit RS-Lobbyvertrag.
-  - Tweet von MAGA-Influencerin [Laura Loomer](https://de.wikipedia.org/wiki/Laura_Loomer).
-  - Podcast in MAGA-Sphäre, in dem Dodik behauptet, Bosnien werde zu einem muslimischen Staat umgebaut und Justiz missbraucht.
-- Wahrheit: Keine islamistischen Tendenzen in Bosnien, Dodik verurteilt auf gesetzlicher Basis, nicht religiös; Urteil faktisch akzeptiert.
+## Neu-Priorisierung beim Verkehr: Städte wollen mehr Klimaschutz
 
-### Reaktionen
-- US-Außenministerium (auf CNN-Anfrage): Kein Zusammenhang mit Lobbying, sondern Reaktion auf konstruktive Stabilitätsschritte des RS-Parlaments.
-- Beobachter: Vollständige, plötzliche Sanktionsaufhebung (nicht schrittweise) als klares Indiz für erfolgreiches US-Lobbying.
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/kritik-an-verkehr-45-staedte-sehen-ihre-anliegen-zu-wenig-beruecksichtigt) • _Montag, 24. November 2025, 05:42 Uhr_
 
-> Relevance score: [6] - Lifting of US sanctions on Balkan leader Dodik; geopolitical shift with Russia ties affecting European stability.
+Das ETH-Gutachten folgt einer Ausbau-Logik. Die Städte verlangen mehr Gewicht für Städtebau und Klimaschutz.
+
+### Hintergrund
+- Bundesrat [Albert Rösti](https://de.wikipedia.org/wiki/Albert_R%C3%B6sti) justiert Verkehrspolitik nach Kostenüberschreitungen beim Bahnausbau und Nein des Stimmvolks zu Autobahnprojekten.
+- Beauftragt [ETH Zürich](https://de.wikipedia.org/wiki/ETH_Z%C3%BCrich)-Gutachten zur Priorisierung von Verkehrsprojekten mit begrenztem Budget: Wo am effizientesten ausbauen?
+
+### ETH-Gutachten von Ulrich Weidmann
+- Prioritätenliste mit Überraschungen, z. B. hohe Priorität für [Grimsel-Tunnel](https://de.wikipedia.org/wiki/Grimselstra%C3%9Fentunnel).
+- Kriterien: Netzgestaltung, Sicherheit, Stabilität, Städtebau u. a.; Gewichtung erst Anfang 2026 bekannt.
+
+### Kritik der Städte
+- Städte und [Schweizerischer Städteverband](https://de.wikipedia.org/wiki/Schweizerischer_St%C3%A4dteverband) (Präsident [Hanspeter Hilfiker](https://de.wikipedia.org/wiki/Hanspeter_Hilfiker)): Städtische Anliegen wie Klimaschutz, Siedlungsverdichtung und Netto-Null-Ziele zu kurz gekommen.
+- Verkehr nicht nur als Kapazitätsfrage, sondern als gesellschaftliche Herausforderung mit steuerbaren Alternativen (Verkehr verteilen, Wachstum bremsen).
+
+### Beispiel Bern-Ostring
+- A6-Autobahn zerschnittenes Quartier neben Wohnhäusern; [Stadt Bern](https://de.wikipedia.org/wiki/Bern) und Kanton wollen Tunnelverlegung für «Stadtreparatur» und bessere Nutzung der Fläche.
+- SP-Stadtpräsidentin [Marieke Kruit](https://de.wikipedia.org/wiki/Marieke_Kruit): Fokus auf Lebensqualität, nicht nur Verkehrsfläche.
+- Im Gutachten niedrige Priorität; Weidmann schlägt betriebliche Maßnahmen wie Nutzung des Pannenstreifens vor.
+
+### Weidmanns Position
+- Städtebau als eines von mehreren Kriterien berücksichtigt, neben verkehrlichen Aspekten.
+- Kann Kritik nicht nachvollziehen: «Ich hätte eher aus dem ländlichen oder alpinen Raum Kritik erwartet.»
+
+### Ausblick
+- 2026: ETH-Bericht als politische Vorlage; parlamentarische Diskussion über Prioritäten.
+
+> Relevance score: [7] - Swiss national policy shift on transport prioritizing climate and urban planning over expansion; affects governance, economy, and environment for many citizens.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Zauberpilze in der Schweiz: Zwischen Heilung, Forschung & Risiko
+## Zahl der Kinder mit Bluthochdruck verdoppelt: Das ist der wichtigste Risikofaktor
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/sendungen/dok/psilocybin-als-heilmittel-die-rueckkehr-der-zauberpilze) • _Sonntag, 23. November 2025, 18:18 Uhr_
+[CHIP](https://www.chip.de/news/gesundheit/zahl-der-kinder-mit-bluthochdruck-verdoppelt-das-ist-der-wichtigste-risikofaktor_04d81cb4-695a-4f03-810d-62f3f68d629b.html) • _Montag, 24. November 2025, 06:00 Uhr_
 
-Psilocybin erlebt ein Comeback – zwischen Selbstheilung, Forschung und der Frage nach legalem Umgang in der Schweiz.
+Zahl der Kinder mit Bluthochdruck verdoppelt: Das ist der wichtigste Risikofaktor
 
-In der Schweiz wachsen mehr als 20 Arten «Zauberpilze». Der bekannteste ist der Spitzkegelige Kahlkopf. Jahrzehntelang war Psilocybin verpönt und durchgehend kriminalisiert. Seit einigen Jahren rückt es wieder ins Licht der Forschung. Studien zeigen,... [weiterlesen](https://www.srf.ch/sendungen/dok/psilocybin-als-heilmittel-die-rueckkehr-der-zauberpilze)
+Lange Zeit galt Bluthochdruck (Hypertonie) als typische Alterskrankheit. Tatsächlich zählt das Lebensalter zu den wichtigsten Risikofaktoren: Nach Angaben der Deutschen Herzstiftung steigt die Häufigkeit von Hypertonie bei Frauen ab etwa 50 und bei M... [weiterlesen](https://www.chip.de/news/gesundheit/zahl-der-kinder-mit-bluthochdruck-verdoppelt-das-ist-der-wichtigste-risikofaktor_04d81cb4-695a-4f03-810d-62f3f68d629b.html)
 
-> Relevance score: [5] - Emerging research on psilocybin for healing in Switzerland; potential future policy shifts but currently niche medical/science topic with limited immediate civic impact.
+> Relevance score: [5] - Public health trend in children, indicating lifestyle risks like obesity; moderate long-term societal health impact but not structural or civic disruption.
 
-## Diabetes: Gängiges Medikament könnte Lebenserwartung von Frauen erhöhen
+## Welt Aids-Tag - Aids Hilfe warnt vor Rückschritten
 
-[Berliner Morgenpost](https://www.morgenpost.de/ratgeber-wissen/article410492194/gaengiges-diabetesmedikament-koennte-lebenserwartung-von-frauen-erhoehen.html) • _Sonntag, 23. November 2025, 17:09 Uhr_
+[Tiroler Tageszeitung](https://www.tt.com/artikel/30922257/welt-aids-tag-aids-hilfe-warnt-vor-rueckschritten) • _Montag, 24. November 2025, 05:00 Uhr_
 
-Das Diabetesmedikament Metformin könnte Frauen dabei helfen, besonders alt zu werden. Warum die Forscher dennoch zu Vorsicht mahnen.
+Im magnus* Ambulatorium soll niederschwellig getestet werden
 
-Das weit verbreitete Diabetesmedikament Metformin könnte Frauen helfen, besonders alt zu werden. Das zeigt eine neue Studie, erschienen im „Journal of Gerontology: Medical Sciences“. Forschende aus den USA und Deutschland werteten dafür Daten einer g... [weiterlesen](https://www.morgenpost.de/ratgeber-wissen/article410492194/gaengiges-diabetesmedikament-koennte-lebenserwartung-von-frauen-erhoehen.html)
+Anlässlich des Welt-Aids-Tags am ersten Dezember warnt die Aids Hilfe Wien vor Rückschritten in der Bekämpfung der Krankheit. Laut dem Programm der Vereinten Nationen (UNAIDS) ist das Ziel, Aids bis 2030 weltweit zu beenden, ohne rasche Stabilisierun... [weiterlesen](https://www.tt.com/artikel/30922257/welt-aids-tag-aids-hilfe-warnt-vor-rueckschritten)
 
-> Relevance score: [4] - Preliminary study on common drug's longevity effects; global health interest but cautious findings and no broad policy/economic shift yet.
+> Relevance score: [4] - Global health warning on AIDS progress; niche public health concern without immediate large-scale impact.
 
-## Junta meldet Festnahme von 1600 Ausländern in Online-Betrugszentren
+## Weltkleinste Leuchtdiode fabriziert
 
-[Watson](https://www.watson.ch/international/china/308733551-junta-meldet-festnahme-von-1600-auslaendern-in-online-betrugszentren) • _Sonntag, 23. November 2025, 11:00 Uhr_
+[ETH Zürich](https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2025/11/weltkleinste-leuchtdiode-fabriziert.html) • _Montag, 24. November 2025, 01:00 Uhr_
 
-Zwischen Dienstag und Samstag seien bei Razzien «1590 ausländische Staatsbürger, die illegal nach Myanmar eingereist waren», festgenommen worden.
+Forschende der ETH Zürich stellen organische Leuchtdioden (OLED) auf der Nanoskala her – die sind rund hundertmal kleiner als eine menschliche Zelle. Damit werden nicht nur ultrascharfe Bildschirme und Mikroskope möglich. Die Pixel sind so klein, dass neuartige Wellenoptik-Anwendungen denkbar werden.
 
-Im Kampf gegen Online-Betrugszentren hat die Militärjunta in Myanmar nach eigenen Angaben binnen fünf Tagen fast 1600 Ausländer festgenommen.
-Zwischen Dienstag und Samstag seien bei Razzien «1590 ausländische Staatsbürger, die illegal nach Myanmar ei... [weiterlesen](https://www.watson.ch/international/china/308733551-junta-meldet-festnahme-von-1600-auslaendern-in-online-betrugszentren)
+Die Miniaturisierung ist die Triebkraft der Halbleiter-Industrie. Die enorme Leistungssteigerung der Computer seit den 1950er-Jahren beruht weitgehend darauf, dass immer kleinere Strukturen auf die Silizium-Chips gefertigt werden können. Chemieingeni... [weiterlesen](https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2025/11/weltkleinste-leuchtdiode-fabriziert.html)
 
-> Relevance score: [4] - Myanmar junta crackdown on scam centers; addresses regional crime issue but limited global structural impact.
+> Relevance score: [3] - Swiss tech research breakthrough; potential long-term innovation but currently niche and speculative.
 
-## Seltene genetische Varianten erhöhen ADHS-Risiko um das bis zu 15-Fache
+## Neue Begleittherapie bei Antibiose für Kinder:
 
-[Mainfranken News](https://mainfranken.news/2025/11/23/seltene-genetische-varianten-erhoehen-adhs-risiko-um-das-bis-zu-15-fache/) • _Sonntag, 23. November 2025, 15:14 Uhr_
+[Pharmazeutische Zeitung](https://www.pharmazeutische-zeitung.de/anzeige-pz/neue-begleittherapie-bei-antibiose-fuer-kinder-symbiolact-multi-kids-1/) • _Montag, 24. November 2025, 00:48 Uhr_
 
-ARHUS / WÜRZBURG - Einer internationale Studie zeigt, wie seltene genetische Varianten in Nervenzellen die Gehirnentwicklung beeinflussen und Bildungs- sowie kognitive Leistungen bei ADHS-Betroffenen verschieben.
+Eine Antibiotikatherapie kann das Darmmikrobiom aus dem Gleichgewicht bringen. Um Kinder bestmöglich bei einer Antibiose zu begleiten, steht jetzt SymbioLa...
 
-ARHUS / WÜRZBURG – Einer internationale Studie zeigt, wie seltene genetische Varianten in Nervenzellen die Gehirnentwicklung beeinflussen und Bildungs- sowie kognitive Leistungen bei ADHS-Betroffenen verschieben.
-In einer neuen Studie, die von Forsch... [weiterlesen](https://mainfranken.news/2025/11/23/seltene-genetische-varianten-erhoehen-adhs-risiko-um-das-bis-zu-15-fache/)
+Antibiotika sind wirkungsvolle Arzneimittel. Bei Kindern gehören sie zu den am häufigsten verschriebenen Medikamenten weltweit.1 Ihre Nebenwirkungen können jedoch unangenehm sein. Denn: Antibiotika unterscheiden nicht zwischen physiologischen und pat... [weiterlesen](https://www.pharmazeutische-zeitung.de/anzeige-pz/neue-begleittherapie-bei-antibiose-fuer-kinder-symbiolact-multi-kids-1/)
 
-> Relevance score: [3] - Scientific insight into ADHD genetics; niche research with potential long-term medical understanding but no immediate societal impact.
+> Relevance score: [2] - New medical therapy for antibiotic side effects in children; minor niche health advancement.
 
-## Brienz/Brinzauls: Geologen erwarten neuen Felssturz
+## Russische TV-Sendung: Trumps 28-Punkte-Plan "wird Selenski zerquetschen"
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/teile-des-berges-beschleunigt-oberhalb-brienz-ist-abermals-fels-abgebrochen) • _Sonntag, 23. November 2025, 10:45 Uhr_
+[20 Minuten](https://www.20min.ch/story/russische-tv-sendung-der-28-punkte-plan-von-trump-wird-selenski-zerquetschen-103456334) • _Sonntag, 23. November 2025, 19:15 Uhr_
 
-Der Abbruch ereignete sich am Sonntagmorgen. Material rutschte bis in die Schutthalde.
+In der Sendung des russischen Staatsfernsehens «60 Minutes» wird über den 28-Punkte-Plan von Trump zur Beendigung des Ukraine-Kriegs gesprochen.
 
-Um 07.30 Uhr am Sonntagmorgen ist oberhalb von Brienz wieder Fels abgebrochen. Material hat sich bis in die Schutthalde geschoben.
-Schon in der Nacht auf Samstag und am Samstagvormittag um etwa 10 Uhr ist es zu einem grösseren Felsabbruch gekommen.
-E... [weiterlesen](https://www.srf.ch/news/schweiz/teile-des-berges-beschleunigt-oberhalb-brienz-ist-abermals-fels-abgebrochen)
+Die Moderatorin Olga Skabeeva und Alexei Naumov, Mitglied des Russischen Rats für internationale Angelegenheiten, haben im Rahmen der Sendung des russischen Staatsfernsehens «60 Minutes» über den 28-Punkte-Plan der USA gesprochen.
+Dabei wurden Aussag... [weiterlesen](https://www.20min.ch/story/russische-tv-sendung-der-28-punkte-plan-von-trump-wird-selenski-zerquetschen-103456334)
 
-> Relevance score: [3] - Ongoing rockslide risk in small Swiss village; local safety concern with minimal broader national impact.
-
-## Wasserkonflikt im Kanton Bern: Fischer und Bauern suchen Lösungen
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/zwist-um-wassernutzung-beziehungsstatus-fischer-und-baeuerinnen-es-ist-kompliziert) • _Sonntag, 23. November 2025, 12:12 Uhr_
-
-Fischer und Bauern im Kanton Bern wollen ihre Wasser-Konflikte entschärfen – doch die Interessen bleiben gegensätzlich.
-
-Bislang schienen die Verhältnisse klar: Ein Bauer nutzt Wasser zur Bewässerung und Viehhaltung, düngt seine Felder und setzt Pestizide ein. Dadurch verschlechtert sich jedoch die Wasserqualität.
-Eine Fischerin hingegen ist auf saubere Gewässer angewi... [weiterlesen](https://www.srf.ch/news/schweiz/zwist-um-wassernutzung-beziehungsstatus-fischer-und-baeuerinnen-es-ist-kompliziert)
-
-> Relevance score: [2] - Local environmental dispute in Swiss canton between farmers and fishermen; limited scale and national relevance.
-
-## Queen» Taylor Greene tritt nach Streit mit Trump aus Kongress zurück
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/technologie/maga-queen-taylor-greene-tritt-nach-streit-mit-trump-aus-kongress-zurueck-ld.1913119) • _Sonntag, 23. November 2025, 09:31 Uhr_
-
-Überraschend tritt Trumps grösste parteiinterne Kritikerin von ihrem Kongressplatz zurück. Ist es eine Kapitulation - oder Teil eines ausgeklügelten Plans für das Präsidentschaftswahljahr 2028?
-
-Ihre Beziehung erinnerte zuletzt an eine Ehe im Niedergang. Der amerikanische Präsident Donald Trump und die republikanische Kongressabgeordnete Marjorie Taylor Greene waren lange unzertrennlich gewesen, doch seit einigen Monaten fielen immer öfter h... [weiterlesen](https://www.nzz.ch/technologie/maga-queen-taylor-greene-tritt-nach-streit-mit-trump-aus-kongress-zurueck-ld.1913119)
-
-> Relevance score: [1] - US political drama involving controversial figure; internal party hype with negligible structural global impact.
+> Relevance score: [2] - Russian media commentary on Ukraine plan; propagandistic and low substantive impact.
 
 
 </details>

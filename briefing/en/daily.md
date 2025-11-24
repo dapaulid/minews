@@ -2,238 +2,249 @@
 
 ---
 
-_Aktualisiert: Monday, November 24, 2025, 06:26_
+_Aktualisiert: Monday, November 24, 2025, 18:25_
 
-## Kidnapping of Hundreds of Children and Worshippers Shocks Nigeria
+## Situation in the Middle East - Israel: Hezbollah leader killed in Beirut
 
-[Watson](https://www.watson.ch/international/afrika/884638403-entfuehrung-hunderter-kinder-und-glaeubiger-schockiert-nigeria) • _Sunday, November 23, 2025, 15:05_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/nahost/die-lage-in-nahost-israel-hisbollah-anfuehrer-in-beirut-getoetet) • _Sunday, November 23, 2025, 19:04_
 
-Armed men abducted 303 children and 12 teachers from a Catholic primary and secondary school in Niger State on Friday.
+It concerns Haitham Ali Tabatabai, the chief of staff of the Hezbollah militia, the military announced.
 
-### Recent Kidnappings
-- Armed men kidnapped 303 children and 12 teachers from a Catholic school in [Niger State](https://en.wikipedia.org/wiki/Niger_State) on Friday.
-- The previous Monday, 25 girls were abducted from a school in [Kebbi State](https://en.wikipedia.org/wiki/Kebbi_State).
-- Shortly afterwards, attackers took 38 worshippers hostage in a church in [Kwara State](https://en.wikipedia.org/wiki/Kwara_State).
-- Several people were shot during the attacks.
+### Escalation in the Middle East
+- Israel has killed the [Hezbollah](https://en.wikipedia.org/wiki/Hezbollah) leader in [Beirut](https://en.wikipedia.org/wiki/Beirut), further escalating the situation in the [Middle East](https://en.wikipedia.org/wiki/Middle_East).
 
-### Particular Concern for Young Children
-- Many of the abducted are six-year-olds and children under ten years old.
-- The kidnapped are held under harsh conditions and often die during negotiations or search operations.
+### Humanitarian crisis in the [Gaza Strip](https://en.wikipedia.org/wiki/Gaza_Strip)
+- The civilian population is suffering from extreme shortages of food, water, medicine, and electricity.
+- Famine threatens due to the daily worsening situation.
 
-### Pope's Reaction
-- [Pope Leo XIV](https://en.wikipedia.org/wiki/List_of_popes) expressed grief over the kidnappings on Sunday before the Angelus prayer.
-- Appealed to those involved to release the hostages and urged authorities to make timely decisions.
+### Help from the Glückskette
+- The Glückskette is intensifying its support for Swiss partner organizations on the ground, where needs are greatest.
+  - Partner organizations monitor aid deliveries.
+  - They ensure that aid reaches those affected.
+- The organization urgently calls for donations to combat the humanitarian crisis.
 
-### Historical Context and Statistics
-- In northern and central [Nigeria](https://en.wikipedia.org/wiki/Nigeria), criminal gangs and Islamist groups regularly kidnap people.
-- Famous: Kidnapping of 276 schoolgirls by [Boko Haram](https://en.wikipedia.org/wiki/Boko_Haram) in 2014 in [Chibok](https://en.wikipedia.org/wiki/Chibok), 82 still missing.
-- Since then, at least 2,500 more pupils kidnapped (according to «Vanguard» based on UN data).
-- Between June 2024 and June 2025: 4,722 kidnappings in 997 incidents, 762 dead, ransoms at least 1.6 million euros (SBM Intel).
+> Relevance score: [9] - Targeted killing of senior Hezbollah leader escalates Middle East conflict; major global security and humanitarian implications.
 
-### Perpetrators and Motives
-- No group has claimed responsibility, but mainly «bandits» (criminal groups) are active.
-- Goal: Ransom, e.g. 100 million naira (about 60,000 euros) for the church kidnappings.
-- Causes: Unemployment, insecurity, naira crash drive young people to gangs.
+## Fedpol chief warns: Turkish mafia is expanding
 
-### Security Situation and Authorities' Response
-- Military poorly equipped despite large army; corruption weakens the state.
-- Search operations so far fruitless, success in [Zamfara](https://en.wikipedia.org/wiki/Zamfara_State): 25 women and children rescued.
-- Schools and boarding schools in northern states closed; President [Bola Tinubu](https://en.wikipedia.org/wiki/Bola_Tinubu) stayed away from the G20 summit.
-- Ransom payments banned since 2022, but families pay privately.
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/auch-in-der-schweiz-fedpol-chefin-warnt-tuerkische-mafia-breitet-sich-aus) • _Monday, November 24, 2025, 05:19_
 
-### Religious Dimension
-- Nigeria (about 220 million inhabitants, half Christian, half Muslim) increasingly violent along religious lines.
-- [International Christian Concern](https://en.wikipedia.org/wiki/International_Christian_Concern) named Nigeria the most dangerous country for Christians in 2022.
-- Muslims also victims of bandits, terror, and revenge attacks.
-- [US President Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) threatened military intervention for Christian protection.
+Drugs, human smuggling, and high willingness to use violence: Criminal organizations from Turkey are on the advance.
 
-> Relevance score: [8] - Mass kidnapping of 300+ children highlights ongoing global security crisis and humanitarian emergency in Nigeria with broad implications for instability.
+### Warning from the Fedpol chief
+- The [Fedpol](https://en.wikipedia.org/wiki/Fedpol) chief [Eva Wildi-Cortés](https://en.wikipedia.org/wiki/Eva_Wildi-Cort%C3%A9s) warns in the *Rundschau* that the Turkish mafia is increasingly spreading from Germany into Switzerland.
 
-## Now It's All or Nothing: Blocher Wants to Split UBS
+### Criminal activities
+- Engaged in [drug trade](https://en.wikipedia.org/wiki/Illegal_drug_trade), [human smuggling](https://en.wikipedia.org/wiki/Human_trafficking), illegal gambling business, and phone scams.
+- High violence potential due to generational change: New generation is more willing to use violence and settles rivalries with weapons, including shootouts on open streets in Germany.
 
-[Inside Paradeplatz](https://insideparadeplatz.ch/2025/11/23/jetzt-gehts-ums-ganze-blocher-will-ubs-aufspalten/) • _Sunday, November 23, 2025, 07:58_
+### Increasing violence in Switzerland
+- More frequent open confrontations between rival criminal groups.
+- Drug trade as a lucrative business leads to calm as long as all profit, but to distribution struggles.
+- Over 800 such groups active in Europe, also in Switzerland; concerning increase in violence potential.
 
-Glass-Steagall system, Swiss style: SVP tycoon proposes splitting into UBS Switzerland and UBS America. Battle in the media picks up speed.
+### Switzerland's role in the drug business
+- Serves as a transit and transshipment point as well as a destination country.
+- Measures: Not only drug seizures, but uncovering networks, pursuing money flows, and curbing [money laundering](https://en.wikipedia.org/wiki/Money_laundering).
 
-### Blocher's Proposal to Split UBS
-- The [SonntagsZeitung](https://en.wikipedia.org/wiki/SonntagsZeitung) presents the plan by [SVP](https://en.wikipedia.org/wiki/Swiss_People%27s_Party) elder statesman [Christoph Blocher](https://en.wikipedia.org/wiki/Christoph_Blocher) to divide [UBS](https://en.wikipedia.org/wiki/UBS) into a UBS Switzerland and a UBS Overseas.
-- Reason: UBS is «[too big to fail](https://en.wikipedia.org/wiki/Too_big_to_fail)» and too big for Switzerland; more regulations or equity do not solve the problem.
+### Challenges in combating it
+- According to [Europol](https://en.wikipedia.org/wiki/Europol), only around 2% of revenues from organized crime are seized.
+- The rest is fed into the legal economic cycle; same figures apply to Switzerland.
 
-### Reactions at UBS
-- Alarm sirens are wailing at the Zurich headquarters; for Chairman [Colm Kelleher](https://en.wikipedia.org/wiki/Colm_Kelleher) and CEO [Sergio Ermotti](https://en.wikipedia.org/wiki/Sergio_Ermotti), the split would mean power, size, and bonuses.
-- Ermotti called the relocation debate on a [JPMorgan](https://en.wikipedia.org/wiki/JPMorgan_Chase) podium «bullshit».
-- [SonntagsBlick](https://en.wikipedia.org/wiki/Blick_(Swiss_magazine)) (Ringier) provides Kelleher with support and clarifies [Financial Times](https://en.wikipedia.org/wiki/Financial_Times) report on «secret talks» with Trump's finance minister: It was about an old customer relationship, not UBS relocation.
+> Relevance score: [8] - Expansion of organized crime into Switzerland involving drugs and smuggling; significant national security and public safety implications.
 
-### Details of the Split Plan
-- **Approach**: Give existing shareholders two shares – one for UBS Switzerland (under Swiss law), one for UBS America (under US law).
-- Complete separation into two independent banks with headquarters in the respective country.
-- **Examples**:
-  - Cement multinational spun off US business as [Amrize](https://en.wikipedia.org/wiki/Holcim).
-  - [Dottikon](https://en.wikipedia.org/wiki/Dottikon_Exclusive_Synthesis) developed successfully after spin-off from [Ems-Chemie](https://en.wikipedia.org/wiki/EMS-Chemie) (Blocher family).
+## New peace plan: This is how Ukraine is supposed to
 
-### Advantages and Blocher's Message
-- Switzerland no longer liable for US risks; UBS Switzerland could be adjusted further if needed.
-- Beneficial for Switzerland, the bank, owners, and America.
-- To Ermotti: «Death is part of life» – every company is threatened with ruin, but must not drag down the national economy.
+[Blick](https://www.blick.ch/ausland/krieg-in-der-ukraine-diese-aenderungen-am-friedensplan-wurden-in-genf-beschlossen-id21449081.html) • _Sunday, November 23, 2025, 21:02_
 
-> Relevance score: [7] - Prominent Swiss figure proposes splitting major bank UBS; significant for Swiss economy, governance, and banking stability.
+Trump presented a plan to end the war in Ukraine. The European representatives were not in agreement with all points of the plan. Now it is known which points are being changed.
 
-## Pfister Wants to Buy Fewer US Fighter Jets for Now - the Sunday News
+### Background of the meeting
+- Representatives of [Ukraine](https://en.wikipedia.org/wiki/Ukraine), the [United States](https://en.wikipedia.org/wiki/United_States), and supporting European countries met on Sunday in [Geneva](https://en.wikipedia.org/wiki/Geneva), announced on Saturday.
+- Reason: Disagreement with [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)'s 28-point [peace plan](https://en.wikipedia.org/wiki/Peace_negotiations_in_the_Russo-Ukrainian_War) for the [Ukraine war](https://en.wikipedia.org/wiki/Russo-Ukrainian_War).
+- Agreements on changes; final decision by heads of state.
+- Points of contention:
+  - Distribution of frozen Russian funds.
+  - Territorial concessions.
+  - Lifting of [sanctions](https://en.wikipedia.org/wiki/International_sanctions_during_the_Russo-Ukrainian_War) against [Russia](https://en.wikipedia.org/wiki/Russia).
 
-[Watson](https://www.watson.ch/international/schweiz/928798271-pfister-will-vorerst-weniger-us-kampfjets-kaufen-die-sonntagsnews) • _Sunday, November 23, 2025, 07:10_
+### Revised peace plan (28 points)
+#### Sovereignty, non-aggression, and NATO dialogue
+- Remains the same: Confirmation of Ukrainian sovereignty.
+- Remains the same: Non-aggression agreement between Russia, Ukraine, and Europe.
+- Directed: Russia does not attack neighboring countries; no [NATO](https://en.wikipedia.org/wiki/NATO) expansion.
+- Remains the same: Russia-[NATO](https://en.wikipedia.org/wiki/NATO) dialogue under US mediation for de-escalation.
+- Remains the same: Reliable security guarantees for Ukraine.
+- Remains the same: No permanent NATO troops in Ukraine during peacetime.
+- New: Deployment of NATO fighter jets in Poland.
 
-Pfister wants fewer F-35 fighter jets, Epstein's connections to Switzerland, and fast-track investigations against serial thieves: The Sunday news.
+#### Military, accessions, and guarantees
+- Change: Ukrainian army limited to 800,000 soldiers (previously 600,000; currently 850,000).
+- Change: Ukraine-NATO accession depends on consensus of members (which is lacking).
+- Change: US guarantee resembles [Article 5](https://en.wikipedia.org/wiki/North_Atlantic_Treaty#Article_5), but conditional (e.g., lapses in case of Ukrainian attack, sanctions in case of Russian).
+- Change: Ukraine may become [EU](https://en.wikipedia.org/wiki/European_Union) member.
 
-### Pfister Wants to Buy Fewer F-35 Fighter Jets
-- Defense Minister [Martin Pfister](https://de.wikipedia.org/wiki/Martin_Pfister_(Politiker)) plans, according to «SonntagsBlick», to buy 30 instead of 36 [F-35s](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II) to stay within the six billion franc cost ceiling.
-- A later option for ten additional jets remains open; the government will decide soon.
+#### Reconstruction, sanctions, and economy
+- Change/more extensive: Detailed reconstruction program with funds, gas infrastructure, and [World Bank](https://en.wikipedia.org/wiki/World_Bank) financing.
+- Change/more extensive: Stepwise reintegration of Russia into the world economy; staggered lifting of sanctions, return to [G8](https://en.wikipedia.org/wiki/G8).
+- Change: Full reconstruction/compensation; frozen Russian assets (approx. 100 billion USD) remain frozen until compensation (previously: use for Ukraine, USA 50% profit, Europe 100 billion USD).
+- Remains the same: Free Dnieper for trade, grain exports via Black Sea.
 
-### Epstein's Connections to Switzerland
-- Documents show contacts of the late [Jeffrey Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein) to Zurich and Zug, including a 2016 offered «assistant from Zurich» as a codeword for sex trafficking.
-- Epstein was a client of a Swiss bank; connections to [Crypto Valley](https://en.wikipedia.org/wiki/Crypto_Valley) in Zug; no mutual legal assistance request to the Federal Office of Justice.
+#### Security, nuclear, and humanitarian
+- Change: Joint security working group with USA, Russia, Ukraine, Europe (previously Russian-American).
+- Remains the same: Russian legal non-aggression obligation toward Europe/Ukraine.
+- Remains the same: Extension of nuclear treaties USA-Russia including "Fair Start".
+- Remains the same: Ukraine nuclear-free pursuant to [NPT](https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons).
+- Remains the same: [Zaporizhzhia NPP](https://en.wikipedia.org/wiki/Zaporizhzhia_Nuclear_Power_Plant) under [IAEA](https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency) supervision; electricity 50:50 Russia/Ukraine.
+- Change: Ukraine renounces military reconquest of occupied territories; negotiations on territorial exchange at contact line.
+- Change: No violent change of agreements, otherwise withdrawal of guarantees.
+- More detailed: Humanitarian committee for "all against all" prisoner exchange, return of hostages/civilians/children, family reunification, victim support.
+- Remains the same: Ukraine adopts EU rules for religious tolerance/minority protection.
 
-### Fast-Track Proceedings Against Serial Offenders from the Maghreb
-- Investigators use 48-hour fast-track proceedings with penalty orders against North African serial thieves.
-- Federal system complicates detention; Task Force «Security in the Asylum and Foreign Nationals Sector» coordinates pilot project; Asylum Committee discusses longer detention.
+#### Implementation and control
+- Remains the same: Quick elections in Ukraine after agreement (originally 100 days).
+- Remains the same: Full amnesty for war acts; no future claims.
+- Remains the same: Points binding; [peace council](https://en.wikipedia.org/wiki/Peace_negotiations_in_the_Russo-Ukrainian_War) under Trump's chairmanship monitors, violations lead to sanctions.
+- More detailed: Immediate ceasefire upon agreement; US-monitored implementation.
 
-### Majority for Recognition of Palestine
-- 57% of Swiss support recognizing [Palestine](https://en.wikipedia.org/wiki/State_of_Palestine) as a state in Sotomo poll (Nov 7–20, 2,088 respondents); 33% against, 10% unsure.
-- Strong support among women (two-thirds) and in western Switzerland.
+### Concluding statements
+- US Secretary of State [Marco Rubio](https://en.wikipedia.org/wiki/Marco_Rubio): "Very good work result" based on all contributions.
+- Ukrainian Chief of Staff [Andriy Yermak](https://en.wikipedia.org/wiki/Andriy_Yermak): "Very productive" meeting with progress toward "just and lasting peace"; final decision by "our presidents"; thanks to USA/Trump.
 
-### Roche Boss Too Poor for Trump Meeting
-- [Roche](https://en.wikipedia.org/wiki/Roche_Holding) Chairman [Severin Schwan](https://en.wikipedia.org/wiki/Severin_Schwan) was not allowed to attend the «Team Switzerland» meeting with [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) because not rich enough.
-- Schwan helped in the background via video calls and contacts; [UBS](https://en.wikipedia.org/wiki/UBS) Chairman [Colm Kelleher](https://en.wikipedia.org/wiki/Colm_Kelleher) supported in customs dispute.
+> Relevance score: [8] - Diplomatic developments on Ukraine peace plan with meetings in Geneva; high global geopolitical impact with Swiss involvement.
 
-### SP for Joint Air Force with Austria
-- [SP](https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland) proposes in position paper to examine an air force with [Austria](https://en.wikipedia.org/wiki/Austria) to save costs and increase security.
-- Rejection of [F-35](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II) and [Patriot](https://en.wikipedia.org/wiki/MIM-104_Patriot); proposal for light jets against drones.
+## USA and Ukraine are optimistic
 
-### Risks in Migros-Tegut Deal
-- [Migros](https://en.wikipedia.org/wiki/Migros) Zurich faces high risks in participation in [Tegut](https://de.wikipedia.org/wiki/Tegut); lease and credit obligations over 730 million euros, potential loss of one billion francs.
-- Migros contradicts, as assets would be ignored.
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/bisher-produktivstes-treffen-die-ukraine-und-die-usa-geben-sich-bei-den-verhandlungen-ueber-den-friedensplan-in-genf-zuversichtlich-ld.1913147) • _Sunday, November 23, 2025, 20:25_
 
-### Severance Payments for Berset Staff
-- After [Alain Berset](https://en.wikipedia.org/wiki/Alain_Berset)'s resignation, staff received over 750,000 francs in severance.
-  - Lukas Gresch: about 370,000 francs.
-  - Stefan Honegger: about 150,000 francs.
-  - Michael Brändle: slightly less.
-  - Rémy Lüthy: 54,000 francs; Gianna Blum: 44,000 francs.
+Ukraine faces days of destiny – and with it Europe too. Behind closed doors, their representatives are trying to amend the American proposal and avert the worst. Contradictory signals are coming from Washington.
 
-> Relevance score: [7] - Swiss defense minister scales back F-35 purchases; affects national security policy and budget with civic relevance.
+### Negotiations in Geneva
+- Delegations from the [United States](https://en.wikipedia.org/wiki/United_States), [Ukraine](https://en.wikipedia.org/wiki/Ukraine), European states, and the [EU](https://en.wikipedia.org/wiki/European_Union) are deliberating behind closed doors on the 28-point [peace plan](https://en.wikipedia.org/wiki/Peace_negotiations_in_the_Russo-Ukrainian_War) that US special envoy [Dan Driscoll](https://en.wikipedia.org/wiki/Special_Representative_for_Ukraine_and_Russia) handed over to [Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy) on Thursday.
+- Goal of [Ukrainians](https://en.wikipedia.org/wiki/Ukraine) and Europeans: Change painful concessions for Kyiv.
 
-## Republika Srpska: Moscow Ally Lobbies in the USA
+### Content of the US proposal
+- Strong consideration of Russian security priorities and US economic interests.
+- Ukraine to:
+  - Cede one fifth of its territory.
+  - Reduce armed forces.
+  - Renounce [NATO](https://en.wikipedia.org/wiki/NATO) accession.
+- Reconstruction under US leadership, financed by EU funds; Europeans as paymasters.
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/nationalistischer-politiker-republika-srpska-moskau-verbuendeter-lobbyiert-in-den-usa) • _Sunday, November 23, 2025, 10:09_
+### Optimistic statements
+- Joint US/Ukraine declaration: Revised plan created, continue work with European partners; final decisions by Zelenskyy and [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump).
+- [Andriy Yermak](https://en.wikipedia.org/wiki/Andriy_Yermak) (Ukrainian delegation leader): Very good progress toward just, lasting peace.
+- [Marco Rubio](https://en.wikipedia.org/wiki/Marco_Rubio) (US Secretary of State): "Most productive meeting so far", substantial progress on open questions, no irresolvable points of contention.
 
-Milorad Dodik is a controversial politician in the Balkans. Why have the USA lifted the sanctions against him?
+### Ukrainian pressure
+- Trump deadline until Thanksgiving (Thursday): Agreement or US support ends, worsens front situation.
+- Zelenskyy forms delegation under Yermak despite corruption scandal around Yermak/Umerov; signals unity instead of domestic political fights.
 
-### Milorad Dodik and His Policies
-- [Milorad Dodik](https://en.wikipedia.org/wiki/Milorad_Dodik), controversial politician in the Balkans with close ties to [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin), dominated politics in [Republika Srpska](https://en.wikipedia.org/wiki/Republika_Srpska), the Serb-dominated part of [Bosnia and Herzegovina](https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina), for almost two decades.
-- He pursues a nationalist line, repeatedly threatened secession and destabilization, which carries the risk of war.
-- In 2017, [Barack Obama](https://en.wikipedia.org/wiki/Barack_Obama) imposed sanctions against Dodik and his circle for this policy; these were completely lifted at the end of October 2025, even though Dodik's stance has not changed.
+### European position
+- Foreign ministers' phone conference: Relief over input after plan without involvement.
+- Demands:
+  - No border changes by force.
+  - No weakening of Ukrainian army as defense line against [Russia](https://en.wikipedia.org/wiki/Russia).
+  - EU as central actor in security architecture (e.g., troop deployment).
+- 140-billion credit from Russian assets in limbo due to plan (100 billion USD US-controlled, 100 billion EU additional).
 
-### Recent Court Decision and Resignation
-- A court in Sarajevo issued a six-year office ban against Dodik for violating the [Dayton Agreement](https://en.wikipedia.org/wiki/Dayton_Agreement), which ended the [Bosnian War](https://en.wikipedia.org/wiki/Bosnian_War) in 1995.
-- Dodik initially announced non-compliance, but then resigned as president of Republika Srpska.
-- His successor will be elected on Sunday; observers expect Dodik's continued influence in the background.
+### Controversies and signals from Washington
+- Criticism of pro-Russian slant: [Mitch McConnell](https://en.wikipedia.org/wiki/Mitch_McConnell) warns against rewarding Russian "slaughter".
+- Trump: Plan not final, deadline flexible; complaint about Ukrainian ingratitude.
+- Authorship disputed: Rubio denies Russian "wish list", emphasizes US authorship with suggestions; [Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk) demands clarity.
+- Speculations about Russian translation due to wording.
 
-### Suspected Deal with the USA
-- [Kurt Bassuener](https://en.wikipedia.org/wiki/Kurt_Bassuener), co-director of the think tank *Democratization Policy Council* in Sarajevo, sees an agreement: Dodik accepts the verdict and steps back formally, in return lifting of sanctions.
+### War events and outlook
+- No influence on front: Russian air strike on [Ternopil](https://en.wikipedia.org/wiki/Ternopil) killed 34 people.
+- US delegation travels to Moscow after [Geneva](https://en.wikipedia.org/wiki/Geneva) talks.
 
-### Lobbying Campaign in the USA
-- Public US lobby documents prove contracts worth millions with individuals and firms, targeted at the US president.
-- Previous lobbying was intensified to lift sanctions.
+> Relevance score: [8] - Progress in Ukraine war diplomacy; significant for global stability and European security.
 
-### Spread of Conspiracy Theories
-- Dodik stages himself as a victim of a global elite (analogous to Trump), allegedly fighting against Muslims and globalists who oppress Christians in Republika Srpska.
-  - Opinion piece in the [*Washington Post*](https://en.wikipedia.org/wiki/The_Washington_Post) by [Rod Blagojevich](https://en.wikipedia.org/wiki/Rod_Blagojevich), ex-governor of Illinois, convicted of corruption, pardoned by Trump and with RS lobby contract.
-  - Tweet by MAGA influencer [Laura Loomer](https://en.wikipedia.org/wiki/Laura_Loomer).
-  - Podcast in MAGA sphere in which Dodik claims Bosnia is being turned into a Muslim state and justice is being abused.
-- Truth: No Islamist tendencies in Bosnia, Dodik convicted on legal basis, not religious; verdict factually accepted.
+## New prioritization in transport: Cities want more climate protection
 
-### Reactions
-- US State Department (in response to CNN query): No connection to lobbying, but reaction to constructive stability steps by the RS parliament.
-- Observers: Complete, sudden lifting of sanctions (not gradual) as clear indication of successful US lobbying.
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/kritik-an-verkehr-45-staedte-sehen-ihre-anliegen-zu-wenig-beruecksichtigt) • _Monday, November 24, 2025, 05:42_
 
-> Relevance score: [6] - Lifting of US sanctions on Balkan leader Dodik; geopolitical shift with Russia ties affecting European stability.
+The ETH expert opinion follows an expansion logic. The cities demand more weight for urban development and climate protection.
+
+### Background
+- Federal Councillor [Albert Rösti](https://en.wikipedia.org/wiki/Albert_R%C3%B6sti) adjusts transport policy after cost overruns in rail expansion and popular vote no to highway projects.
+- Commissioned [ETH Zurich](https://en.wikipedia.org/wiki/ETH_Zurich) expert opinion on prioritizing transport projects with limited budget: Where to expand most efficiently?
+
+### ETH expert opinion by Ulrich Weidmann
+- Priority list with surprises, e.g., high priority for [Grimsel Tunnel](https://en.wikipedia.org/wiki/Grimsel_Road_Tunnel).
+- Criteria: Network design, safety, stability, urban development, etc.; weighting to be known beginning of 2026.
+
+### Criticism from the cities
+- Cities and [Swiss Association of Cities](https://en.wikipedia.org/wiki/Swiss_Association_of_Cities) (President [Hanspeter Hilfiker](https://en.wikipedia.org/wiki/Hanspeter_Hilfiker)): Urban concerns like climate protection, settlement densification, and net-zero goals shortchanged.
+- Transport not just a capacity issue, but a societal challenge with steerable alternatives (distribute traffic, curb growth).
+
+### Example Bern Ostring
+- A6 highway cuts through neighborhood next to residential buildings; [City of Bern](https://en.wikipedia.org/wiki/Bern) and canton want tunnel relocation for "city repair" and better land use.
+- SP city president [Marieke Kruit](https://en.wikipedia.org/wiki/Marieke_Kruit): Focus on quality of life, not just traffic space.
+- Low priority in expert opinion; Weidmann suggests operational measures like using the emergency lane.
+
+### Weidmann's position
+- Urban development considered as one of several criteria, alongside transport aspects.
+- Cannot comprehend criticism: "I would have expected criticism rather from rural or alpine areas."
+
+### Outlook
+- 2026: ETH report as political basis; parliamentary discussion on priorities.
+
+> Relevance score: [7] - Swiss national policy shift on transport prioritizing climate and urban planning over expansion; affects governance, economy, and environment for many citizens.
 
 
 <details><summary markdown="span">Show unimportant events</summary>
 
-## Magic Mushrooms in Switzerland: Between Healing, Research & Risk
+## Number of children with high blood pressure doubled: This is the most important risk factor
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/sendungen/dok/psilocybin-als-heilmittel-die-rueckkehr-der-zauberpilze) • _Sunday, November 23, 2025, 18:18_
+[CHIP](https://www.chip.de/news/gesundheit/zahl-der-kinder-mit-bluthochdruck-verdoppelt-das-ist-der-wichtigste-risikofaktor_04d81cb4-695a-4f03-810d-62f3f68d629b.html) • _Monday, November 24, 2025, 06:00_
 
-Psilocybin is experiencing a comeback – between self-healing, research, and the question of legal handling in Switzerland.
+Number of children with high blood pressure doubled: This is the most important risk factor
 
-More than 20 species of «magic mushrooms» grow in Switzerland. The most famous is the conical bald head. For decades, psilocybin was frowned upon and continuously criminalized. In recent years, it has come back into the spotlight of research. Studies show,... [read more](https://www.srf.ch/sendungen/dok/psilocybin-als-heilmittel-die-rueckkehr-der-zauberpilze)
+For a long time, high blood pressure (hypertension) was considered a typical age-related disease. In fact, age is one of the most important risk factors: According to the German Heart Foundation, the prevalence of hypertension rises in women from about 50 and in M... [read more](https://www.chip.de/news/gesundheit/zahl-der-kinder-mit-bluthochdruck-verdoppelt-das-ist-der-wichtigste-risikofaktor_04d81cb4-695a-4f03-810d-62f3f68d629b.html)
 
-> Relevance score: [5] - Emerging research on psilocybin for healing in Switzerland; potential future policy shifts but currently niche medical/science topic with limited immediate civic impact.
+> Relevance score: [5] - Public health trend in children, indicating lifestyle risks like obesity; moderate long-term societal health impact but not structural or civic disruption.
 
-## Diabetes: Common Medication Could Increase Women's Life Expectancy
+## World AIDS Day - AIDS Help warns of setbacks
 
-[Berliner Morgenpost](https://www.morgenpost.de/ratgeber-wissen/article410492194/gaengiges-diabetesmedikament-koennte-lebenserwartung-von-frauen-erhoehen.html) • _Sunday, November 23, 2025, 17:09_
+[Tiroler Tageszeitung](https://www.tt.com/artikel/30922257/welt-aids-tag-aids-hilfe-warnt-vor-rueckschritten) • _Monday, November 24, 2025, 05:00_
 
-The diabetes drug metformin could help women live particularly long. Why researchers still urge caution.
+Low-threshold testing is to take place at the magnus* outpatient clinic
 
-The widely used diabetes drug metformin could help women live particularly long. This is shown by a new study published in the «Journal of Gerontology: Medical Sciences». Researchers from the USA and Germany evaluated data from a g... [read more](https://www.morgenpost.de/ratgeber-wissen/article410492194/gaengiges-diabetesmedikament-koennte-lebenserwartung-von-frauen-erhoehen.html)
+On the occasion of World AIDS Day on December 1, AIDS Help Vienna warns of setbacks in the fight against the disease. According to the United Nations program (UNAIDS), the goal of ending AIDS worldwide by 2030 is, without rapid stabilization... [read more](https://www.tt.com/artikel/30922257/welt-aids-tag-aids-hilfe-warnt-vor-rueckschritten)
 
-> Relevance score: [4] - Preliminary study on common drug's longevity effects; global health interest but cautious findings and no broad policy/economic shift yet.
+> Relevance score: [4] - Global health warning on AIDS progress; niche public health concern without immediate large-scale impact.
 
-## Junta Reports Arrest of 1600 Foreigners in Online Scam Centers
+## World's smallest light-emitting diode fabricated
 
-[Watson](https://www.watson.ch/international/china/308733551-junta-meldet-festnahme-von-1600-auslaendern-in-online-betrugszentren) • _Sunday, November 23, 2025, 11:00_
+[ETH Zürich](https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2025/11/weltkleinste-leuchtdiode-fabriziert.html) • _Monday, November 24, 2025, 01:00_
 
-Between Tuesday and Saturday, «1590 foreign nationals who had entered Myanmar illegally» were arrested in raids.
+Researchers at ETH Zurich are producing organic light-emitting diodes (OLEDs) on the nanoscale – they are about a hundred times smaller than a human cell. This not only makes ultra-sharp screens and microscopes possible. The pixels are so small that novel wave optics applications become conceivable.
 
-In the fight against online scam centers, the military junta in Myanmar claims to have arrested nearly 1600 foreigners within five days.
-Between Tuesday and Saturday, «1590 foreign nationals who had entered Myanmar ille... [read more](https://www.watson.ch/international/china/308733551-junta-meldet-festnahme-von-1600-auslaendern-in-online-betrugszentren)
+Miniaturization is the driving force of the semiconductor industry. The enormous performance increase of computers since the 1950s is largely based on the ability to fabricate ever smaller structures on silicon chips. Chemical engine... [read more](https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2025/11/weltkleinste-leuchtdiode-fabriziert.html)
 
-> Relevance score: [4] - Myanmar junta crackdown on scam centers; addresses regional crime issue but limited global structural impact.
+> Relevance score: [3] - Swiss tech research breakthrough; potential long-term innovation but currently niche and speculative.
 
-## Rare Genetic Variants Increase ADHD Risk up to 15-Fold
+## New companion therapy for antibiotic treatment in children:
 
-[Mainfranken News](https://mainfranken.news/2025/11/23/seltene-genetische-varianten-erhoehen-adhs-risiko-um-das-bis-zu-15-fache/) • _Sunday, November 23, 2025, 15:14_
+[Pharmazeutische Zeitung](https://www.pharmazeutische-zeitung.de/anzeige-pz/neue-begleittherapie-bei-antibiose-fuer-kinder-symbiolact-multi-kids-1/) • _Monday, November 24, 2025, 00:48_
 
-ARHUS / WÜRZBURG - An international study shows how rare genetic variants in nerve cells influence brain development and shift educational and cognitive performance in people with ADHD.
+Antibiotic therapy can disrupt the gut microbiome balance. To best support children during antibiotic treatment, SymbioLa...
 
-ARHUS / WÜRZBURG – An international study shows how rare genetic variants in nerve cells influence brain development and shift educational and cognitive performance in people with ADHD.
-In a new study by research... [read more](https://mainfranken.news/2025/11/23/seltene-genetische-varianten-erhoehen-adhs-risiko-um-das-bis-zu-15-fache/)
+Antibiotics are effective medicines. In children, they are among the most frequently prescribed medications worldwide.1 Their side effects can however be unpleasant. Because: Antibiotics do not distinguish between physiological and pat... [read more](https://www.pharmazeutische-zeitung.de/anzeige-pz/neue-begleittherapie-bei-antibiose-fuer-kinder-symbiolact-multi-kids-1/)
 
-> Relevance score: [3] - Scientific insight into ADHD genetics; niche research with potential long-term medical understanding but no immediate societal impact.
+> Relevance score: [2] - New medical therapy for antibiotic side effects in children; minor niche health advancement.
 
-## Brienz/Brinzauls: Geologists Expect New Rockfall
+## Russian TV show: Trump's 28-point plan "will crush Zelenskyy"
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/teile-des-berges-beschleunigt-oberhalb-brienz-ist-abermals-fels-abgebrochen) • _Sunday, November 23, 2025, 10:45_
+[20 Minuten](https://www.20min.ch/story/russische-tv-sendung-der-28-punkte-plan-von-trump-wird-selenski-zerquetschen-103456334) • _Sunday, November 23, 2025, 19:15_
 
-The break occurred on Sunday morning. Material slid into the debris pile.
+The Russian state television show "60 Minutes" discusses Trump's 28-point plan to end the Ukraine war.
 
-Around 07:30 on Sunday morning, rock broke off again above Brienz. Material slid into the debris pile.
-Already overnight into Saturday and on Saturday morning around 10 a.m., a larger rockfall occurred.
-E... [read more](https://www.srf.ch/news/schweiz/teile-des-berges-beschleunigt-oberhalb-brienz-ist-abermals-fels-abgebrochen)
+Host Olga Skabeeva and Alexei Naumov, member of the Russian Council for International Affairs, discussed the US 28-point plan in the Russian state television show "60 Minutes".
+Statements were made... [read more](https://www.20min.ch/story/russische-tv-sendung-der-28-punkte-plan-von-trump-wird-selenski-zerquetschen-103456334)
 
-> Relevance score: [3] - Ongoing rockslide risk in small Swiss village; local safety concern with minimal broader national impact.
-
-## Water Conflict in Canton Bern: Fishermen and Farmers Seek Solutions
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/zwist-um-wassernutzung-beziehungsstatus-fischer-und-baeuerinnen-es-ist-kompliziert) • _Sunday, November 23, 2025, 12:12_
-
-Fishermen and farmers in Canton Bern want to defuse their water conflicts – but interests remain opposed.
-
-So far, the relationships seemed clear: A farmer uses water for irrigation and livestock, fertilizes his fields, and uses pesticides. This deteriorates water quality.
-A fisherwoman, on the other hand, relies on clean waters... [read more](https://www.srf.ch/news/schweiz/zwist-um-wassernutzung-beziehungsstatus-fischer-und-baeuerinnen-es-ist-kompliziert)
-
-> Relevance score: [2] - Local environmental dispute in Swiss canton between farmers and fishermen; limited scale and national relevance.
-
-## Queen Taylor Greene Resigns from Congress After Dispute with Trump
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/technologie/maga-queen-taylor-greene-tritt-nach-streit-mit-trump-aus-kongress-zurueck-ld.1913119) • _Sunday, November 23, 2025, 09:31_
-
-Surprisingly, Trump's biggest intra-party critic resigns from her congressional seat. Is it a capitulation – or part of an elaborate plan for the 2028 presidential election year?
-
-Her relationship lately resembled a marriage on the decline. US President Donald Trump and Republican Congresswoman Marjorie Taylor Greene had been inseparable for a long time, but in recent months fal... [read more](https://www.nzz.ch/technologie/maga-queen-taylor-greene-tritt-nach-streit-mit-trump-aus-kongress-zurueck-ld.1913119)
-
-> Relevance score: [1] - US political drama involving controversial figure; internal party hype with negligible structural global impact.
+> Relevance score: [2] - Russian media commentary on Ukraine plan; propagandistic and low substantive impact.
 
 
 </details>
