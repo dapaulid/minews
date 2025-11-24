@@ -3,9 +3,13 @@
 # But not these files...
 !.gitignore
 !index.html
+!index.css
+!manifest.webmanifest
 !_config.yml
 !briefing
 !briefing/de
 !briefing/de/*
 !briefing/en
 !briefing/en/*
+!img
+!img/*

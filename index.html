@@ -2,18 +2,20 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta http-equiv="refresh" content="0; url=briefing/en/daily.html" />
-  <script>
-    const lang = navigator.language || navigator.userLanguage;
-    if (lang.startsWith("de")) {
-        location.replace("briefing/de/daily.html");
-    } else {
-        location.replace("briefing/en/daily.html");
-    }
-  </script>
-  <title>Redirecting...</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <!--<meta http-equiv="refresh" content="0; url=briefing/en/daily.html" /> -->
+  <link rel="canonical" href="https://dapaulid.github.io/minews/" />
+  <link rel="manifest" href="/minews/manifest.webmanifest" />
+  <link rel="stylesheet" href="/minews/index.css" />
+  <title>minews</title>  
 </head>
 <body>
-  <p>Redirecting...</p>
+  <div id="app"></div>
+  <script>
+    const lang = navigator.language.startsWith("de") ? "de" : "en";
+    const iframe = document.createElement("iframe");
+    iframe.src = `/minews/briefing/${lang}/daily.html`;
+    document.getElementById("app").appendChild(iframe);
+  </script>
 </body>
 </html>

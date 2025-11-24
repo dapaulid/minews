@@ -1,0 +1,17 @@
+{
+  "name": "minews",
+  "short_name": "minews",
+  "description": "Minimalist News Briefing",
+  "scope": "/minews/",
+  "start_url": "/minews/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone", 
+  "icons": [
+      {
+        "src": "/minews/img/icon.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      }
+  ]
+}
