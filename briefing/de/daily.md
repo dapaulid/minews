@@ -2,249 +2,170 @@
 
 ---
 
-_Aktualisiert: Montag, 24. November 2025, 18:25 Uhr_
+_Aktualisiert: Dienstag, 25. November 2025, 18:24 Uhr_
 
-## Die Lage in Nahost - Israel: Hisbollah-Anführer in Beirut getötet
+## Putin will Kriegsziele erreichen
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/nahost/die-lage-in-nahost-israel-hisbollah-anfuehrer-in-beirut-getoetet) • _Sonntag, 23. November 2025, 19:04 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/us-friedensplan-fuer-die-ukraine-putin-will-kriegsziele-erreichen-ld.1913227) • _Dienstag, 25. November 2025, 05:30 Uhr_
 
-Es handele sich um Haitham Ali Tabatabai, den Generalstabschef der Hisbollah-Miliz, teilte das Militär mit.
+Der Kreml stellt den Friedensplan der Amerikaner als Folge des Gipfels von Alaska dar. Die Botschaft ist: Als Verhandlungsgrundlage taugt er, solange Russland bekommt, was es verlangt.
 
-### Eskalation im Nahen Osten
-- Israel hat den [Hisbollah](https://de.wikipedia.org/wiki/Hisbollah)-Anführer in [Beirut](https://de.wikipedia.org/wiki/Beirut) getötet, was die Lage im [Nahen Osten](https://de.wikipedia.org/wiki/Naher_und_Mittlerer_Osten) weiter eskaliert.
+### Geist von Anchorage
+- Mitte August trafen sich [Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump) und [Wladimir Putin](https://de.wikipedia.org/wiki/Wladimir_Putin) in [Alaska](https://de.wikipedia.org/wiki/Alaska), was den «Geist von Anchorage» schuf.
+- Trump nahm von sofortigem Waffenstillstand ab und akzeptierte Putins Bedingung: Waffen schweigen erst nach umfassendem Friedensabkommen.
+- Russland sieht darin Konsens mit den USA, dem sich [Ukraine](https://de.wikipedia.org/wiki/Ukraine) und Europa unterordnen müssen.
 
-### Humanitäre Krise im [Gazastreifen](https://de.wikipedia.org/wiki/Gazastreifen)
-- Die Zivilbevölkerung leidet unter extremem Mangel an Nahrungsmitteln, Wasser, Medikamenten und Strom.
-- Es droht eine Hungersnot aufgrund der täglich verschlechternden Lage.
+### US-Friedensplan und Verhandlungen
+- Der 28-Punkte-Plan wird als Folge des Gipfels als Verhandlungsgrundlage akzeptabel gesehen, solange Russland seine Ziele erreicht.
+- Putin bestätigte Bereitschaft zu Gesprächen; militärische Lage in der Ukraine gefällt Moskau und erfüllt Ziele der «Spezialoperation».
+- [Juri Uschakow](https://de.wikipedia.org/wiki/Juri_Uschakow) nannte europäischen Gegenvorschlag unkonstruktiv; Diskussionen mit USA noch ausstehend.
+- Plan wurde in US-ukrainischen Verhandlungen geändert; zentrale Punkte wie Armeeverkleinerung, Rückzug aus [Donbass](https://de.wikipedia.org/wiki/Donbass) und NATO-Beitritt unverzichtbar für Russland.
 
-### Hilfe der Glückskette
-- Die Glückskette verstärkt ihre Unterstützung für Schweizer Partnerorganisationen vor Ort, wo die Bedürfnisse am grössten sind.
-  - Partnerorganisationen überwachen die Hilfeleistungen.
-  - Sie gewährleisten, dass die Hilfe die Betroffenen erreicht.
-- Die Organisation ruft dringend zu Spenden auf, um die humanitäre Krise zu bekämpfen.
+### Putins Ziele und Kreml-Perspektive
+- Putin will Kriegsziele militärisch oder in Verhandlungen erreichen, was Kiews Kapitulation bedeutet.
+- Forderungen: Verkleinerung ukrainischer Armee, Absage an [NATO](https://de.wikipedia.org/wiki/NATO)-Beitritt, Beendigung westlicher Dominanz.
+- Ziel: Russlandfreundliche Politik in Kiew (nach innen zu russischsprachiger Bevölkerung und Kirche, nach außen zu Moskau).
+- Chance nutzen, um Beziehungen zu USA zu verbessern, Investitionen anzuziehen und Amerika aus Europa zu verdrängen; [Kirill Dmitrijew](https://de.wikipedia.org/wiki/Kirill_Dmitrijew) verhandelt.
 
-> Relevance score: [9] - Targeted killing of senior Hezbollah leader escalates Middle East conflict; major global security and humanitarian implications.
-
-## Fedpol-Chefin warnt: Türkische Mafia breitet sich aus
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/auch-in-der-schweiz-fedpol-chefin-warnt-tuerkische-mafia-breitet-sich-aus) • _Montag, 24. November 2025, 05:19 Uhr_
-
-Drogen, Menschenschmuggel und hohe Gewaltbereitschaft: Kriminelle Organisationen aus der Türkei sind auf Vormarsch.
-
-### Warnung der Fedpol-Chefin
-- Die [Fedpol](https://de.wikipedia.org/wiki/Fedpol)-Chefin [Eva Wildi-Cortés](https://de.wikipedia.org/wiki/Eva_Wildi-Cort%C3%A9s) warnt in der *Rundschau*, dass sich die türkische Mafia zunehmend von Deutschland in die Schweiz ausbreitet.
-
-### Kriminelle Aktivitäten
-- Betreiben [Drogenhandel](https://de.wikipedia.org/wiki/Drogenhandel), [Menschenschmuggel](https://de.wikipedia.org/wiki/Menschenschmuggel), illegales Spielgeschäft und Telefonbetrug.
-- Hohes Gewaltpotenzial durch Generationenwechsel: Neue Generation ist gewaltbereiter und trägt Rivalitäten mit Waffen aus, inklusive Schiessereien auf offener Strasse in Deutschland.
-
-### Zunehmende Gewalt in der Schweiz
-- Häufigere offene Auseinandersetzungen zwischen rivalisierenden kriminellen Gruppierungen.
-- Drogenhandel als lukratives Geschäft führt zu Ruhe, solange alle profitieren, aber zu Verteilungskämpfen.
-- Über 800 solcher Gruppierungen aktiv in Europa, auch in der Schweiz; besorgniserregend steigendes Gewaltpotenzial.
-
-### Rolle der Schweiz im Drogenbusiness
-- Dient als Transit- und Umschlagplatz sowie Zielland.
-- Massnahmen: Nicht nur Drogenbeschlagnahme, sondern Aufdeckung von Netzwerken, Verfolgung der Geldflüsse und Eindämmung der [Geldwäsche](https://de.wikipedia.org/wiki/Geldw%C3%A4sche).
-
-### Herausforderungen bei der Bekämpfung
-- Laut [Europol](https://de.wikipedia.org/wiki/Europol) werden nur rund 2 % der Einnahmen aus organisierter Kriminalität beschlagnahmt.
-- Rest wird in legalen Wirtschaftskreislauf eingeschleust; gleiche Zahlen gelten für die Schweiz.
-
-> Relevance score: [8] - Expansion of organized crime into Switzerland involving drugs and smuggling; significant national security and public safety implications.
-
-## Neuer Friedensplan: So soll der Ukraine
-
-[Blick](https://www.blick.ch/ausland/krieg-in-der-ukraine-diese-aenderungen-am-friedensplan-wurden-in-genf-beschlossen-id21449081.html) • _Sonntag, 23. November 2025, 21:02 Uhr_
-
-Trump legte einen Plan vor, um den Krieg in der Ukraine zu beenden. Die europäischen Vertreter waren nicht mit allen Punkten des Plans einverstanden. Nun ist bekannt, welche Punkte geändert werden.
-
-### Hintergrund des Treffens
-- Vertreter der [Ukraine](https://de.wikipedia.org/wiki/Ukraine), der [USA](https://de.wikipedia.org/wiki/Vereinigte_Staaten) und unterstützender europäischer Länder trafen sich am Sonntag in [Genf](https://de.wikipedia.org/wiki/Genf), angekündigt am Samstag.
-- Grund: Uneinigkeit mit [Donald Trumps](https://de.wikipedia.org/wiki/Donald_Trump) 28-Punkte-[Friedensplan](https://de.wikipedia.org/wiki/Friedensverhandlungen_im_Russisch-Ukrainischen_Krieg) für den [Ukraine-Krieg](https://de.wikipedia.org/wiki/Russisch-Ukrainischer_Krieg).
-- Einigungen auf Änderungen; finale Entscheidung durch Staatsoberhäupter.
-- Streitpunkte:
-  - Verteilung eingefrorener russischer Gelder.
-  - Gebietsabtretung.
-  - Aufhebung von [Sanktionen](https://de.wikipedia.org/wiki/Wirtschaftssanktionen_gegen_Russland_seit_2014) gegen [Russland](https://de.wikipedia.org/wiki/Russland).
-
-### Überarbeiteter Friedensplan (28 Punkte)
-#### Souveränität, Nichtangriff und NATO-Dialog
-- Bleibt gleich: Bestätigung der ukrainischen Souveränität.
-- Bleibt gleich: Nichtangriffsabkommen zwischen Russland, Ukraine und Europa.
-- Gest richen: Russland greift keine Nachbarländer an; keine [NATO](https://de.wikipedia.org/wiki/NATO)-Erweiterung.
-- Bleibt gleich: Dialog Russland-[NATO](https://de.wikipedia.org/wiki/NATO) unter US-Vermittlung für Deeskalation.
-- Bleibt gleich: Verlässliche Sicherheitsgarantien für Ukraine.
-- Bleibt gleich: Keine dauerhaften NATO-Truppen in Ukraine zu Friedenszeiten.
-- Neu: Stationierung von NATO-Kampfflugzeugen in Polen.
-
-#### Militär, Beitritte und Garantien
-- Änderung: Ukrainische Armee auf 800'000 Soldaten begrenzt (vorher 600'000; aktuell 850'000).
-- Änderung: Ukraine-NATO-Beitritt hängt von Konsens der Mitglieder ab (der fehlt).
-- Änderung: US-Garantie ähnelt [Artikel 5](https://de.wikipedia.org/wiki/NATO-Vertrag#Artikel_5), aber konditional (z. B. entfällt bei ukrainischem Angriff, Sanktionen bei russischem).
-- Änderung: Ukraine darf [EU](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union)-Mitglied werden.
-
-#### Wiederaufbau, Sanktionen und Wirtschaft
-- Änderung/umfangreicher: Detailliertes Wiederaufbauprogramm mit Fonds, Gasinfrastruktur und [Weltbank](https://de.wikipedia.org/wiki/Weltbank)-Finanzierung.
-- Änderung/umfangreicher: Schrittweise Wiedereingliederung Russlands in Weltwirtschaft; gestaffelte Sanktionsaufhebung, Rückkehr in [G8](https://de.wikipedia.org/wiki/G8).
-- Änderung: Vollständiger Wiederaufbau/Entschädigung; eingefrorene russische Vermögen (ca. 100 Mrd. USD) bleiben bis Kompensation eingefroren (vorher: Nutzung für Ukraine, USA 50% Gewinn, Europa 100 Mrd. USD).
-- Bleibt gleich: Freier Dnepr für Handel, Getreideexport über Schwarzes Meer.
-
-#### Sicherheit, Nuklear und Humanitäres
-- Änderung: Gemeinsame Sicherheitsarbeitsgruppe mit USA, Russland, Ukraine, Europa (vorher russisch-amerikanisch).
-- Bleibt gleich: Russische gesetzliche Nichtangriffspflicht gegenüber Europa/Ukraine.
-- Bleibt gleich: Verlängerung nuklearer Verträge USA-Russland inkl. «Fair Start».
-- Bleibt gleich: Ukraine nuklearfrei gemäß [NPT](https://de.wikipedia.org/wiki/Vertrag_%C3%BCber_die_Nichterweiterung_der_Atomwaffen).
-- Bleibt gleich: [AKW Saporischschja](https://de.wikipedia.org/wiki/AKW_Saporischschja) unter [IAEA](https://de.wikipedia.org/wiki/Internationale_Atomenergie-Organisation)-Aufsicht; Strom 50:50 Russland/Ukraine.
-- Änderung: Ukraine verzichtet auf militärische Rückeroberung besetzter Gebiete; Verhandlungen über Gebietsaustausch an Kontaktlinie.
-- Änderung: Keine gewaltsame Änderung der Vereinbarungen, sonst Entzug von Garantien.
-- Ausführlicher: Humanitäres Komitee für «alle gegen alle»-Gefangenenaustausch, Rückführung von Geiseln/Zivilisten/Kinder, Familienzusammenführung, Opferhilfe.
-- Bleibt gleich: Ukraine übernimmt EU-Regeln für religiöse Toleranz/Minderheitenschutz.
-
-#### Umsetzung und Kontrolle
-- Bleibt gleich: Schnelle Wahlen in Ukraine nach Abkommen (ursprünglich 100 Tage).
-- Bleibt gleich: Volle Amnestie für Kriegsakte; keine zukünftigen Ansprüche.
-- Bleibt gleich: Punkte verbindlich; [Friedensrat](https://de.wikipedia.org/wiki/Friedensverhandlungen_im_Russisch-Ukrainischen_Krieg) unter Vorsitz Trumps kontrolliert, Verstöße führen zu Sanktionen.
-- Ausführlicher: Sofortiger Waffenstillstand bei Zustimmung; US-überwachte Umsetzung.
-
-### Abschließende Statements
-- US-Außenminister [Marco Rubio](https://de.wikipedia.org/wiki/Marco_Rubio): «Sehr gutes Arbeitsergebnis» auf Basis aller Beiträge.
-- Ukrainischer Generalstabschef [Andrij Jermak](https://de.wikipedia.org/wiki/Andrij_Jermak): «Sehr produktives» Treffen mit Fortschritten zu «gerechtem und dauerhaftem Frieden»; endgültige Entscheidung durch «unsere Präsidenten»; Dank an USA/Trump.
-
-> Relevance score: [8] - Diplomatic developments on Ukraine peace plan with meetings in Geneva; high global geopolitical impact with Swiss involvement.
-
-## USA und Ukraine geben sich zuversichtlich
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/bisher-produktivstes-treffen-die-ukraine-und-die-usa-geben-sich-bei-den-verhandlungen-ueber-den-friedensplan-in-genf-zuversichtlich-ld.1913147) • _Sonntag, 23. November 2025, 20:25 Uhr_
-
-Die Ukraine steht vor Schicksalstagen – und mit ihr auch Europa. Hinter verschlossenen Türen versuchen ihre Vertreter, den amerikanischen Vorschlag abzuändern und das Schlimmste abzuwenden. Aus Washington kommen widersprüchliche Signale.
-
-### Verhandlungen in Genf
-- Delegationen aus den [USA](https://de.wikipedia.org/wiki/Vereinigte_Staaten), der [Ukraine](https://de.wikipedia.org/wiki/Ukraine), europäischen Staaten und der [EU](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union) beraten hinter verschlossenen Türen über den 28-Punkte-[Friedensplan](https://de.wikipedia.org/wiki/Friedensvertrag), den US-Sondergesandter [Dan Driscoll](https://de.wikipedia.org/wiki/Special_Representative_for_Ukraine_and_Russia) am Donnerstag [Wolodymyr Selenskyj](https://de.wikipedia.org/wiki/Wolodymyr_Selenskyj) überreichte.
-- Ziel der [Ukrainer](https://de.wikipedia.org/wiki/Ukraine) und Europäer: Änderung schmerzhafter Konzessionen für Kiew.
-
-### Inhalt des US-Vorschlags
-- Starke Rücksicht auf russische Sicherheitsprioritäten und US-Wirtschaftsinteressen.
-- Ukraine soll:
-  - Ein Fünftel ihres Territoriums abtreten.
-  - Streitkräfte reduzieren.
-  - Auf [NATO](https://de.wikipedia.org/wiki/NATO)-Beitritt verzichten.
-- Wiederaufbau unter US-Führung, finanziert durch EU-Gelder; Europäer als Zahlmeister.
-
-### Zuversichtliche Erklärungen
-- Gemeinsame Erklärung USA/Ukraine: Überarbeiteter Plan entstanden, Arbeit fortsetzen mit europäischen Partnern; finale Entscheidungen durch Selenskyj und [Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump).
-- [Andrij Jermak](https://de.wikipedia.org/wiki/Andrij_Jermak) (ukrainischer Delegationsleiter): Sehr gute Fortschritte zu gerechten, dauerhaften Frieden.
-- [Marco Rubio](https://de.wikipedia.org/wiki/Marco_Rubio) (US-Außenminister): «Bisher produktivstes Treffen», substanzieller Fortschritt bei offenen Fragen, keine unlösbaren Streitpunkte.
-
-### Ukrainischer Druck
-- Trump-Deadline bis Thanksgiving (Donnerstag): Zustimmung oder US-Unterstützung endet, verschärft Frontlage.
-- Selenskyj bildet Delegation unter Jermak trotz Korruptionsskandal um Jermak/Umerow; signalisiert Einheit statt innenpolitischer Kämpfe.
-
-### Europäische Position
-- Telefonkonferenz der Außenminister: Erleichterung über Mitsprache nach Plan ohne Beteiligung.
-- Forderungen:
-  - Keine Grenzverschiebungen durch Gewalt.
-  - Keine Schwächung ukrainischer Armee als Verteidigungslinie gegen [Russland](https://de.wikipedia.org/wiki/Russland).
-  - EU zentraler Akteur in Sicherheitsarchitektur (z. B. Stationierung von Truppen).
-- 140-Milliarden-Kredit aus russischem Vermögen in Schwebe durch Plan (100 Mrd. USD US-gesteuert, 100 Mrd. EU-zusätzlich).
-
-### Kontroversen und Signale aus Washington
-- Kritik an prorussischer Schlagseite: [Mitch McConnell](https://de.wikipedia.org/wiki/Mitch_McConnell) warnt vor Belohnung russischer «Schlachterei».
-- Trump: Plan nicht final, Frist flexibel; Klage über ukrainische Undankbarkeit.
-- Urheberschaft umstritten: Rubio dementiert russische «Wunschliste», betont US-Autorenschaft mit Anregungen; [Donald Tusk](https://de.wikipedia.org/wiki/Donald_Tusk) fordert Klarheit.
-- Spekulationen über russische Übersetzung durch Formulierungen.
-
-### Kriegsgeschehen und Ausblick
-- Kein Einfluss auf Front: Russischer Luftangriff auf [Ternopil](https://de.wikipedia.org/wiki/Ternopil) tötete 34 Personen.
-- US-Delegation reist nach den [Genf](https://de.wikipedia.org/wiki/Genf)-Gesprächen nach Moskau.
-
-> Relevance score: [8] - Progress in Ukraine war diplomacy; significant for global stability and European security.
-
-## Neu-Priorisierung beim Verkehr: Städte wollen mehr Klimaschutz
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/kritik-an-verkehr-45-staedte-sehen-ihre-anliegen-zu-wenig-beruecksichtigt) • _Montag, 24. November 2025, 05:42 Uhr_
-
-Das ETH-Gutachten folgt einer Ausbau-Logik. Die Städte verlangen mehr Gewicht für Städtebau und Klimaschutz.
-
-### Hintergrund
-- Bundesrat [Albert Rösti](https://de.wikipedia.org/wiki/Albert_R%C3%B6sti) justiert Verkehrspolitik nach Kostenüberschreitungen beim Bahnausbau und Nein des Stimmvolks zu Autobahnprojekten.
-- Beauftragt [ETH Zürich](https://de.wikipedia.org/wiki/ETH_Z%C3%BCrich)-Gutachten zur Priorisierung von Verkehrsprojekten mit begrenztem Budget: Wo am effizientesten ausbauen?
-
-### ETH-Gutachten von Ulrich Weidmann
-- Prioritätenliste mit Überraschungen, z. B. hohe Priorität für [Grimsel-Tunnel](https://de.wikipedia.org/wiki/Grimselstra%C3%9Fentunnel).
-- Kriterien: Netzgestaltung, Sicherheit, Stabilität, Städtebau u. a.; Gewichtung erst Anfang 2026 bekannt.
-
-### Kritik der Städte
-- Städte und [Schweizerischer Städteverband](https://de.wikipedia.org/wiki/Schweizerischer_St%C3%A4dteverband) (Präsident [Hanspeter Hilfiker](https://de.wikipedia.org/wiki/Hanspeter_Hilfiker)): Städtische Anliegen wie Klimaschutz, Siedlungsverdichtung und Netto-Null-Ziele zu kurz gekommen.
-- Verkehr nicht nur als Kapazitätsfrage, sondern als gesellschaftliche Herausforderung mit steuerbaren Alternativen (Verkehr verteilen, Wachstum bremsen).
-
-### Beispiel Bern-Ostring
-- A6-Autobahn zerschnittenes Quartier neben Wohnhäusern; [Stadt Bern](https://de.wikipedia.org/wiki/Bern) und Kanton wollen Tunnelverlegung für «Stadtreparatur» und bessere Nutzung der Fläche.
-- SP-Stadtpräsidentin [Marieke Kruit](https://de.wikipedia.org/wiki/Marieke_Kruit): Fokus auf Lebensqualität, nicht nur Verkehrsfläche.
-- Im Gutachten niedrige Priorität; Weidmann schlägt betriebliche Maßnahmen wie Nutzung des Pannenstreifens vor.
-
-### Weidmanns Position
-- Städtebau als eines von mehreren Kriterien berücksichtigt, neben verkehrlichen Aspekten.
-- Kann Kritik nicht nachvollziehen: «Ich hätte eher aus dem ländlichen oder alpinen Raum Kritik erwartet.»
+### Russische Kommentatoren und Öffentlichkeit
+- Antiwestliche Kommentatoren hoffnungsvoll: [Boris Meschujew](https://de.wikipedia.org/wiki/Boris_Meschujew) sieht Einfrieren als Schritt zur «russischen Welt»; [Alexander Dugin](https://de.wikipedia.org/wiki/Alexander_Dugin) prophezeit volle Kontrolle über Ukraine in zwei Jahren.
+- Mehrheit der Russen wünscht schnelles Kriegsende wegen Alltagsbelastungen, nicht aus Moral; Putin ignoriert dies vorerst.
+- Umfragen bestätigen Bereitschaft zu Opfern; Wirtschaft droht Rezession, Staat holt Geld von Bürgern ein.
 
 ### Ausblick
-- 2026: ETH-Bericht als politische Vorlage; parlamentarische Diskussion über Prioritäten.
+- Nach Kriegsende: Rückkehr traumatisierter Soldaten, anhaltende Repression gegen «innere Feinde».
+- Gesellschaft verändert; Rückkehr zur Normalität vor 24. Februar 2022 illusorisch.
 
-> Relevance score: [7] - Swiss national policy shift on transport prioritizing climate and urban planning over expansion; affects governance, economy, and environment for many citizens.
+> Relevance score: [8] - Geopolitical update on Russia-Ukraine war and US peace efforts; significant global security implications with potential long-term effects on Europe.
+
+## Datenschützerin warnt vor US-Clouds: Risiken für Behörden
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/datenschutz-cloud-zuercher-datenschuetzerin-warnt-vor-us-clouds-fuer-behoerden) • _Dienstag, 25. November 2025, 05:51 Uhr_
+
+Immer mehr Behörden nutzen US-Clouds. Die Zürcher Datenschutzbeauftragte warnt vor Kontrollverlust über sensible Daten.
+
+### Warnung der Datenschützerin
+- Die Datenschutzbeauftragte des [Kantons Zürich](https://de.wikipedia.org/wiki/Kanton_Z%C3%BCrich), [Dominika Blonski](https://de.wikipedia.org/wiki/Dominika_Blonski), warnt vor Risiken bei der Nutzung von US-[Clouds](https://de.wikipedia.org/wiki/Cloud_Computing) wie [Microsoft](https://de.wikipedia.org/wiki/Microsoft) oder [Amazon](https://de.wikipedia.org/wiki/Amazon_Web_Services).
+- Immer mehr Kantone und Gemeinden setzen diese IT-Angebote ein, ohne gründliche Prüfung der Datenschutzrisiken.
+
+### Veränderter Trend
+- Früher grosse Zurückhaltung gegenüber US-Angeboten.
+- Heute greifen Institutionen auf Kantons- und Gemeindeebene ohne Vorabgedanken darauf zurück.
+
+### Konkrete Beispiele
+- Microsoft-Programme im Einsatz in [Zürich](https://de.wikipedia.org/wiki/Kanton_Z%C3%BCrich), [Bern](https://de.wikipedia.org/wiki/Kanton_Bern) und [Aargau](https://de.wikipedia.org/wiki/Kanton_Aargau).
+- [Basel](https://de.wikipedia.org/wiki/Kanton_Basel-Stadt) hat sich kürzlich entschieden, in [Luzern](https://de.wikipedia.org/wiki/Kanton_Luzern) wird debattiert.
+- Viele Gemeinden nutzen sie ebenfalls.
+
+### Datenschutzrisiken
+- Für nicht sensible Daten (z. B. Namen, Adressen) unproblematisch.
+- Bei sensiblen Daten problematisch: Ausländische Anbieter garantieren keinen Schutz.
+  - Seit 2018 erlaubt US-Recht ([CLOUD Act](https://de.wikipedia.org/wiki/CLOUD_Act)) den Zugriff auf gespeicherte Daten, z. B. Schweizer Steuerdaten.
+  - Behörden verlieren Kontrolle über kritische Informationen.
+  - Betroffene erfahren oft nichts vom Zugriff und können sich nicht wehren.
+- Unternehmen können Vertragsbedingungen einseitig ändern.
+
+### Empfehlungen für sichere Nutzung
+- Sensitive Daten vorab eigenständig verschlüsseln.
+- Besser: Daten sicherer anderswo speichern.
+
+> Relevance score: [6] - Swiss national issue on government data privacy risks from US cloud providers; civic relevance for governance and data sovereignty, but warning rather than crisis.
+
+## Südostasien: Überschwemmungen und Erdrutsche fordern Opfer
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/wegen-heftigen-regenfaellen-suedostasien-ueberschwemmungen-und-erdrutsche-fordern-todesopfer) • _Montag, 24. November 2025, 21:29 Uhr_
+
+Über 100 Menschen sind ums Leben gekommen, besonders stark betroffen ist Vietnam.
+
+### Überschwemmungen in Südostasien
+- Schwere Regenfälle verursachen anhaltende [Überschwemmungen](https://de.wikipedia.org/wiki/%C3%9Cberschwemmung) und [Erdrutsche](https://de.wikipedia.org/wiki/Erdrutsch) in [Südostasien](https://de.wikipedia.org/wiki/S%C3%BCdostasien).
+- Zahl der Todesopfer steigt auf über 100; Zehntausende Menschen evakuiert.
+- Schadenssumme bisher auf rund 500 Millionen Dollar geschätzt.
+
+### Vietnam
+- Besonders stark betroffen mit mindestens 91 Toten und 11 Vermissten.
+- Ganze Landstriche unter Wasser, darunter Provinzen wie [Khanh Hoa](https://de.wikipedia.org/wiki/Khánh_H%C3%B2a) und [Dak Lak](https://de.wikipedia.org/wiki/%C4%90%E1%BA%AFk_L%E1%BA%A1k).
+- Unterspülte Straßen zerstört; Helikopter werfen Hilfsgüter ab und evakuieren Betroffene.
+- Wetterbehörde warnt vor anhaltenden Regenfällen und weiteren Risiken.
+- Vietnam zählt zu den am stärksten [Überschwemmungs](https://de.wikipedia.org/wiki/%C3%9Cberschwemmung)-gefährdeten Ländern; [Klimawandel](https://de.wikipedia.org/wiki/Klimawandel) verstärkt Extremereignisse.
+
+### Thailand
+- Im Süden fast zwei Millionen Menschen betroffen; mindestens 5 Tote und 4 Verletzte.
+- Überschwemmungen in Regionen wie [Songkhla](https://de.wikipedia.org/wiki/Songkhla); Bewohner und Touristen in Häusern/Hotels eingeschlossen.
+- Rettungsboote im Einsatz; Behörden warnen vor steigenden Wasserständen bis Dienstag.
+
+### Malaysia und Kambodscha
+- In Malaysia über 12.500 Evakuierungen in neun Bundesstaaten; Überschwemmungen verschärfen sich durch anhaltende Regenfälle.
+- [Kambodscha](https://de.wikipedia.org/wiki/Kambodscha) ebenfalls betroffen mit überschwemmten Landstrichen.
+
+> Relevance score: [6] - Natural disaster with 100+ deaths in SE Asia; humanitarian scale but regional, short-term impact.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Zahl der Kinder mit Bluthochdruck verdoppelt: Das ist der wichtigste Risikofaktor
+## Laut UN-Bericht: Weltweit geschieht alle 10 Minuten ein Femizid
 
-[CHIP](https://www.chip.de/news/gesundheit/zahl-der-kinder-mit-bluthochdruck-verdoppelt-das-ist-der-wichtigste-risikofaktor_04d81cb4-695a-4f03-810d-62f3f68d629b.html) • _Montag, 24. November 2025, 06:00 Uhr_
+[Watson](https://www.watson.ch/international/schweiz/520638967-laut-un-bericht-weltweit-geschieht-alle-10-minuten-ein-femizid) • _Dienstag, 25. November 2025, 04:59 Uhr_
 
-Zahl der Kinder mit Bluthochdruck verdoppelt: Das ist der wichtigste Risikofaktor
+Etwa alle zehn Minuten wird nach Schätzungen der Vereinten Nationen eine Frau oder ein Mädchen zum Opfer tödlicher Gewalt innerhalb der Beziehung oder Familie.
 
-Lange Zeit galt Bluthochdruck (Hypertonie) als typische Alterskrankheit. Tatsächlich zählt das Lebensalter zu den wichtigsten Risikofaktoren: Nach Angaben der Deutschen Herzstiftung steigt die Häufigkeit von Hypertonie bei Frauen ab etwa 50 und bei M... [weiterlesen](https://www.chip.de/news/gesundheit/zahl-der-kinder-mit-bluthochdruck-verdoppelt-das-ist-der-wichtigste-risikofaktor_04d81cb4-695a-4f03-810d-62f3f68d629b.html)
+Weltweit geschieht alle 10 Minuten ein Femizid – diese Regionen sind besonders betroffen
+Etwa alle zehn Minuten wird nach Schätzungen der Vereinten Nationen eine Frau oder ein Mädchen zum Opfer tödlicher Gewalt innerhalb der Beziehung oder Familie.
+I... [weiterlesen](https://www.watson.ch/international/schweiz/520638967-laut-un-bericht-weltweit-geschieht-alle-10-minuten-ein-femizid)
 
-> Relevance score: [5] - Public health trend in children, indicating lifestyle risks like obesity; moderate long-term societal health impact but not structural or civic disruption.
+> Relevance score: [5] - Global UN statistic on gender-based violence; highlights ongoing societal issue but repetitive awareness without new structural event.
 
-## Welt Aids-Tag - Aids Hilfe warnt vor Rückschritten
+## Vulkan in Äthiopien bricht erstmals seit Jahrtausenden aus
 
-[Tiroler Tageszeitung](https://www.tt.com/artikel/30922257/welt-aids-tag-aids-hilfe-warnt-vor-rueckschritten) • _Montag, 24. November 2025, 05:00 Uhr_
+[blue News](https://www.bluewin.ch/de/news/vermischtes/vulkan-in-aethiopien-bricht-erstmals-seit-jahrtausenden-aus-2979534.html) • _Montag, 24. November 2025, 18:46 Uhr_
 
-Im magnus* Ambulatorium soll niederschwellig getestet werden
+Erstmals seit Jahrtausenden ist der Vulkan Hayli Gubbi in Äthiopien ausgebrochen. Die Aschewolke stieg bis zu 8,5 Kilometer hoch. Satellitenbilder zeigen eine grosse Freisetzung von Schwefeldioxid.
 
-Anlässlich des Welt-Aids-Tags am ersten Dezember warnt die Aids Hilfe Wien vor Rückschritten in der Bekämpfung der Krankheit. Laut dem Programm der Vereinten Nationen (UNAIDS) ist das Ziel, Aids bis 2030 weltweit zu beenden, ohne rasche Stabilisierun... [weiterlesen](https://www.tt.com/artikel/30922257/welt-aids-tag-aids-hilfe-warnt-vor-rueckschritten)
+Erstmals seit Jahrtausenden ist der Vulkan Hayli Gubbi in Äthiopien ausgebrochen. Die Aschewolke stieg bis zu 8,5 Kilometer hoch. Satellitenbilder zeigen eine grosse Freisetzung von Schwefeldioxid.
+In Äthiopien ist erstmals seit Tausenden von Jahren ... [weiterlesen](https://www.bluewin.ch/de/news/vermischtes/vulkan-in-aethiopien-bricht-erstmals-seit-jahrtausenden-aus-2979534.html)
 
-> Relevance score: [4] - Global health warning on AIDS progress; niche public health concern without immediate large-scale impact.
+> Relevance score: [5] - Rare geological event in Ethiopia; potential regional environmental effects but no confirmed major global disruption.
 
-## Weltkleinste Leuchtdiode fabriziert
+## Gericht weist Anklagen gegen Comey und James ab
 
-[ETH Zürich](https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2025/11/weltkleinste-leuchtdiode-fabriziert.html) • _Montag, 24. November 2025, 01:00 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/eine-us-richterin-weist-die-anklagen-gegen-zwei-prominente-trump-kritiker-ab-weil-der-zustaendigen-justizministerin-befugnisse-fehlten-ld.1913370) • _Montag, 24. November 2025, 22:56 Uhr_
 
-Forschende der ETH Zürich stellen organische Leuchtdioden (OLED) auf der Nanoskala her – die sind rund hundertmal kleiner als eine menschliche Zelle. Damit werden nicht nur ultrascharfe Bildschirme und Mikroskope möglich. Die Pixel sind so klein, dass neuartige Wellenoptik-Anwendungen denkbar werden.
+Die Verfahren gegen den ehemaligen FBI-Chef James Comey und die New Yorker Justizministerin Letitia James stehen nach dem Gerichtsentscheid beide auf der Kippe.
 
-Die Miniaturisierung ist die Triebkraft der Halbleiter-Industrie. Die enorme Leistungssteigerung der Computer seit den 1950er-Jahren beruht weitgehend darauf, dass immer kleinere Strukturen auf die Silizium-Chips gefertigt werden können. Chemieingeni... [weiterlesen](https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2025/11/weltkleinste-leuchtdiode-fabriziert.html)
+Das amerikanische Justizministerium hat in seinen Bemühungen, prominente Kritiker von Präsident Donald Trump strafrechtlich zu verfolgen, einen Rückschlag erlitten: Eine Bundesrichterin hat am Montag die Anklage gegen den ehemaligen FBI-Direktor Jame... [weiterlesen](https://www.nzz.ch/international/eine-us-richterin-weist-die-anklagen-gegen-zwei-prominente-trump-kritiker-ab-weil-der-zustaendigen-justizministerin-befugnisse-fehlten-ld.1913370)
 
-> Relevance score: [3] - Swiss tech research breakthrough; potential long-term innovation but currently niche and speculative.
+> Relevance score: [4] - US domestic political legal development; partisan noise with minor international implications.
 
-## Neue Begleittherapie bei Antibiose für Kinder:
+## Streit mit aktivistischem Investor geht in die nächste Runde
 
-[Pharmazeutische Zeitung](https://www.pharmazeutische-zeitung.de/anzeige-pz/neue-begleittherapie-bei-antibiose-fuer-kinder-symbiolact-multi-kids-1/) • _Montag, 24. November 2025, 00:48 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/aktivistischer-investor-laesst-nicht-locker-naechste-gv-der-swatch-group-soll-zur-stunde-der-wahrheit-werden-ld.1913324) • _Montag, 24. November 2025, 20:30 Uhr_
 
-Eine Antibiotikatherapie kann das Darmmikrobiom aus dem Gleichgewicht bringen. Um Kinder bestmöglich bei einer Antibiose zu begleiten, steht jetzt SymbioLa...
+Der amerikanische Investor Steven Wood erhöht den Druck auf die Swatch Group. Mit einem neuen Vorstoss greift er die Machtstruktur des Konzerns frontal an.
 
-Antibiotika sind wirkungsvolle Arzneimittel. Bei Kindern gehören sie zu den am häufigsten verschriebenen Medikamenten weltweit.1 Ihre Nebenwirkungen können jedoch unangenehm sein. Denn: Antibiotika unterscheiden nicht zwischen physiologischen und pat... [weiterlesen](https://www.pharmazeutische-zeitung.de/anzeige-pz/neue-begleittherapie-bei-antibiose-fuer-kinder-symbiolact-multi-kids-1/)
+Seit rund einem Jahr sieht sich die Familie Hayek mit einem hartnäckigen Kritiker konfrontiert, der ihre dominante Stellung in der Swatch Group infrage stellt. Die Hayeks kontrollieren den Konzern doppelt – mit überproportionalen Stimmrechten und Sch... [weiterlesen](https://www.nzz.ch/wirtschaft/aktivistischer-investor-laesst-nicht-locker-naechste-gv-der-swatch-group-soll-zur-stunde-der-wahrheit-werden-ld.1913324)
 
-> Relevance score: [2] - New medical therapy for antibiotic side effects in children; minor niche health advancement.
+> Relevance score: [4] - Corporate governance dispute at Swiss Swatch Group; niche economic issue for shareholders, limited public impact.
 
-## Russische TV-Sendung: Trumps 28-Punkte-Plan "wird Selenski zerquetschen"
+## NASA reduziert Flüge mit Boeings Starliner-Raumschiff nach missglückter Astronautenmission
 
-[20 Minuten](https://www.20min.ch/story/russische-tv-sendung-der-28-punkte-plan-von-trump-wird-selenski-zerquetschen-103456334) • _Sonntag, 23. November 2025, 19:15 Uhr_
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/nasa-reduziert-fluege-mit-boeings-starliner-raumschiff-nach-missglueckter-astronautenmission-ce7d5eddd989f324) • _Montag, 24. November 2025, 23:56 Uhr_
 
-In der Sendung des russischen Staatsfernsehens «60 Minutes» wird über den 28-Punkte-Plan von Trump zur Beendigung des Ukraine-Kriegs gesprochen.
+Die NASA hat am Montag die Anzahl der Astronautenmissionen im Rahmen des Starliner-Vertrags mit Boeing drastisch reduziert und angekündigt, dass der nächste Flug des Raumschiffs zur Internationalen...
 
-Die Moderatorin Olga Skabeeva und Alexei Naumov, Mitglied des Russischen Rats für internationale Angelegenheiten, haben im Rahmen der Sendung des russischen Staatsfernsehens «60 Minutes» über den 28-Punkte-Plan der USA gesprochen.
-Dabei wurden Aussag... [weiterlesen](https://www.20min.ch/story/russische-tv-sendung-der-28-punkte-plan-von-trump-wird-selenski-zerquetschen-103456334)
+Die NASA hat am Montag die Anzahl der Astronautenmissionen im Rahmen des Starliner-Vertrags mit Boeing drastisch reduziert und angekündigt, dass der nächste Flug des Raumschiffs zur Internationalen Raumstation (ISS) ohne Besatzung stattfinden wird. D... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/nasa-reduziert-fluege-mit-boeings-starliner-raumschiff-nach-missglueckter-astronautenmission-ce7d5eddd989f324)
 
-> Relevance score: [2] - Russian media commentary on Ukraine plan; propagandistic and low substantive impact.
+> Relevance score: [3] - US space program setback; niche technical issue in aerospace, limited global or Swiss relevance.
+
+## Spotify plant Preiserhöhung in den USA im ersten Quartal 2025
+
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/spotify-plant-preiserhoehung-in-den-usa-im-ersten-quartal-2025-ce7d5eddd88bf223) • _Dienstag, 25. November 2025, 00:24 Uhr_
+
+Spotify wird seine US-Abonnementpreise im ersten Quartal des kommenden Jahres anheben. Das berichtete die Financial Times am Montag unter Berufung auf drei mit der Angelegenheit vertraute...
+
+Spotify wird seine US-Abonnementpreise im ersten Quartal des kommenden Jahres anheben. Das berichtete die Financial Times am Montag unter Berufung auf drei mit der Angelegenheit vertraute Personen.
+Der schwedische Streaming-Gigant hatte im August ang... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/spotify-plant-preiserhoehung-in-den-usa-im-ersten-quartal-2025-ce7d5eddd88bf223)
+
+> Relevance score: [1] - US consumer price adjustment for streaming service; trivial commercial news, no broader economic or societal impact.
 
 
 </details>
