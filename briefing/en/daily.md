@@ -2,283 +2,170 @@
 
 ---
 
-_Updated: Thursday, November 27, 2025, 06:25_
+_Aktualisiert: Thursday, November 27, 2025, 18:21_
 
-## No Higher Retirement Age, But You Should Voluntarily Work Longer
+## Federal Report: 10-Million Switzerland in 2040
 
-[blue News](https://www.bluewin.ch/de/news/schweiz/bundesrat-haelt-an-ahv-reform-ohne-hoeheres-rentenalter-fest-2982229.html) • _Wednesday, November 26, 2025, 16:56_
+[Swiss Radio and Television](https://www.srf.ch/news/schweiz/die-10-millionen-schweiz-neuer-bericht-des-bundes-ohne-zuwanderung-vergreist-die-schweiz) • _Thursday, November 27, 2025, 06:09_
 
-With the next major AHV reform (AHV2030), the retirement age should not be raised, but incentives for longer working should be created. The Federal Council adheres to this in the new guidelines for the AHV.
+The federal government weighs the opportunities and risks of 10-million Switzerland – and finds: Immigration helps solve problems.
 
-### No Higher Retirement Age in AHV2030
-- The [Federal Council](https://en.wikipedia.org/wiki/Federal_Council_(Switzerland)) adheres to the guidelines for the [AHV](https://en.wikipedia.org/wiki/Old-age_and_survivors%27_insurance) reform **AHV2030**: No increase in the retirement age, instead incentives for longer working.
-- [Elisabeth Baume-Schneider](https://en.wikipedia.org/wiki/Elisabeth_Baume-Schneider) has prevailed; this should prevent an increase in the retirement age.
-- The retirement age will be approached flexibly in a later reform, taking into account workload, occupation, and education level; employers must provide additional data for this.
+### Demographic Forecasts
+- The [Federal Statistical Office (FSO)](https://en.wikipedia.org/wiki/Federal_Statistical_Office_(Switzerland)) forecasts in the main scenario a [Switzerland](https://en.wikipedia.org/wiki/Switzerland) with 10 million inhabitants by 2040, with growth of almost 15% in the next 30 years.
+- The population will become larger, older, and more heterogeneous, more concentrated in economic centers like [Zurich](https://en.wikipedia.org/wiki/Zurich) and on [Lake Geneva](https://en.wikipedia.org/wiki/Lake_Geneva).
 
-### Incentives for Longer Working
-- Increase in the AHV [exemption amount](https://en.wikipedia.org/wiki/Social_security_in_Switzerland#Exemption_amount) from 16,800 to 21,800 francs per year, with regular adjustment to wages and prices.
-- Income of pensioners on which contributions are due will be multiplied by a factor of 1.4 to increase the pension level up to the maximum pension.
-- Deferral of pension drawdown will become more attractive, incentives for early retirement will decrease.
+### Background of the Report
+- The [Federal Council](https://en.wikipedia.org/wiki/Federal_Council_(Switzerland)) has prepared the report «Demographic Developments in Switzerland – Opportunities and Challenges» on the postulate of GLP National Councilor [Judith Bellaiche](https://de.wikipedia.org/wiki/Judith_Bellaiche).
+- Counter-initiative: SVP Sustainability Initiative «No 10-Million Switzerland», which from 9.5 million demands measures in the asylum, family reunification, and permit areas (FSO scenario: 2031).
 
-### Abolition of the Maximum Age
-- Abolition of the maximum age in the AHV: Currently impossible to top up the pension after the 70th birthday, although contributions continue to be due.
+### Causes of Population Growth
+- Declining birth rate: 1.39 children per woman (lowest level), from 2035 more deaths than births.
+- Immigration fills the gap and ensures growth – contrary to EU trend with decline.
 
-### Measures to Increase Revenue
-- Goal: Additional 700 million francs by 2040.
-  - Equal treatment of self-employed in upper income brackets with employees.
-  - AHV obligation for sickness and accident daily allowances to close contribution gaps.
-  - Contributions on "unusually high [dividends](https://en.wikipedia.org/wiki/Dividend)" to shareholder employees (previously not mandatory to prevent wage circumvention).
+### Positive Effects of Immigration
+- Cushions aging and dampens losses in gross national income per capita.
+- For [OASI](https://en.wikipedia.org/wiki/Old-age_and_survivors%27_insurance_(Switzerland)): Immigrants contributed 40% of contributions in 2020, received 30% of benefits.
+- Alleviates shortage of skilled workers in healthcare, labor market, and strengthens public finances; labor migration counteracts aging.
 
-### Financing and Timeline
-- Financing of the AHV from 2030 to 2040 depends on parliamentary decisions on the [13th AHV pension](https://en.wikipedia.org/wiki/Thirteenth_month%27s_pension) (from 2026).
-- Consultation on AHV2030 begins in spring 2026.
+### Challenges and Need for Action
+- Greater need for food, water, energy, housing, transport infrastructure, and schools; requires investments and planning.
+- Rural regions are aging more strongly; better integration of immigrants without qualifications needed.
 
-> Relevance score: [8] - Swiss federal pension reform guidelines impact retirement system and workforce for millions; significant economic policy.
+### Federal Council's Assessment
+- 10-million Switzerland (up to 10.5 million in 30 years) as feasible and positive, solves problems like aging, economic growth, and skilled labor shortage.
+- Challenges presented as solvable; missing new self-understanding for more heterogeneous, «more colorful» society.
 
-## Migration Debate: How EU Citizens Benefit from Bern's New Deal
+> Relevance score: [8] - Federal report on Switzerland reaching 10 million population by 2040 via immigration, addressing demographic challenges like aging; high long-term civic and economic impact on national society and governance.
 
-[20 Minuten](https://www.20min.ch/story/aufruf-bist-du-eingewandert-wie-nimmst-du-die-migrationsdebatte-wahr-103457837) • _Wednesday, November 26, 2025, 11:22_
+## No Money for 13th OASI Pension, but Millions for Palestinian Terrorists' Pension
 
-The new deal with Brussels is sparking discussions about the immigration of EU citizens to Switzerland.
+[Die Weltwoche](https://weltwoche.ch/daily/kein-geld-fuer-13-ahv-rente-aber-millionen-fuer-palaestinensische-terror-rente/) • _Thursday, November 27, 2025, 04:10_
 
-### New Deal with Brussels
-- Bern's new deal grants around [690,000 EU citizens](https://en.wikipedia.org/wiki/European_Union) permanent [residence rights](https://en.wikipedia.org/wiki/Residence_permit_(Switzerland)#C_permit) in [Switzerland](https://en.wikipedia.org/wiki/Switzerland) in the future.
-- After five years of regular employment, a fixed [C residence status](https://en.wikipedia.org/wiki/Residence_permit_(Switzerland)#C_permit) is granted.
-
-### Criticism of "Mass Immigration"
-- Many [Swiss](https://en.wikipedia.org/wiki/Swiss_people) fear strong social pressure on housing, wages, and infrastructure from hundreds of thousands of EU citizens staying permanently.
-- Economist [Reiner Eichenberger](https://en.wikipedia.org/wiki/Reiner_Eichenberger) warns of a suction effect:
-  - Primarily people with lower wages and higher unemployment risk benefit.
-  - In the long term, more problematic immigration.
-
-### Arguments of Supporters
-- Residence rights create planning security for workers and companies.
-- Enables integration through employment.
-
-### Assessment by Expert
-- Law professor [Astrid Epiney](https://en.wikipedia.org/wiki/Astrid_Epiney):
-  - Much of the criticism already exists legally today.
-  - New: Longer residence rights after job loss and guaranteed C status after five years.
-
-### Call to Readers
-- Immigrants without Swiss passports are invited to share their perception of the migration debate – concerns, indifference, or affectedness.
-
-> Relevance score: [7] - Swiss-EU deal grants residency rights to ~690k EU citizens; affects immigration policy and public debate.
-
-## EU Treaties: Experts Expect Strong Immigration to Switzerland
-
-[20 Minuten](https://www.20min.ch/story/bleiberecht-fuer-eu-buerger-masseneinwanderung-wegen-eu-vertraegen-das-stimmt-wirklich-103457299) • _Wednesday, November 26, 2025, 06:45_
-
-New EU treaties could open residence rights to hundreds of thousands of EU citizens. Experts warn of pressure on housing, social welfare, and the labor market.
-
-### Background of the EU Deal
-- The new [EU deal](https://en.wikipedia.org/wiki/Switzerland%E2%80%93European_Union_relations) with [Brussels](https://en.wikipedia.org/wiki/Brussels) comprises 1,800 pages and still needs to be approved by the [Swiss people](https://en.wikipedia.org/wiki/Swiss_people).
-- Estimate by [Ecoplan](https://en.wikipedia.org/wiki/Ecoplan) experts on behalf of the [Federal Administration](https://en.wikipedia.org/wiki/Federal_Administration_(Switzerland)): Five years after adopting the new [freedom of movement rules](https://en.wikipedia.org/wiki/Agreement_on_the_Free_Movement_of_Persons), up to 690,000 [EU citizens](https://en.wikipedia.org/wiki/European_Union) would have a right to permanent residence.
-- This fuels fears of "mass immigration" and increased pressure on the housing market, social system, and quality of life.
-
-### Assessment by Reiner Eichenberger
-- [Reiner Eichenberger](https://en.wikipedia.org/wiki/Reiner_Eichenberger), economist at the [University of Fribourg](https://en.wikipedia.org/wiki/University_of_Fribourg):
-  - Use of residence rights depends on economic situation; in crises, more immigrants claim it (e.g., after job loss or expiration of unemployment benefits), increasing net immigration.
-  - New rules primarily benefit the economically weak in low-wage jobs; [social welfare](https://en.wikipedia.org/wiki/Social_welfare_in_Switzerland) in Switzerland acts as an "immigration magnet" compared to the EU (criticizes federal study as underestimation).
-- On family reunification:
-  - [SVP](https://en.wikipedia.org/wiki/Swiss_People%27s_Party) fears "social welfare imports" through large families.
-  - Eichenberger: So far few direct immigrants into the social system; now immigration rises through "diaspora effect" (more from certain countries/groups if some are already here).
-- Social welfare costs:
-  - Federal government estimates 3,000–4,000 additional cases, 74 million CHF/year.
-  - Eichenberger: Underestimates suction effect and diaspora effect; costs ultimately borne by workers.
-- Safeguard clause:
-  - Allows temporary immigration restrictions in case of "serious problems."
-  - Eichenberger: "Bad joke," will never be used (quality of life only drops to "EU level"); acts too late, leads to stop-and-go and incentives for early immigration.
-
-### Assessment by Astrid Epiney
-- [Astrid Epiney](https://en.wikipedia.org/wiki/Astrid_Epiney), legal scholar at the University of Fribourg:
-  - New freedom of movement and residence rights go less far than assumed; many "new" rights already exist de facto (e.g., family reunification for registered partnerships or extended residence rights for family members from third countries in case of death/dissolution of marriage/partnership).
-- Key innovations:
-  - Extended residence rights for involuntarily unemployed (after >1 year of employment); terminable if employability lacking.
-  - Unconditional permanent residence right for workers and families after 5 years of lawful residence.
-
-> Relevance score: [7] - Warnings of immigration surge from EU deals; pressures housing, welfare, jobs in Switzerland.
-
-## Poverty in Switzerland Remains at the Same High Level
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/erster-monitoringbericht-armut-in-der-schweiz-bleibt-auf-gleich-hohem-niveau) • _Wednesday, November 26, 2025, 16:10_
-
-The income poverty rate in Switzerland has been between eight and nine percent for years, according to the Federal Council.
-
-### Poverty Development
-- Poverty in [Switzerland](https://en.wikipedia.org/wiki/Switzerland) could not be reduced in recent years.
-- Income poverty rate rose between 2014 and 2017, since then stable at 8–9%.
-
-### Political Commitments
-- Switzerland commits through the [Sustainable Development Strategy 2030](https://en.wikipedia.org/wiki/Sustainable_Development_Goals) and legislative plans to combat poverty.
-- Parliament tasked the [Federal Council (Switzerland)](https://en.wikipedia.org/wiki/Federal_Council_(Switzerland)) with continuous monitoring:
-  - Motion in the [Council of States](https://en.wikipedia.org/wiki/Council_of_States_(Switzerland)) approved in 2019.
-  - National Council agreed in 2020.
-
-### First Monitoring Report
-- Approved by the Federal Council; first comprehensive reference work with statistics, research, and administrative data.
-- Contains portraits of people with poverty experience before the indicators.
-
-### Future Strategy
-- Report serves as basis for national poverty strategy.
-- Development by 2027 according to parliamentary motion.
-
-> Relevance score: [6] - Official report on stable poverty rates (8-9%) highlights ongoing social challenge in Switzerland.
-
-## "Peace Plan": Kyiv Plays Strategically After Experience with Trump
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/strategie-bei-verhandlungen-kiew-spielt-nach-erfahrung-mit-trump-strategisch) • _Wednesday, November 26, 2025, 15:38_
-
-Patience counts for the Ukrainians: This is how Kyiv can prevent the US from drifting into the Russian camp, says a political scientist.
-
-### Mood in Kyiv
-- After gloomy days, the mood has brightened.
-- 19-year-old Viktor: Original [peace plan](https://en.wikipedia.org/wiki/Peace_negotiations_in_the_Russo-Ukrainian_War) caused fear, but last word not spoken.
-- 49-year-old Wolodymyr: Negotiations bring no peace, as [Russia](https://en.wikipedia.org/wiki/Russia) needs war; only strong US pressure on Moscow could help.
-
-### Fesenko's Analysis
-- [Volodymyr Fesenko](https://en.wikipedia.org/wiki/Volodymyr_Fesenko), Ukrainian political scientist: Original plan largely unacceptable, but direct no to [Trump](https://en.wikipedia.org/wiki/Donald_Trump) impossible.
-- [Ukraine](https://en.wikipedia.org/wiki/Ukraine) agreed to talks, demanded revision and inclusion of Europeans – proven tactic.
-
-### Trump's Tactic and Ukrainian Strategy
-- Kyiv saw through Trump's method: First aggression and threats, now haggling over points.
-- Ukraine needs patience to keep US away from Russian camp.
-- Constant dialogue necessary: "We have to fight for Trump all the time," warns Fesenko, otherwise Kremlin manipulates him.
-
-### Putin's Stance
-- [Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) not thinking of war end, hopes for victory through difficult front situation and Ukrainian corruption scandal.
-- Scandal leads to domestic political crisis that Putin could exploit.
-
-### Advantages for Zelenskyy
-- Paradox: Imposed plan helped [Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy).
-  - Shock speech created unity, distracted from corruption.
-  - As an actor, dramatic appearances for additional effect.
-- Protected confidant [Andriy Yermak](https://en.wikipedia.org/wiki/Andriy_Yermak) from dismissal demands by making him chief negotiator – "letter of protection."
-
-### Outlook
-- Corruption investigations continue, crisis postponed.
-- Talks with US continued; Zelenskyy meets Trump this week.
-
-> Relevance score: [6] - Geopolitical analysis on Ukraine-Russia conflict; relevant to global security but speculative commentary.
-
-## Switzerland Provides 23 Million Francs for Humanitarian Aid in Gaza
-
-[20 Minuten](https://www.20min.ch/story/medienkonferenz-bundesrat-spricht-weitere-23-millionen-franken-fuer-gaza-103457928) • _Wednesday, November 26, 2025, 14:02_
-
-Switzerland is increasing its support for the Gaza Strip by 23 million francs to help suffering children.
+Switzerland cuts OASI, but finances 150 million francs in the Middle East, including Palestinian payments. Support despite empty coffers sparks heated debates.
 
 ### Federal Council Decision
-- The Federal Council supports the peace plan presented by the [US](https://en.wikipedia.org/wiki/United_States) in [Gaza](https://en.wikipedia.org/wiki/Gaza_Strip) with 23 million francs for humanitarian aid.
-- Despite the ceasefire on October 10, 2025, the emergency remains "enormous," funds prioritize children in particular.
-- Since October 2023, 127 million francs have already flowed, total amount rises to 150 million francs.
-- Announcement by Federal Councillor [Ignazio Cassis](https://en.wikipedia.org/wiki/Ignazio_Cassis).
+- The Federal Council sends an additional 23 million francs to the Middle East, for the benefit of the Palestinians, not to the democratic state of [Israel](https://en.wikipedia.org/wiki/Israel), which was attacked on October 7, 2023.
+- Total amount to Hamas and [Palestinian Authority (PA)](https://en.wikipedia.org/wiki/Palestinian_National_Authority) rises to 150 million francs.
 
-### Allocation of the 17.5 Million Francs to Organizations
-- 5 million francs to the [United Nations Office for the Coordination of Humanitarian Affairs (OCHA)](https://en.wikipedia.org/wiki/Office_for_the_Coordination_of_Humanitarian_Affairs) for coordination in water, health, and shelter.
-- 4 million francs to the [International Committee of the Red Cross (ICRC)](https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross) for medical care, water, and essential goods.
-- 2 million francs via [Swiss Red Cross](https://en.wikipedia.org/wiki/Swiss_Red_Cross) to the [Palestinian Red Crescent](https://en.wikipedia.org/wiki/Palestine_Red_Crescent_Society) for medical emergency care.
-- 1 million francs to the [Jordan Hashemite Charity Organization](https://en.wikipedia.org/wiki/Jordan_Hashemite_Charity_Organization) to strengthen the Jordanian humanitarian corridor.
-- 2.5 million francs to [Unicef](https://en.wikipedia.org/wiki/UNICEF) for child protection, water, education, hygiene, and psychosocial support.
-- 2 million francs to the [WHO](https://en.wikipedia.org/wiki/World_Health_Organization) for evacuation and treatment of injured, especially severely injured children.
-- 1 million francs to [Save the Children](https://en.wikipedia.org/wiki/Save_the_Children) for care of evacuated children in Egypt.
+### Domestic Cuts
+- Despite empty coffers, the Federal Council cuts Youth+Sport contributions.
+- [Finance Minister Karin Keller-Sutter](https://en.wikipedia.org/wiki/Karin_Keller-Sutter) cancels Christmas dinner for staff, in her year as Federal President.
 
-### 5.5 Million Francs for Palestinian Institutions
-- Promotion of uniform governance for [West Bank](https://en.wikipedia.org/wiki/West_Bank) including East Jerusalem and Gaza as a prerequisite for the [two-state solution](https://en.wikipedia.org/wiki/Two-state_solution).
-- Support for the [Palestinian Authority](https://en.wikipedia.org/wiki/Palestinian_Authority) in elections through EDA expert.
-- 0.5 million francs for humanitarian demining.
-- Project with [FIFA](https://en.wikipedia.org/wiki/FIFA): Installation of 10 mini soccer fields (5 in Israel, 5 in occupied Palestinian territory), co-financing of 2 fields in West Bank with 120,000 francs.
+### Beneficiaries of the Aid
+- Swiss humanitarian aid finances infrastructure, food, clothing, leisure, and education for Palestinians.
+- Both groups, [Hamas](https://en.wikipedia.org/wiki/Hamas) and PA, benefit; terrorists plan further attacks.
 
-### Evacuation of Injured Children
-- Another 13 children from Gaza on the way to Switzerland; Cassis silent on arrival and accommodation for security reasons.
-- Already in October 2023/24: 7 children via [Rega](https://en.wikipedia.org/wiki/REGA_(Swiss_Air-Rescue)) and Air Force brought to hospitals in Basel-City, Geneva, Vaud, St. Gallen, and Lucerne.
+### PA's Terror Pension
+- PA paid 214 million dollars in 2023, 144 million dollars in 2024 to relatives of killed or arrested terrorists.
+- Israeli Foreign Minister pointed this out.
+- Switzerland gives 4 million francs for treatment of Palestinian patients; [Foreign Minister Ignazio Cassis](https://en.wikipedia.org/wiki/Ignazio_Cassis) excuses: «The Palestinian authorities are doing what they can.»
 
-> Relevance score: [6] - Swiss commitment to Gaza aid amid crisis; reflects foreign policy but modest scale.
+### Contrast to the 13th OASI Pension
+- In Switzerland, there is no money for the directly democratically approved 13th [OASI pension](https://en.wikipedia.org/wiki/Old-age_and_survivors%27_insurance_(Switzerland)), although coffers are empty according to the Federal Council.
+
+> Relevance score: [6] - Debate on Swiss fiscal priorities: domestic pension cuts vs. foreign aid; moderate relevance to national budget perceptions and public discourse.
+
+## Open Banking: Now Apps Connect All Your Bank Accounts
+
+[Blick](https://www.blick.ch/wirtschaft/was-du-zu-open-banking-wissen-musst-bald-kannst-du-deine-bankkonten-in-einer-app-buendeln-id21459227.html) • _Wednesday, November 26, 2025, 18:30_
+
+Open Banking launches in Switzerland: For the first time, you can bundle your accounts from different banks in a single app – and give secure access to selected third-party providers. What does it bring? And how secure is it? Blick has the most important answers.
+
+### Open Banking in Switzerland
+- From now on, private customers can bundle accounts from different banks in a single app – this is called [Open Banking](https://en.wikipedia.org/wiki/Open_banking).
+- Enables data exchange between banks and trusted third-party providers via standardized, secure interfaces, as emphasized by the [Swiss Bankers Association](https://en.wikipedia.org/wiki/Swiss_Bankers_Association).
+
+### Benefits for Users
+- Easier overview of accounts at different institutions (e.g., pillar 3a at digital bank, salary account at regional bank, savings account at global bank).
+- Analysis of total expenses in one app, making payments.
+- Further applications:
+  - Mortgage app compares offers based on account data.
+  - Shopping app suggests cheapest payment method.
+
+### Participating Banks and Providers
+- Eight Swiss banks: [UBS](https://en.wikipedia.org/wiki/UBS), [PostFinance](https://en.wikipedia.org/wiki/PostFinance), CIC, Valiant, Hypothekarbank Lenzburg, ZKB, LUKB, and BCV.
+- Third-party providers: Fintech startups Bluebudget and Liquid.
+- Technical platform: [bLink](https://en.wikipedia.org/wiki/SIX_Group), subsidiary of [SIX](https://en.wikipedia.org/wiki/SIX_Group).
+
+### Security
+- Data flows only with explicit user consent.
+- Only checked, approved providers may access.
+- Bank checks every access directly; bLink encrypts sensitive information.
+- No «open doors» for cyber criminals.
+
+### International Context
+- In Switzerland, new territory with market-driven approach without state regulation.
+- EU has forced banks to open since 2018 (PSD2).
+- Millions of users in the [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) for budgeting and payments.
+- Widespread in India, Singapore; China de facto open through tech giants like [Alipay](https://en.wikipedia.org/wiki/Alipay) and [WeChat Pay](https://en.wikipedia.org/wiki/WeChat_Pay).
+
+> Relevance score: [6] - Launch of Open Banking in Switzerland enabling account aggregation; moderate long-term shift in financial services accessibility for citizens.
 
 
 <details><summary markdown="span">Show unimportant events</summary>
 
-## Austerity Measures in Focus - Protests and Resignation: The Canton of Vaud Is Not Coming to Rest
+## Trump Does Not Want to Invite South Africa to G20
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/sparmassnahmen-im-fokus-proteste-und-ruecktritt-der-kanton-waadt-kommt-nicht-zur-ruhe) • _Wednesday, November 26, 2025, 17:34_
+[Blick](https://www.blick.ch/ausland/keine-einladung-trump-will-suedafrika-nicht-beim-g20-gipfel-haben-id21460881.html) • _Wednesday, November 26, 2025, 21:18_
 
-State employees demonstrate against austerity measures. At the same time, the health director announces her resignation.
+US President Donald Trump wants to prevent South Africa's participation in the 2026 G20 summit in the USA. The Republican wrote on the Truth Social platform that South Africa will not receive an invitation on his instructions.
 
-Here's what it's about: The canton of Vaud is not coming to rest. On Wednesday, state employees demonstrated for the third time this autumn against wage cuts. The government plans to save 300 million francs next year at schools, hospitals, nursing homes... [read more](https://www.srf.ch/news/schweiz/sparmassnahmen-im-fokus-proteste-und-ruecktritt-der-kanton-waadt-kommt-nicht-zur-ruhe)
+US President Donald Trump (79) has ruled out an invitation for South Africa to the G20 summit next year in the USA in a post on his Truth Social platform. The US President again accused South Africa of a «genocide» against white farmers ... [read more](https://www.blick.ch/ausland/keine-einladung-trump-will-suedafrika-nicht-beim-g20-gipfel-haben-id21460881.html)
 
-> Relevance score: [5] - Local protests and resignation in one Swiss canton over austerity; affects public sector workers but limited national scope.
+> Relevance score: [5] - US president's statement excluding South Africa from G20; potential diplomatic tension but speculative without confirmed action or deep impact.
 
-## Deltamethrin Remains Without Limit Value: Rösti Defends Controversial Decision
+## Higher Taxes in the United Kingdom: Reeves Presents Budget Plans
 
-[20 Minuten](https://www.20min.ch/story/deltamethrin-roesti-will-keinen-grenzwert-fuer-heikles-kartoffel-pestizid-103457925) • _Wednesday, November 26, 2025, 14:42_
+[Swiss Radio and Television](https://www.srf.ch/news/international/steigende-steuerlast-britinnen-und-briten-zahlen-kuenftig-mehr-steuern) • _Wednesday, November 26, 2025, 19:30_
 
-The Federal Council plans limit values for pesticides, but Deltamethrin is not considered. What does this mean for the environment?
+The measures primarily burden the middle class, the wealthy, and the economy – and the government's popularity.
 
-The federal government originally wanted to set limit values for eleven pesticides. But four of them were removed from the list, as 20 Minuten already reported in spring.
-Today, the Federal Council sends the list of the remaining seven pesticides into the... [read more](https://www.20min.ch/story/deltamethrin-roesti-will-keinen-grenzwert-fuer-heikles-kartoffel-pestizid-103457925)
+One already knew it a year ago. In the big BBC election broadcast in the summer of 2024, then-Prime Minister Rishi Sunak warned that an election victory for the Labour Party could be expensive for Britons. Under Keir Starmer... [read more](https://www.srf.ch/news/international/steigende-steuerlast-britinnen-und-briten-zahlen-kuenftig-mehr-steuern)
 
-> Relevance score: [5] - Swiss policy exempts one pesticide from limits; environmental/agricultural implications but niche decision.
+> Relevance score: [5] - UK tax hikes on business and wealthy; economic policy shift in major neighbor with minor indirect effects on Swiss/European trade.
 
-## Astronomy: Alleged First Direct Detection of Dark Matter
+## Juso and Green Politicians File Complaint Against Business Bosses Who Visited Trump
 
-[heise online](https://www.heise.de/news/Astronomie-Angeblich-erster-direkter-Nachweis-von-Dunkler-Materie-11092279.html) • _Wednesday, November 26, 2025, 11:02_
+[Watson](https://www.watson.ch/schweiz/wirtschaft/520285672-juso-und-gruene-politiker-zeigen-wirtschaftsbosse-an-die-trump-besuchten) • _Thursday, November 27, 2025, 04:43_
 
-In data from a more than 17-year-old NASA space telescope, an astronomer has allegedly found direct traces of the mysterious dark matter for the first time.
+High-ranking business representatives curried favor with Trump for lower tariffs. Now the Juso has filed a complaint for alleged bribery.
 
-A Japanese astronomer has allegedly achieved the first direct detection of dark matter, or at least it is the most convincing candidate to date. Tomonori Totani from the Faculty of Astronomy at the Universi... [read more](https://www.heise.de/news/Astronomie-Angeblich-erster-direkter-Nachweis-von-Dunkler-Materie-11092279.html)
+Juso and Green politicians file complaint against business captains who gave Trump gifts
+High-ranking Swiss business representatives curried favor with Trump for lower tariffs and gave him gifts. Now both the Juso and Green politicians have fil... [read more](https://www.watson.ch/schweiz/wirtschaft/520285672-juso-und-gruene-politiker-zeigen-wirtschaftsbosse-an-die-trump-besuchten)
 
-> Relevance score: [4] - Alleged scientific breakthrough in cosmology; potential long-term significance but unconfirmed and abstract.
+> Relevance score: [4] - Partisan Swiss political complaint against business leaders over Trump visit and gifts; minor governance friction without broad economic or civic consequences.
 
-## Guinea-Bissau: Military Stages Coup and Closes Borders
+## Shots Fired at National Guard Members in Washington
 
-[20 Minuten](https://www.20min.ch/story/praesident-abgesetzt-das-militaer-putscht-sich-in-guinea-bissau-an-die-macht-103458066) • _Wednesday, November 26, 2025, 17:52_
+[Blick](https://www.blick.ch/ausland/berichte-ueber-mehrere-tote-schuesse-auf-mitglieder-der-nationalgarde-in-washington-gefallen-id21457500.html) • _Wednesday, November 26, 2025, 20:55_
 
-After the elections in Guinea-Bissau, the military under General Denis N’Canha has deposed the president and imposed a nighttime curfew.
+On Wednesday evening Swiss time, shots are fired in the US capital Washington. Target of the attack? Two members of the US National Guard. They succumb to their injuries in the hospital. The shooter was also seriously injured.
 
-In the West African coastal state of Guinea-Bissau, the military has taken power, according to its own statements. The president has been deposed, all institutions as well as land and sea borders temporarily closed, according to a statement from a G... [read more](https://www.20min.ch/story/praesident-abgesetzt-das-militaer-putscht-sich-in-guinea-bissau-an-die-macht-103458066)
+Excitement in Washington D.C.: On Wednesday, shots suddenly rang out in the US capital. Armed police then appeared on the streets of the metropolis. Emergency vehicles drove through with blue lights flashing... [read more](https://www.blick.ch/ausland/berichte-ueber-mehrere-tote-schuesse-auf-mitglieder-der-nationalgarde-in-washington-gefallen-id21457500.html)
 
-> Relevance score: [3] - Military coup in small West African nation; limited global or Swiss impact despite political instability.
+> Relevance score: [4] - Targeted shooting of US National Guard members in DC; isolated security incident with limited scale beyond immediate US context.
 
-## US Group Sues Apple Over Conflict Minerals from Congo
+## New Prompt Injection Makes Links a Danger for AI Browsers
 
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/us-gruppe-verklagt-apple-wegen-konfliktmineralien-aus-dem-kongo-ce7d5ed3d88cf126) • _Wednesday, November 26, 2025, 16:11_
+[Swiss IT Magazine](https://www.itmagazine.ch/artikel/86048/Neue_Prompt-Injection_macht_Links_zur_Gefahr_fuer_KI-Browser.html) • _Thursday, November 27, 2025, 06:00_
 
-A US advocacy group has filed a lawsuit against Apple in Washington. The iPhone maker is accused of using minerals linked to...
+Hashjack is a new variant of prompt injection attacks, in which attackers hide malicious instructions behind the hash mark in links and thus manipulate AI browser assistants, even though the website itself appears innocuous.
 
-A US advocacy group has filed a lawsuit against Apple in Washington. The iPhone maker is accused of using minerals linked to conflicts and human rights violations in the Dem... [read more](https://ch.marketscreener.com/boerse-nachrichten/us-gruppe-verklagt-apple-wegen-konfliktmineralien-aus-dem-kongo-ce7d5ed3d88cf126)
+Hashjack is a new variant of prompt injection attacks, in which attackers hide malicious instructions behind the hash mark in links and thus manipulate AI browser assistants, even though the website itself appears innocuous.
+27. No... [read more](https://www.itmagazine.ch/artikel/86048/Neue_Prompt-Injection_macht_Links_zur_Gefahr_fuer_KI-Browser.html)
 
-> Relevance score: [3] - Lawsuit over supply chain ethics; potential human rights implications but speculative and corporate-focused.
+> Relevance score: [3] - New niche cyber threat targeting AI browsers; technical security issue with limited current scale or structural societal impact.
 
-## Allianz Partners Plans to Replace 1,500 Jobs with AI
+## At Least 44 Dead in Fire in Residential Complex
 
-[20 Minuten](https://www.20min.ch/story/deutschland-1500-allianz-mitarbeiter-muessen-wegen-ki-um-ihre-jobs-bangen-103457987) • _Wednesday, November 26, 2025, 15:38_
+[Neue Zürcher Zeitung](https://www.nzz.ch/panorama/grossbrand-in-hongkong-mindestens-44-tote-nach-feuer-in-hochhaus-wohnkomplex-ld.1913648) • _Thursday, November 27, 2025, 02:23_
 
-Allianz Partners faces massive job cuts as AI is to take over simple customer calls.
+A fire has broken out in one of the most densely populated places in the world.
 
-A major subsidiary of the Allianz insurance company wants to replace over 1,500 employees with artificial intelligence, according to a report in the "Süddeutsche Zeitung" (SZ).
-According to this, the Allianz Part... [read more](https://www.20min.ch/story/deutschland-1500-allianz-mitarbeiter-muessen-wegen-ki-um-ihre-jobs-bangen-103457987)
+Reuters
+(dpa)/atz/ost. In the major fire in a residential high-rise complex in Hong Kong, at least 44 people have died. 45 more are in critical condition according to authorities. In addition, 279 people are missing, as Hong Kong... [read more](https://www.nzz.ch/panorama/grossbrand-in-hongkong-mindestens-44-tote-nach-feuer-in-hochhaus-wohnkomplex-ld.1913648)
 
-> Relevance score: [3] - Job cuts at one insurance firm due to AI; reflects tech trend but limited broader impact.
-
-## Nicolas Sarkozy: Second Prison Sentence Confirmed for Illegal Campaign Financing
-
-[20 Minuten](https://www.20min.ch/story/frankreich-sarkozy-zum-zweiten-mal-zu-haftstrafe-verurteilt-103457968) • _Wednesday, November 26, 2025, 14:15_
-
-Former French President Nicolas Sarkozy is convicted again. The Court of Cassation confirms the sentence in the Bygmalion affair.
-
-The Court of Cassation rejected Nicolas Sarkozy's appeal in the Bygmalion affair on Wednesday. It is the second final judgment in the criminal file of the former head of state after the wiretapping affair.
-In this case, the ex-president Fran... [read more](https://www.20min.ch/story/frankreich-sarkozy-zum-zweiten-mal-zu-haftstrafe-verurteilt-103457968)
-
-> Relevance score: [2] - Conviction of former French president; political scandal but distant from Swiss scope and celebrity-adjacent.
-
-## Researchers Confirm Lightning on Mars for the First Time
-
-[Radio Central](https://www.radiocentral.ch/news/international/forscher-weisen-erstmals-blitze-auf-dem-mars-nach-162597768) • _Wednesday, November 26, 2025, 08:00_
-
-Thunderstorms don't just occur on Earth - scientists have also detected electrical discharges in the atmospheres of the large planets Jupiter and Saturn. Now a research team has directly detected electrical discharges on Mars for the first time.
-
-Measurements with the "Perseverance" rover show that friction in stirred-up dust leads to the buildup of electrical charges. In planning manned missions to the Red Planet, lightning hazards must also be considered, schr... [read more](https://www.radiocentral.ch/news/international/forscher-weisen-erstmals-blitze-auf-dem-mars-nach-162597768)
-
-> Relevance score: [2] - Mars science discovery; interesting for space exploration but no immediate earthly impact.
+> Relevance score: [3] - Tragic fire in Hong Kong with significant casualties; local disaster without broader structural, economic, or long-term global implications.
 
 
 </details>
