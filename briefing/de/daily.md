@@ -2,151 +2,283 @@
 
 ---
 
-_Aktualisiert: Mittwoch, 26. November 2025, 18:22 Uhr_
+_Aktualisiert: Donnerstag, 27. November 2025, 06:25 Uhr_
 
-## Trump schickt Witkoff mit Ukraine-Friedensplan zu Putin
+## Kein höheres Rentenalter, aber du sollst freiwillig länger arbeiten
 
-[Blick](https://www.blick.ch/ausland/nur-wenige-strittige-punkte-trump-schickt-witkoff-mit-ukraine-friedensplan-zu-putin-id21452692.html) • _Dienstag, 25. November 2025, 21:13 Uhr_
+[blue News](https://www.bluewin.ch/de/news/schweiz/bundesrat-haelt-an-ahv-reform-ohne-hoeheres-rentenalter-fest-2982229.html) • _Mittwoch, 26. November 2025, 16:56 Uhr_
 
-US-Präsident Trump weist seinen Sonderbeauftragten Steve Witkoff an, sich mit dem russischen Präsidenten Wladimir Putin zu treffen, um eine Einigung zur Beendigung des Ukraine-Krieges zu erzielen.
+Mit der nächsten grossen AHV-Reform (AHV2030) soll das Rentenalter nicht erhöht werden, aber Anreize zum längeren Arbeiten geschaffen werden. Daran hält der Bundesrat in den neuen Leitlinien zur AHV fest.
 
-### Überarbeiteter Friedensplan
-- USA und Ukraine haben in Genf einen überarbeiteten [28-Punkte-Plan](https://de.wikipedia.org/wiki/Friedensverhandlungen_im_Ukraine-Krieg) für das Ende des [Ukraine-Kriegs](https://de.wikipedia.org/wiki/Russischer_%C3%9Cberfall_auf_die_Ukraine_2022) erstellt.
-- Der Plan wurde mit «Inputs beider Seiten» verfeinert; gemäß [Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump) gibt es «nur noch wenige strittige Punkte».
+### Kein höheres Rentenalter in AHV2030
+- Der [Bundesrat](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)) hält an den Leitlinien zur [AHV](https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung)-Reform **AHV2030** fest: Keine Erhöhung des Rentenalters, stattdessen Anreize für längeres Arbeiten.
+- [Elisabeth Baume-Schneider](https://de.wikipedia.org/wiki/Elisabeth_Baume-Schneider) hat sich durchgesetzt; dadurch soll eine Erhöhung des Rentenalters verhindert werden.
+- Das Rentenalter wird in einer späteren Reform flexibel angegangen, unter Berücksichtigung von Arbeitsschwere, Beruf und Ausbildungsniveau; dafür müssen Arbeitgeber zusätzliche Daten liefern.
 
-### Mission von Steve Witkoff
-- US-Sonderbeauftragter [Steve Witkoff](https://de.wikipedia.org/wiki/Steve_Witkoff) (68) soll den Plan nächste Woche in Moskau [Wladimir Putin](https://de.wikipedia.org/wiki/Wladimir_Putin) (73) vorstellen.
-- Trump kündigte dies auf [Truth Social](https://de.wikipedia.org/wiki/Truth_Social) an; Witkoff reist möglicherweise mit [Jared Kushner](https://de.wikipedia.org/wiki/Jared_Kushner), Trumps Schwiegersohn und Berater.
-- [Juri Uschakow](https://de.wikipedia.org/wiki/Jurij_Ussakow), Kreml-Berater, bestätigte das Treffen im russischen Fernsehen.
+### Anreize zum längeren Arbeiten
+- Erhöhung des AHV-[Freibetrags](https://de.wikipedia.org/wiki/Freibetrag_(Sozialversicherung)) von 16'800 auf 21'800 Franken pro Jahr, mit regelmässiger Anpassung an Löhne und Preise.
+- Einkommen von Pensionierten, auf denen Beiträge anfallen, werden mit Faktor 1,4 multipliziert, um das Rentenniveau bis zur Maximalrente zu steigern.
+- Aufschub des Rentenbezugs wird attraktiver, Anreize für Frühpensionierungen sinken.
 
-### Paralleles Treffen mit Ukraine
-- Zeitgleich trifft US-Unterhändler und Staatssekretär im Verteidigungsministerium [Daniel Driscoll](https://de.wikipedia.org/wiki/Daniel_Driscoll) (38) die Ukrainer; kein konkreter Termin genannt.
+### Abschaffung des Höchstalters
+- Wegfall des Höchstalters in der AHV: Derzeit unmöglich, nach dem 70. Geburtstag die Rente aufzubessern, obwohl Beiträge weiter fällig sind.
 
-### Trumps Informierung und Hoffnungen
-- Trump wird von [J. D. Vance](https://de.wikipedia.org/wiki/J._D._Vance), [Marco Rubio](https://de.wikipedia.org/wiki/Marco_Rubio), Kriegsminister [Pete Hegseth](https://de.wikipedia.org/wiki/Pete_Hegseth) und Stabschefin [Susie Wiles](https://de.wikipedia.org/wiki/Susie_Wiles) über Fortschritte informiert.
-- Er hofft auf baldige Treffen mit [Wolodymyr Selenskyj](https://de.wikipedia.org/wiki/Wolodymyr_Selenskyj) (47) und Putin, «nur, wenn die Vereinbarung zur Beendigung dieses Krieges endgültig ist oder sich in der Endphase befindet».
+### Massnahmen zur Einnahmesteigerung
+- Ziel: Bis 2040 zusätzliche 700 Millionen Franken einnehmen.
+  - Gleichbehandlung von Selbstständigen in oberen Einkommensklassen mit Angestellten.
+  - AHV-Pflicht für Kranken- und Unfalltagegelder, um Beitragslücken zu schliessen.
+  - Beiträge auf «ungewöhnlich hohe [Dividenden](https://de.wikipedia.org/wiki/Dividende)» an mitarbeitende Aktionäre (bisher nicht pflichtig, um Lohnumgehung zu verhindern).
 
-### Ukrainische Zustimmung
-- Die Ukraine stimmt dem Plan größtenteils zu; [Rustem Umjerow](https://de.wikipedia.org/wiki/Rustem_Umjerow), Sekretär des nationalen Sicherheitsrats, bestätigte Übereinkunft über wichtigste Bestimmungen aus Genf auf Facebook.
+### Finanzierung und Zeitplan
+- Finanzierung der AHV von 2030 bis 2040 hängt von parlamentarischen Entscheidungen zur [13. AHV-Rente](https://de.wikipedia.org/wiki/Dreizehnte_AHV-Rente) ab (ab 2026).
+- Vernehmlassung zur AHV2030 beginnt im Frühjahr 2026.
 
-> Relevance score: [9] - Diplomatic move toward Ukraine war resolution; high geopolitical significance with potential for major global stability impact.
+> Relevance score: [8] - Swiss federal pension reform guidelines impact retirement system and workforce for millions; significant economic policy.
 
-## Krisen und Kriege: das Strategieinstitut IISS zur düsteren Weltlage
+## Migrationsdebatte: Wie EU-Bürger von Berns neuem Deal profitieren
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/duestere-weltlage-immer-mehr-kriege-und-immer-blutigere) • _Dienstag, 25. November 2025, 19:26 Uhr_
+[20 Minuten](https://www.20min.ch/story/aufruf-bist-du-eingewandert-wie-nimmst-du-die-migrationsdebatte-wahr-103457837) • _Mittwoch, 26. November 2025, 11:22 Uhr_
 
-Immer mehr Gewalt und immer weniger ernsthafte Friedensbemühungen: So der Befund des Londoner Strategieinstituts IISS.
+Der neue Deal mit Brüssel sorgt für Diskussionen über die Zuwanderung von EU-Bürgern in die Schweiz.
 
-### Globale Lage nach IISS-Bericht
-- Die Welt wird instabiler: Konflikte sind zahlreicher, blutiger, teurer, komplexer und dauern länger.
-- Zwischen Sommer 2024 und Sommer 2025: 240'000 Tote weltweit, fast ein Viertel mehr als im Vorjahr.
-- Rückkehr zwischenstaatlicher Kriege nach Jahren mit vorwiegend Bürgerkriegen, so [Irene Mia](https://de.wikipedia.org/wiki/International_Institute_for_Strategic_Studies) vom [[IISS|International_Institute_for_Strategic_Studies]].
+### Neuer Deal mit Brüssel
+- Berns neuer Deal räumt rund [690'000 EU-Bürgern](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union) künftig ein dauerhaftes [Aufenthaltsrecht](https://de.wikipedia.org/wiki/Aufenthaltserlaubnis_(Schweiz)#C-Bewilligung) in der [Schweiz](https://de.wikipedia.org/wiki/Schweiz) ein.
+- Nach fünf Jahren regulärer Erwerbstätigkeit wird ein fixer [C-Aufenthaltsstatus](https://de.wikipedia.org/wiki/Aufenthaltserlaubnis_(Schweiz)#C-Bewilligung) gewährt.
 
-### Schwerste Konflikte
-- Führend: [[Russischer_Überfall_auf_die_Ukraine_2022|Russischer Krieg gegen die Ukraine]] mit 83'000 Toten.
-- Gefolgt von [[Krieg_im_Gazastreifen_seit_2023|Gaza-Krieg]] mit 21'000 Toten (viele Zivilisten, Frauen und Kinder).
-- Bürgerkriege in [[Sudan]] und [[Myanmar]].
+### Kritik an «Masseneinwanderung»
+- Viele [Schweizer](https://de.wikipedia.org/wiki/Schweiz) befürchten starken sozialen Druck auf Wohnraum, Löhne und Infrastruktur durch dauerhaft bleibende Hunderttausende EU-Bürger.
+- Ökonom [Reiner Eichenberger](https://de.wikipedia.org/wiki/Reiner_Eichenberger) warnt vor einem Sogeffekt:
+  - Vor allem Menschen mit tieferen Löhnen und höherem Arbeitslosigkeitsrisiko profitieren.
+  - Langfristig mehr problematischer Zuwanderung.
 
-### Regionale Entwicklungen
-#### Ukraine
-- Trotz diplomatischer Aktivität nur «Verhandlungen über Verhandlungen», keine Deeskalationsbereitschaft Moskaus ([Maximilian Hess](https://de.wikipedia.org/wiki/International_Institute_for_Strategic_Studies), IISS).
+### Argumente der Befürworter
+- Das Aufenthaltsrecht schafft Planungssicherheit für Arbeitskräfte und Unternehmen.
+- Ermöglicht Integration über Beschäftigung.
 
-#### Naher Osten
-- Gaza vorübergehend beruhigt, doch Grundkonflikt [[Israel]]–[[Iran]] kann jederzeit aufflammen ([John Raine](https://de.wikipedia.org/wiki/International_Institute_for_Strategic_Studies), IISS).
-- Iran stärkt trotz Schläge sein Verbündetennetzwerk; Israel festigt militärisch Kontrolle über Grenzen hinaus.
+### Einschätzung von Expertin
+- Rechtsprofessorin [Astrid Epiney](https://de.wikipedia.org/wiki/Astrid_Epiney):
+  - Vieles der Kritik existiert rechtlich schon heute.
+  - Neu: Längere Aufenthaltsrechte nach Jobverlust und garantierter C-Status nach fünf Jahren.
 
-#### Afrika
-- Intensive Konflikte in einem Dutzend Ländern:
-  - [[Somalia]], [[Sudan]], [[Sahelzone]], [[Nigeria]], [[Demokratische_Republik_Kongo|Kongo Kinshasa]].
-- Externe Akteure (z. B. [[Russland]] im Sahel, arabische Staaten in Sudan/Libyen) erschweren Lösungen.
-- Abzug französischer Truppen aus Sahel und [[UNO|Vereinte_Nationen]]-Truppen aus Kongo verschärft Lage.
+### Aufruf an Leser
+- Eingewanderte ohne Schweizer Pass werden aufgefordert, ihre Wahrnehmung der Migrationsdebatte zu teilen – Sorgen, Gleichgültigkeit oder Betroffenheit.
 
-### Friedensbemühungen und Hilfe
-- Weltweit so wenig ernsthafte Friedensverhandlungen wie lange nicht ([Benjamin Petrini](https://de.wikipedia.org/wiki/International_Institute_for_Strategic_Studies), IISS).
-- Kollaps humanitärer Hilfe: [[OCHA|UNO-Organisation für humanitäre Hilfe]] braucht Mittel für 300 Mio. Menschen, versorgt nur 114 Mio.
+> Relevance score: [7] - Swiss-EU deal grants residency rights to ~690k EU citizens; affects immigration policy and public debate.
+
+## EU-Verträge: Experten erwarten starke Zuwanderung in die Schweiz
+
+[20 Minuten](https://www.20min.ch/story/bleiberecht-fuer-eu-buerger-masseneinwanderung-wegen-eu-vertraegen-das-stimmt-wirklich-103457299) • _Mittwoch, 26. November 2025, 06:45 Uhr_
+
+Neue EU-Verträge könnten Hunderttausenden EU-Bürgern ein Aufenthaltsrecht eröffnen. Fachleute warnen vor Druck auf Wohnen, Sozialhilfe und Arbeitsmarkt.
+
+### Hintergrund des EU-Deals
+- Der neue [EU-Deal](https://de.wikipedia.org/wiki/Schweiz%E2%80%93EU-Beziehungen) mit [Brüssel](https://de.wikipedia.org/wiki/Br%C3%BCssel) umfasst 1800 Seiten und muss noch von den [Schweizerinnen und Schweizern](https://de.wikipedia.org/wiki/Schweiz) abgestimmt werden.
+- Schätzung von [Ecoplan](https://de.wikipedia.org/wiki/Ecoplan)-Experten im Auftrag des [Bundes](https://de.wikipedia.org/wiki/Bundesverwaltung_(Schweiz)): Fünf Jahre nach Übernahme der neuen [Personenfreizügigkeitsregeln](https://de.wikipedia.org/wiki/Personenfreiz%C3%BCgigkeit) hätten bis zu 690'000 [EU-Bürger](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union) Anrecht auf dauerhaftes Bleiberecht.
+- Dies weckt Ängste vor «Masseneinwanderung» und erhöhtem Druck auf Wohnungsmarkt, Sozialsystem und Lebensqualität.
+
+### Einschätzung von Reiner Eichenberger
+- [Reiner Eichenberger](https://de.wikipedia.org/wiki/Reiner_Eichenberger), Wirtschaftswissenschaftler an der [Universität Freiburg](https://de.wikipedia.org/wiki/Universit%C3%A4t_Freiburg_(Schweiz)):
+  - Nutzung des Bleiberechts hängt von wirtschaftlicher Lage ab; in Krisen fordern mehr Zuwanderer es ein (z. B. bei Jobverlust oder Auslaufen von Arbeitslosenunterstützung), was Nettozuwanderung steigert.
+  - Neue Regeln profitieren vor allem ökonomisch Schwache in Niedriglohnjobs; [Sozialhilfe](https://de.wikipedia.org/wiki/Sozialhilfe) in der Schweiz wirkt als «Zuwanderungsmagnet» im Vergleich zur EU (kritisiert Bundesstudie als Unterschätzung).
+- Zu Familiennachzug:
+  - [SVP](https://de.wikipedia.org/wiki/Schweizerische_Volkspartei) befürchtet «Sozialhilfe-Importe» durch Grossfamilien.
+  - Eichenberger: Bisher wenige direkte Einwanderer ins Sozialsystem; nun steigt Zuwanderung durch «Diaspora-Effekt» (mehr aus bestimmten Ländern/Gruppen, wenn schon welche hier sind).
+- Sozialhilfekosten:
+  - Bund schätzt 3000–4000 zusätzliche Fälle, 74 Mio. CHF/Jahr.
+  - Eichenberger: Untertreibt Sogwirkung und Diaspora-Effekt; Kosten tragen letztlich Arbeitende.
+- Schutzklausel:
+  - Erlaubt bei «schwerwiegenden Problemen» temporäre Zuwanderungseinschränkung.
+  - Eichenberger: «Schlechter Witz», wird nie eingesetzt (sinkt Lebensqualität nur auf «EU-Niveau»); wirkt zu spät, führt zu Stop-and-Go und Anreizen für frühe Zuwanderung.
+
+### Einschätzung von Astrid Epiney
+- [Astrid Epiney](https://de.wikipedia.org/wiki/Astrid_Epiney), Rechtswissenschaftlerin an der Universität Freiburg:
+  - Neue Freizügigkeits- und Aufenthaltsrechte gehen weniger weit als angenommen; viele «neue» Rechte existieren de facto schon (z. B. Familiennachzug für eingetragene Partnerschaften oder erweiterte Verbleiberechte für Familienangehörige aus Drittstaaten bei Tod/Auflösung von Ehe/Partnerschaft).
+- Wesentliche Neuerungen:
+  - Verlängerte Aufenthaltsrechte für unfreiwillig Arbeitslose (nach >1 Jahr Erwerbstätigkeit); beendbar, wenn Vermittlungsfähigkeit fehlt.
+  - Unbedingtes Daueraufenthaltsrecht für Erwerbstätige und Familien nach 5 Jahren rechtmässigem Aufenthalt.
+
+> Relevance score: [7] - Warnings of immigration surge from EU deals; pressures housing, welfare, jobs in Switzerland.
+
+## Armut in der Schweiz bleibt auf gleich hohem Niveau
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/erster-monitoringbericht-armut-in-der-schweiz-bleibt-auf-gleich-hohem-niveau) • _Mittwoch, 26. November 2025, 16:10 Uhr_
+
+Die Quote der Einkommensarmut liegt in der Schweiz laut dem Bundesrat seit Jahren zwischen acht und neun Prozent.
+
+### Armutsentwicklung
+- Die Armut in der [Schweiz](https://de.wikipedia.org/wiki/Schweiz) konnte in den letzten Jahren nicht reduziert werden.
+- Einkommensarmutsquote stieg zwischen 2014 und 2017, seither stabil bei 8–9 %.
+
+### Politische Verpflichtungen
+- Schweiz verpflichtet sich durch [Strategie Nachhaltige Entwicklung 2030](https://de.wikipedia.org/wiki/Nachhaltige_Entwicklung) und Legislaturpläne zur Armutsbekämpfung.
+- Parlament beauftragte [Bundesrat (Schweiz)](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)) mit kontinuierlicher Überwachung:
+  - Motion im [Ständerat](https://de.wikipedia.org/wiki/St%C3%A4nderat_(Schweiz)) 2019 gutgeheissen.
+  - Nationalrat zustimmte 2020.
+
+### Erster Monitoringbericht
+- Genehmigt vom Bundesrat; erstes umfassendes Referenzwerk mit Statistiken, Forschung und Verwaltungsdaten.
+- Enthält Porträts von Menschen mit Armutserfahrung vor den Kennzahlen.
+
+### Zukünftige Strategie
+- Bericht dient als Grundlage für nationale Armutsstrategie.
+- Erarbeitung bis 2027 gemäss parlamentarischer Motion.
+
+> Relevance score: [6] - Official report on stable poverty rates (8-9%) highlights ongoing social challenge in Switzerland.
+
+## "Friedensplan": Kiew spielt nach Erfahrung mit Trump strategisch
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/strategie-bei-verhandlungen-kiew-spielt-nach-erfahrung-mit-trump-strategisch) • _Mittwoch, 26. November 2025, 15:38 Uhr_
+
+Für die Ukrainer zählt Geduld: So kann Kiew verhindern, dass die USA ins russische Lager abdriften, sagt ein Politologe.
+
+### Stimmung in Kiew
+- Nach düsteren Tagen hat sich die Stimmung aufgehellt.
+- 19-jähriger Viktor: Ursprünglicher [Friedensplan](https://de.wikipedia.org/wiki/Friedensverhandlungen_im_Russisch-Ukrainischen_Krieg) machte Angst, aber letztes Wort nicht gesprochen.
+- 49-jähriger Wolodimir: Verhandlungen bringen keinen Frieden, da [Russland](https://de.wikipedia.org/wiki/Russland) Krieg braucht; nur starker US-Druck auf Moskau könnte helfen.
+
+### Fesenkos Analyse
+- [Wolodymyr Fesenko](https://de.wikipedia.org/wiki/Wolodymyr_Fesenko), ukrainischer Politologe: Ursprünglicher Plan weitgehend inakzeptabel, aber direktes Nein zu [Trump](https://de.wikipedia.org/wiki/Donald_Trump) unmöglich.
+- [Ukraine](https://de.wikipedia.org/wiki/Ukraine) stimmte Gesprächen zu, forderte Überarbeitung und Einbeziehung der Europäer – bewährte Taktik.
+
+### Trumps Taktik und ukrainische Strategie
+- Kiew durchschaute Trumps Methode: Zuerst Aggression und Drohungen, nun Feilschen um Punkte.
+- Ukraine braucht Geduld, um USA vom russischen Lager fernzuhalten.
+- Ständiger Dialog notwendig: «Wir müssen die ganze Zeit um Trump kämpfen», warnt Fesenko, sonst manipuliert Kreml ihn.
+
+### Putins Haltung
+- [Putin](https://de.wikipedia.org/wiki/Wladimir_Putin) denkt nicht an Kriegsende, hofft auf Sieg durch schwierige Frontlage und ukrainischen Korruptionsskandal.
+- Skandal führt zu innenpolitischer Krise, die Putin ausnutzen könnte.
+
+### Vorteile für Selenskyj
+- Paradox: Aufgezwungener Plan half [Selenskyj](https://de.wikipedia.org/wiki/Wolodymyr_Selenskyj).
+  - Schockrede schuf Einheit, lenkte von Korruption ab.
+  - Als Schauspieler dramatische Auftritte für zusätzlichen Effekt.
+- Schützte Vertrauten [Andrij Jermak](https://de.wikipedia.org/wiki/Andrij_Jermak) vor Absetzungsforderungen, indem er ihn Verhandlungsleiter machte – «Schutzbrief».
 
 ### Ausblick
-- Dramatisches Bild ohne Besserung in Sicht.
-- Mögliche zukünftige Kriege: [[USA]] gegen [[Venezuela]], [[China]] gegen [[Taiwan]].
-- [[Donald_Trump|Trump]]-Administration: Behauptete Erfolge dienen kurzfristig US-wirtschaftlichen Interessen, nicht nachhaltig.
+- Korruptionsermittlungen laufen weiter, Krise aufgeschoben.
+- Gespräche mit USA fortgesetzt; Selenskyj trifft Trump diese Woche.
 
-> Relevance score: [7] - Report on rising global conflicts and instability; provides structural overview with long-term civic relevance.
+> Relevance score: [6] - Geopolitical analysis on Ukraine-Russia conflict; relevant to global security but speculative commentary.
 
-## Brasiliens Ex-Präsident tritt Haftstrafe auf Polizeiwache an
+## Schweiz stellt 23 Millionen Franken für humanitäre Hilfe in Gaza bereit
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/brasiliens-ex-praesident-bolsonaro-muss-27-jahre-in-haft-ld.1913573) • _Dienstag, 25. November 2025, 21:06 Uhr_
+[20 Minuten](https://www.20min.ch/story/medienkonferenz-bundesrat-spricht-weitere-23-millionen-franken-fuer-gaza-103457928) • _Mittwoch, 26. November 2025, 14:02 Uhr_
 
-Die Rechtsmittel in dem Verfahren wegen eines Putschversuchs sind ausgeschöpft. Jetzt muss Bolsonaro seine über 27-jährige Haftstrafe antreten.
+Die Schweiz erhöht ihre Unterstützung für den Gazastreifen um 23 Millionen Franken, um notleidenden Kindern zu helfen.
 
-### Haftantritt von Jair Bolsonaro
-- Der ehemalige brasilianische Präsident [Jair Bolsonaro](https://de.wikipedia.org/wiki/Jair_Bolsonaro) (2019–2022) muss eine Haftstrafe von über 27 Jahren antreten.
-- Strafe wird zunächst im Präsidium der Bundespolizei in [Brasília](https://de.wikipedia.org/wiki/Bras%C3%ADlia) verbüßt, wo er seit dem Wochenende in Untersuchungshaft ist.
-- Entscheidung von Bundesrichter [Alexandre de Moraes](https://de.wikipedia.org/wiki/Alexandre_de_Moraes); Rechtsmittel durch den [Obersten Gerichtshof](https://de.wikipedia.org/wiki/Supremo_Tribunal_Federal) (STF) als ausgeschöpft erklärt.
+### Entscheidung des Bundesrats
+- Der Bundesrat unterstützt den von den [USA](https://de.wikipedia.org/wiki/Vereinigte_Staaten) vorgelegten Friedensplan in [Gaza](https://de.wikipedia.org/wiki/Gazastreifen) mit 23 Millionen Franken für humanitäre Hilfe.
+- Trotz Waffenstillstand am 10. Oktober 2025 bleibt die Notlage «enorm», Mittel priorisieren insbesondere Kinder.
+- Seit Oktober 2023 flossen bereits 127 Millionen Franken, Gesamtbetrag steigt auf 150 Millionen Franken.
+- Ankündigung durch Bundesrat [Ignazio Cassis](https://de.wikipedia.org/wiki/Ignazio_Cassis).
 
-### Verurteilung wegen Putschversuchs
-- Im September vom STF zu 27 Jahren und drei Monaten Haft verurteilt.
-- Auslöser: Wahlniederlage gegen [Lula da Silva](https://de.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva); Anhänger stürmten am 8. Januar 2023 den Kongress, STF und Präsidentenpalast in Brasília.
-  - Sicherheitskräfte brachten Regierungsviertel Stunden später unter Kontrolle.
+### Aufteilung der 17,5 Millionen Franken an Organisationen
+- 5 Millionen Franken an das [Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA)](https://de.wikipedia.org/wiki/B%C3%BCro_der_Vereinten_Nationen_f%C3%BCr_die_Koordinierung_humanit%C3%A4rer_Angelegenheiten) für Koordination in Wasser, Gesundheit und Unterkünften.
+- 4 Millionen Franken an das [Internationale Komitee vom Roten Kreuz (IKRK)](https://de.wikipedia.org/wiki/Internationales_Komitee_vom_Roten_Kreuz) für medizinische Versorgung, Wasser und lebensnotwendige Güter.
+- 2 Millionen Franken via [Schweizerisches Rotes Kreuz](https://de.wikipedia.org/wiki/Schweizerisches_Rotes_Kreuz) an den [Palästinensischen Roten Halbmond](https://de.wikipedia.org/wiki/Pal%C3%A4stinensischer_Roter_Halbmond) für medizinische Notversorgung.
+- 1 Million Franken an die [Jordan Hashemite Charity Organization](https://en.wikipedia.org/wiki/Jordan_Hashemite_Charity_Organization) zur Stärkung des jordanischen humanitären Korridors.
+- 2,5 Millionen Franken an [Unicef](https://de.wikipedia.org/wiki/UNICEF) für Kinderschutz, Wasser, Bildung, Hygiene und psychosoziale Unterstützung.
+- 2 Millionen Franken an die [WHO](https://de.wikipedia.org/wiki/Weltgesundheitsorganisation) für Evakuierung und Behandlung Verletzter, vor allem schwer verletzter Kinder.
+- 1 Million Franken an [Save the Children](https://de.wikipedia.org/wiki/Save_the_Children) für Betreuung evakuierter Kinder in Ägypten.
 
-### Gründe für Haft und Festnahme
-- Moraes begründet mit «konkretem Fluchtrisiko» und «Bedrohung der öffentlichen Ordnung».
-- Seit August Hausarrest wegen Verstößen gegen Auflagen; Wochenendfestnahme nach Manipulation der elektronischen Fußfessel mit Lötkolben.
-  - Bolsonaro gab «Neugier» und «Halluzination» (Abhören) zu.
+### 5,5 Millionen Franken für palästinensische Institutionen
+- Förderung einheitlicher Regierungsführung für [Westjordanland](https://de.wikipedia.org/wiki/Westjordanland) inklusive Ost-Jerusalem und Gaza als Voraussetzung für die [Zweistaatenlösung](https://de.wikipedia.org/wiki/Zweistaatenl%C3%B6sung).
+- Unterstützung der [Palästinensischen Behörden](https://de.wikipedia.org/wiki/Pal%C3%A4stinensische_Autonomiebeh%C3%B6rde) bei Wahlen durch Expertin des [EDA](https://de.wikipedia.org/wiki/Eidgen%C3%B6ssisches_Departement_f%C3%BCr_ausw%C3%A4rtige_Angeslegenheiten).
+- 0,5 Millionen Franken für humanitäre Minenräumung.
+- Projekt mit der [FIFA](https://de.wikipedia.org/wiki/FIFA): Installation von 10 Mini-Fussballfeldern (5 in Israel, 5 im besetzten palästinensischen Gebiet), Kofinanzierung von 2 Feldern im Westjordanland mit 120'000 Franken.
 
-### Gesundheitszustand und Haftsituation
-- 70-Jähriger leidet unter Lungeninfektionen, Gastritis, Hautkrebs, Schluckauf-Krisen und Folgen eines Messerattentats 2018.
-- Einzelzelle (ca. 12 m², kürzlich renoviert): Einzelbett, Schränke, Beistelltisch, Fernseher, Minibar, Klimaanlage, Fenster, eigenes Bad.
+### Evakuierung verletzter Kinder
+- Weitere 13 Kinder aus Gaza auf dem Weg in die Schweiz; Cassis schweigt aus Sicherheitsgründen zu Ankunft und Unterbringung.
+- Bereits im Oktober 2023/24: 7 Kinder via [Rega](https://de.wikipedia.org/wiki/Schweizerische_Rettungsflugwacht_REG_A) und Luftwaffe in Spitäler von Basel-Stadt, Genf, Waadt, St. Gallen und Luzern gebracht.
 
-### Festnahmen von Mitverschwörern
-- [Augusto Heleno](https://de.wikipedia.org/wiki/Augusto_Heleno) (ehem. Minister für institutionelle Sicherheit): 21 Jahre Haft.
-- [Paulo Sérgio Nogueira](https://pt.wikipedia.org/wiki/Paulo_S%C3%A9rgio_Nogueira) (ehem. Verteidigungsminister): 19 Jahre Haft.
-- Beide am Dienstag von Bundespolizei festgenommen; Rechtsmittel ausgeschöpft.
-
-> Relevance score: [6] - Imprisonment of former Brazilian leader for coup attempt; notable for regional democracy but limited broader global effects.
+> Relevance score: [6] - Swiss commitment to Gaza aid amid crisis; reflects foreign policy but modest scale.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Möglicher Nachweis von Dunkler Materie?
+## Sparmassnahmen im Fokus - Proteste und Rücktritt: Der Kanton Waadt kommt nicht zur Ruhe
 
-[Welt der Physik](https://www.weltderphysik.de/gebiet/universum/nachrichten/2025/dunkle-materie-moeglicher-nachweis-von-dunkler-materie/) • _Mittwoch, 26. November 2025, 00:00 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/sparmassnahmen-im-fokus-proteste-und-ruecktritt-der-kanton-waadt-kommt-nicht-zur-ruhe) • _Mittwoch, 26. November 2025, 17:34 Uhr_
 
-In den Daten des Weltraumteleskops Fermi wurden womöglich Hinweise auf einen Kandidaten für Dunkle Materie gefunden.
+Staatsangestellte demonstrieren gegen Sparmassnahmen. Gleichzeitig kündigt die Gesundheitsdirektorin ihren Rücktritt an.
 
-Sowohl die Analyse der Bewegung von Galaxien als auch von Strukturen in der kosmischen Hintergrundstrahlung zeigen, dass etwa 85 Prozent der Materie im Kosmos unsichtbar ist. Diese Dunkle Materie besteht nicht aus den uns bekannten Elementarteilchen,... [weiterlesen](https://www.weltderphysik.de/gebiet/universum/nachrichten/2025/dunkle-materie-moeglicher-nachweis-von-dunkler-materie/)
+Darum gehts: Der Kanton Waadt kommt nicht zur Ruhe. Am Mittwoch demonstrierten die Staatsangestellten schon zum dritten Mal in diesem Herbst gegen Lohnkürzungen. Die Regierung plant, nächstes Jahr 300 Millionen Franken bei Schulen, Spitälern, Heimen ... [weiterlesen](https://www.srf.ch/news/schweiz/sparmassnahmen-im-fokus-proteste-und-ruecktritt-der-kanton-waadt-kommt-nicht-zur-ruhe)
 
-> Relevance score: [4] - Speculative scientific finding in cosmology; niche academic interest, unconfirmed and no immediate real-world impact.
+> Relevance score: [5] - Local protests and resignation in one Swiss canton over austerity; affects public sector workers but limited national scope.
 
-## KI-Boom lässt in Virginia Rechenzentren wie Pilze aus dem Boden schiessen
+## Deltamethrin bleibt ohne Grenzwert: Rösti verteidigt umstrittene Entscheidung
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/dialog/folgen-des-ki-booms-in-virginia-schiessen-die-rechenzentren-wie-pilze-aus-dem-boden) • _Mittwoch, 26. November 2025, 05:58 Uhr_
+[20 Minuten](https://www.20min.ch/story/deltamethrin-roesti-will-keinen-grenzwert-fuer-heikles-kartoffel-pestizid-103457925) • _Mittwoch, 26. November 2025, 14:42 Uhr_
 
-Im US-Staat Virginia liegt der Ort mit der weltweit höchsten Dichte an Rechenzentren. Die Anwohner sind nicht erfreut.
+Der Bundesrat plant Grenzwerte für Pestizide, doch Deltamethrin wird nicht berücksichtigt. Was bedeutet das für die Umwelt?
 
-Es ist kein Schild zu sehen, nur die Hausnummer. Ein Block aus Beton und Metall, fast ohne Fenster, mit Zäunen und Überwachungskameras. Ein stummer Riese, wäre da nicht das Brummen der Kühlventilatoren oder der Kraftwerke in unmittelbarer Nähe, das r... [weiterlesen](https://www.srf.ch/news/dialog/folgen-des-ki-booms-in-virginia-schiessen-die-rechenzentren-wie-pilze-aus-dem-boden)
+Der Bund wollte ursprünglich elf Pestizide mit Grenzwerten versehen. Doch vier davon wurden von der Liste gestrichen, wie auch 20 Minuten bereits im Frühjahr berichtete.
+Heute schickt der Bundesrat die Liste der verbleibenden sieben Pestizide in die ... [weiterlesen](https://www.20min.ch/story/deltamethrin-roesti-will-keinen-grenzwert-fuer-heikles-kartoffel-pestizid-103457925)
 
-> Relevance score: [3] - Local US environmental concerns from AI data centers; niche impact, limited to Virginia despite global AI trend.
+> Relevance score: [5] - Swiss policy exempts one pesticide from limits; environmental/agricultural implications but niche decision.
 
-## Klimakleber müssen für Flughafenblockade teuer bezahlen
+## Astronomie: Angeblich erster direkter Nachweis von Dunkler Materie
 
-[Blick](https://www.blick.ch/ausland/letzte-generation-vor-gericht-klimakleber-muessen-fuer-flughafenblockade-teuer-bezahlen-id21457285.html) • _Mittwoch, 26. November 2025, 00:20 Uhr_
+[heise online](https://www.heise.de/news/Astronomie-Angeblich-erster-direkter-Nachweis-von-Dunkler-Materie-11092279.html) • _Mittwoch, 26. November 2025, 11:02 Uhr_
 
-Ein Gericht verurteilte zehn Klimaaktivisten zu einem Schadenersatz von rund 400'000 Euro. Dazu kommen hohe Verfahrenskosten. Die Klimakleber hatten 2023 den Hamburger Flughafen blockiert.
+In Daten eines mehr als 17 Jahre alten Weltraumteleskops der NASA hat ein Astronom angeblich erstmals direkte Spuren der rätselhaften Dunklen Materie gefunden.
 
-Im Jahr 2023 blockierten die Klimakleber der Letzten Generation immer wieder Strassen und Flughäfen. Eine Aktion am Hamburger Flughafen kommt die Beteiligten nun teuer zu stehen.
-Zehn Aktivisten der Klimaschutzgruppe müssen wegen der Flughafenblockad... [weiterlesen](https://www.blick.ch/ausland/letzte-generation-vor-gericht-klimakleber-muessen-fuer-flughafenblockade-teuer-bezahlen-id21457285.html)
+Einem japanischen Astronomen ist angeblich der erste direkte Nachweis von Dunkler Materie gelungen, mindestens handle es sich aber um den bislang überzeugendsten Kandidaten. Das berichtet Tomonori Totani von der Fakultät für Astronomie der Universitä... [weiterlesen](https://www.heise.de/news/Astronomie-Angeblich-erster-direkter-Nachweis-von-Dunkler-Materie-11092279.html)
 
-> Relevance score: [2] - Legal penalty for past protest in Germany; minor civic event with no ongoing structural effects.
+> Relevance score: [4] - Alleged scientific breakthrough in cosmology; potential long-term significance but unconfirmed and abstract.
 
-## Warum wir jetzt besonders anfällig für Viren sind
+## Guinea-Bissau: Militär putscht sich an die Macht und schliesst Grenzen
 
-[GMX](https://www.gmx.ch/magazine/schweiz/anfaellig-viren-41627928) • _Mittwoch, 26. November 2025, 06:01 Uhr_
+[20 Minuten](https://www.20min.ch/story/praesident-abgesetzt-das-militaer-putscht-sich-in-guinea-bissau-an-die-macht-103458066) • _Mittwoch, 26. November 2025, 17:52 Uhr_
 
-Warum wir jetzt besonders anfällig für Viren sind
+Nach den Wahlen in Guinea-Bissau hat das Militär unter General Denis N’Canha den Präsidenten abgesetzt und eine nächtliche Ausgangssperre verhängt.
 
-Husten, Halsschmerzen, laufende Nasen: Mit den tiefen Temperaturen sind auch Erkältungen und die Grippe auf dem Vormarsch. Aber warum eigentlich? Und wie erkennt man, ob man erkältet ist, eine Grippe oder Corona hat? Die wichtigsten Fragen und Antwor... [weiterlesen](https://www.gmx.ch/magazine/schweiz/anfaellig-viren-41627928)
+Im westafrikanischen Küstenstaat Guinea-Bissau hat das Militär nach eigenen Angaben die Macht übernommen. Der Präsident des Landes sei abgesetzt, alle Institutionen sowie Land- und Seegrenzen vorläufig geschlossen, hiess es in einer Erklärung einer G... [weiterlesen](https://www.20min.ch/story/praesident-abgesetzt-das-militaer-putscht-sich-in-guinea-bissau-an-die-macht-103458066)
 
-> Relevance score: [1] - Seasonal health advice on colds and flu; trivial, no structural impact or broad relevance.
+> Relevance score: [3] - Military coup in small West African nation; limited global or Swiss impact despite political instability.
+
+## US-Gruppe verklagt Apple wegen Konfliktmineralien aus dem Kongo
+
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/us-gruppe-verklagt-apple-wegen-konfliktmineralien-aus-dem-kongo-ce7d5ed3d88cf126) • _Mittwoch, 26. November 2025, 16:11 Uhr_
+
+Eine US-amerikanische Interessenvertretung hat in Washington Klage gegen Apple eingereicht. Dem iPhone-Hersteller wird vorgeworfen, trotz gegenteiliger Beteuerungen Mineralien zu verwenden, die mit...
+
+Eine US-amerikanische Interessenvertretung hat in Washington Klage gegen Apple eingereicht. Dem iPhone-Hersteller wird vorgeworfen, trotz gegenteiliger Beteuerungen Mineralien zu verwenden, die mit Konflikten und Menschenrechtsverletzungen in der Dem... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/us-gruppe-verklagt-apple-wegen-konfliktmineralien-aus-dem-kongo-ce7d5ed3d88cf126)
+
+> Relevance score: [3] - Lawsuit over supply chain ethics; potential human rights implications but speculative and corporate-focused.
+
+## Allianz Partners plant, 1500 Stellen durch KI zu ersetzen
+
+[20 Minuten](https://www.20min.ch/story/deutschland-1500-allianz-mitarbeiter-muessen-wegen-ki-um-ihre-jobs-bangen-103457987) • _Mittwoch, 26. November 2025, 15:38 Uhr_
+
+Die Allianz Partners steht vor einem massiven Stellenabbau, da KI einfache Kundenanrufe übernehmen soll.
+
+Eine grosse Tochter der Allianz-Versicherung will nach einem Bericht der «Süddeutschen Zeitung» (SZ) über 1500 Mitarbeiter durch künstliche Intelligenz ersetzen.
+Demnach will die auf Versicherungen rund um Reisen und Autos spezialisierte Allianz Part... [weiterlesen](https://www.20min.ch/story/deutschland-1500-allianz-mitarbeiter-muessen-wegen-ki-um-ihre-jobs-bangen-103457987)
+
+> Relevance score: [3] - Job cuts at one insurance firm due to AI; reflects tech trend but limited broader impact.
+
+## Nicolas Sarkozy: Zweite Haftstrafe wegen illegaler Wahlkampffinanzierung bestätigt
+
+[20 Minuten](https://www.20min.ch/story/frankreich-sarkozy-zum-zweiten-mal-zu-haftstrafe-verurteilt-103457968) • _Mittwoch, 26. November 2025, 14:15 Uhr_
+
+Der frühere französische Präsident Nicolas Sarkozy wird erneut verurteilt. Der Kassationshof bestätigt die Strafe in der Bygmalion-Affäre.
+
+Der Kassationshof hat am Mittwoch die Berufung von Nicolas Sarkozy in der Bygmalion-Affäre abgewiesen. Es ist nach der Abhör-Affäre das zweite rechtskräftige Urteil in der Strafakte des ehemaligen Staatschefs.
+In diesem Fall war der Ex-Präsident Fran... [weiterlesen](https://www.20min.ch/story/frankreich-sarkozy-zum-zweiten-mal-zu-haftstrafe-verurteilt-103457968)
+
+> Relevance score: [2] - Conviction of former French president; political scandal but distant from Swiss scope and celebrity-adjacent.
+
+## Forscher weisen erstmals Blitze auf dem Mars nach
+
+[Radio Central](https://www.radiocentral.ch/news/international/forscher-weisen-erstmals-blitze-auf-dem-mars-nach-162597768) • _Mittwoch, 26. November 2025, 08:00 Uhr_
+
+Nicht nur auf der Erde gibt es Gewitter - auch in der Atmosphäre der grossen Planeten Jupiter und Saturn konnten Wissenschaftler elektrische Entladungen nachweisen. Jetzt hat ein Forschungsteam erstmals auf dem Mars elektrische Entladungen direkt aufgespürt.
+
+Wie die Messungen mit dem Rover «Perseverance» zeigen, führt Reibung in aufgewirbeltem Staub zum Aufbau elektrischer Ladungen. Bei der Planung von bemannten Missionen zum Roten Planeten müsse man daher auch Gefahren durch Blitze berücksichtigen, schr... [weiterlesen](https://www.radiocentral.ch/news/international/forscher-weisen-erstmals-blitze-auf-dem-mars-nach-162597768)
+
+> Relevance score: [2] - Mars science discovery; interesting for space exploration but no immediate earthly impact.
 
 
 </details>
