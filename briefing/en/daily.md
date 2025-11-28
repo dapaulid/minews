@@ -2,170 +2,360 @@
 
 ---
 
-_Aktualisiert: Thursday, November 27, 2025, 18:21_
+_Updated: Friday, November 28, 2025, 06:26_
 
-## Federal Report: 10-Million Switzerland in 2040
+## Vladimir Putin Makes Surprising Offer to Europe
 
-[Swiss Radio and Television](https://www.srf.ch/news/schweiz/die-10-millionen-schweiz-neuer-bericht-des-bundes-ohne-zuwanderung-vergreist-die-schweiz) • _Thursday, November 27, 2025, 06:09_
+[Blick](https://www.blick.ch/ausland/die-wahrheit-ist-putin-macht-europa-ueberraschendes-angebot-id21464048.html) • _Thursday, November 27, 2025, 16:58_
 
-The federal government weighs the opportunities and risks of 10-million Switzerland – and finds: Immigration helps solve problems.
+Russia's President Putin has offered to provide written assurance that his country does not plan an attack on Europe. Putin also reaffirmed his willingness for peace negotiations over Ukraine.
 
-### Demographic Forecasts
-- The [Federal Statistical Office (FSO)](https://en.wikipedia.org/wiki/Federal_Statistical_Office_(Switzerland)) forecasts in the main scenario a [Switzerland](https://en.wikipedia.org/wiki/Switzerland) with 10 million inhabitants by 2040, with growth of almost 15% in the next 30 years.
-- The population will become larger, older, and more heterogeneous, more concentrated in economic centers like [Zurich](https://en.wikipedia.org/wiki/Zurich) and on [Lake Geneva](https://en.wikipedia.org/wiki/Lake_Geneva).
+### Putin's Offer to Europe
+- Russia's President [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) is willing to provide written assurance in diplomatic negotiations that Russia does not plan an attack on [Europe](https://en.wikipedia.org/wiki/Europe).
+- He calls accusations of a planned invasion a "lie" and "complete nonsense," which sound "ridiculous" to Russia.
+- Statement at a press conference at the end of his visit to the Kyrgyz capital [Bishkek](https://en.wikipedia.org/wiki/Bishkek).
 
-### Background of the Report
-- The [Federal Council](https://en.wikipedia.org/wiki/Federal_Council_(Switzerland)) has prepared the report «Demographic Developments in Switzerland – Opportunities and Challenges» on the postulate of GLP National Councilor [Judith Bellaiche](https://de.wikipedia.org/wiki/Judith_Bellaiche).
-- Counter-initiative: SVP Sustainability Initiative «No 10-Million Switzerland», which from 9.5 million demands measures in the asylum, family reunification, and permit areas (FSO scenario: 2031).
+### Distrust in the West
+- Putin rejects accusations from German and other European politicians that Russia wants to invade more countries after the [Ukraine](https://en.wikipedia.org/wiki/Ukraine).
+- Doubts about the West since the attack war against Ukraine in 2022; Putin had previously denied similar invasions.
+- Known for breaking agreements; recently drone sightings over central European infrastructure and military facilities.
+- Repeated deployments of [Eurofighter](https://en.wikipedia.org/wiki/Eurofighter_Typhoon) jets in Eastern Europe against Russian provocations.
 
-### Causes of Population Growth
-- Declining birth rate: 1.39 children per woman (lowest level), from 2035 more deaths than births.
-- Immigration fills the gap and ensures growth – contrary to EU trend with decline.
+### Peace Negotiations and Demands
+- Putin reaffirms willingness for negotiations over the war that has been going on for almost four years.
+- Next week, US representatives in [Moscow](https://en.wikipedia.org/wiki/Moscow) for talks on ending the war, security guarantees for Ukraine and Europe.
+- Prerequisite: Withdrawal of Ukrainian troops from Russian-occupied parts of [Donetsk](https://en.wikipedia.org/wiki/Donetsk) and [Luhansk](https://en.wikipedia.org/wiki/Luhansk) in the [Donbas](https://en.wikipedia.org/wiki/Donbas).
+- Otherwise, continuation of the war for full control of these areas.
 
-### Positive Effects of Immigration
-- Cushions aging and dampens losses in gross national income per capita.
-- For [OASI](https://en.wikipedia.org/wiki/Old-age_and_survivors%27_insurance_(Switzerland)): Immigrants contributed 40% of contributions in 2020, received 30% of benefits.
-- Alleviates shortage of skilled workers in healthcare, labor market, and strengthens public finances; labor migration counteracts aging.
+> Relevance score: [7] - Putin's offer of written no-attack assurance on Europe and Ukraine peace talks; geopolitical significance for European security, though credibility questionable.
 
-### Challenges and Need for Action
-- Greater need for food, water, energy, housing, transport infrastructure, and schools; requires investments and planning.
-- Rural regions are aging more strongly; better integration of immigrants without qualifications needed.
+## War Atrocities in Sudan: Survivors Report
 
-### Federal Council's Assessment
-- 10-million Switzerland (up to 10.5 million in 30 years) as feasible and positive, solves problems like aging, economic growth, and skilled labor shortage.
-- Challenges presented as solvable; missing new self-understanding for more heterogeneous, «more colorful» society.
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/kriegsgraeuel-im-sudan-das-boese-fuer-das-es-keine-worte-gibt) • _Thursday, November 27, 2025, 14:09_
 
-> Relevance score: [8] - Federal report on Switzerland reaching 10 million population by 2040 via immigration, addressing demographic challenges like aging; high long-term civic and economic impact on national society and governance.
+The blood is visible from space. Survivors report mass rapes and streets full of corpses.
 
-## No Money for 13th OASI Pension, but Millions for Palestinian Terrorists' Pension
+### Survivor Reports from Al-Fasher
+- Survivors like Adam Khamis Abdi report streets full of corpses of neighbors and friends that had to be left behind; Abdi describes what was experienced as indescribable evil ([Channel 4 News](https://en.wikipedia.org/wiki/Channel_4_News)).
+- [Amnesty International](https://en.wikipedia.org/wiki/Amnesty_International) documents statements from 28 survivors about systematized violence by [RSF](https://en.wikipedia.org/wiki/Rapid_Support_Forces) fighters:
+  - Men and friends were shot in front of the eyes of those shot, after lying on the ground.
+  - Abductions for ransom, with videos of shootings for extortion.
+  - Women and daughters pulled from groups and mass raped; Amnesty classifies this as a war crime.
+- Satellite images from [Yale University](https://en.wikipedia.org/wiki/Yale_University) show bloodstains visible from space, empty markets, and traces of systematic body disposal.
 
-[Die Weltwoche](https://weltwoche.ch/daily/kein-geld-fuer-13-ahv-rente-aber-millionen-fuer-palaestinensische-terror-rente/) • _Thursday, November 27, 2025, 04:10_
+### Humanitarian Crisis in Tawila
+- Daily, survivors reach the 60 km distant [Tawila](https://en.wikipedia.org/wiki/Tawila,_North_Darfur), one of the last safe places in [Darfur](https://en.wikipedia.org/wiki/Darfur).
+- Jérôme Bertrand from [Handicap International](https://en.wikipedia.org/wiki/Handicap_International) describes arriving people as assaulted, beaten, extorted, abducted, or raped:
+  - Many crawled hundreds of meters or kilometers at night to avoid attackers (scraped knees and elbows).
+  - Severe malnutrition after months-long siege of [El Fasher](https://en.wikipedia.org/wiki/El_Fasher).
+- Approx. 600,000 displaced in Tawila; aid workers at limit due to cuts in international contributions:
+  - Only a quarter of the needed aid possible, dilemmas in prioritization (e.g., water or food).
+- Logistical hurdles: Aid from [Chad](https://en.wikipedia.org/wiki/Chad) over gravel tracks through volcanic chains, arrival delayed up to 2 months.
 
-Switzerland cuts OASI, but finances 150 million francs in the Middle East, including Palestinian payments. Support despite empty coffers sparks heated debates.
+### International Reaction
+- [UN Human Rights Commissioner](https://en.wikipedia.org/wiki/United_Nations_High_Commissioner_for_Human_Rights) [Volker Türk](https://en.wikipedia.org/wiki/Volker_T%C3%BCrk) criticizes: Blood in El Fasher visible from space, stain on the international community's record equally devastating.
+  - Courts must clarify genocide; [Human Rights Council](https://en.wikipedia.org/wiki/United_Nations_Human_Rights_Council) sets up independent fact-finding mission (secure evidence, question survivors, name those responsible).
+- Political stalemate: Ceasefire proposal on table, but neither Sudanese army nor RSF have accepted it ([United States](https://en.wikipedia.org/wiki/United_States) confirms); fighting in other regions of [Sudan](https://en.wikipedia.org/wiki/Sudan) continues.
+- Demand: Safe, permanent humanitarian access.
 
-### Federal Council Decision
-- The Federal Council sends an additional 23 million francs to the Middle East, for the benefit of the Palestinians, not to the democratic state of [Israel](https://en.wikipedia.org/wiki/Israel), which was attacked on October 7, 2023.
-- Total amount to Hamas and [Palestinian Authority (PA)](https://en.wikipedia.org/wiki/Palestinian_National_Authority) rises to 150 million francs.
+> Relevance score: [7] - Reports of mass atrocities in Sudan war; underscores ongoing global humanitarian crisis with structural violence implications.
 
-### Domestic Cuts
-- Despite empty coffers, the Federal Council cuts Youth+Sport contributions.
-- [Finance Minister Karin Keller-Sutter](https://en.wikipedia.org/wiki/Karin_Keller-Sutter) cancels Christmas dinner for staff, in her year as Federal President.
+## More Than 65 Dead and Numerous Missing
 
-### Beneficiaries of the Aid
-- Swiss humanitarian aid finances infrastructure, food, clothing, leisure, and education for Palestinians.
-- Both groups, [Hamas](https://en.wikipedia.org/wiki/Hamas) and PA, benefit; terrorists plan further attacks.
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/feuersbrunst-in-hongkong-noch-immer-werden-hunderte-menschen-vermisst-ld.1913819) • _Thursday, November 27, 2025, 16:13_
 
-### PA's Terror Pension
-- PA paid 214 million dollars in 2023, 144 million dollars in 2024 to relatives of killed or arrested terrorists.
-- Israeli Foreign Minister pointed this out.
-- Switzerland gives 4 million francs for treatment of Palestinian patients; [Foreign Minister Ignazio Cassis](https://en.wikipedia.org/wiki/Ignazio_Cassis) excuses: «The Palestinian authorities are doing what they can.»
+The fire in an apartment complex in the north of the city has so far claimed 83 lives. The number is likely to rise further. Apparently, the construction company cut corners.
 
-### Contrast to the 13th OASI Pension
-- In Switzerland, there is no money for the directly democratically approved 13th [OASI pension](https://en.wikipedia.org/wiki/Old-age_and_survivors%27_insurance_(Switzerland)), although coffers are empty according to the Federal Council.
+### Fire Disaster in Hong Kong
 
-> Relevance score: [6] - Debate on Swiss fiscal priorities: domestic pension cuts vs. foreign aid; moderate relevance to national budget perceptions and public discourse.
+- In the **[Wang Fuk Court](https://en.wikipedia.org/wiki/Wang_Fuk_Court)** residential complex in northern Hong Kong ([Tai Po](https://en.wikipedia.org/wiki/Tai_Po,_Hong_Kong)) at least **94 people** have died in a major fire.
+- Nearly **300 people** are still missing, around **80 people** are injured, including firefighters.
+- It is the largest fire disaster in [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) in 30 years.
+  - The complex with eight residential blocks (each over 30 floors, approx. 4000 residents, nearly 2000 condominiums) was built in 1983 as state-subsidized housing.
 
-## Open Banking: Now Apps Connect All Your Bank Accounts
+### Course of the Fire
 
-[Blick](https://www.blick.ch/wirtschaft/was-du-zu-open-banking-wissen-musst-bald-kannst-du-deine-bankkonten-in-einer-app-buendeln-id21459227.html) • _Wednesday, November 26, 2025, 18:30_
+- The fire broke out on Wednesday afternoon on a **bamboo scaffold** during renovation work and quickly engulfed seven of eight blocks.
+- The fire department has the fire largely under control, but it is still burning in four blocks; complete extinguishing expected by Friday morning.
+- By Thursday evening, over **55 people** had been rescued; search for survivors in lower floors ongoing.
+- Flags in Hong Kong at half-mast; social media full of searches for missing persons (parents, children, household helpers).
 
-Open Banking launches in Switzerland: For the first time, you can bundle your accounts from different banks in a single app – and give secure access to selected third-party providers. What does it bring? And how secure is it? Blick has the most important answers.
+### Causes and Investigations
 
-### Open Banking in Switzerland
-- From now on, private customers can bundle accounts from different banks in a single app – this is called [Open Banking](https://en.wikipedia.org/wiki/Open_banking).
-- Enables data exchange between banks and trusted third-party providers via standardized, secure interfaces, as emphasized by the [Swiss Bankers Association](https://en.wikipedia.org/wiki/Swiss_Bankers_Association).
+- Suspicion of shoddy work by the construction company: Use of flammable materials (safety nets, fabrics, plastic sheeting, Styrofoam) that spread the fire raging quickly.
+  - Residents had complained about smoking workers and discarded cigarette butts.
+  - Fire alarms on several floors did not work.
+- Police arrested three leading employees of the construction company on suspicion of manslaughter; investigation ongoing.
+- **Bamboo scaffolds** (traditionally common in Hong Kong, unlike in [China](https://en.wikipedia.org/wiki/China)) combined with plastic nets increased the risk; government plans switch to steel scaffolds.
 
-### Benefits for Users
-- Easier overview of accounts at different institutions (e.g., pillar 3a at digital bank, salary account at regional bank, savings account at global bank).
-- Analysis of total expenses in one app, making payments.
-- Further applications:
-  - Mortgage app compares offers based on account data.
-  - Shopping app suggests cheapest payment method.
+### Official Reactions
 
-### Participating Banks and Providers
-- Eight Swiss banks: [UBS](https://en.wikipedia.org/wiki/UBS), [PostFinance](https://en.wikipedia.org/wiki/PostFinance), CIC, Valiant, Hypothekarbank Lenzburg, ZKB, LUKB, and BCV.
-- Third-party providers: Fintech startups Bluebudget and Liquid.
-- Technical platform: [bLink](https://en.wikipedia.org/wiki/SIX_Group), subsidiary of [SIX](https://en.wikipedia.org/wiki/SIX_Group).
+- **[Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping)** expressed condolences and demanded utmost efforts to limit the death toll.
+- Hong Kong's Chief Executive **[John Lee](https://en.wikipedia.org/wiki/John_Lee_Ka-chiu)** ordered inspections of all renovation sites.
+- Evacuation hampered by blocked escape routes due to construction measures and rapid smoke/fire spread.
 
-### Security
-- Data flows only with explicit user consent.
-- Only checked, approved providers may access.
-- Bank checks every access directly; bLink encrypts sensitive information.
-- No «open doors» for cyber criminals.
+### Political and Social Context
 
-### International Context
-- In Switzerland, new territory with market-driven approach without state regulation.
-- EU has forced banks to open since 2018 (PSD2).
-- Millions of users in the [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) for budgeting and payments.
-- Widespread in India, Singapore; China de facto open through tech giants like [Alipay](https://en.wikipedia.org/wiki/Alipay) and [WeChat Pay](https://en.wikipedia.org/wiki/WeChat_Pay).
+- Housing shortage in Hong Kong: Highest rents worldwide, often over ten people per apartment; Wang Fuk Court subsidized for workers and lower middle class.
+- Economic crisis (real estate sector, job losses) and dissatisfaction high.
+- Elections to the **[Legislative Council](https://en.wikipedia.org/wiki/Legislative_Council_of_Hong_Kong)** on December 7: Campaign suspended, postponement under review; boycott risk rising due to disaster and lack of opposition since Chinese control tightening.
 
-> Relevance score: [6] - Launch of Open Banking in Switzerland enabling account aggregation; moderate long-term shift in financial services accessibility for citizens.
+> Relevance score: [6] - Hong Kong high-rise fire with 83+ deaths; major humanitarian disaster globally, highlights building safety issues but limited direct Swiss relevance.
+
+## How the Unassuming Dan Driscoll Became a Negotiator
+
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/dan-driscoll-soll-den-ukraine-krieg-beenden-wer-ist-der-studienfreund-von-j-d-vance-ld.1913744) • _Thursday, November 27, 2025, 15:35_
+
+Originally, the Pentagon official wanted to learn about drone production in Kyiv. Then he suddenly had an appointment with Volodymyr Zelenskyy.
+
+### Rise to Peace Mediator
+- The unassuming [Dan Driscoll](https://en.wikipedia.org/wiki/Dan_Driscoll) (late 30s, first lieutenant) has been the administrative-civilian head of the [US Army](https://en.wikipedia.org/wiki/United_States_Army) since February and has advanced alongside [Steve Witkoff](https://en.wikipedia.org/wiki/Steve_Witkoff) and [Jared Kushner](https://en.wikipedia.org/wiki/Jared_Kushner) to become a central US negotiator for Ukraine peace.
+- [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) calls him "our drone guy" due to expertise; Driscoll advocates that every infantryman carry a drone – Ukraine has destroyed Russian equipment worth $10 billion with drones worth $100,000.
+
+### Diplomacy Mission in Kyiv
+- Originally tasked to explore US benefits of Ukrainian drone technology in Kyiv.
+- Suddenly appointment with [Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy) to persuade him to the US 28-point plan.
+  - Crash course: Calendar cleared, weekend diplomatic training including Ukrainian history.
+  - Then talks with Ukrainians in [Geneva](https://en.wikipedia.org/wiki/Geneva) and meeting with Russian delegation in [Abu Dhabi](https://en.wikipedia.org/wiki/Abu_Dhabi).
+
+### Friendship with J.D. Vance
+- Idea for Driscoll's mission comes from [J.D. Vance](https://en.wikipedia.org/wiki/J.D._Vance), Vice President and college friend from [Yale](https://en.wikipedia.org/wiki/Yale_University) days.
+- Both war veterans; first meeting: Pizza dinner of the Yale Veterans Association, where Vance motivated fellow students not to feel out of place.
+- Driscoll praises Vance as the most popular, ideologically flexible student, who later cooperated with [Elizabeth Warren](https://en.wikipedia.org/wiki/Elizabeth_Warren) and [Bernie Sanders](https://en.wikipedia.org/wiki/Bernie_Sanders).
+
+### Reputation as Bridge-Builder
+- Trump brought him to the [Pentagon](https://en.wikipedia.org/wiki/Pentagon) as a "disruptor"; respected across parties.
+  - Defends Trump's National Guard deployment.
+  - Cooperates with Warren against arms lobby (Army repairs own equipment).
+- As a "serious guy," he builds trust – in Washington and now internationally.
+
+> Relevance score: [6] - US official emerges in Ukraine peace efforts; contributes to ongoing global conflict dynamics with potential long-term implications.
+
+## Every Fourth Swiss Struggles with Financial Difficulties
+
+[20 Minuten](https://www.20min.ch/story/vorsorge-panorama-jeder-vierte-schweizer-hat-muehe-ueber-die-runden-zu-kommen-103458461) • _Thursday, November 27, 2025, 09:33_
+
+A new study shows that 38% of Swiss perceive their financial situation as worse. What are the reasons?
+
+### Financial Satisfaction
+- About half of Swiss find it easy or very easy to make ends meet; [Switzerland](https://en.wikipedia.org/wiki/Switzerland) ranks 2nd in Europe behind the [Netherlands](https://en.wikipedia.org/wiki/Netherlands).
+- Around a quarter rate their financial situation as poor to very poor.
+- Satisfaction has remained stable over the last ten years, but slightly declined 2021–2023; it increases with age.
+- 38% report deterioration in the previous year (most common reason: health insurance premiums), 17% improvement, 45% no change.
+- Most satisfied: Couples in retirement age; least satisfied: Single parents of working age.
+
+### Financial Knowledge
+- 58% rate their knowledge of pension and investment matters as good, only 17% feel adequately prepared from school.
+- Self-assessment does not match actual knowledge; many fail to explain five pension terms.
+- Men overestimate themselves more, women have less confidence and more often say "don't know."
+- For financial questions, 39% consult bank advisors, only 7% [Finfluencers](https://en.wikipedia.org/wiki/Finfluencer) or YouTube.
+
+### Savings Opportunities
+- 57% (62% among 18- to 64-year-olds) can save alongside [AHV](https://en.wikipedia.org/wiki/Old_Age_and_Survivors%27_Insurance) and pension fund; less common with income under 6000 francs/month or single parents.
+- Reasons: financial security, emergency reserves, independence.
+
+### Retirement Provision and Expectations
+- Only 20% give high importance to retirement provision, 50% medium; 17% of couples have considered consequences of separation/divorce.
+- Less than half (45%) expect to maintain standard of living in retirement; 55% see goals as unlikely achievable.
+- Main reasons for pessimism: high cost of living, health/care costs, insufficient wages.
+- 71% of retirees: Standard of living not maintained in retrospect.
+
+### Investment Behavior
+- 60% of 18- to 64-year-olds contributed to pillar 3a in 2023.
+- Half of 18- to 80-year-olds own stocks, bonds, or funds (men 61%, women 41%).
+- With 1000 franc gift: 53% to savings account, 32% invest.
+- Non-investors cite: too little knowledge/time, low assets/liquidity, high risk.
+
+> Relevance score: [6] - Study shows 25% of Swiss face financial woes; reveals national economic pressures affecting many households.
 
 
 <details><summary markdown="span">Show unimportant events</summary>
 
-## Trump Does Not Want to Invite South Africa to G20
+## Early Flu Wave: How Well Does the Vaccination Protect?
 
-[Blick](https://www.blick.ch/ausland/keine-einladung-trump-will-suedafrika-nicht-beim-g20-gipfel-haben-id21460881.html) • _Wednesday, November 26, 2025, 21:18_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/radio-srf-1/fruehe-grippesaison-die-schweiz-kraenkelt-habe-ich-covid-oder-grippe) • _Thursday, November 27, 2025, 16:44_
 
-US President Donald Trump wants to prevent South Africa's participation in the 2026 G20 summit in the USA. The Republican wrote on the Truth Social platform that South Africa will not receive an invitation on his instructions.
+The whole country is currently ailing. Science editor Katrin Zöfel provides an overview.
 
-US President Donald Trump (79) has ruled out an invitation for South Africa to the G20 summit next year in the USA in a post on his Truth Social platform. The US President again accused South Africa of a «genocide» against white farmers ... [read more](https://www.blick.ch/ausland/keine-einladung-trump-will-suedafrika-nicht-beim-g20-gipfel-haben-id21460881.html)
+Stuffy nose, sore throat, fever - currently it seems to catch everyone. But what's behind it? Flu or Corona? And is a flu vaccination still worthwhile? Science editor Katrin Zöfel provides an overview.
+Between flu and Corona:... [read more](https://www.srf.ch/radio-srf-1/fruehe-grippesaison-die-schweiz-kraenkelt-habe-ich-covid-oder-grippe)
 
-> Relevance score: [5] - US president's statement excluding South Africa from G20; potential diplomatic tension but speculative without confirmed action or deep impact.
+> Relevance score: [5] - Early flu season in Switzerland with public health advice; affects many seasonally but routine and not structurally transformative.
 
-## Higher Taxes in the United Kingdom: Reeves Presents Budget Plans
+## Gantner, Erni, Kompass: The New People's Tribunes
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/steigende-steuerlast-britinnen-und-briten-zahlen-kuenftig-mehr-steuern) • _Wednesday, November 26, 2025, 19:30_
+[Inside Paradeplatz](https://insideparadeplatz.ch/2025/11/27/gantner-erni-kompass-die-neuen-volks-tribunen/) • _Thursday, November 27, 2025, 06:49_
 
-The measures primarily burden the middle class, the wealthy, and the economy – and the government's popularity.
+Anti-EU movement steals the show from Economiesuisse and Co., Federal Council rushes to help in emergency: No popular vote on EU framework. It's brewing.
 
-One already knew it a year ago. In the big BBC election broadcast in the summer of 2024, then-Prime Minister Rishi Sunak warned that an election victory for the Labour Party could be expensive for Britons. Under Keir Starmer... [read more](https://www.srf.ch/news/international/steigende-steuerlast-britinnen-und-briten-zahlen-kuenftig-mehr-steuern)
+Expected bombshell yesterday from Bern: The Federal Council rejects the Kompass initiative. No counter-proposal.
+The popular initiative submitted in August with over 140,000 signatures is about ensuring that in future for important state... [read more](https://insideparadeplatz.ch/2025/11/27/gantner-erni-kompass-die-neuen-volks-tribunen/)
 
-> Relevance score: [5] - UK tax hikes on business and wealthy; economic policy shift in major neighbor with minor indirect effects on Swiss/European trade.
+> Relevance score: [5] - Swiss anti-EU initiative dispatch and government response; relevant to national governance and EU relations.
 
-## Juso and Green Politicians File Complaint Against Business Bosses Who Visited Trump
+## High-Rise Fire in Hong Kong: How Safe Are Swiss Skyscrapers?
 
-[Watson](https://www.watson.ch/schweiz/wirtschaft/520285672-juso-und-gruene-politiker-zeigen-wirtschaftsbosse-an-die-trump-besuchten) • _Thursday, November 27, 2025, 04:43_
+[20 Minuten](https://www.20min.ch/story/brandgefahr-brand-in-hongkong-wie-sicher-sind-schweizer-wolkenkratzer-103458515) • _Thursday, November 27, 2025, 18:09_
 
-High-ranking business representatives curried favor with Trump for lower tariffs. Now the Juso has filed a complaint for alleged bribery.
+The devastating fire in Hong Kong raises questions about the safety of high-rises in Switzerland.
 
-Juso and Green politicians file complaint against business captains who gave Trump gifts
-High-ranking Swiss business representatives curried favor with Trump for lower tariffs and gave him gifts. Now both the Juso and Green politicians have fil... [read more](https://www.watson.ch/schweiz/wirtschaft/520285672-juso-und-gruene-politiker-zeigen-wirtschaftsbosse-an-die-trump-besuchten)
+Since Wednesday, a high-rise residential complex has been burning in Hong Kong. The death toll has already risen to over 75. The number of injured and missing people continues to rise throughout Thursday.
+Could such a tragedy ... [read more](https://www.20min.ch/story/brandgefahr-brand-in-hongkong-wie-sicher-sind-schweizer-wolkenkratzer-103458515)
 
-> Relevance score: [4] - Partisan Swiss political complaint against business leaders over Trump visit and gifts; minor governance friction without broad economic or civic consequences.
+> Relevance score: [4] - Global tragedy with over 75 deaths raises safety questions for Swiss high-rises, but tenuous direct impact on Switzerland; more awareness than structural change.
 
-## Shots Fired at National Guard Members in Washington
+## Lina Peak: Tallest Swiss Skyscraper to Be Built in Zermatt
 
-[Blick](https://www.blick.ch/ausland/berichte-ueber-mehrere-tote-schuesse-auf-mitglieder-der-nationalgarde-in-washington-gefallen-id21457500.html) • _Wednesday, November 26, 2025, 20:55_
+[Watson](https://www.watson.ch/schweiz/history/697659112-lina-peak-in-zermatt-soll-groesster-schweizer-wolkenkratzer-entstehen) • _Thursday, November 27, 2025, 17:45_
 
-On Wednesday evening Swiss time, shots are fired in the US capital Washington. Target of the attack? Two members of the US National Guard. They succumb to their injuries in the hospital. The shooter was also seriously injured.
+A Valaisan wants to build Switzerland's tallest skyscraper in Zermatt. A 500-million project with 1000 apartments.
 
-Excitement in Washington D.C.: On Wednesday, shots suddenly rang out in the US capital. Armed police then appeared on the streets of the metropolis. Emergency vehicles drove through with blue lights flashing... [read more](https://www.blick.ch/ausland/berichte-ueber-mehrere-tote-schuesse-auf-mitglieder-der-nationalgarde-in-washington-gefallen-id21457500.html)
+Valaisan wants to build Switzerland's tallest skyscraper ... in Zermatt
+A Valaisan wants to build Switzerland's tallest skyscraper in Zermatt. A 500-million project with 1000 apartments. But large construction projects often carry large risks – and sc... [read more](https://www.watson.ch/schweiz/history/697659112-lina-peak-in-zermatt-soll-groesster-schweizer-wolkenkratzer-entstehen)
 
-> Relevance score: [4] - Targeted shooting of US National Guard members in DC; isolated security incident with limited scale beyond immediate US context.
+> Relevance score: [4] - Proposed 500M CHF project for tallest Swiss skyscraper with 1000 units in Zermatt; potential local development risks, but speculative and not yet approved.
 
-## New Prompt Injection Makes Links a Danger for AI Browsers
+## Italy Now Recognizes Femicide as a Criminal Offense
 
-[Swiss IT Magazine](https://www.itmagazine.ch/artikel/86048/Neue_Prompt-Injection_macht_Links_zur_Gefahr_fuer_KI-Browser.html) • _Thursday, November 27, 2025, 06:00_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/neue-strafnorm-in-italien-in-italien-koennen-maenner-neu-wegen-femizid-bestraft-werden) • _Thursday, November 27, 2025, 14:34_
 
-Hashjack is a new variant of prompt injection attacks, in which attackers hide malicious instructions behind the hash mark in links and thus manipulate AI browser assistants, even though the website itself appears innocuous.
+A horrific crime that shocked all of Italy has contributed to tightening criminal law.
 
-Hashjack is a new variant of prompt injection attacks, in which attackers hide malicious instructions behind the hash mark in links and thus manipulate AI browser assistants, even though the website itself appears innocuous.
-27. No... [read more](https://www.itmagazine.ch/artikel/86048/Neue_Prompt-Injection_macht_Links_zur_Gefahr_fuer_KI-Browser.html)
+In Italy, 85 women have already been killed by their husbands or ex-partners this year. Now the Italian parliament has unanimously sent a signal against "this barbarity" (as Prime Minister Giorgia Meloni put it).... [read more](https://www.srf.ch/news/international/neue-strafnorm-in-italien-in-italien-koennen-maenner-neu-wegen-femizid-bestraft-werden)
 
-> Relevance score: [3] - New niche cyber threat targeting AI browsers; technical security issue with limited current scale or structural societal impact.
+> Relevance score: [4] - Italy criminalizes femicide amid rising violence; meaningful social policy in Europe but niche to Swiss civic structures.
 
-## At Least 44 Dead in Fire in Residential Complex
+## Smartphone Detects Hypoglycemia from Voice
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/panorama/grossbrand-in-hongkong-mindestens-44-tote-nach-feuer-in-hochhaus-wohnkomplex-ld.1913648) • _Thursday, November 27, 2025, 02:23_
+[Universität Bern](https://mediarelations.unibe.ch/medienmitteilungen/2025/medienmitteilungen_2025/smartphone_erkennt_unterzuckerung_an_der_stimme/index_ger.html) • _Thursday, November 27, 2025, 09:20_
 
-A fire has broken out in one of the most densely populated places in the world.
+Hypoglycemia is a dangerous diabetes-related emergency. Researchers from Inselspital, University Hospital Bern, and University of Bern show for the first time that the human voice reveals early signs of hypoglycemia. Recordings with a regular smartphone microphone, evaluated with artificial intelligence, could make diabetes management safer and easier in the future.
 
-Reuters
-(dpa)/atz/ost. In the major fire in a residential high-rise complex in Hong Kong, at least 44 people have died. 45 more are in critical condition according to authorities. In addition, 279 people are missing, as Hong Kong... [read more](https://www.nzz.ch/panorama/grossbrand-in-hongkong-mindestens-44-tote-nach-feuer-in-hochhaus-wohnkomplex-ld.1913648)
+Hypoglycemia, medically known as hypoglycemia, is one of the most common and dangerous acute complications in diabetes. It can lead to dizziness, confusion, unconsciousness, or even life-threatening situations within minutes... [read more](https://mediarelations.unibe.ch/medienmitteilungen/2025/medienmitteilungen_2025/smartphone_erkennt_unterzuckerung_an_der_stimme/index_ger.html)
 
-> Relevance score: [3] - Tragic fire in Hong Kong with significant casualties; local disaster without broader structural, economic, or long-term global implications.
+> Relevance score: [3] - Swiss research on AI voice detection for diabetes hypoglycemia; promising medical tech but early-stage and niche.
+
+## Brienz/Brinzauls GR: No More Large Rockfall from Plateau Possible
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/brienz-brinzauls-kein-grosser-abbruch-von-plateau-oberhalb-brienz-gr-mehr-moeglich) • _Thursday, November 27, 2025, 13:21_
+
+Acute rockslide danger averted according to authorities. The unstable plateau has become a debris flow.
+
+The Graubünden village of Brienz/Brinzauls is no longer immediately threatened by a rockslide.
+After processes on the mountain changed on Wednesday, no large collapse of the Eastern plateau is possible anymore, authorities announced on Thursday noon ... [read more](https://www.srf.ch/news/schweiz/brienz-brinzauls-kein-grosser-abbruch-von-plateau-oberhalb-brienz-gr-mehr-moeglich)
+
+> Relevance score: [3] - Rockslide risk averted in Swiss village; local relief with no broader national impact.
+
+## Protests in Turkey Before Pope Leo XIV's Visit
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/umstrittener-papstbesuch-proteste-gegen-den-besuch-des-papstes-in-der-tuerkei) • _Thursday, November 27, 2025, 10:00_
+
+Turkish nationalists rail against Leo XIV. They accuse him of wanting to establish a new Vatican in Turkey.
+
+"Ecumenism is a lie. This is a US conspiracy!" Agitated demonstrators chant these slogans in the Turkish town of Iznik, ancient Nicaea. They are protesting the upcoming Pope's visit.
+Pope... [read more](https://www.srf.ch/news/international/umstrittener-papstbesuch-proteste-gegen-den-besuch-des-papstes-in-der-tuerkei)
+
+> Relevance score: [3] - Nationalist protests against Pope visit in Turkey; localized religious-political tension without major global fallout.
+
+## Unusual Study in Neuruppin: Online Games in Old Age Against Dementia
+
+[Märkische Allgemeine Zeitung](https://www.maz-online.de/lokales/ostprignitz-ruppin/neuruppin/ungewoehnliche-studie-in-neuruppin-online-spiele-im-alter-gegen-demenz-AVYL5ZTLSBEJ7MFYDHM6KBDJC4.html) • _Thursday, November 27, 2025, 17:58_
+
+Curiosity was the deciding factor: Neuruppin resident Ingeborg Harth (82) is one of the participants in a pilot study investigating whether online games help against dementia. Harth is skeptical but has fun with the exercises.
+
+Neuruppin. Ingeborg Harth knows small memory lapses. "Sometimes I forget the name of acquaintances, sometimes a key," says the former veterinary doctor.
+Otherwise, the 82-year-old is spry: Three times a week she does S... [read more](https://www.maz-online.de/lokales/ostprignitz-ruppin/neuruppin/ungewoehnliche-studie-in-neuruppin-online-spiele-im-alter-gegen-demenz-AVYL5ZTLSBEJ7MFYDHM6KBDJC4.html)
+
+> Relevance score: [2] - Small pilot study in Germany on games for dementia prevention; niche health research with no proven scale or immediate civic impact.
+
+## Swiss Left Files Complaint
+
+[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/hat-die-schweiz-trump-bestochen-gruene-und-juso-zeigen-die-sechs-unternehmer-an-die-ihn-im-oval-office-besucht-haben-ld.1913913) • _Thursday, November 27, 2025, 14:57_
+
+Left-wing complaints against entrepreneurs are usually politically motivated. But this time, some legal questions actually arise.
+
+The six entrepreneurs who set out under the name Team Switzerland to remind Donald Trump of Switzerland's economic power are reaping not only gratitude in their home country. FDP co-president Susanne Vincenz-Stauffacher... [read more](https://www.nzz.ch/schweiz/hat-die-schweiz-trump-bestochen-gruene-und-juso-zeigen-die-sechs-unternehmer-an-die-ihn-im-oval-office-besucht-haben-ld.1913913)
+
+> Relevance score: [2] - Swiss left files complaint against entrepreneurs for Trump meeting; partisan political noise with minimal governance impact.
+
+## South Africa Outraged Over Trump's Exclusion
+
+[Blick](https://www.blick.ch/ausland/suedafrika-suedafrika-empoert-ueber-trumps-ausladung-von-g20-gipfel-id21462713.html) • _Thursday, November 27, 2025, 12:36_
+
+South Africa's presidency has expressed outrage over US President Donald Trump's threat that he will not invite the state at the southern tip of Africa to the G20 summit in the US.
+
+Keystone-SDAThe Swiss News Agency
+President Cyril Ramaphosa stated that his country does not accept such insults and punitive measures. South Africa will therefore continue to participate as a G20 member.
+"South Africa is independent un... [read more](https://www.blick.ch/ausland/suedafrika-suedafrika-empoert-ueber-trumps-ausladung-von-g20-gipfel-id21462713.html)
+
+> Relevance score: [2] - South Africa upset over Trump G20 snub; minor diplomatic friction with limited global repercussions.
+
+## Ikea with Sales Drop in Switzerland - That's the Reason
+
+[Watson](https://www.watson.ch/schweiz/konsum-detailhandel/313944010-ikea-mit-umsatzeinbruch-in-der-schweiz-das-ist-der-grund) • _Thursday, November 27, 2025, 08:07_
+
+The Swedish furniture seller counts more customers. But less is left in the cash register.
+
+Price war on sofas and tables: Furniture giant Ikea's sales shrink in Switzerland
+The Swedish furniture seller counts more customers. But less is left in the cash register.
+Benjamin Weinmann / ch media
+The yellow and blue... [read more](https://www.watson.ch/schweiz/konsum-detailhandel/313944010-ikea-mit-umsatzeinbruch-in-der-schweiz-das-ist-der-grund)
+
+> Relevance score: [2] - Ikea sales drop in Switzerland due to price competition; minor retail indicator.
+
+## Greens and Juso File Charges Against "Team Switzerland"
+
+[Blick](https://www.blick.ch/politik/wegen-mutmasslicher-bestechung-gruene-und-juso-zeigen-team-switzerland-an-id21461648.html) • _Thursday, November 27, 2025, 07:53_
+
+Swiss business representatives lobbied Trump for lower tariffs and gave him gifts. Now Juso and Greens are filing charges for alleged bribery.
+
+Céline ZahnoPolitics Editor
+They didn't come empty-handed: A delegation of high-profile Swiss entrepreneurs made it to the Oval Office in early November and achieved a breakthrough in the tariff deal. They handed Trump a gold... [read more](https://www.blick.ch/politik/wegen-mutmasslicher-bestechung-gruene-und-juso-zeigen-team-switzerland-an-id21461648.html)
+
+> Relevance score: [2] - Political parties file bribery complaint over Trump gifts; domestic partisan dispute.
+
+## Dark Matter Found? Much Excitement About a Study
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/wissen/weltraum/das-grosse-kosmische-raetsel-dunkle-materie-gefunden-viel-aufregung-um-eine-studie) • _Thursday, November 27, 2025, 14:30_
+
+A researcher says he has probably found dark matter. But the study doesn't deliver what the headlines promise.
+
+A researcher says he has probably found dark matter. But the study doesn't deliver what the headlines promise. SRF science editor Sandro Della Torre provides an overview.
+Why the excitement?
+A new study by a researcher from the University of Toki... [read more](https://www.srf.ch/wissen/weltraum/das-grosse-kosmische-raetsel-dunkle-materie-gefunden-viel-aufregung-um-eine-studie)
+
+> Relevance score: [1] - Hyped dark matter study that underdelivers; preliminary science with no confirmed breakthrough or practical impact.
+
+## GrapheneOS Can Now Be Installed on All Pixel 10 Devices
+
+[Digitec](https://www.digitec.ch/de/page/grapheneos-fuer-pixel-10-erste-version-mit-experimentellem-support-verfuegbar-40625) • _Thursday, November 27, 2025, 12:21_
+
+It took longer than in the past, but now GrapheneOS is available for all Pixel 10 series devices.
+
+It took longer than in the past, but now GrapheneOS is available for all Pixel 10 series devices – at least in an experimental version.
+GrapheneOS, the Android version without Google services, with a very strong focus on... [read more](https://www.digitec.ch/de/page/grapheneos-fuer-pixel-10-erste-version-mit-experimentellem-support-verfuegbar-40625)
+
+> Relevance score: [1] - Privacy-focused OS update for Pixel phones; tech enthusiast news, no broad societal impact.
+
+## Próspera: The Crypto Private City in the Caribbean
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/prospera-tech-milliardaere-in-der-karibik-privatstadt-im-palmenparadies) • _Thursday, November 27, 2025, 11:30_
+
+Libertarian dreams, Bitcoin economy, and cyborgs: How a private city in Honduras evades state control.
+
+Bryan Johnson put Próspera in the spotlight for the first time last year. The Silicon Valley multimillionaire had gene therapy administered there for $25,000. Johnson has made himself a guinea pig for longevity research... [read more](https://www.srf.ch/news/international/prospera-tech-milliardaere-in-der-karibik-privatstadt-im-palmenparadies)
+
+> Relevance score: [1] - Libertarian crypto enclave in Honduras; fringe experiment with ideological interest but negligible structural relevance.
+
+## Bouygues Telecom Launches AI Studio with Support from Prisme.ai
+
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/bouygues-telecom-startet-ki-studio-mit-unterstuetzung-von-prisme-ai-ce7d5ed3d181f327) • _Thursday, November 27, 2025, 10:36_
+
+The secure AI agents platform Prisme.ai has announced a strategic partnership with Bouygues Telecom to support the telecom company's new AI Studio. The...
+
+The secure AI agents platform Prisme.ai has announced a strategic partnership with Bouygues Telecom to support the telecom company's new AI Studio. The studio provides a unified environment that enables the Ei... [read more](https://ch.marketscreener.com/boerse-nachrichten/bouygues-telecom-startet-ki-studio-mit-unterstuetzung-von-prisme-ai-ce7d5ed3d181f327)
+
+> Relevance score: [0] - French telecom AI partnership; corporate tech business with no scope relevance.
 
 
 </details>
