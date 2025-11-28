@@ -2,360 +2,170 @@
 
 ---
 
-_Updated: Friday, November 28, 2025, 06:26_
+_Updated: Friday, November 28, 2025, 6:21 PM_
 
-## Vladimir Putin Makes Surprising Offer to Europe
+## Poverty in Switzerland Affects Mainly Those Without Jobs and Families
 
-[Blick](https://www.blick.ch/ausland/die-wahrheit-ist-putin-macht-europa-ueberraschendes-angebot-id21464048.html) • _Thursday, November 27, 2025, 16:58_
+[srf.ch](https://www.srf.ch/news/wirtschaft/arm-im-reichen-land-warum-die-armut-in-der-schweiz-nicht-weniger-wird) • _Friday, November 28, 2025, 05:57_
 
-Russia's President Putin has offered to provide written assurance that his country does not plan an attack on Europe. Putin also reaffirmed his willingness for peace negotiations over Ukraine.
+Poverty in Switzerland often returns. Those affected are mainly people without stable jobs and families.
 
-### Putin's Offer to Europe
-- Russia's President [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) is willing to provide written assurance in diplomatic negotiations that Russia does not plan an attack on [Europe](https://en.wikipedia.org/wiki/Europe).
-- He calls accusations of a planned invasion a "lie" and "complete nonsense," which sound "ridiculous" to Russia.
-- Statement at a press conference at the end of his visit to the Kyrgyz capital [Bishkek](https://en.wikipedia.org/wiki/Bishkek).
+### First Comprehensive Federal Poverty Report
+- First report from the [Federal Social Insurance Office](https://en.wikipedia.org/wiki/Federal_Social_Insurance_Office) (FSIO) evaluates all available data on [poverty](https://en.wikipedia.org/wiki/Poverty) in [Switzerland](https://en.wikipedia.org/wiki/Switzerland).
+- 8 to 9% of the population are poor; rate stable for over 10 years despite reduction obligation.
+- Report serves as basis for first national poverty strategy.
 
-### Distrust in the West
-- Putin rejects accusations from German and other European politicians that Russia wants to invade more countries after the [Ukraine](https://en.wikipedia.org/wiki/Ukraine).
-- Doubts about the West since the attack war against Ukraine in 2022; Putin had previously denied similar invasions.
-- Known for breaking agreements; recently drone sightings over central European infrastructure and military facilities.
-- Repeated deployments of [Eurofighter](https://en.wikipedia.org/wiki/Eurofighter_Typhoon) jets in Eastern Europe against Russian provocations.
+### Definition of Poverty
+- Poverty: Household income (incl. social benefits) below social subsistence minimum, which does not cover essential expenses.
+- Important expenses (according to [Swiss Conference for Social Welfare](https://en.wikipedia.org/wiki/Swiss_Conference_for_Social_Welfare) (SKOS)): Housing costs, health, food, clothing, energy, household, care, transport, media, education, leisure, etc.
+- Minimum requirement: Single person 1,061 [Swiss francs](https://en.wikipedia.org/wiki/Swiss_franc) (CHF)/month + housing/health insurance; family with 2 children 2,271 CHF/month.
+- Considers 7 areas of life: Income, education, employment, health, housing, social relations, political participation.
 
-### Peace Negotiations and Demands
-- Putin reaffirms willingness for negotiations over the war that has been going on for almost four years.
-- Next week, US representatives in [Moscow](https://en.wikipedia.org/wiki/Moscow) for talks on ending the war, security guarantees for Ukraine and Europe.
-- Prerequisite: Withdrawal of Ukrainian troops from Russian-occupied parts of [Donetsk](https://en.wikipedia.org/wiki/Donetsk) and [Luhansk](https://en.wikipedia.org/wiki/Luhansk) in the [Donbas](https://en.wikipedia.org/wiki/Donbas).
-- Otherwise, continuation of the war for full control of these areas.
+### Particularly Affected Groups
+- Households with low incomes and high expenses.
+- Non-working people (more frequently than working people).
+- Families:
+  - Single parents.
+  - With more than 2 children.
+- Single dwellers, people with low education, foreigners.
 
-> Relevance score: [7] - Putin's offer of written no-attack assurance on Europe and Ukraine peace talks; geopolitical significance for European security, though credibility questionable.
+### Triggers of Poverty
+- Transitions: Education, working life, retirement (prevention possible).
+- Unforeseeable events: New child, separation, serious illness, death, job loss.
 
-## War Atrocities in Sudan: Survivors Report
+### Reasons for Persistent Poverty
+- Frequent disadvantages: 50% chronically ill, many want to work more (cannot), too small/expensive housing.
+- Poverty rarely permanent, but frequently returns after temporary exit.
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/kriegsgraeuel-im-sudan-das-boese-fuer-das-es-keine-worte-gibt) • _Thursday, November 27, 2025, 14:09_
+### Ways Out of Poverty
+- Individual: New job, relationship, suitable housing, state aid.
+- Structural: Low unemployment does not change rate; lack of coordinated poverty policy (quote from [Aline Masé](https://en.wikipedia.org/wiki/Caritas_Switzerland) of [Caritas Switzerland](https://en.wikipedia.org/wiki/Caritas_Switzerland)).
+- Planned poverty strategy as a glimmer of hope.
 
-The blood is visible from space. Survivors report mass rapes and streets full of corpses.
+### Role of Social Insurance and Benefits
+- Individuals primarily responsible themselves, but expanded social insurance (accident, illness, disability) and benefits.
+- Reduce poverty rate among workers/families from 16% to 6% (2/3 through social insurance).
+- Problem: 20–40% with entitlement do not claim benefits (lack of information, shame, hurdles).
 
-### Survivor Reports from Al-Fasher
-- Survivors like Adam Khamis Abdi report streets full of corpses of neighbors and friends that had to be left behind; Abdi describes what was experienced as indescribable evil ([Channel 4 News](https://en.wikipedia.org/wiki/Channel_4_News)).
-- [Amnesty International](https://en.wikipedia.org/wiki/Amnesty_International) documents statements from 28 survivors about systematized violence by [RSF](https://en.wikipedia.org/wiki/Rapid_Support_Forces) fighters:
-  - Men and friends were shot in front of the eyes of those shot, after lying on the ground.
-  - Abductions for ransom, with videos of shootings for extortion.
-  - Women and daughters pulled from groups and mass raped; Amnesty classifies this as a war crime.
-- Satellite images from [Yale University](https://en.wikipedia.org/wiki/Yale_University) show bloodstains visible from space, empty markets, and traces of systematic body disposal.
+### Data Gaps
+- No analyses of individual poverty trajectories without cantonal tax data.
+- Harmonization blocked; could show successful cantonal policies (demand from Aline Masé).
 
-### Humanitarian Crisis in Tawila
-- Daily, survivors reach the 60 km distant [Tawila](https://en.wikipedia.org/wiki/Tawila,_North_Darfur), one of the last safe places in [Darfur](https://en.wikipedia.org/wiki/Darfur).
-- Jérôme Bertrand from [Handicap International](https://en.wikipedia.org/wiki/Handicap_International) describes arriving people as assaulted, beaten, extorted, abducted, or raped:
-  - Many crawled hundreds of meters or kilometers at night to avoid attackers (scraped knees and elbows).
-  - Severe malnutrition after months-long siege of [El Fasher](https://en.wikipedia.org/wiki/El_Fasher).
-- Approx. 600,000 displaced in Tawila; aid workers at limit due to cuts in international contributions:
-  - Only a quarter of the needed aid possible, dilemmas in prioritization (e.g., water or food).
-- Logistical hurdles: Aid from [Chad](https://en.wikipedia.org/wiki/Chad) over gravel tracks through volcanic chains, arrival delayed up to 2 months.
+> Relevance score: [8] - First comprehensive federal report on poverty in Switzerland, affecting 8-9% of population, especially those without stable jobs or families; highlights structural socioeconomic issues with national civic relevance.
 
-### International Reaction
-- [UN Human Rights Commissioner](https://en.wikipedia.org/wiki/United_Nations_High_Commissioner_for_Human_Rights) [Volker Türk](https://en.wikipedia.org/wiki/Volker_T%C3%BCrk) criticizes: Blood in El Fasher visible from space, stain on the international community's record equally devastating.
-  - Courts must clarify genocide; [Human Rights Council](https://en.wikipedia.org/wiki/United_Nations_Human_Rights_Council) sets up independent fact-finding mission (secure evidence, question survivors, name those responsible).
-- Political stalemate: Ceasefire proposal on table, but neither Sudanese army nor RSF have accepted it ([United States](https://en.wikipedia.org/wiki/United_States) confirms); fighting in other regions of [Sudan](https://en.wikipedia.org/wiki/Sudan) continues.
-- Demand: Safe, permanent humanitarian access.
+## How Switzerland Prolongs Asylum Procedures
 
-> Relevance score: [7] - Reports of mass atrocities in Sudan war; underscores ongoing global humanitarian crisis with structural violence implications.
+[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/alam-erhaelt-kein-bleiberecht-und-lebt-dennoch-jahrelang-hier-wie-die-schweiz-asylverfahren-in-die-laenge-zieht-ld.1910237) • _Friday, November 28, 2025, 05:30_
 
-## More Than 65 Dead and Numerous Missing
+More and more staff process asylum files – but the backlogs remain. The federal government spends millions on people whose prospects for asylum are minimal. A national asylum conference is now taking place.
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/feuersbrunst-in-hongkong-noch-immer-werden-hunderte-menschen-vermisst-ld.1913819) • _Thursday, November 27, 2025, 16:13_
+### Case of Jahangir Alam
+- Jahangir Alam from [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh) applied for asylum in Switzerland in 2015, but was rejected under the [Dublin Regulation](https://en.wikipedia.org/wiki/Dublin_Regulation) because he had previously applied in Italy.
+- After rejection by the [Federal Administrative Court (Switzerland)](https://en.wikipedia.org/wiki/Federal_Administrative_Court_(Switzerland)), he went underground, returned in 2018; SEM took over due to expired deadline.
+- Alam reported persecution as a member of the [Bangladesh Nationalist Party](https://en.wikipedia.org/wiki/Bangladesh_Nationalist_Party) (BNP), fabricated drug charges and arrest warrants – story deemed not credible (contradictions, multiple trips).
+- Asylum rejected in 2020, final court confirmation only in 2024 (four and a half years); costs over 70,000 francs due to accommodation.
 
-The fire in an apartment complex in the north of the city has so far claimed 83 lives. The number is likely to rise further. Apparently, the construction company cut corners.
+### System Reform and Persistent Delays
+- Despite restructuring in 2019 (simplification, more staff at the [State Secretariat for Migration (SEM)](https://en.wikipedia.org/wiki/State_Secretariat_for_Migration)), procedures remain lengthy.
+  - Overloaded infrastructure, asylum seekers without right to stay remain for years.
+  - Asylum seekers from Bangladesh rare (2018: 4 out of 65,000), high rejection rates also in Italy.
 
-### Fire Disaster in Hong Kong
+### Backlogs and Costs
+- Currently over 17,000 open procedures; complaints to the Federal Administrative Court risen to 6,378 (from 2,640 three years ago).
+  - Causes: More complex cases due to SEM clearance of old cases, tightening for Turkish asylum seekers.
+  - Forecast: ~6,000 new complaints by year-end despite additional judges.
+- Monthly global lump sums: 14 million francs for rejected persons; 99.2% of SEM decisions legally sound.
+- Average court procedure duration: 187 days, in cases like Alam much longer due to documents and replications.
 
-- In the **[Wang Fuk Court](https://en.wikipedia.org/wiki/Wang_Fuk_Court)** residential complex in northern Hong Kong ([Tai Po](https://en.wikipedia.org/wiki/Tai_Po,_Hong_Kong)) at least **94 people** have died in a major fire.
-- Nearly **300 people** are still missing, around **80 people** are injured, including firefighters.
-- It is the largest fire disaster in [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong) in 30 years.
-  - The complex with eight residential blocks (each over 30 floors, approx. 4000 residents, nearly 2000 condominiums) was built in 1983 as state-subsidized housing.
+### Political Discussion and Outlook
+- National asylum conference in Bern examines system; cantons put pressure on federal government.
+- Council of States member Benedikt Würth (Center, SG) calls for motion to accelerate: Regulatory simplifications (shorter justifications in clear cases, no suspensive effect for multiple applications).
+  - Criticism of the [Federal Department of Justice and Police](https://en.wikipedia.org/wiki/Federal_Department_of_Justice_and_Police) by Beat Jans: Focus on staff instead of efficiency.
+- Alam currently disappeared, possibly deported or gone underground.
 
-### Course of the Fire
+> Relevance score: [7] - Details prolonged Swiss asylum processing, persistent backlogs despite more staff, high costs for low-success cases, and national conference; significant for Swiss governance and immigration policy.
 
-- The fire broke out on Wednesday afternoon on a **bamboo scaffold** during renovation work and quickly engulfed seven of eight blocks.
-- The fire department has the fire largely under control, but it is still burning in four blocks; complete extinguishing expected by Friday morning.
-- By Thursday evening, over **55 people** had been rescued; search for survivors in lower floors ongoing.
-- Flags in Hong Kong at half-mast; social media full of searches for missing persons (parents, children, household helpers).
+## Putin: Ukraine Withdrawal Condition for End of Fighting
 
-### Causes and Investigations
+[GMX](https://www.gmx.ch/magazine/politik/russland-krieg-ukraine/ukraine-krieg-putin-nennt-harte-bedingung-einstellung-kampfhandlungen-41635146) • _Thursday, November 27, 2025, 19:48_
 
-- Suspicion of shoddy work by the construction company: Use of flammable materials (safety nets, fabrics, plastic sheeting, Styrofoam) that spread the fire raging quickly.
-  - Residents had complained about smoking workers and discarded cigarette butts.
-  - Fire alarms on several floors did not work.
-- Police arrested three leading employees of the construction company on suspicion of manslaughter; investigation ongoing.
-- **Bamboo scaffolds** (traditionally common in Hong Kong, unlike in [China](https://en.wikipedia.org/wiki/China)) combined with plastic nets increased the risk; government plans switch to steel scaffolds.
+Russia's President Putin is ready to end the fighting in the Ukraine war – but sets a hard demand. He sees a possible basis for negotiations in the revised US plan.
 
-### Official Reactions
+### Putin's Condition for Ceasefire
+- Russian President [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) is ready to cease hostilities in the [Russian invasion of Ukraine](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine) if Ukraine withdraws from the areas claimed by Russia.
+  - Affected regions: [Donetsk](https://en.wikipedia.org/wiki/Donetsk_Oblast), [Luhansk](https://en.wikipedia.org/wiki/Luhansk_Oblast), [Kherson](https://en.wikipedia.org/wiki/Kherson_Oblast) and [Zaporizhzhia](https://en.wikipedia.org/wiki/Zaporizhzhia_Oblast).
+- Otherwise, Russia will enforce the withdrawal by "military means"; Putin stated this on November 27 in [Bishkek](https://en.wikipedia.org/wiki/Bishkek), [Kyrgyzstan](https://en.wikipedia.org/wiki/Kyrgyzstan).
 
-- **[Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping)** expressed condolences and demanded utmost efforts to limit the death toll.
-- Hong Kong's Chief Executive **[John Lee](https://en.wikipedia.org/wiki/John_Lee_Ka-chiu)** ordered inspections of all renovation sites.
-- Evacuation hampered by blocked escape routes due to construction measures and rapid smoke/fire spread.
+### US Negotiation Plan
+- Putin sees the revised [US plan](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine) (reduced from 28 to about 20 points) as a possible basis for future agreements.
+- [Kremlin spokesman Dmitry Peskov](https://en.wikipedia.org/wiki/Dmitry_Peskov) described negotiations as "serious".
+- Upcoming talks: US Special Envoy Steve Witkoff in Moscow next week; US Deputy Defense Secretary Dan Driscoll in Kyiv this week.
 
-### Political and Social Context
+### Military Situation
+- Russia controls one fifth of Ukraine; Putin: Russian troops practically unstoppable.
+  - Encircled: [Pokrovsk](https://en.wikipedia.org/wiki/Pokrovsk,_Ukraine) and Myrnohrad in Donetsk.
+  - Advances: Vovchansk ([Kharkiv](https://en.wikipedia.org/wiki/Kharkiv_Oblast)), Siversk (Donetsk), Gulyaypole (Zaporizhzhia).
+- According to [ISW](https://en.wikipedia.org/wiki/Institute_for_the_Study_of_War): Russian advance in 2025 faster (monthly 467 km²).
 
-- Housing shortage in Hong Kong: Highest rents worldwide, often over ten people per apartment; Wang Fuk Court subsidized for workers and lower middle class.
-- Economic crisis (real estate sector, job losses) and dissatisfaction high.
-- Elections to the **[Legislative Council](https://en.wikipedia.org/wiki/Legislative_Council_of_Hong_Kong)** on December 7: Campaign suspended, postponement under review; boycott risk rising due to disaster and lack of opposition since Chinese control tightening.
+### Further Statements
+- Russia plans no attacks on EU states, but "retaliatory measures" if Russian assets frozen.
+- Ukraine categorically rejects territorial cessions; war since February 2022 worst conflict in Europe since WWII.
 
-> Relevance score: [6] - Hong Kong high-rise fire with 83+ deaths; major humanitarian disaster globally, highlights building safety issues but limited direct Swiss relevance.
-
-## How the Unassuming Dan Driscoll Became a Negotiator
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/dan-driscoll-soll-den-ukraine-krieg-beenden-wer-ist-der-studienfreund-von-j-d-vance-ld.1913744) • _Thursday, November 27, 2025, 15:35_
-
-Originally, the Pentagon official wanted to learn about drone production in Kyiv. Then he suddenly had an appointment with Volodymyr Zelenskyy.
-
-### Rise to Peace Mediator
-- The unassuming [Dan Driscoll](https://en.wikipedia.org/wiki/Dan_Driscoll) (late 30s, first lieutenant) has been the administrative-civilian head of the [US Army](https://en.wikipedia.org/wiki/United_States_Army) since February and has advanced alongside [Steve Witkoff](https://en.wikipedia.org/wiki/Steve_Witkoff) and [Jared Kushner](https://en.wikipedia.org/wiki/Jared_Kushner) to become a central US negotiator for Ukraine peace.
-- [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) calls him "our drone guy" due to expertise; Driscoll advocates that every infantryman carry a drone – Ukraine has destroyed Russian equipment worth $10 billion with drones worth $100,000.
-
-### Diplomacy Mission in Kyiv
-- Originally tasked to explore US benefits of Ukrainian drone technology in Kyiv.
-- Suddenly appointment with [Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy) to persuade him to the US 28-point plan.
-  - Crash course: Calendar cleared, weekend diplomatic training including Ukrainian history.
-  - Then talks with Ukrainians in [Geneva](https://en.wikipedia.org/wiki/Geneva) and meeting with Russian delegation in [Abu Dhabi](https://en.wikipedia.org/wiki/Abu_Dhabi).
-
-### Friendship with J.D. Vance
-- Idea for Driscoll's mission comes from [J.D. Vance](https://en.wikipedia.org/wiki/J.D._Vance), Vice President and college friend from [Yale](https://en.wikipedia.org/wiki/Yale_University) days.
-- Both war veterans; first meeting: Pizza dinner of the Yale Veterans Association, where Vance motivated fellow students not to feel out of place.
-- Driscoll praises Vance as the most popular, ideologically flexible student, who later cooperated with [Elizabeth Warren](https://en.wikipedia.org/wiki/Elizabeth_Warren) and [Bernie Sanders](https://en.wikipedia.org/wiki/Bernie_Sanders).
-
-### Reputation as Bridge-Builder
-- Trump brought him to the [Pentagon](https://en.wikipedia.org/wiki/Pentagon) as a "disruptor"; respected across parties.
-  - Defends Trump's National Guard deployment.
-  - Cooperates with Warren against arms lobby (Army repairs own equipment).
-- As a "serious guy," he builds trust – in Washington and now internationally.
-
-> Relevance score: [6] - US official emerges in Ukraine peace efforts; contributes to ongoing global conflict dynamics with potential long-term implications.
-
-## Every Fourth Swiss Struggles with Financial Difficulties
-
-[20 Minuten](https://www.20min.ch/story/vorsorge-panorama-jeder-vierte-schweizer-hat-muehe-ueber-die-runden-zu-kommen-103458461) • _Thursday, November 27, 2025, 09:33_
-
-A new study shows that 38% of Swiss perceive their financial situation as worse. What are the reasons?
-
-### Financial Satisfaction
-- About half of Swiss find it easy or very easy to make ends meet; [Switzerland](https://en.wikipedia.org/wiki/Switzerland) ranks 2nd in Europe behind the [Netherlands](https://en.wikipedia.org/wiki/Netherlands).
-- Around a quarter rate their financial situation as poor to very poor.
-- Satisfaction has remained stable over the last ten years, but slightly declined 2021–2023; it increases with age.
-- 38% report deterioration in the previous year (most common reason: health insurance premiums), 17% improvement, 45% no change.
-- Most satisfied: Couples in retirement age; least satisfied: Single parents of working age.
-
-### Financial Knowledge
-- 58% rate their knowledge of pension and investment matters as good, only 17% feel adequately prepared from school.
-- Self-assessment does not match actual knowledge; many fail to explain five pension terms.
-- Men overestimate themselves more, women have less confidence and more often say "don't know."
-- For financial questions, 39% consult bank advisors, only 7% [Finfluencers](https://en.wikipedia.org/wiki/Finfluencer) or YouTube.
-
-### Savings Opportunities
-- 57% (62% among 18- to 64-year-olds) can save alongside [AHV](https://en.wikipedia.org/wiki/Old_Age_and_Survivors%27_Insurance) and pension fund; less common with income under 6000 francs/month or single parents.
-- Reasons: financial security, emergency reserves, independence.
-
-### Retirement Provision and Expectations
-- Only 20% give high importance to retirement provision, 50% medium; 17% of couples have considered consequences of separation/divorce.
-- Less than half (45%) expect to maintain standard of living in retirement; 55% see goals as unlikely achievable.
-- Main reasons for pessimism: high cost of living, health/care costs, insufficient wages.
-- 71% of retirees: Standard of living not maintained in retrospect.
-
-### Investment Behavior
-- 60% of 18- to 64-year-olds contributed to pillar 3a in 2023.
-- Half of 18- to 80-year-olds own stocks, bonds, or funds (men 61%, women 41%).
-- With 1000 franc gift: 53% to savings account, 32% invest.
-- Non-investors cite: too little knowledge/time, low assets/liquidity, high risk.
-
-> Relevance score: [6] - Study shows 25% of Swiss face financial woes; reveals national economic pressures affecting many households.
+> Relevance score: [7] - Putin conditions Ukraine war end on Ukrainian withdrawal, citing revised US plan as basis; notable development in major global conflict with potential long-term geopolitical impact.
 
 
 <details><summary markdown="span">Show unimportant events</summary>
 
-## Early Flu Wave: How Well Does the Vaccination Protect?
+## Putin on Attack on Europe: "Complete Nonsense"
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/radio-srf-1/fruehe-grippesaison-die-schweiz-kraenkelt-habe-ich-covid-oder-grippe) • _Thursday, November 27, 2025, 16:44_
+[Watson](https://www.watson.ch/international/russland/670960827-putin-ueber-angriff-auf-europa-voelliger-bloedsinn) • _Thursday, November 27, 2025, 20:00_
 
-The whole country is currently ailing. Science editor Katrin Zöfel provides an overview.
+The Russian President is, according to his own words, ready to put the renunciation of an attack against Europe in writing.
 
-Stuffy nose, sore throat, fever - currently it seems to catch everyone. But what's behind it? Flu or Corona? And is a flu vaccination still worthwhile? Science editor Katrin Zöfel provides an overview.
-Between flu and Corona:... [read more](https://www.srf.ch/radio-srf-1/fruehe-grippesaison-die-schweiz-kraenkelt-habe-ich-covid-oder-grippe)
+The Russian President Vladimir Putin is, according to his own words, ready to put the renunciation of an attack against Europe in writing as part of diplomatic negotiations. It is «complete nonsense» to claim that Russia intends to attack Europe z... [read more](https://www.watson.ch/international/russland/670960827-putin-ueber-angriff-auf-europa-voelliger-bloedsinn)
 
-> Relevance score: [5] - Early flu season in Switzerland with public health advice; affects many seasonally but routine and not structurally transformative.
+> Relevance score: [5] - Putin denies Russian plans to attack Europe and offers written guarantee; diplomatic rhetoric amid tensions with moderate European security relevance.
 
-## Gantner, Erni, Kompass: The New People's Tribunes
+## Trump to Attack Venezuelan Drug Traffickers "Very Soon" on Land
 
-[Inside Paradeplatz](https://insideparadeplatz.ch/2025/11/27/gantner-erni-kompass-die-neuen-volks-tribunen/) • _Thursday, November 27, 2025, 06:49_
+[20 Minuten](https://www.20min.ch/story/venezuela-trump-will-drogenhaendler-sehr-bald-auch-an-land-angreifen-103459232) • _Friday, November 28, 2025, 01:40_
 
-Anti-EU movement steals the show from Economiesuisse and Co., Federal Council rushes to help in emergency: No popular vote on EU framework. It's brewing.
+US President Donald Trump announces that the USA will soon also take action against drug traffickers on land.
 
-Expected bombshell yesterday from Bern: The Federal Council rejects the Kompass initiative. No counter-proposal.
-The popular initiative submitted in August with over 140,000 signatures is about ensuring that in future for important state... [read more](https://insideparadeplatz.ch/2025/11/27/gantner-erni-kompass-die-neuen-volks-tribunen/)
+According to US President Donald Trump, the USA wants to «very soon» also take action against Venezuelan drug traffickers on land. «We will also start stopping them on land routes», this will «very soon» begin, said Trump on Thursday... [read more](https://www.20min.ch/story/venezuela-trump-will-drogenhaendler-sehr-bald-auch-an-land-angreifen-103459232)
 
-> Relevance score: [5] - Swiss anti-EU initiative dispatch and government response; relevant to national governance and EU relations.
+> Relevance score: [4] - US president announces expansion of anti-drug operations into Venezuela on land; potential international security implications but limited scale and structural change.
 
-## High-Rise Fire in Hong Kong: How Safe Are Swiss Skyscrapers?
+## After Attack in Washington: Trump Has Green Cards Reviewed
 
-[20 Minuten](https://www.20min.ch/story/brandgefahr-brand-in-hongkong-wie-sicher-sind-schweizer-wolkenkratzer-103458515) • _Thursday, November 27, 2025, 18:09_
+[Blick](https://www.blick.ch/ausland/nach-attacke-in-washington-trump-laesst-green-cards-aus-problematischen-laendern-pruefen-id21465079.html) • _Thursday, November 27, 2025, 23:54_
 
-The devastating fire in Hong Kong raises questions about the safety of high-rises in Switzerland.
+The USA reacts to the deadly attack by an Afghan on National Guard soldiers. Authorities review green cards from 19 «problematic countries» and pause Afghan immigration applications.
 
-Since Wednesday, a high-rise residential complex has been burning in Hong Kong. The death toll has already risen to over 75. The number of injured and missing people continues to rise throughout Thursday.
-Could such a tragedy ... [read more](https://www.20min.ch/story/brandgefahr-brand-in-hongkong-wie-sicher-sind-schweizer-wolkenkratzer-103458515)
+The USA is sealing itself off: President Donald Trump (79) uses the attack in Washington as an occasion for further tightening against migrants.
+The background: On Wednesday (local time), a man from Afghanistan opened fire on National Guard soldiers... [read more](https://www.blick.ch/ausland/nach-attacke-in-washington-trump-laesst-green-cards-aus-problematischen-laendern-pruefen-id21465079.html)
 
-> Relevance score: [4] - Global tragedy with over 75 deaths raises safety questions for Swiss high-rises, but tenuous direct impact on Switzerland; more awareness than structural change.
+> Relevance score: [4] - US tightens green card reviews from 19 countries and pauses Afghan applications post-attack; affects US immigration policy with some global migration relevance but niche.
 
-## Lina Peak: Tallest Swiss Skyscraper to Be Built in Zermatt
+## Israeli Security Forces Shoot Militant Palestinians
 
-[Watson](https://www.watson.ch/schweiz/history/697659112-lina-peak-in-zermatt-soll-groesster-schweizer-wolkenkratzer-entstehen) • _Thursday, November 27, 2025, 17:45_
+[20 Minuten](https://www.20min.ch/story/ramallah-militante-palaestinenser-ergeben-sich-erschossen-103459059) • _Thursday, November 27, 2025, 21:21_
 
-A Valaisan wants to build Switzerland's tallest skyscraper in Zermatt. A 500-million project with 1000 apartments.
+Israeli security forces want to arrest wanted Palestinians in the West Bank. As they leave a building, shots are fired.
 
-Valaisan wants to build Switzerland's tallest skyscraper ... in Zermatt
-A Valaisan wants to build Switzerland's tallest skyscraper in Zermatt. A 500-million project with 1000 apartments. But large construction projects often carry large risks – and sc... [read more](https://www.watson.ch/schweiz/history/697659112-lina-peak-in-zermatt-soll-groesster-schweizer-wolkenkratzer-entstehen)
+In an operation in the West Bank, Israeli security forces killed at least two wanted Palestinians, who reportedly surrendered to the forces beforehand. Israel's army and police said the incident would... [read more](https://www.20min.ch/story/ramallah-militante-palaestinenser-ergeben-sich-erschossen-103459059)
 
-> Relevance score: [4] - Proposed 500M CHF project for tallest Swiss skyscraper with 1000 units in Zermatt; potential local development risks, but speculative and not yet approved.
+> Relevance score: [3] - Routine incident in ongoing West Bank conflict with fatalities; minor escalation in protracted violence, low novel impact.
 
-## Italy Now Recognizes Femicide as a Criminal Offense
+## From Childhood to Old Age - Brain Structure Undergoes Five Phases
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/neue-strafnorm-in-italien-in-italien-koennen-maenner-neu-wegen-femizid-bestraft-werden) • _Thursday, November 27, 2025, 14:34_
+[Radio Central](https://www.radiocentral.ch/news/international/kindheit-bis-alter-gehirnstruktur-durchlaeuft-fuenf-phasen-162611566) • _Thursday, November 27, 2025, 19:54_
 
-A horrific crime that shocked all of Italy has contributed to tightening criminal law.
+Over the course of a lifetime, the brain rewires itself comprehensively five times according to a study. At average ages of about 9, 32, 66 and 83 years, there are turning points in neuronal networking, reports a research team in the journal «Nature Communications».
 
-In Italy, 85 women have already been killed by their husbands or ex-partners this year. Now the Italian parliament has unanimously sent a signal against "this barbarity" (as Prime Minister Giorgia Meloni put it).... [read more](https://www.srf.ch/news/international/neue-strafnorm-in-italien-in-italien-koennen-maenner-neu-wegen-femizid-bestraft-werden)
+The rewiring is each time associated with different ways of thinking in the course of growth, maturation and aging. «The phases provide important clues as to what our brain is best suited for in different life stages or when it is most vulnerable... [read more](https://www.radiocentral.ch/news/international/kindheit-bis-alter-gehirnstruktur-durchlaeuft-fuenf-phasen-162611566)
 
-> Relevance score: [4] - Italy criminalizes femicide amid rising violence; meaningful social policy in Europe but niche to Swiss civic structures.
-
-## Smartphone Detects Hypoglycemia from Voice
-
-[Universität Bern](https://mediarelations.unibe.ch/medienmitteilungen/2025/medienmitteilungen_2025/smartphone_erkennt_unterzuckerung_an_der_stimme/index_ger.html) • _Thursday, November 27, 2025, 09:20_
-
-Hypoglycemia is a dangerous diabetes-related emergency. Researchers from Inselspital, University Hospital Bern, and University of Bern show for the first time that the human voice reveals early signs of hypoglycemia. Recordings with a regular smartphone microphone, evaluated with artificial intelligence, could make diabetes management safer and easier in the future.
-
-Hypoglycemia, medically known as hypoglycemia, is one of the most common and dangerous acute complications in diabetes. It can lead to dizziness, confusion, unconsciousness, or even life-threatening situations within minutes... [read more](https://mediarelations.unibe.ch/medienmitteilungen/2025/medienmitteilungen_2025/smartphone_erkennt_unterzuckerung_an_der_stimme/index_ger.html)
-
-> Relevance score: [3] - Swiss research on AI voice detection for diabetes hypoglycemia; promising medical tech but early-stage and niche.
-
-## Brienz/Brinzauls GR: No More Large Rockfall from Plateau Possible
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/brienz-brinzauls-kein-grosser-abbruch-von-plateau-oberhalb-brienz-gr-mehr-moeglich) • _Thursday, November 27, 2025, 13:21_
-
-Acute rockslide danger averted according to authorities. The unstable plateau has become a debris flow.
-
-The Graubünden village of Brienz/Brinzauls is no longer immediately threatened by a rockslide.
-After processes on the mountain changed on Wednesday, no large collapse of the Eastern plateau is possible anymore, authorities announced on Thursday noon ... [read more](https://www.srf.ch/news/schweiz/brienz-brinzauls-kein-grosser-abbruch-von-plateau-oberhalb-brienz-gr-mehr-moeglich)
-
-> Relevance score: [3] - Rockslide risk averted in Swiss village; local relief with no broader national impact.
-
-## Protests in Turkey Before Pope Leo XIV's Visit
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/umstrittener-papstbesuch-proteste-gegen-den-besuch-des-papstes-in-der-tuerkei) • _Thursday, November 27, 2025, 10:00_
-
-Turkish nationalists rail against Leo XIV. They accuse him of wanting to establish a new Vatican in Turkey.
-
-"Ecumenism is a lie. This is a US conspiracy!" Agitated demonstrators chant these slogans in the Turkish town of Iznik, ancient Nicaea. They are protesting the upcoming Pope's visit.
-Pope... [read more](https://www.srf.ch/news/international/umstrittener-papstbesuch-proteste-gegen-den-besuch-des-papstes-in-der-tuerkei)
-
-> Relevance score: [3] - Nationalist protests against Pope visit in Turkey; localized religious-political tension without major global fallout.
-
-## Unusual Study in Neuruppin: Online Games in Old Age Against Dementia
-
-[Märkische Allgemeine Zeitung](https://www.maz-online.de/lokales/ostprignitz-ruppin/neuruppin/ungewoehnliche-studie-in-neuruppin-online-spiele-im-alter-gegen-demenz-AVYL5ZTLSBEJ7MFYDHM6KBDJC4.html) • _Thursday, November 27, 2025, 17:58_
-
-Curiosity was the deciding factor: Neuruppin resident Ingeborg Harth (82) is one of the participants in a pilot study investigating whether online games help against dementia. Harth is skeptical but has fun with the exercises.
-
-Neuruppin. Ingeborg Harth knows small memory lapses. "Sometimes I forget the name of acquaintances, sometimes a key," says the former veterinary doctor.
-Otherwise, the 82-year-old is spry: Three times a week she does S... [read more](https://www.maz-online.de/lokales/ostprignitz-ruppin/neuruppin/ungewoehnliche-studie-in-neuruppin-online-spiele-im-alter-gegen-demenz-AVYL5ZTLSBEJ7MFYDHM6KBDJC4.html)
-
-> Relevance score: [2] - Small pilot study in Germany on games for dementia prevention; niche health research with no proven scale or immediate civic impact.
-
-## Swiss Left Files Complaint
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/hat-die-schweiz-trump-bestochen-gruene-und-juso-zeigen-die-sechs-unternehmer-an-die-ihn-im-oval-office-besucht-haben-ld.1913913) • _Thursday, November 27, 2025, 14:57_
-
-Left-wing complaints against entrepreneurs are usually politically motivated. But this time, some legal questions actually arise.
-
-The six entrepreneurs who set out under the name Team Switzerland to remind Donald Trump of Switzerland's economic power are reaping not only gratitude in their home country. FDP co-president Susanne Vincenz-Stauffacher... [read more](https://www.nzz.ch/schweiz/hat-die-schweiz-trump-bestochen-gruene-und-juso-zeigen-die-sechs-unternehmer-an-die-ihn-im-oval-office-besucht-haben-ld.1913913)
-
-> Relevance score: [2] - Swiss left files complaint against entrepreneurs for Trump meeting; partisan political noise with minimal governance impact.
-
-## South Africa Outraged Over Trump's Exclusion
-
-[Blick](https://www.blick.ch/ausland/suedafrika-suedafrika-empoert-ueber-trumps-ausladung-von-g20-gipfel-id21462713.html) • _Thursday, November 27, 2025, 12:36_
-
-South Africa's presidency has expressed outrage over US President Donald Trump's threat that he will not invite the state at the southern tip of Africa to the G20 summit in the US.
-
-Keystone-SDAThe Swiss News Agency
-President Cyril Ramaphosa stated that his country does not accept such insults and punitive measures. South Africa will therefore continue to participate as a G20 member.
-"South Africa is independent un... [read more](https://www.blick.ch/ausland/suedafrika-suedafrika-empoert-ueber-trumps-ausladung-von-g20-gipfel-id21462713.html)
-
-> Relevance score: [2] - South Africa upset over Trump G20 snub; minor diplomatic friction with limited global repercussions.
-
-## Ikea with Sales Drop in Switzerland - That's the Reason
-
-[Watson](https://www.watson.ch/schweiz/konsum-detailhandel/313944010-ikea-mit-umsatzeinbruch-in-der-schweiz-das-ist-der-grund) • _Thursday, November 27, 2025, 08:07_
-
-The Swedish furniture seller counts more customers. But less is left in the cash register.
-
-Price war on sofas and tables: Furniture giant Ikea's sales shrink in Switzerland
-The Swedish furniture seller counts more customers. But less is left in the cash register.
-Benjamin Weinmann / ch media
-The yellow and blue... [read more](https://www.watson.ch/schweiz/konsum-detailhandel/313944010-ikea-mit-umsatzeinbruch-in-der-schweiz-das-ist-der-grund)
-
-> Relevance score: [2] - Ikea sales drop in Switzerland due to price competition; minor retail indicator.
-
-## Greens and Juso File Charges Against "Team Switzerland"
-
-[Blick](https://www.blick.ch/politik/wegen-mutmasslicher-bestechung-gruene-und-juso-zeigen-team-switzerland-an-id21461648.html) • _Thursday, November 27, 2025, 07:53_
-
-Swiss business representatives lobbied Trump for lower tariffs and gave him gifts. Now Juso and Greens are filing charges for alleged bribery.
-
-Céline ZahnoPolitics Editor
-They didn't come empty-handed: A delegation of high-profile Swiss entrepreneurs made it to the Oval Office in early November and achieved a breakthrough in the tariff deal. They handed Trump a gold... [read more](https://www.blick.ch/politik/wegen-mutmasslicher-bestechung-gruene-und-juso-zeigen-team-switzerland-an-id21461648.html)
-
-> Relevance score: [2] - Political parties file bribery complaint over Trump gifts; domestic partisan dispute.
-
-## Dark Matter Found? Much Excitement About a Study
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/wissen/weltraum/das-grosse-kosmische-raetsel-dunkle-materie-gefunden-viel-aufregung-um-eine-studie) • _Thursday, November 27, 2025, 14:30_
-
-A researcher says he has probably found dark matter. But the study doesn't deliver what the headlines promise.
-
-A researcher says he has probably found dark matter. But the study doesn't deliver what the headlines promise. SRF science editor Sandro Della Torre provides an overview.
-Why the excitement?
-A new study by a researcher from the University of Toki... [read more](https://www.srf.ch/wissen/weltraum/das-grosse-kosmische-raetsel-dunkle-materie-gefunden-viel-aufregung-um-eine-studie)
-
-> Relevance score: [1] - Hyped dark matter study that underdelivers; preliminary science with no confirmed breakthrough or practical impact.
-
-## GrapheneOS Can Now Be Installed on All Pixel 10 Devices
-
-[Digitec](https://www.digitec.ch/de/page/grapheneos-fuer-pixel-10-erste-version-mit-experimentellem-support-verfuegbar-40625) • _Thursday, November 27, 2025, 12:21_
-
-It took longer than in the past, but now GrapheneOS is available for all Pixel 10 series devices.
-
-It took longer than in the past, but now GrapheneOS is available for all Pixel 10 series devices – at least in an experimental version.
-GrapheneOS, the Android version without Google services, with a very strong focus on... [read more](https://www.digitec.ch/de/page/grapheneos-fuer-pixel-10-erste-version-mit-experimentellem-support-verfuegbar-40625)
-
-> Relevance score: [1] - Privacy-focused OS update for Pixel phones; tech enthusiast news, no broad societal impact.
-
-## Próspera: The Crypto Private City in the Caribbean
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/prospera-tech-milliardaere-in-der-karibik-privatstadt-im-palmenparadies) • _Thursday, November 27, 2025, 11:30_
-
-Libertarian dreams, Bitcoin economy, and cyborgs: How a private city in Honduras evades state control.
-
-Bryan Johnson put Próspera in the spotlight for the first time last year. The Silicon Valley multimillionaire had gene therapy administered there for $25,000. Johnson has made himself a guinea pig for longevity research... [read more](https://www.srf.ch/news/international/prospera-tech-milliardaere-in-der-karibik-privatstadt-im-palmenparadies)
-
-> Relevance score: [1] - Libertarian crypto enclave in Honduras; fringe experiment with ideological interest but negligible structural relevance.
-
-## Bouygues Telecom Launches AI Studio with Support from Prisme.ai
-
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/bouygues-telecom-startet-ki-studio-mit-unterstuetzung-von-prisme-ai-ce7d5ed3d181f327) • _Thursday, November 27, 2025, 10:36_
-
-The secure AI agents platform Prisme.ai has announced a strategic partnership with Bouygues Telecom to support the telecom company's new AI Studio. The...
-
-The secure AI agents platform Prisme.ai has announced a strategic partnership with Bouygues Telecom to support the telecom company's new AI Studio. The studio provides a unified environment that enables the Ei... [read more](https://ch.marketscreener.com/boerse-nachrichten/bouygues-telecom-startet-ki-studio-mit-unterstuetzung-von-prisme-ai-ce7d5ed3d181f327)
-
-> Relevance score: [0] - French telecom AI partnership; corporate tech business with no scope relevance.
+> Relevance score: [2] - Scientific study on brain rewiring phases over lifespan; niche research with no direct structural, civic, or societal impact.
 
 
 </details>
