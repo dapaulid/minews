@@ -2,258 +2,268 @@
 
 ---
 
-_Aktualisiert: Samstag, 29. November 2025, 06:24 Uhr_
+_Aktualisiert: Samstag, 29. November 2025, 18:21 Uhr_
 
-## Trump stellt Politik auf den Kopf: Trump will Russlands besetzte Ukraine-Gebiete anerkennen - Europa reagiert entsetzt
+## Was Sie über die Schweizer Finanzdebatte wissen müssen
 
-[bluewin.ch](https://www.bluewin.ch/de/news/international/trump-russland-ukraine-annektierte-gebiete-anerkennung-friedensplan-2984809.html) • _Freitag, 28. November 2025, 14:13 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/das-parlament-muss-sparen-aber-was-heisst-das-und-was-hat-das-mit-voegeln-zu-tun-das-abc-der-schweizer-finanzdebatte-ld.1913404) • _Samstag, 29. November 2025, 05:30 Uhr_
 
-Laut einem Bericht des «Telegraph» sollen die USA unter Präsident Trump bereit sein, Russlands Kontrolle über besetzte ukrainische Regionen anzuerkennen. Der Vorstoss sorgt in Europa für erhebliche Unruhe.
+Am Dienstag beginnen im Bundeshaus die Diskussionen über das Budget und ein angebliches Sparpaket. Das ist unterhaltsamer, als es klingt.
 
-### US-Vorschlag zur Anerkennung russischer Kontrolle
-- Laut einem Bericht des [Telegraph](https://de.wikipedia.org/wiki/The_Daily_Telegraph) sind die [USA](https://de.wikipedia.org/wiki/Vereinigte_Staaten) unter [Präsident Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump) bereit, die russische Kontrolle über besetzte ukrainische Gebiete de facto anzuerkennen.
-  - Betroffene Regionen: [Krim](https://de.wikipedia.org/wiki/Krim), Teile von [Donezk](https://de.wikipedia.org/wiki/Oblast_Donezk), [Luhansk](https://de.wikipedia.org/wiki/Oblast_Luhansk), [Cherson](https://de.wikipedia.org/wiki/Oblast_Cherson) und [Saporischschja](https://de.wikipedia.org/wiki/Oblast_Saporischschja).
-- Der Vorschlag ist Teil eines überarbeiteten Friedensplans (von 28 auf 19 Punkte reduziert), der einen radikalen Bruch mit der bisherigen US-Außenpolitik darstellt.
+### Hintergrund der Schweizer Finanzdebatte
+- Im Dezember legen [Nationalrat](https://de.wikipedia.org/wiki/Nationalrat_(Schweiz)) und [Ständerat](https://de.wikipedia.org/wiki/Ständerat_(Schweiz)) das Budget für das nächste Jahr fest; diesmal dominiert das umstrittene «[Entlastungspaket 2027](https://de.wikipedia.org/wiki/Bundeshaushalt_der_Schweiz)» mit 57 Massnahmen, vor allem Kürzungen, um die Bundeskasse um 3 Milliarden Franken zu entlasten.
+- Diskussionen beginnen Dienstag im [Bundeshaus](https://de.wikipedia.org/wiki/Bundeshaus_(Bern)); trotz Sparrhetorik steigen Ausgaben von 87 auf 98 Milliarden Franken bis 2029, am stärksten bei [AHV](https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung) und Armee.
+- [Finanzministerin Karin Keller-Sutter](https://de.wikipedia.org/wiki/Karin_Keller-Sutter) verteidigt alle Posten in langen Debatten; Risiko von Chaos bei Budgetabsturz (siehe C).
 
-### Verhandlungen und Beteiligte
-- Trumps Sondergesandter [Steve Witkoff](https://en.wikipedia.org/wiki/Steve_Witkoff) und Schwiegersohn [Jared Kushner](https://de.wikipedia.org/wiki/Jared_Kushner) reisten nach Moskau, um den Plan [Wladimir Putin](https://de.wikipedia.org/wiki/Wladimir_Putin) persönlich zu überbringen.
-- Ukrainische Delegation (u. a. Stabschef [Andrij Jermak](https://de.wikipedia.org/wiki/Andrij_Jermak) und Sicherheitsberater [Rustem Umjerow](https://de.wikipedia.org/wiki/Rustem_Umjerow)) plant Reisen nach Florida ins [Mar-a-Lago](https://de.wikipedia.org/wiki/Mar-a-Lago)-Resort für Beratungen mit Trumps Team.
-- Heikelste Fragen, insbesondere territoriale Neuordnung, sollen in direkten Gesprächen zwischen Trump und [Wolodymyr Selenskyj](https://de.wikipedia.org/wiki/Wolodymyr_Selenskyj) geklärt werden.
+### Das ABC der Finanzpolitik
+#### A–E
+- **A – Ausserordentlichkeit**: Schuldenbremse erlaubt temporäre Ausgaben (z. B. 30 Mrd. für [Corona](https://de.wikipedia.org/wiki/COVID-19-Pandemie)), später kompensiert; aktuell für ukrainische Flüchtlinge.
+- **B – Bauer-Play**: Parlament stockt Agrarkürzungen routinemässig auf (Pflanzkartoffeln, Weinbau), Budget stagniert 30 Jahre.
+- **C – Chaos**: Budgetabsturz droht Unruhe (fast 2015 durch [SVP](https://de.wikipedia.org/wiki/Schweizerische_Volkspartei) und [SP](https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz)); Regeln verhindern Shutdown.
+- **D – Dunkle Wolken**: Bürgerliche Rhetorik für rote Zahlen; Linke kontrastiert mit «Kahlschlag» (K).
+- **E – Entlastung**: Bund spart durch Kürzungen oder Mehreinnahmen, belastet aber Bürger/Firmen.
 
-### Ukrainische Position
-- Die [Ukraine](https://de.wikipedia.org/wiki/Ukraine) lehnt jeden Verzicht auf Territorium konsequent ab; die Verfassung verbietet Abtretungen ohne landesweite Volksabstimmung.
-- Jermak zu [The Atlantic](https://de.wikipedia.org/wiki/The_Atlantic): «Kein vernünftiger Mensch würde ein Dokument unterschreiben, das Land aufgibt.»
+#### F–J
+- **F – Flugreisen**: Departemente sparen, z. B. [Ignazio Cassis](https://de.wikipedia.org/wiki/Ignazio_Cassis) verbietet Business-Class.
+- **G – Gebundene Ausgaben**: Gesetze/Demografie binden Posten wie AHV (20,2 % Bundanteil); schwer kürzbar.
+- **H – Hauptdarstellerin**: Keller-Sutter erträgt endlose Debatten.
+- **I – Internationale Zusammenarbeit**: Entwicklungshilfe leicht kürzbar, Budget stabil.
+- **J – J+S**: Jugend + Sport unantastbar; Bundesrat musste Förderung nach Protest (z. B. [Marco Odermatt](https://de.wikipedia.org/wiki/Marco_Odermatt)) erhöhen.
 
-### Europäische und internationale Reaktionen
-- Europa reagiert entsetzt und alarmiert: Der Schritt würde gewaltsame Grenzverschiebungen legitimieren und einen weltweit wirkenden Präzedenzfall schaffen.
-  - Gruppe von Staaten bekräftigt: Grenzen dürfen nicht mit Gewalt verschoben werden.
-  - EU-Gegenpapier empfiehlt, territoriale Fragen erst nach vollständiger Waffenruhe zu behandeln, ohne Anerkennung russischer Ansprüche.
-- Zitat eines Informanten: «Die Amerikaner achten nicht auf die europäische Position. Europa könne tun, was es wolle.»
+#### K–O
+- **K – Kahlschlag**: Linke warnt vor Abbau von Sozialem/Bildung (übertrieben).
+- **L – Lobbys**: Kantone, Gewerkschaften etc. kollidieren; essenziell für Politik.
+- **M – Malmö**: Streit um 10 Mio. für Nachtzüge als Symbolkürzung.
+- **N – Nutzerfinanzierung**: Höhere Gebühren bei Hochschulen, Verkehr (Verschleierung).
+- **O – Ornithologen**: Vogelschützer etc. protestieren in 16'700 Seiten Vernehmlassungen gegen Kürzungen.
 
-### Weitere Entwicklungen
-- Kremls neuer Sicherheitsstrategieplan sieht vollständige Integration der besetzten Regionen in russische Strukturen innerhalb eines Jahrzehnts vor; Rückzug ausgeschlossen.
-- Veröffentlichte Telefongespräche: Witkoff riet russischen Vertretern, wie sie im Weißen Haus Sympathien gewinnen könnten (z. B. Forderung nach Aufgabe Donezks durch Ukraine); vermutlich von europäischer Behörde geleakt, um Nähe zu Moskau offenzulegen.
+#### P–T
+- **P – Plan B**: Bei Scheitern rabiate 10 %-Kürzungen oder Steuererhöhungen nötig.
+- **Q – Querschnittskürzungen**: Parlament kürzt breit (Personal, IT), Bundesrat umsetzt.
+- **R – Redezeit**: Ständerat uneingeschränkt, Nationalrat limitiert.
+- **S – Sparen**: Meist langsamer Ausgabenanstieg, nicht absoluter Rückgang.
+- **T – Tricks**: Ausserordentliche Finanzierung oder Umbuchungen als Kosmetik.
 
-> Relevance score: [8] - Reported US policy shift on recognizing Russian control in Ukraine could significantly alter global geopolitics and European security, with high long-term significance.
+#### U–Z
+- **U – Unterbieten**: Bei Patt gilt niedrigerer Betrag (Strategie).
+- **V – Verbundaufgaben**: Bund/Kantone teilen (Hochschulen, Verkehr); Entflechtung unsicher.
+- **W – Wohlfahrt**: Boom-Bereich (30 Mrd. von 80 Mrd.); Shift von Militär zu Sozialem.
+- **X – Tag X**: Referendum 27.9.2026 möglich; Genf-Rettung durch Steuern.
+- **Y – Yvorne**: 10 Mio. extra für Weinbau.
+- **Z – Zweckpessimismus**: Linker Vorwurf an Keller-Sutter; Einnahmenprognosen präzise, Reste übrig.
 
-## Pfister schlägt Mehrwertsteuererhöhung für Armeeausgaben vor
+> Relevance score: [8] - Swiss parliamentary budget discussions directly impact national fiscal policy, public spending, and economy, with high civic relevance for Switzerland.
 
-[Blick](https://www.blick.ch/politik/brisanter-plan-von-martin-pfister-durchgesickert-kommt-jetzt-der-mehrwertsteuer-schock-id21465501.html) • _Freitag, 28. November 2025, 08:47 Uhr_
+## Institut Pasteur warnt: Vogelgrippe könnte schlimmer als Covid werden
 
-Verteidigungsminister Martin Pfister will offenbar die Mehrwertsteuer zugunsten der Armee anheben. Die Konsumsteuer rückt damit an mehreren Fronten ins Zentrum – und in Bundesbern zeichnet sich eine heisse Debatte ab.
+[20 Minuten](https://www.20min.ch/story/vogelgrippe-koennte-schlimmer-als-covid-werden-warnung-vor-neuer-pandemie-103459442) • _Samstag, 29. November 2025, 05:10 Uhr_
 
-### Vorschlag von Verteidigungsminister Pfister
-- [Martin Pfister](https://de.wikipedia.org/wiki/Martin_Pfister) (Mitte) plant eine Anhebung der [Mehrwertsteuer](https://de.wikipedia.org/wiki/Mehrwertsteuer) um 0,5 Prozentpunkte, um jährlich 1,75 Milliarden Franken für die Armee zu generieren.
-- Ziel: Schnellere Aufrüstung gegen hybride Kriegsführung, inklusive weiterer Luftabwehrsysteme.
-- Vorschlag sickerte aus einer sicherheitspolitischen Klausur des [Bundesrats](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)) durch, bei der Pfister militärische Führungskräfte mitbrachte und auf rasche Mehrfinanzierung pochte.
+Das H5-Vogelgrippe-Virus birgt das Risiko einer Mutation, die eine neue Pandemie auslösen könnte.
 
-### Begründung und Umsetzung
-- Basierend auf Einschätzungen, dass [Russland](https://de.wikipedia.org/wiki/Russland) 2028 oder 2029 erneut Europa angreifen könnte.
-- Erhöhung frühestens 2028 möglich, erfordert Volksabstimmung.
-- Alternative wie Lockerung der Schuldenbremse politisch schwierig, wie unter Vorgängerin [Viola Amherd](https://de.wikipedia.org/wiki/Viola_Amherd) (Mitte) gezeigt.
+### Warnung des [Institut Pasteur](https://de.wikipedia.org/wiki/Institut_Pasteur)
+- Das [Vogelgrippe](https://de.wikipedia.org/wiki/Vogelgrippe)-Virus H5 könnte bei Mutation eine Pandemie auslösen, die schwerwiegender als [Covid-19](https://de.wikipedia.org/wiki/COVID-19) verläuft.
+- Virus grassiert derzeit bei Wildvögeln, Geflügel und Säugetieren weltweit.
+- Warnung von Marie-Anne Rameix-Welti, medizinischer Leiterin des Zentrums für Atemwegsinfektionen in Paris.
 
-### Mehrwertsteuer im Fokus
-- Mehrfache Erhöhungen drohen durch 13. [AHV](https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung)-Rente (ab Dezember 2026, Kosten 4–5 Mrd. Franken/Jahr).
-  - [Innenministerin Elisabeth Baume-Schneider](https://de.wikipedia.org/wiki/Elisabeth_Baume-Schneider) (SP) schlägt 0,7 Prozentpunkte vor.
-  - Ständerat favorisiert Mischvariante aus Lohnbeiträgen und Mehrwertsteuer.
-- 2024 diskutiertes «Sicherheitsprozent» von Benedikt Würth (Mitte): 0,4 Punkte Armee, 0,6 Punkte AHV – vom Bundesrat abgelehnt, aber Mehrwertsteuer als Finanzierungsoption anerkannt ([Tamedia](https://de.wikipedia.org/wiki/Tamedia)-Bericht).
+### Befürchtete Anpassung an den Menschen
+- Kritische Mutation: Übertragung von Mensch zu Mensch möglich.
+- Menschen haben keine Antikörper gegen H5-Stamm (im Gegensatz zu saisonalen H1/H3-Grippen).
+- Könnte auch gesunde Erwachsene und Kinder töten, anders als Covid-19, das vor allem Ältere und Vorerkranke trifft.
 
-> Relevance score: [7] - Swiss defense minister proposes VAT increase for military funding; significant national fiscal and security policy debate with civic impact.
+### Aktuelle Fälle und Massnahmen
+- Sporadische Humaninfektionen durch engen Tierkontakt, z. B. H5N1.
+- Kürzlich: Mann in Washington (USA) mit H5N5 infiziert, verstorben (hatte Vorerkrankungen).
+- Schweiz: Bund erweiterte Präventionsmassnahmen vergangene Woche auf gesamtes Land.
 
-## Razzia bei Selenskis Stabschef
+### Risikoeinschätzung und Vorbereitung
+- Pandemie-Risiko gilt als gering ([WOAH](https://de.wikipedia.org/wiki/Weltorganisation_f%C3%BCr_Tiergesundheit)/Gregorio Torres).
+- Welt besser vorbereitet als 2020:
+  - Bestehende Impfstoff-Kandidaten.
+  - Rasche Produktion möglich.
+  - Antivirale Medikamente gegen H5 wirksam.
+- Experten fordern Vorbereitung, trotz niedriger Wahrscheinlichkeit.
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/korruptionsaffaere-in-der-ukraine-hausdurchsuchung-bei-selenskis-engstem-vertrauten-ld.1914065) • _Freitag, 28. November 2025, 17:14 Uhr_
+> Relevance score: [7] - Warning of potential severe bird flu pandemic poses global health risk with long-term societal impact, though speculative without current outbreak.
 
-Der Leiter der Präsidialverwaltung galt als graue Eminenz der ukrainischen Politik. Trotz heftiger Kritik im Zuge hielt Präsident Selenski lange an seinem engsten Vertrauten fest. Nun ist Andri Jermak zurückgetreten.
+## Software-Probleme - Rund 6000 Airbus-Flugzeuge benötigen neue Software
 
-### Rücktritt von Andrij Jermak
-- Präsident [Wolodymyr Selenskyj](https://de.wikipedia.org/wiki/Wolodymyr_Selenskyj) kündigte in seiner abendlichen Videoansprache den Rücktritt von [Andrij Jermak](https://de.wikipedia.org/wiki/Andrij_Jermak), Leiter der Präsidialverwaltung und engstem Vertrauten, an.
-- Jermak leitete kürzlich die ukrainische Delegation bei Gesprächen in Genf zum US-Friedensplan.
-- Selenskyj betonte, inmitten von Friedensverhandlungen brauche die Ukraine innere Stärke ohne Gerüchte; Jermak habe die Position korrekt vertreten, das Amt werde neu besetzt.
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/software-probleme-rund-6000-airbus-flugzeuge-benoetigen-neue-software) • _Samstag, 29. November 2025, 01:31 Uhr_
 
-### Razzia und Ermittlungen
-- Frü Morgens durchsuchten Mitarbeiter des [Nationalen Antikorruptionsbüros (NABU)](https://de.wikipedia.org/wiki/Nationales_Antikorruptionsb%C3%BCro_der_Ukraine) und der [Sonderstaatsanwaltschaft für Korruptionsverbrechen (SAPO)](https://de.wikipedia.org/wiki/Spezialisierte_Antikorruptionsstaatsanwaltschaft) Jermaks Wohnung.
-- Die Razzia steht im Zusammenhang mit "Operation Midas", einer seit 15 Monaten laufenden Ermittlung zu Korruption in strategischen Staatsbereichen, basierend auf abgehörten Telefongesprächen.
+Wegen eines Software-Problems dürfen Tausende Airbus-Passagierflugzeuge vom Typ A320 vorläufig nicht mehr starten.
 
-### Details zur Operation Midas
-- Im Energiesektor mussten Zulieferer Schmiergelder von 10–15 % des Vertragswerts zahlen, um Aufträge zu erhalten; insgesamt bis 100 Millionen Dollar veruntreut.
-- Zentrale Figur: [Timur Minditsch](https://de.wikipedia.org/wiki/Tymur_Myndar), früherer Geschäftspartner Selenskyjs, der vor dem Zugriff nach Israel floh.
-  - Zwei Minister entlassen.
-  - Mehrere Festnahmen.
+### Software-Problem bei Airbus
+- Rund 6000 [Airbus](https://de.wikipedia.org/wiki/Airbus)-Flugzeuge benötigen ein Software-Update.
 
-### Spekulationen zu Jermak
-- Keine konkreten Anschuldigungen gegen Jermak, aber Spekulationen, er sei die Person mit Decknamen "Ali Baba" in Telefonmitschnitten.
-- Opposition forderte Rücktritt, da Jermak Macht im Präsidentenpalast bündle und Korruption durch Umfeld fördere.
+### Auswirkungen in Europa
+- [Air France](https://de.wikipedia.org/wiki/Air_France) streicht wegen Überprüfungen an [A320](https://de.wikipedia.org/wiki/Airbus_A320)-Maschinen am Freitag 35 Flüge.
+- [EasyJet](https://de.wikipedia.org/wiki/EasyJet) gibt Entwarnung: Update bei vielen Maschinen bereits installiert, weitgehend normaler Betrieb geplant.
+- [Lufthansa](https://de.wikipedia.org/wiki/Lufthansa) zieht Flugzeuge kurzzeitig für Reparaturen aus dem Verkehr, rechnet für das Wochenende mit kleiner Anzahl von Ausfällen; Auswirkungen auf [Swiss](https://de.wikipedia.org/wiki/Swiss_International_Air_Lines) unbekannt.
 
-### Jermaks Einfluss und Kritik
-- Als "graue Eminenz" galt Jermak als mächtigster Mann nach Selenskyj; mischte in Entscheidungen mit:
-  - Verspäteter Rückzug aus [Bachmut](https://de.wikipedia.org/wiki/Schlacht_um_Bachmut) (Frühling 2023) mit unnötigen Opfern.
-  - Absetzung des Oberbefehlshabers [Waleri Saluschnyj](https://de.wikipedia.org/wiki/Waleri_Saluschnyj).
-- Vermuteter Hintermann eines gescheiterten Gesetzesvorstoßes zur politischen Kontrolle von NABU und SAPO.
-- Trotz Druck hielt Selenskyj lange an ihm fest, ernannte ihn sogar zum Verhandlungsleiter; Razzia machte ihn untragbar.
+### Auswirkungen weltweit
+- In Ozeanien: [Jetstar](https://de.wikipedia.org/wiki/Jetstar_Airways) und [Air_New_Zealand](https://de.wikipedia.org/wiki/Air_New_Zealand) streichen erste Flüge in Australien und Neuseeland.
+- [All_Nippon_Airways](https://de.wikipedia.org/wiki/All_Nippon_Airways) in Japan: 65 Flüge am Samstag ausgefallen.
+- Kolumbianische [Avianca](https://de.wikipedia.org/wiki/Avianca): Fast 70 % der Flotte am Boden, Ticketverkauf vorerst eingestellt.
+- [American_Airlines](https://de.wikipedia.org/wiki/American_Airlines): Nur kurze Unterbrüche.
 
-> Relevance score: [6] - Resignation of Ukraine's top aide amid corruption scandal impacts wartime governance credibility, with moderate global implications for the ongoing conflict, but not a structural shift.
+> Relevance score: [7] - Global aviation safety issue grounding thousands of aircraft affects travel, economy, and safety on international scale including Swiss carriers.
 
-## Gipfel: Jans erklärt geplante Änderungen im Asylwesen ab 2027
+## Zoll-Deal mit Trump: Gantner kritisiert Bundesräte, diese kontern
 
-[20 Minuten](https://www.20min.ch/story/medienkonferenz-beat-jans-informiert-das-soll-sich-ab-2027-im-asylwesen-aendern-103459300) • _Freitag, 28. November 2025, 16:41 Uhr_
+[20 Minuten](https://www.20min.ch/story/zoll-deal-mit-trump-waeren-zoelle-von-10-statt-15-prozent-moeglich-gewesen-bund-kontert-103459750) • _Freitag, 28. November 2025, 20:46 Uhr_
 
-Bundesrat Beat Jans und die Kantone diskutieren neue Strategien zur Verbesserung des Asylverfahrens. Welche Massnahmen sind geplant?
+Der Milliardär Gantner behauptet, die Schweiz hätte bessere Zollbedingungen erzielen können. Der Bund widerspricht entschieden.
 
-### Asyl-Gipfel in Bern
-- Bundesrat [Beat Jans](https://de.wikipedia.org/wiki/Beat_Jans) ([SP](https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz)) traf Vertreter von Bund, Kantonen, Gemeinden und Städten zur Analyse der Asylsituation.
-- Alle Staatsebenen erkennen Handlungsbedarf im Rahmen der [Asylstrategie 2027](https://de.wikipedia.org/wiki/Asylpolitik_der_Schweiz) an.
+### Hintergrund des Zoll-Deals
+- Der Zoll-Deal zwischen der [Schweiz](https://de.wikipedia.org/wiki/Schweiz) und der [Trump](https://de.wikipedia.org/wiki/Donald_Trump)-Regierung der [USA](https://de.wikipedia.org/wiki/Vereinigte_Staaten) senkt Strafzölle auf 15 Prozent.
+- [Alfred Gantner](https://de.wikipedia.org/wiki/Alfred_Gantner), Mitgründer von «Team Switzerland» und Teil der Delegation, kritisiert Verzögerungen des Bundes.
+- Delegation überzeugte Trump mit «goldenen Gaben».
 
-### Geplante Änderungen im Asylwesen
-- Beschleunigung von Asylverfahren und rascherer Abbau von Pendenzen.
-- System schwankungstauglicher gestalten.
-- Verbindlichere Förderung der Integration.
-- Prüfung eines vorgelagerten Verfahrens für Personen ohne Schutzanspruch zur Entlastung der Strukturen.
-- Zitat Jans: «Ein Systemwechsel steht nicht zur Debatte. Wer Anspruch hat auf Schutz, der findet ihn in der Schweiz. [...] schnellere Entscheide, schnellere Rückkehr und schnellere Integration.»
+### Vorwürfe von Gantner
+- Schweiz hätte 10 statt 15 Prozent Zollreduktion erreichen können.
+- Deal von Staatssekretärin [Helene Budliger Artieda](https://de.wikipedia.org/wiki/Helene_Budliger_Artieda) sei Anfang Mai bereit gewesen.
+- Verzögerung durch Widerstand aus [Bundesbern](https://de.wikipedia.org/wiki/Bundesbern) wegen [EU](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union)-Verträge: «[Bilaterale III](https://de.wikipedia.org/wiki/Bilaterale_Vertr%C3%A4ge_zwischen_der_Schweiz_und_der_EU#Bilaterale_III) erlauben uns keinen US-Deal».
+- Aussage bei FDP-[Schwyz](https://de.wikipedia.org/wiki/Kanton_Schwyz)-Veranstaltung Anfang September, berichtet von «Aargauer Zeitung».
 
-### Sicherheit und Regelverstöße
-- Gesetzliche Anpassungen zur Stärkung der Akzeptanz und Handlungsfähigkeit bei straffälligen Personen.
-- Stärkung des Wegweisungsvollzugs für Ausreisepflichtige.
-- Weiterentwicklung der Taskforce gegen Intensivtäter.
-- [Philippe Müller](https://de.wikipedia.org/wiki/Philippe_M%C3%BCller_(Politiker,_1967)) (FDP, Vertreter der Justiz- und Polizeidirektoren): «Zentral ist für uns, dass sich Personen, die in die Schweiz kommen, an unsere Regeln halten. Verletzen sie die Regeln, ist eine entschlossene Reaktion nötig.»
+### Konter von Budliger Artieda
+- Deal war erst Anfang Juli bereit, nicht Mai.
+- EU-Verträge nicht Grund für Verzögerung: «Nein, Fredy, nein, das ist nicht der Grund».
+- Budliger Artieda (60, [Seco](https://de.wikipedia.org/wiki/Staatssekretariat_f%C3%BCr_Wirtschaft)-Sekretärin) sprach an selber Veranstaltung.
 
-### Schutzstatus S
-- Einbettung ins Gesamtsystem mit klarer Regelung für Aufhebung oder Übergang in [Status B](https://de.wikipedia.org/wiki/Aufenthaltsbewilligung_(Schweiz)) (Aufenthaltsbewilligung).
-- Besonders betroffen: [Ukrainische Bürger](https://de.wikipedia.org/wiki/Ukraine).
-- Herausforderungen bei Unterbringung, Ungleichbehandlungen (z. B. Reise-Möglichkeiten, Sozialhilfe) und Vorbereitung auf geregelte Rückkehr.
-- [Hanspeter Hilfiker](https://de.wikipedia.org/wiki/Hanspeter_Hilfiker) (FDP, Aarauer Stadtpräsident): Unterbringung ist grosse Herausforderung, Neustrukturierung nötig.
+### Stellungnahme von Bundesrat [Beat Jans](https://de.wikipedia.org/wiki/Beat_Jans)
+- Widerspricht Vorwurf der Verzögerung zugunsten EU-Pakets: «Ich weiß nicht, woher die Behauptung kommt, sie ist falsch».
+- «Wer behauptet, ich hätte den US-Deal verzögert mit Blick auf das EU-Paket, erzählt Unwahrheiten».
+- Bundesrat wolle Zollprobleme im Schweizer Interesse lösen, «das gilt heute und im Mai, für jedes Mitglied der Landesregierung».
 
-### Nächste Schritte
-- Umgehende Umsetzung identifizierter Massnahmen.
-- Ausarbeitung weiterer mittel- und langfristiger Massnahmen.
-- Jans warnt vor Unterschätzung der Strategie, freut sich auf Zusammenarbeit; Umsetzung je nach Bereich unterschiedlich langwierig.
+> Relevance score: [7] - Debate over Swiss-US trade deal affects national trade policy and economy, with direct civic relevance in Switzerland.
 
-> Relevance score: [6] - Swiss federal plans to reform asylum procedures from 2027 affect national migration policy and civic resources, with moderate long-term governance relevance.
+## Haushalt 2026: Deutschland lebt auf grossem Fuss
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/deutschlands-haushalt-2026-die-republik-lebt-zu-einem-grossen-teil-auf-pump) • _Freitag, 28. November 2025, 20:12 Uhr_
+
+Kanzler Merz setzt auf eine grosse Investitionsoffensive. Doch Kritiker warnen vor einer gefährlichen Schuldenspirale.
+
+### Neuer Haushalt 2026
+- Die Regierung unter [Kanzler Friedrich Merz](https://de.wikipedia.org/wiki/Friedrich_Merz) ([CDU/CSU](https://de.wikipedia.org/wiki/CDU/CSU) und [SPD](https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands)) verabschiedet ihren ersten Haushalt mit 525 Milliarden Euro Ausgaben.
+- Basierend auf massiver Neuverschuldung, nach dem Zerbrechen der vorherigen Ampel-Regierung am Haushaltsthema.
+
+### Aufhebung der Schuldenbremse
+- Sofortige Beseitigung der [Schuldenbremse](https://de.wikipedia.org/wiki/Schuldenbremse), um Handlungsspielraum zu öffnen.
+- Mehr Geld fließt in Verkehr und vor allem Verteidigung ([Bundeswehr](https://de.wikipedia.org/wiki/Bundeswehr)).
+
+### Investitionsoffensive und Schuldenvolumen
+- Devise «Whatever it takes» von Kanzler Merz; [Finanzminister Lars Klingbeil](https://de.wikipedia.org/wiki/Lars_Klingbeil) spricht von Investitionen zur Wirtschaftsankurbelung.
+- Neuverschuldung:
+  - Kernhaushalt: fast 100 Milliarden Euro.
+  - Inklusive Sondervermögen (Bundeswehr, Infrastruktur): 180 Milliarden Euro.
+- Begründung: Notwendig gegen marode Brücken, Schienen und fehlende Digitalisierung; Zinsen 2026 so hoch wie Bildung plus Gesundheit zusammen.
+
+### Kritikpunkte
+- Wirtschaftsinstitute und Opposition: Tricks und Kniffs statt echter Zusatzinvestitionen; Staatsverschuldung steigt bei sinkender Wirtschaftskraft.
+- 40 % in Arbeit und Soziales, größtenteils Rente; Wahlgeschenke halten Koalition zusammen, Rentenreform folgt später.
+- Status Quo zementiert statt zukunftsorientierte Projekte.
+
+### Ausblick 2027
+- Wahre Prüfung: Weniger Geld, Sparen oder Steuern erhöhen.
+- [Grüne](https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen)-Politikerin Paula Piechotta: Letzter funktionaler Haushalt, 2027 große Lücken; Koalition muss Verzicht beweisen.
+
+> Relevance score: [7] - Germany's massive deficit budget influences European economy and Swiss trade/partnerships significantly.
+
+## In Pokrowsk leisten die Verteidiger zäh Widerstand
+
+[NZZ](https://www.nzz.ch/international/die-ukrainer-leisten-zaehen-widerstand-in-pokrowsk-aber-sie-riskieren-damit-hohe-verluste-und-ihre-umzingelung-ld.1914109) • _Samstag, 29. November 2025, 05:30 Uhr_
+
+Während um Friedenspläne gerungen wird und in Kiew die Korruptionsaffäre brodelt, haben die Kämpfe an der Hauptfront bei Pokrowsk nicht nachgelassen. Zur Verwunderung vieler harren die Ukrainer im dortigen Kessel aus und wagen sogar Gegenangriffe.
+
+### Aktuelle Lage in Pokrowsk-Mirnohrad
+- Die ukrainischen Verteidiger leisten zähen Widerstand in der belagerten Doppelstadt [Pokrowsk](https://de.wikipedia.org/wiki/Pokrowsk)-[Mirnohrad](https://de.wikipedia.org/wiki/Mirnohrad) im [Donbass](https://de.wikipedia.org/wiki/Donbass), trotz hoher Verluste und drohender Umzingelung.
+- Russen haben die Agglomeration (vor dem Krieg ca. 100.000 Einwohner) fast vollständig eingeschlossen, aber eine letzte Versorgungsroute über schmale Feldwege ermöglicht weiterhin Nachschub.
+- Ukrainer konzentrieren sich auf Mirnohrad, während westliches Pokrowsk russisch dominiert; Kämpfe toben jedoch nördlich und im Zentrum mit täglichen Kamikazedrohnen-Angriffen.
+
+### Zerstörung und russische Fortschritte
+- Russen erobern wie bei früheren Schlachten um [Bachmut](https://de.wikipedia.org/wiki/Bachmut), [Awdijiwka](https://de.wikipedia.org/wiki/Awdijiwka) oder [Wuhledar](https://de.wikipedia.org/wiki/Wuhledar) nur eine Trümmerlandschaft mit Geistersiedlungen.
+- Drohnenvideos zeigen Kleindrohnen-Jagd auf Infanterie, zerstörte Fahrzeuge (viele westliche Panzer) entlang der Verbindungsroute.
+- Die letzte Nachschubroute liegt in Reichweite russischer Kampfdrohnen; Transporte erfolgen meist zu Fuß, nur bei Nebel oder schlechtem Wetter mit Fahrzeugen möglich; Ukrainer nutzen Transportdrohnen bei gutem Wetter.
+
+### Ukrainische Gegenmaßnahmen
+- Kiew schickt umfangreiche Verstärkungen, verteidigt Flanken bei Rodinske (östlich) und Hrischine (westlich) mit Gegenangriffen.
+- Sondereinheiten wie das 425. Sturmregiment «Skelja» und das 3. Regiment der Spezialtruppen führen Nadelstichaktionen im Stadtzentrum durch, z. B. Hinterhaltangriffe aus Wohnquartieren.
+- Vor einem Monat landeten HUR-Sondereinheiten mit US-Black-Hawk-Helikoptern; diese Taktik verlangsamt russischen Vormarsch, sichert aber nur flüchtige Präsenz.
+
+### Gründe für ausbleibenden Rückzug
+- Westliche Experten wie der Pole [Konrad Muzyka](https://en.wikipedia.org/wiki/Konrad_Muzyka) kritisieren, dass Kiew den besten Rückzugszeitpunkt verpasst und Elite-Truppen unnötig opfert; Reserven fehlen nun anderswo.
+- Ukrainischer Aktivist [Serhi Sternenko](https://de.wikipedia.org/wiki/Serhij_Sternenko) wirft der Führung wiederholte Fehler vor.
+- Politische Motive: Furcht vor Demoralisation und Niederlage; Einmischung von [Andri Jermak](https://de.wikipedia.org/wiki/Andrij_Jermak), Chef des Präsidialbüros, inmitten Korruptionsaffäre.
+- Strategisch: Pokrowsk als Verkehrsknotenpunkt aufhalten, um russischen Angriff auf [Kramatorsk](https://de.wikipedia.org/wiki/Kramatorsk) zu verhindern.
+
+> Relevance score: [6] - Ongoing frontline developments in Ukraine-Russia war have global implications for European security and Swiss interests in stability, but specific battle lacks immediate structural shift.
+
+## Orban trifft Putin: Friedensgespräche und Energiedeals im Fokus
+
+[Blick](https://www.blick.ch/ausland/brisantes-treffen-in-moskau-unter-dieser-bedingung-ist-putin-fuer-ein-treffen-mit-trump-bereit-id21468551.html) • _Freitag, 28. November 2025, 22:03 Uhr_
+
+Der ungarische Ministerpräsident Viktor Orban traf am Freitag in Moskau Wladimir Putin, um für ein Ende des Ukraine-Kriegs zu werben. Orban begrüsste neue Perspektiven für Friedensverhandlungen und hofft auf stabile Öl- und Gaslieferungen aus Russland.
+
+### Treffen in Moskau
+- Der ungarische Ministerpräsident [[Viktor Orbán]] traf am Freitag [[Wladimir Putin]] im Kreml, um für ein Ende des [[Russischer Überfall auf die Ukraine 2022|Ukraine-Kriegs]] zu werben.
+- Orban als Vertreter eines [[Europäische Union|EU]]- und [[NATO]]-Mitgliedsstaats reiste trotz westlicher Sanktionen an.
+
+### Friedensverhandlungen
+- Orban begrüsst neue Perspektiven durch den US-[[28-Punkte-Friedensplan]] für die Ukraine, über den derzeit hart verhandelt wird.
+- Putin lobt Orbans «ausgewogene Haltung zur ukrainischen Problematik».
+
+### Wirtschaftliche Zusammenarbeit
+- Orban hofft auf günstige und stabile Öl- und Gaslieferungen aus Russland.
+- Dies trotz EU-Ziel, Ölimporte aus Russland stark zu reduzieren.
+
+### Einladung zu Trump-Gipfel
+- Orban erneuerte Einladung an Putin für ein Gipfeltreffen mit US-Präsident [[Donald Trump]] in Ungarn.
+  - Idee aus Oktober, die scheiterte, da Trump keine Chancen für Friedensdeal sah.
+- Putin bereit unter Bedingung entsprechender Ergebnisse in Ukraine-Verhandlungen.
+
+### Kommende Gespräche
+- Nächste Woche: Gespräche zwischen Kreml-Vertretern und US-Diplomaten.
+- Kreml erwartet vorab Details über zu verhandelndes Geschäft.
+
+### Übersetzungsincident
+- Dolmetscherin übersetzte Putins Aussage fehlerhaft.
+  - Original: «Unsere Ansichten [...] stimmen nicht unbedingt überein.»
+  - Übersetzt: «Auch auf internationaler Ebene funktioniert unsere Zusammenarbeit gut.»
+
+> Relevance score: [6] - Diplomatic talks on Ukraine peace and EU energy supplies influence European stability and Swiss economic interests indirectly.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## WHO warnt: Gefahr durch Masern steigt
+## 28-Punkte-Plan: Schweizer Ex-Diplomat: Ukraine dürfte Gebiete an Putin verlieren
 
-[Salzburger Nachrichten](https://www.sn.at/panorama/wissen/who-gefahr-masern-188471137) • _Freitag, 28. November 2025, 12:29 Uhr_
+[20 Minuten](https://www.20min.ch/story/28-punkte-plan-schweizer-ex-diplomat-ukraine-duerfte-gebiete-an-putin-verlieren-103459536) • _Freitag, 28. November 2025, 20:16 Uhr_
 
-Die Weltgesundheitsorganisation (WHO) befürchtet eine Ausbreitung der hochansteckenden und in seltenen Fällen tödlichen Masern.
+Donald Trump setzt bei den Ukraine-Verhandlungen auf Druck, Europa korrigiert, Wladimir Putin lehnt ab. Es sei Zeit für eine realistische Diplomatie, sagt Michael Ambühl, ehemaliger Schweizer Chefverhandler.
 
-"Für große Teile der Welt läuten die Alarmglocken", sagte Kate O'Brien, Direktorin der WHO-Impfabteilung. Der aktuelle Bericht zeigt laut WHO, dass das Tempo beim Kampf gegen Masern und Röteln trotz aller Erfolge zu niedrig ist. "Die Zahl der Toten u... [weiterlesen](https://www.sn.at/panorama/wissen/who-gefahr-masern-188471137)
+Die Thanksgiving-Deadline aus den USA? Verstrichen – ohne Wirkung. Der umstrittene 28-Punkte-Plan? Von Europa entschärft, von Moskau brüsk zurückgewiesen. Wladimir Putin dagegen bleibt dabei: Ohne Gebietsabtretungen gibt es keinen Deal, und mit der a... [weiterlesen](https://www.20min.ch/story/28-punkte-plan-schweizer-ex-diplomat-ukraine-duerfte-gebiete-an-putin-verlieren-103459536)
 
-> Relevance score: [5] - WHO global warning on rising measles risk due to vaccination gaps; moderate public health relevance but not a crisis-level event.
+> Relevance score: [5] - Swiss expert opinion on Ukraine negotiations provides niche insight into global diplomacy but lacks immediate actionable impact.
 
-## Armut in der Schweiz: Diese Menschen sind am häufigsten betroffen
+## US-Einwanderungsbehörde stoppt Asylentscheide nach Schüssen auf Nationalgarde
 
-[Watson](https://www.watson.ch/schweiz/geld/292209378-armut-in-der-schweiz-diese-menschen-sind-am-haeufigsten-betroffen) • _Freitag, 28. November 2025, 10:51 Uhr_
+[20 Minuten](https://www.20min.ch/story/schuesse-auf-nationalgarde-us-einwanderungsbehoerde-stoppt-alle-asylentscheide-103460026) • _Samstag, 29. November 2025, 02:46 Uhr_
 
-In der Schweiz sind acht bis neun Prozent der Bevölkerung arm. Dieser Prozentanteil ist seit über zehn Jahren stabil.
+Nach den Schüssen auf zwei Nationalgardisten in Washington setzt die US-Einwanderungsbehörde alle Asylentscheidungen aus, um Sicherheitsprüfungen zu verstärken.
 
-In der Schweiz sind acht bis neun Prozent der Bevölkerung arm. Dieser Prozentanteil ist seit über zehn Jahren stabil, obwohl sich die Schweiz dazu verpflichtet hatte, die Armut im Land zu verringern.
-Nun hat das Bundesamts für Sozialversicherungen de... [weiterlesen](https://www.watson.ch/schweiz/geld/292209378-armut-in-der-schweiz-diese-menschen-sind-am-haeufigsten-betroffen)
+Nach den Schüssen auf zwei Nationalgardisten in Washington hat die US-Einwanderungsbehörde USCIS verkündet, vorerst alle Asylentscheidungen auszusetzen. Dieser Stopp gelte, bis man sicherstellen könne, dass jeder Ausländer so gründlich wie möglich üb... [weiterlesen](https://www.20min.ch/story/schuesse-auf-nationalgarde-us-einwanderungsbehoerde-stoppt-alle-asylentscheide-103460026)
 
-> Relevance score: [5] - Stable poverty rates in Switzerland highlight ongoing social issue affecting 8-9% of population; moderate national civic relevance.
+> Relevance score: [4] - US domestic policy pause on asylum decisions has limited direct global or Swiss impact beyond migration flows.
 
-## HIV-Infektionen: Vereinte Nationen warnen vor Rückschritten im Kampf gegen Aids
+## US-Verteidigungsminister Pete Hegseth: Befehl zum Töten von Überlebenden erteilt
 
-[zeit.de](https://www.zeit.de/gesundheit/2025-11/un-kinderhilfswerk-aids-hiv) • _Freitag, 28. November 2025, 07:02 Uhr_
+[20 Minuten](https://www.20min.ch/story/mutmassliches-drogenboot-befehl-war-alle-zu-toeten-schwere-vorwuerfe-gegen-pete-hegseth-103459911) • _Freitag, 28. November 2025, 21:43 Uhr_
 
-Bei Kürzungen der Aids-Mittel drohten fast zwei Millionen Kinder zu sterben, warnt UNICEF. Man riskiere, die Fortschritte der letzten Jahrzehnte "zunichte" zu machen.
+Die «Washington Post» berichtet über einen umstrittenen Luftschlag, den Pete Hegseth befohlen haben soll.
 
-Das UN-Kinderhilfswerk (Unicef) hat anlässlich des Welt-Aids-Tags am 1. Dezember vor Rückschlägen bei der Bekämpfung der Immunschwächekrankheit gewarnt. Bei einem Fortbestehen der aktuellen Maßnahmen zur Verhütung und Behandlung von HIV-Infektionen w... [weiterlesen](https://www.zeit.de/gesundheit/2025-11/un-kinderhilfswerk-aids-hiv)
+Im Zusammenhang der seit Monaten andauernden US-Luftschläge auf Schiffe von mutmasslichen Drogenschmugglern erhebt die «Washington Post» in einer gross angelegten Recherche schwere Vorwürfe gegen «Kriegsminister» Pete Hegseth.
+Der Vorsteher des US-Ve... [weiterlesen](https://www.20min.ch/story/mutmassliches-drogenboot-befehl-war-alle-zu-toeten-schwere-vorwuerfe-gegen-pete-hegseth-103459911)
 
-> Relevance score: [5] - UN warning on potential AIDS setbacks due to funding cuts; moderate global health relevance but ongoing issue without acute crisis.
-
-## Gotthard-Tunnel: Bohrmaschine kommt im Frühjahr 2026 wieder zum Einsatz
-
-[20 Minuten](https://www.20min.ch/story/zweite-roehre-bohr-desaster-am-gotthard-neustart-bei-meter-740-103459327) • _Freitag, 28. November 2025, 10:47 Uhr_
-
-Die Bohrmaschine im Gotthard-Tunnel ist nach 190 Metern blockiert. Sprengungen sollen nun den Vortrieb wieder ermöglichen.
-
-Die Tunnelbohrmaschine (TBM) auf der Südseite der zweiten Gotthard-Strassenröhre ist nach 190 Metern zum Stillstand gekommen, wie bereits seit dem Sommer bekannt ist. Wie das Bundesamt für Strassen (Astra) mitteilte, sei der maschinelle Vortrieb in d... [weiterlesen](https://www.20min.ch/story/zweite-roehre-bohr-desaster-am-gotthard-neustart-bei-meter-740-103459327)
-
-> Relevance score: [4] - Technical delay in key Swiss infrastructure project with planned resumption; minor short-term impact on transport.
-
-## Krieg in der Ukraine - Orban spricht mit Putin über Öl- und Gaslieferungen
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-orban-spricht-mit-putin-ueber-oel-und-gaslieferungen) • _Freitag, 28. November 2025, 15:35 Uhr_
-
-Ungarns Ministerpräsident Viktor Orban hat in Moskau Kremlchef Wladimir Putin getroffen.
-
-Angesichts der humanitären Krise in der Ukraine sammelt die Glückskette Spenden für die betroffene ukrainische Bevölkerung. Millionen Menschen – vor allem Kinder, Frauen und ältere Menschen – sind bereits geflohen und suchen Zuflucht in den Nachbarlä... [weiterlesen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-orban-spricht-mit-putin-ueber-oel-und-gaslieferungen)
-
-> Relevance score: [3] - Hungarian PM's meeting with Putin on energy amid Ukraine war has limited direct impact on Switzerland or broad global structures beyond niche energy diplomacy.
-
-## Infostealer greift unbemerkt Daten auf MacOS ab
-
-[SwissCybersecurity.net](https://www.swisscybersecurity.net/news/2025-11-28/infostealer-greift-unbemerkt-daten-auf-macos-ab) • _Freitag, 28. November 2025, 11:15 Uhr_
-
-Jamf Threat Labs hat mit Digitstealer einen neuen Infostealer entdeckt, der MacOS-Systeme ins Visier nimmt.
-
-Das Threat-Labs-Team von Jamf hat eine neue MacOS-Malware entdeckt. Der Infostealer namens Digitstealer umgeht Sicherheitssysteme mithilfe von mehrstufigen Angriffsmustern und Hardware-Prüfungen und stiehlt unbemerkt sensible Daten von Apple-Systemen... [weiterlesen](https://www.swisscybersecurity.net/news/2025-11-28/infostealer-greift-unbemerkt-daten-auf-macos-ab)
-
-> Relevance score: [3] - New MacOS malware discovery; cybersecurity concern for Apple users but limited scale and no widespread societal disruption.
-
-## Airbus A320 Neo mit Triebwerken von Pratt & Whitney machen bei schlechtem Winterwetter Probleme: Airbus erlässt Startbeschränkungen
-
-[aeroTELEGRAPH](https://www.aerotelegraph.com/flugzeuge/airbus-a320-neo-mit-triebwerken-von-pratt-und-whitney-machen-bei-schlechtem/2cb9btz) • _Freitag, 28. November 2025, 10:04 Uhr_
-
-Air Astana musste kürzlich den Betrieb ihrer Airbus A320 Neo, A321 Neo und A321 LR einschränken. Schuld war gefrierender Nebel. Recherchen von aeroTELEGRAPH zeigen: Airbus hat Startbeschränkungen für Exemplare mit Triebwerken von Pratt & Whitney für alle Betreiber erlassen.
-
-Dass Fluggesellschaften Flugzeuge am Boden lassen müssen, da neue Motoren in heißen und staubigen Umgebungen Mühe machen, war bekannt. Besonders Getriebefan-Triebwerke (oft abgekürzt als GTF) von Pratt & Whitney sind betroffen. Am Flughafen Almaty is... [weiterlesen](https://www.aerotelegraph.com/flugzeuge/airbus-a320-neo-mit-triebwerken-von-pratt-und-whitney-machen-bei-schlechtem/2cb9btz)
-
-> Relevance score: [3] - Aviation industry issue with engine restrictions; affects airlines but niche economic impact, not broad public relevance.
-
-## schnell impfen gegen das mutierte Grippevirus
-
-[NZZ](https://www.nzz.ch/wissenschaft/das-grippevirus-ist-in-diesem-jahr-besonders-ansteckend-das-ist-ein-guter-grund-fuer-eine-impfung-ld.1913213) • _Freitag, 28. November 2025, 08:51 Uhr_
-
-Experten rechnen für den kommenden Winter mit einem besonders fiesen Erreger. Gegen ihn scheint auch der Impfstoff nur eingeschränkt zu wirken. Warum es trotzdem eine gute Idee ist, sich mit einer Impfung zu schützen.
-
-Die Ersten, die Alarm schlugen, waren die Japaner. Eine Grippewelle im September, das ist man nicht gewohnt im Inselstaat. Normalerweise erreicht der Erreger Japan auf seinem Zug rund um den Globus erst im November. Diesmal musste man schon Anfang Ok... [weiterlesen](https://www.nzz.ch/wissenschaft/das-grippevirus-ist-in-diesem-jahr-besonders-ansteckend-das-ist-ein-guter-grund-fuer-eine-impfung-ld.1913213)
-
-> Relevance score: [3] - Seasonal flu vaccine advice for mutated strain; routine public health guidance without major new threat or policy change.
-
-## Tolcapon blockiert Protein LecA als Basis für Virulenzblocker
-
-[mt-portal.de](https://mt-portal.de/aktuell/tolcapon-blockiert-protein-leca-als-basis-fuer-anti-infektiva/) • _Freitag, 28. November 2025, 14:05 Uhr_
-
-LecA von Pseudomonas aeruginosa ermöglicht das Anheften an Zellen und die Bildung von Biofilmen und ist Ziel neuer Wirkstoffe.
-
-Infiziert der Krankenhauskeim Pseudomonas aeruginosa den Menschen, nutzt er das zuckerbindende Protein LecA, um sich an menschliche Zellen anzuheften, diese zu befallen und sogenannte Biofilme zu bilden. Damit spielt LecA eine zentrale Rolle bei der ... [weiterlesen](https://mt-portal.de/aktuell/tolcapon-blockiert-protein-leca-als-basis-fuer-anti-infektiva/)
-
-> Relevance score: [2] - Niche medical research on bacterial protein blocker; early-stage science with no immediate broad health or societal impact.
-
-## Zentrales Venenzeichen im MRT als neue Diagnostikoption
-
-[Medical Tribune](https://www.medical-tribune.de/medizin-und-forschung/artikel/zentrales-venenzeichen-im-mrt-als-neue-diagnostikoption) • _Freitag, 28. November 2025, 08:40 Uhr_
-
-Das zentrale Venenzeichen im MRT könnte die MS-Diagnose erleichtern. Es muss aber noch auf verschiedene Parameter hin geprüft werden.
-
-Bisher wird die Multiple Sklerose (MS) bei typischen Zeichen eines klinisch isolierten Syndroms mit der Detektion oligoklonaler Banden gesichert. Der Nachteil: Man benötigt eine Liquorpunktion. Eine schonende Alternative könnte das zentrale Venenzeic... [weiterlesen](https://www.medical-tribune.de/medizin-und-forschung/artikel/zentrales-venenzeichen-im-mrt-als-neue-diagnostikoption)
-
-> Relevance score: [2] - Emerging MRI diagnostic for MS; niche medical advancement with potential but no immediate broad health system impact.
-
-## Süssli: Keine Aufträge aus der Rüstungsindustrie als Ex-Armeechef
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/karenzfrist-fuer-thomas-suessli-keine-auftraege-aus-der-ruestungsindustrie-fuer-den-ex-armeechef) • _Freitag, 28. November 2025, 07:08 Uhr_
-
-Thomas Süssli bleiben Jobs im Rüstungsbereich für die nächsten zwölf Monate verwehrt. Das bestätigt das VBS.
-
-Ende Jahr tritt der Chef der Armee, Thomas Süssli, ab. Er war sechs Jahre lang «Friedensgeneral» der Schweizer Armee. Der 59-Jährige geht aus freien Stücken und bekommt keine Rente oder Abgangsentschädigung. Er hat bereits durchblicken lassen, dass e... [weiterlesen](https://www.srf.ch/news/schweiz/karenzfrist-fuer-thomas-suessli-keine-auftraege-aus-der-ruestungsindustrie-fuer-den-ex-armeechef)
-
-> Relevance score: [2] - Cooling-off period for former Swiss army chief; procedural rule enforcement with minimal governance impact.
-
-## Der tiefe Fall von Blochers Ems-Chemie
-
-[Inside Paradeplatz](https://insideparadeplatz.ch/2025/11/28/der-tiefe-fall-von-bochers-ems-chemie/) • _Freitag, 28. November 2025, 07:23 Uhr_
-
-Aktie halbiert in 4 Jahren, Familie nicht mehr in Top-Ten der 300 reichsten Schweizer. Umgekehrt Freund Martin: Ebner kauft Jets, startet durch.
-
-Die heutige 300er „Reichsten-Bilanz“ bringt eine Krösi-Freundschaft auf den Punkt. Unter den „grössten Aufsteigern 2025“ figuriert Martin Ebner mit 1,75 Milliarden plus.
-Unter den „grössten Absteigern“ findet man die Familie Blocher mit 1 Milliarde m... [weiterlesen](https://insideparadeplatz.ch/2025/11/28/der-tiefe-fall-von-bochers-ems-chemie/)
-
-> Relevance score: [1] - Decline in Swiss business family wealth and company stock; business news without wider economic or societal effects.
+> Relevance score: [4] - Allegations in US counter-drug operations represent political scandal with minimal broader structural impact outside US.
 
 
 </details>
