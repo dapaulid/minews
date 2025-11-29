@@ -2,170 +2,258 @@
 
 ---
 
-_Updated: Friday, November 28, 2025, 6:21 PM_
+_Aktualisiert: Saturday, November 29, 2025, 06:24_
 
-## Poverty in Switzerland Affects Mainly Those Without Jobs and Families
+## Trump Turns Policy Upside Down: Trump Wants to Recognize Russia's Occupied Ukrainian Territories - Europe Reacts Horrified
 
-[srf.ch](https://www.srf.ch/news/wirtschaft/arm-im-reichen-land-warum-die-armut-in-der-schweiz-nicht-weniger-wird) • _Friday, November 28, 2025, 05:57_
+[bluewin.ch](https://www.bluewin.ch/de/news/international/trump-russland-ukraine-annektierte-gebiete-anerkennung-friedensplan-2984809.html) • _Friday, November 28, 2025, 14:13_
 
-Poverty in Switzerland often returns. Those affected are mainly people without stable jobs and families.
+According to a report by the «Telegraph», the USA under President Trump are prepared to recognize Russia's control over occupied Ukrainian regions. The proposal is causing significant unrest in Europe.
 
-### First Comprehensive Federal Poverty Report
-- First report from the [Federal Social Insurance Office](https://en.wikipedia.org/wiki/Federal_Social_Insurance_Office) (FSIO) evaluates all available data on [poverty](https://en.wikipedia.org/wiki/Poverty) in [Switzerland](https://en.wikipedia.org/wiki/Switzerland).
-- 8 to 9% of the population are poor; rate stable for over 10 years despite reduction obligation.
-- Report serves as basis for first national poverty strategy.
+### US Proposal to Recognize Russian Control
+- According to a report by the [Telegraph](https://en.wikipedia.org/wiki/The_Daily_Telegraph), the [USA](https://en.wikipedia.org/wiki/United_States) under [President Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) are prepared to de facto recognize Russian control over occupied Ukrainian territories.
+  - Affected regions: [Crimea](https://en.wikipedia.org/wiki/Crimea), parts of [Donetsk](https://en.wikipedia.org/wiki/Donetsk_Oblast), [Luhansk](https://en.wikipedia.org/wiki/Luhansk_Oblast), [Kherson](https://en.wikipedia.org/wiki/Kherson_Oblast), and [Zaporizhzhia](https://en.wikipedia.org/wiki/Zaporizhzhia_Oblast).
+- The proposal is part of a revised peace plan (reduced from 28 to 19 points), which represents a radical break from previous US foreign policy.
 
-### Definition of Poverty
-- Poverty: Household income (incl. social benefits) below social subsistence minimum, which does not cover essential expenses.
-- Important expenses (according to [Swiss Conference for Social Welfare](https://en.wikipedia.org/wiki/Swiss_Conference_for_Social_Welfare) (SKOS)): Housing costs, health, food, clothing, energy, household, care, transport, media, education, leisure, etc.
-- Minimum requirement: Single person 1,061 [Swiss francs](https://en.wikipedia.org/wiki/Swiss_franc) (CHF)/month + housing/health insurance; family with 2 children 2,271 CHF/month.
-- Considers 7 areas of life: Income, education, employment, health, housing, social relations, political participation.
+### Negotiations and Participants
+- Trump's special envoy [Steve Witkoff](https://en.wikipedia.org/wiki/Steve_Witkoff) and son-in-law [Jared Kushner](https://en.wikipedia.org/wiki/Jared_Kushner) traveled to Moscow to personally deliver the plan to [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin).
+- Ukrainian delegation (including Chief of Staff [Andriy Yermak](https://en.wikipedia.org/wiki/Andriy_Yermak) and Security Advisor [Rustem Umerov](https://en.wikipedia.org/wiki/Rustem_Umerov)) plans trips to Florida to the [Mar-a-Lago](https://en.wikipedia.org/wiki/Mar-a-Lago) resort for consultations with Trump's team.
+- The most sensitive issues, particularly territorial reorganization, are to be clarified in direct talks between Trump and [Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy).
 
-### Particularly Affected Groups
-- Households with low incomes and high expenses.
-- Non-working people (more frequently than working people).
-- Families:
-  - Single parents.
-  - With more than 2 children.
-- Single dwellers, people with low education, foreigners.
+### Ukrainian Position
+- The [Ukraine](https://en.wikipedia.org/wiki/Ukraine) consistently rejects any renunciation of territory; the constitution prohibits cessions without a nationwide referendum.
+- Yermak to [The Atlantic](https://en.wikipedia.org/wiki/The_Atlantic): «No reasonable person would sign a document that gives up land.»
 
-### Triggers of Poverty
-- Transitions: Education, working life, retirement (prevention possible).
-- Unforeseeable events: New child, separation, serious illness, death, job loss.
+### European and International Reactions
+- Europe reacts horrified and alarmed: The step would legitimize violent border changes and create a globally effective precedent.
+  - Group of states reaffirms: Borders must not be shifted by force.
+  - EU counter-paper recommends addressing territorial issues only after a complete ceasefire, without recognizing Russian claims.
+- Quote from an informant: «The Americans do not care about the European position. Europe can do whatever it wants.»
 
-### Reasons for Persistent Poverty
-- Frequent disadvantages: 50% chronically ill, many want to work more (cannot), too small/expensive housing.
-- Poverty rarely permanent, but frequently returns after temporary exit.
+### Further Developments
+- The Kremlin's new security strategy plan envisages complete integration of the occupied regions into Russian structures within a decade; withdrawal excluded.
+- Published phone conversations: Witkoff advised Russian representatives on how they could gain sympathies in the White House (e.g., demand for Ukraine to abandon Donetsk); presumably leaked by a European authority to expose closeness to Moscow.
 
-### Ways Out of Poverty
-- Individual: New job, relationship, suitable housing, state aid.
-- Structural: Low unemployment does not change rate; lack of coordinated poverty policy (quote from [Aline Masé](https://en.wikipedia.org/wiki/Caritas_Switzerland) of [Caritas Switzerland](https://en.wikipedia.org/wiki/Caritas_Switzerland)).
-- Planned poverty strategy as a glimmer of hope.
+> Relevance score: [8] - Reported US policy shift on recognizing Russian control in Ukraine could significantly alter global geopolitics and European security, with high long-term significance.
 
-### Role of Social Insurance and Benefits
-- Individuals primarily responsible themselves, but expanded social insurance (accident, illness, disability) and benefits.
-- Reduce poverty rate among workers/families from 16% to 6% (2/3 through social insurance).
-- Problem: 20–40% with entitlement do not claim benefits (lack of information, shame, hurdles).
+## Pfister Proposes VAT Increase for Army Spending
 
-### Data Gaps
-- No analyses of individual poverty trajectories without cantonal tax data.
-- Harmonization blocked; could show successful cantonal policies (demand from Aline Masé).
+[Blick](https://www.blick.ch/politik/brisanter-plan-von-martin-pfister-durchgesickert-kommt-jetzt-der-mehrwertsteuer-schock-id21465501.html) • _Friday, November 28, 2025, 08:47_
 
-> Relevance score: [8] - First comprehensive federal report on poverty in Switzerland, affecting 8-9% of population, especially those without stable jobs or families; highlights structural socioeconomic issues with national civic relevance.
+Defense Minister Martin Pfister apparently wants to raise the value-added tax in favor of the army. The consumption tax is thus moving to the center on several fronts – and a heated debate is emerging in Federal Bern.
 
-## How Switzerland Prolongs Asylum Procedures
+### Proposal from Defense Minister Pfister
+- [Martin Pfister](https://en.wikipedia.org/wiki/Martin_Pfister_(Swiss_politician)) (Center) plans to increase the [value-added tax](https://en.wikipedia.org/wiki/Value-added_tax) by 0.5 percentage points to generate 1.75 billion francs annually for the army.
+- Goal: Faster armament against hybrid warfare, including additional air defense systems.
+- Proposal leaked from a security policy retreat of the [Federal Council](https://en.wikipedia.org/wiki/Federal_Council_(Switzerland)), where Pfister brought military leaders and insisted on rapid additional funding.
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/alam-erhaelt-kein-bleiberecht-und-lebt-dennoch-jahrelang-hier-wie-die-schweiz-asylverfahren-in-die-laenge-zieht-ld.1910237) • _Friday, November 28, 2025, 05:30_
+### Rationale and Implementation
+- Based on assessments that [Russia](https://en.wikipedia.org/wiki/Russia) could attack Europe again in 2028 or 2029.
+- Increase possible earliest in 2028, requires referendum.
+- Alternative like relaxing the debt brake politically difficult, as shown under predecessor [Viola Amherd](https://en.wikipedia.org/wiki/Viola_Amherd) (Center).
 
-More and more staff process asylum files – but the backlogs remain. The federal government spends millions on people whose prospects for asylum are minimal. A national asylum conference is now taking place.
+### Value-Added Tax in Focus
+- Multiple increases threatened by 13th [AHV](https://en.wikipedia.org/wiki/Old_Age_and_Survivors%27_Insurance) pension (from December 2026, costs 4–5 billion francs/year).
+  - [Interior Minister Elisabeth Baume-Schneider](https://en.wikipedia.org/wiki/Elisabeth_Baume-Schneider) (SP) proposes 0.7 percentage points.
+  - Council of States favors mixed variant of wage contributions and value-added tax.
+- «Security percent» discussed in 2024 by Benedikt Würth (Center): 0.4 points army, 0.6 points AHV – rejected by the Federal Council, but value-added tax recognized as financing option ([Tamedia](https://en.wikipedia.org/wiki/Tamedia) report).
 
-### Case of Jahangir Alam
-- Jahangir Alam from [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh) applied for asylum in Switzerland in 2015, but was rejected under the [Dublin Regulation](https://en.wikipedia.org/wiki/Dublin_Regulation) because he had previously applied in Italy.
-- After rejection by the [Federal Administrative Court (Switzerland)](https://en.wikipedia.org/wiki/Federal_Administrative_Court_(Switzerland)), he went underground, returned in 2018; SEM took over due to expired deadline.
-- Alam reported persecution as a member of the [Bangladesh Nationalist Party](https://en.wikipedia.org/wiki/Bangladesh_Nationalist_Party) (BNP), fabricated drug charges and arrest warrants – story deemed not credible (contradictions, multiple trips).
-- Asylum rejected in 2020, final court confirmation only in 2024 (four and a half years); costs over 70,000 francs due to accommodation.
+> Relevance score: [7] - Swiss defense minister proposes VAT increase for military funding; significant national fiscal and security policy debate with civic impact.
 
-### System Reform and Persistent Delays
-- Despite restructuring in 2019 (simplification, more staff at the [State Secretariat for Migration (SEM)](https://en.wikipedia.org/wiki/State_Secretariat_for_Migration)), procedures remain lengthy.
-  - Overloaded infrastructure, asylum seekers without right to stay remain for years.
-  - Asylum seekers from Bangladesh rare (2018: 4 out of 65,000), high rejection rates also in Italy.
+## Raid at Zelenskyy's Chief of Staff
 
-### Backlogs and Costs
-- Currently over 17,000 open procedures; complaints to the Federal Administrative Court risen to 6,378 (from 2,640 three years ago).
-  - Causes: More complex cases due to SEM clearance of old cases, tightening for Turkish asylum seekers.
-  - Forecast: ~6,000 new complaints by year-end despite additional judges.
-- Monthly global lump sums: 14 million francs for rejected persons; 99.2% of SEM decisions legally sound.
-- Average court procedure duration: 187 days, in cases like Alam much longer due to documents and replications.
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/korruptionsaffaere-in-der-ukraine-hausdurchsuchung-bei-selenskis-engstem-vertrauten-ld.1914065) • _Friday, November 28, 2025, 17:14_
 
-### Political Discussion and Outlook
-- National asylum conference in Bern examines system; cantons put pressure on federal government.
-- Council of States member Benedikt Würth (Center, SG) calls for motion to accelerate: Regulatory simplifications (shorter justifications in clear cases, no suspensive effect for multiple applications).
-  - Criticism of the [Federal Department of Justice and Police](https://en.wikipedia.org/wiki/Federal_Department_of_Justice_and_Police) by Beat Jans: Focus on staff instead of efficiency.
-- Alam currently disappeared, possibly deported or gone underground.
+The head of the Presidential Administration was considered the gray eminence of Ukrainian politics. Despite fierce criticism in the process, President Zelenskyy held on to his closest confidant for a long time. Now Andriy Yermak has resigned.
 
-> Relevance score: [7] - Details prolonged Swiss asylum processing, persistent backlogs despite more staff, high costs for low-success cases, and national conference; significant for Swiss governance and immigration policy.
+### Resignation of Andriy Yermak
+- President [Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy) announced the resignation of [Andriy Yermak](https://en.wikipedia.org/wiki/Andriy_Yermak), head of the Presidential Administration and closest confidant, in his evening video address.
+- Yermak recently led the Ukrainian delegation in talks in Geneva on the US peace plan.
+- Zelenskyy emphasized that amid peace negotiations, Ukraine needs internal strength without rumors; Yermak had correctly represented the position, the office will be newly filled.
 
-## Putin: Ukraine Withdrawal Condition for End of Fighting
+### Raid and Investigations
+- Early in the morning, employees of the [National Anti-Corruption Bureau (NABU)](https://en.wikipedia.org/wiki/National_Anti-Corruption_Bureau_of_Ukraine) and the [Specialized Anti-Corruption Prosecutor's Office (SAPO)](https://en.wikipedia.org/wiki/Specialized_Anti-Corruption_Prosecutor%27s_Office) searched Yermak's apartment.
+- The raid is related to "Operation Midas", an investigation ongoing for 15 months into corruption in strategic state sectors, based on intercepted phone conversations.
 
-[GMX](https://www.gmx.ch/magazine/politik/russland-krieg-ukraine/ukraine-krieg-putin-nennt-harte-bedingung-einstellung-kampfhandlungen-41635146) • _Thursday, November 27, 2025, 19:48_
+### Details on Operation Midas
+- In the energy sector, suppliers had to pay bribes of 10–15% of the contract value to obtain orders; total up to 100 million dollars embezzled.
+- Central figure: [Timur Minditsch](https://en.wikipedia.org/wiki/Tymur_Myndar), former business partner of Zelenskyy, who fled to Israel before the raid.
+  - Two ministers dismissed.
+  - Several arrests.
 
-Russia's President Putin is ready to end the fighting in the Ukraine war – but sets a hard demand. He sees a possible basis for negotiations in the revised US plan.
+### Speculations about Yermak
+- No concrete accusations against Yermak, but speculations that he is the person with the code name "Ali Baba" in phone transcripts.
+- Opposition demanded resignation, as Yermak bundles power in the presidential palace and promotes corruption through his circle.
 
-### Putin's Condition for Ceasefire
-- Russian President [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) is ready to cease hostilities in the [Russian invasion of Ukraine](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine) if Ukraine withdraws from the areas claimed by Russia.
-  - Affected regions: [Donetsk](https://en.wikipedia.org/wiki/Donetsk_Oblast), [Luhansk](https://en.wikipedia.org/wiki/Luhansk_Oblast), [Kherson](https://en.wikipedia.org/wiki/Kherson_Oblast) and [Zaporizhzhia](https://en.wikipedia.org/wiki/Zaporizhzhia_Oblast).
-- Otherwise, Russia will enforce the withdrawal by "military means"; Putin stated this on November 27 in [Bishkek](https://en.wikipedia.org/wiki/Bishkek), [Kyrgyzstan](https://en.wikipedia.org/wiki/Kyrgyzstan).
+### Yermak's Influence and Criticism
+- As "gray eminence", Yermak was considered the most powerful man after Zelenskyy; involved in decisions:
+  - Delayed withdrawal from [Bakhmut](https://en.wikipedia.org/wiki/Battle_of_Bakhmut) (spring 2023) with unnecessary casualties.
+  - Dismissal of the commander-in-chief [Valerii Zaluzhnyi](https://en.wikipedia.org/wiki/Valerii_Zaluzhnyi).
+- Suspected mastermind behind a failed bill to politically control NABU and SAPO.
+- Despite pressure, Zelenskyy held on to him for a long time, even appointed him as chief negotiator; the raid made him untenable.
 
-### US Negotiation Plan
-- Putin sees the revised [US plan](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine) (reduced from 28 to about 20 points) as a possible basis for future agreements.
-- [Kremlin spokesman Dmitry Peskov](https://en.wikipedia.org/wiki/Dmitry_Peskov) described negotiations as "serious".
-- Upcoming talks: US Special Envoy Steve Witkoff in Moscow next week; US Deputy Defense Secretary Dan Driscoll in Kyiv this week.
+> Relevance score: [6] - Resignation of Ukraine's top aide amid corruption scandal impacts wartime governance credibility, with moderate global implications for the ongoing conflict, but not a structural shift.
 
-### Military Situation
-- Russia controls one fifth of Ukraine; Putin: Russian troops practically unstoppable.
-  - Encircled: [Pokrovsk](https://en.wikipedia.org/wiki/Pokrovsk,_Ukraine) and Myrnohrad in Donetsk.
-  - Advances: Vovchansk ([Kharkiv](https://en.wikipedia.org/wiki/Kharkiv_Oblast)), Siversk (Donetsk), Gulyaypole (Zaporizhzhia).
-- According to [ISW](https://en.wikipedia.org/wiki/Institute_for_the_Study_of_War): Russian advance in 2025 faster (monthly 467 km²).
+## Summit: Jans Explains Planned Changes in Asylum System from 2027
 
-### Further Statements
-- Russia plans no attacks on EU states, but "retaliatory measures" if Russian assets frozen.
-- Ukraine categorically rejects territorial cessions; war since February 2022 worst conflict in Europe since WWII.
+[20 Minuten](https://www.20min.ch/story/medienkonferenz-beat-jans-informiert-das-soll-sich-ab-2027-im-asylwesen-aendern-103459300) • _Friday, November 28, 2025, 16:41_
 
-> Relevance score: [7] - Putin conditions Ukraine war end on Ukrainian withdrawal, citing revised US plan as basis; notable development in major global conflict with potential long-term geopolitical impact.
+Federal Councillor Beat Jans and the cantons discuss new strategies to improve the asylum process. What measures are planned?
+
+### Asylum Summit in Bern
+- Federal Councillor [Beat Jans](https://en.wikipedia.org/wiki/Beat_Jans) ([SP](https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland)) met representatives from the federal government, cantons, municipalities, and cities to analyze the asylum situation.
+- All levels of government recognize the need for action within the framework of the [Asylum Strategy 2027](https://en.wikipedia.org/wiki/Asylum_in_Switzerland).
+
+### Planned Changes in the Asylum System
+- Acceleration of asylum procedures and faster reduction of backlogs.
+- Making the system more resilient to fluctuations.
+- More binding promotion of integration.
+- Examination of a pre-procedure for persons without protection status to relieve the structures.
+- Jans quote: «A system change is not up for debate. Those who have a claim to protection will find it in Switzerland. [...] faster decisions, faster returns, and faster integration.»
+
+### Security and Rule Violations
+- Legal adjustments to strengthen acceptance and action capability regarding criminal persons.
+- Strengthening enforcement of deportation for those obliged to leave.
+- Further development of the task force against repeat offenders.
+- [Philippe Müller](https://en.wikipedia.org/wiki/Philippe_Müller_(politician,_born_1967)) (FDP, representative of the Conference of Justice and Police Directors): «Central for us is that people who come to Switzerland adhere to our rules. If they violate the rules, a determined reaction is necessary.»
+
+### Protection Status S
+- Integration into the overall system with clear rules for revocation or transition to [Status B](https://en.wikipedia.org/wiki/Residence_permit#Switzerland) (residence permit).
+- Particularly affected: [Ukrainian citizens](https://en.wikipedia.org/wiki/Ukraine).
+- Challenges in accommodation, unequal treatment (e.g., travel options, social assistance), and preparation for regulated return.
+- [Hanspeter Hilfiker](https://en.wikipedia.org/wiki/Hanspeter_Hilfiker) (FDP, mayor of Aarau): Accommodation is a major challenge, restructuring necessary.
+
+### Next Steps
+- Immediate implementation of identified measures.
+- Development of further medium- and long-term measures.
+- Jans warns against underestimating the strategy, looks forward to cooperation; implementation duration varies by area.
+
+> Relevance score: [6] - Swiss federal plans to reform asylum procedures from 2027 affect national migration policy and civic resources, with moderate long-term governance relevance.
 
 
 <details><summary markdown="span">Show unimportant events</summary>
 
-## Putin on Attack on Europe: "Complete Nonsense"
+## WHO Warns: Measles Danger Rising
 
-[Watson](https://www.watson.ch/international/russland/670960827-putin-ueber-angriff-auf-europa-voelliger-bloedsinn) • _Thursday, November 27, 2025, 20:00_
+[Salzburger Nachrichten](https://www.sn.at/panorama/wissen/who-gefahr-masern-188471137) • _Friday, November 28, 2025, 12:29_
 
-The Russian President is, according to his own words, ready to put the renunciation of an attack against Europe in writing.
+The World Health Organization (WHO) fears the spread of highly contagious and in rare cases deadly measles.
 
-The Russian President Vladimir Putin is, according to his own words, ready to put the renunciation of an attack against Europe in writing as part of diplomatic negotiations. It is «complete nonsense» to claim that Russia intends to attack Europe z... [read more](https://www.watson.ch/international/russland/670960827-putin-ueber-angriff-auf-europa-voelliger-bloedsinn)
+«The alarm bells are ringing for large parts of the world», said Kate O'Brien, director of the WHO vaccination department. The current report shows according to WHO that the pace in the fight against measles and rubella is too low despite all successes. «The number of deaths u... [read more](https://www.sn.at/panorama/wissen/who-gefahr-masern-188471137)
 
-> Relevance score: [5] - Putin denies Russian plans to attack Europe and offers written guarantee; diplomatic rhetoric amid tensions with moderate European security relevance.
+> Relevance score: [5] - WHO global warning on rising measles risk due to vaccination gaps; moderate public health relevance but not a crisis-level event.
 
-## Trump to Attack Venezuelan Drug Traffickers "Very Soon" on Land
+## Poverty in Switzerland: These People Are Most Affected
 
-[20 Minuten](https://www.20min.ch/story/venezuela-trump-will-drogenhaendler-sehr-bald-auch-an-land-angreifen-103459232) • _Friday, November 28, 2025, 01:40_
+[Watson](https://www.watson.ch/schweiz/geld/292209378-armut-in-der-schweiz-diese-menschen-sind-am-haeufigsten-betroffen) • _Friday, November 28, 2025, 10:51_
 
-US President Donald Trump announces that the USA will soon also take action against drug traffickers on land.
+In Switzerland, eight to nine percent of the population is poor. This percentage has been stable for over ten years.
 
-According to US President Donald Trump, the USA wants to «very soon» also take action against Venezuelan drug traffickers on land. «We will also start stopping them on land routes», this will «very soon» begin, said Trump on Thursday... [read more](https://www.20min.ch/story/venezuela-trump-will-drogenhaendler-sehr-bald-auch-an-land-angreifen-103459232)
+In Switzerland, eight to nine percent of the population is poor. This percentage has been stable for over ten years, although Switzerland committed to reducing poverty in the country.
+The Federal Social Insurance Office has no... [read more](https://www.watson.ch/schweiz/geld/292209378-armut-in-der-schweiz-diese-menschen-sind-am-haeufigsten-betroffen)
 
-> Relevance score: [4] - US president announces expansion of anti-drug operations into Venezuela on land; potential international security implications but limited scale and structural change.
+> Relevance score: [5] - Stable poverty rates in Switzerland highlight ongoing social issue affecting 8-9% of population; moderate national civic relevance.
 
-## After Attack in Washington: Trump Has Green Cards Reviewed
+## HIV Infections: United Nations Warns of Setbacks in the Fight Against AIDS
 
-[Blick](https://www.blick.ch/ausland/nach-attacke-in-washington-trump-laesst-green-cards-aus-problematischen-laendern-pruefen-id21465079.html) • _Thursday, November 27, 2025, 23:54_
+[zeit.de](https://www.zeit.de/gesundheit/2025-11/un-kinderhilfswerk-aids-hiv) • _Friday, November 28, 2025, 07:02_
 
-The USA reacts to the deadly attack by an Afghan on National Guard soldiers. Authorities review green cards from 19 «problematic countries» and pause Afghan immigration applications.
+With cuts in AIDS funding, almost two million children are threatened with death, warns UNICEF. There is a risk of rendering the progress of recent decades «null and void».
 
-The USA is sealing itself off: President Donald Trump (79) uses the attack in Washington as an occasion for further tightening against migrants.
-The background: On Wednesday (local time), a man from Afghanistan opened fire on National Guard soldiers... [read more](https://www.blick.ch/ausland/nach-attacke-in-washington-trump-laesst-green-cards-aus-problematischen-laendern-pruefen-id21465079.html)
+The UN Children's Fund (Unicef) has warned on the occasion of World AIDS Day on December 1 against setbacks in the fight against the immunodeficiency disease. If the current measures to prevent and treat HIV infections continue... [read more](https://www.zeit.de/gesundheit/2025-11/un-kinderhilfswerk-aids-hiv)
 
-> Relevance score: [4] - US tightens green card reviews from 19 countries and pauses Afghan applications post-attack; affects US immigration policy with some global migration relevance but niche.
+> Relevance score: [5] - UN warning on potential AIDS setbacks due to funding cuts; moderate global health relevance but ongoing issue without acute crisis.
 
-## Israeli Security Forces Shoot Militant Palestinians
+## Gotthard Tunnel: Drilling Machine to Be Deployed Again in Spring 2026
 
-[20 Minuten](https://www.20min.ch/story/ramallah-militante-palaestinenser-ergeben-sich-erschossen-103459059) • _Thursday, November 27, 2025, 21:21_
+[20 Minuten](https://www.20min.ch/story/zweite-roehre-bohr-desaster-am-gotthard-neustart-bei-meter-740-103459327) • _Friday, November 28, 2025, 10:47_
 
-Israeli security forces want to arrest wanted Palestinians in the West Bank. As they leave a building, shots are fired.
+The drilling machine in the Gotthard Tunnel is blocked after 190 meters. Blasting is now to enable tunneling again.
 
-In an operation in the West Bank, Israeli security forces killed at least two wanted Palestinians, who reportedly surrendered to the forces beforehand. Israel's army and police said the incident would... [read more](https://www.20min.ch/story/ramallah-militante-palaestinenser-ergeben-sich-erschossen-103459059)
+The tunnel boring machine (TBM) on the south side of the second Gotthard road tube has come to a standstill after 190 meters, as has been known since summer. As the Federal Roads Office (Astra) announced, machine tunneling in t... [read more](https://www.20min.ch/story/zweite-roehre-bohr-desaster-am-gotthard-neustart-bei-meter-740-103459327)
 
-> Relevance score: [3] - Routine incident in ongoing West Bank conflict with fatalities; minor escalation in protracted violence, low novel impact.
+> Relevance score: [4] - Technical delay in key Swiss infrastructure project with planned resumption; minor short-term impact on transport.
 
-## From Childhood to Old Age - Brain Structure Undergoes Five Phases
+## War in Ukraine - Orban Talks to Putin About Oil and Gas Deliveries
 
-[Radio Central](https://www.radiocentral.ch/news/international/kindheit-bis-alter-gehirnstruktur-durchlaeuft-fuenf-phasen-162611566) • _Thursday, November 27, 2025, 19:54_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-orban-spricht-mit-putin-ueber-oel-und-gaslieferungen) • _Friday, November 28, 2025, 15:35_
 
-Over the course of a lifetime, the brain rewires itself comprehensively five times according to a study. At average ages of about 9, 32, 66 and 83 years, there are turning points in neuronal networking, reports a research team in the journal «Nature Communications».
+Hungary's Prime Minister Viktor Orban met Kremlin chief Vladimir Putin in Moscow.
 
-The rewiring is each time associated with different ways of thinking in the course of growth, maturation and aging. «The phases provide important clues as to what our brain is best suited for in different life stages or when it is most vulnerable... [read more](https://www.radiocentral.ch/news/international/kindheit-bis-alter-gehirnstruktur-durchlaeuft-fuenf-phasen-162611566)
+In view of the humanitarian crisis in Ukraine, the chain of fortune is collecting donations for the affected Ukrainian population. Millions of people – especially children, women, and elderly people – have already fled and are seeking refuge in neighboring co... [read more](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-orban-spricht-mit-putin-ueber-oel-und-gaslieferungen)
 
-> Relevance score: [2] - Scientific study on brain rewiring phases over lifespan; niche research with no direct structural, civic, or societal impact.
+> Relevance score: [3] - Hungarian PM's meeting with Putin on energy amid Ukraine war has limited direct impact on Switzerland or broad global structures beyond niche energy diplomacy.
+
+## Infostealer Silently Steals Data on macOS
+
+[SwissCybersecurity.net](https://www.swisscybersecurity.net/news/2025-11-28/infostealer-greift-unbemerkt-daten-auf-macos-ab) • _Friday, November 28, 2025, 11:15_
+
+Jamf Threat Labs has discovered a new infostealer called Digitstealer targeting macOS systems.
+
+Jamf's Threat Labs team has discovered new macOS malware. The infostealer named Digitstealer bypasses security systems using multi-stage attack patterns and hardware checks and silently steals sensitive data from Apple systems... [read more](https://www.swisscybersecurity.net/news/2025-11-28/infostealer-greift-unbemerkt-daten-auf-macos-ab)
+
+> Relevance score: [3] - New MacOS malware discovery; cybersecurity concern for Apple users but limited scale and no widespread societal disruption.
+
+## Airbus A320 Neo with Pratt & Whitney Engines Cause Problems in Bad Winter Weather: Airbus Issues Takeoff Restrictions
+
+[aeroTELEGRAPH](https://www.aerotelegraph.com/flugzeuge/airbus-a320-neo-mit-triebwerken-von-pratt-und-whitney-machen-bei-schlechtem/2cb9btz) • _Friday, November 28, 2025, 10:04_
+
+Air Astana recently had to restrict operations of its Airbus A320 Neo, A321 Neo, and A321 LR. The cause was freezing fog. aeroTELEGRAPH research shows: Airbus has issued takeoff restrictions for examples with Pratt & Whitney engines for all operators.
+
+That airlines have to ground aircraft because new engines struggle in hot and dusty environments was known. Geared turbofan engines (often abbreviated as GTF) from Pratt & Whitney are particularly affected. At Almaty Airport i... [read more](https://www.aerotelegraph.com/flugzeuge/airbus-a320-neo-mit-triebwerken-von-pratt-und-whitney-machen-bei-schlechtem/2cb9btz)
+
+> Relevance score: [3] - Aviation industry issue with engine restrictions; affects airlines but niche economic impact, not broad public relevance.
+
+## Get Vaccinated Quickly Against the Mutated Flu Virus
+
+[NZZ](https://www.nzz.ch/wissenschaft/das-grippevirus-ist-in-diesem-jahr-besonders-ansteckend-das-ist-ein-guter-grund-fuer-eine-impfung-ld.1913213) • _Friday, November 28, 2025, 08:51_
+
+Experts expect a particularly nasty pathogen for the coming winter. The vaccine also seems to work only limitedly against it. Why it is still a good idea to protect yourself with a vaccination.
+
+The first to sound the alarm were the Japanese. A flu wave in September is not usual in the island state. Normally, the pathogen reaches Japan on its journey around the globe only in November. This time it was already ear... [read more](https://www.nzz.ch/wissenschaft/das-grippevirus-ist-in-diesem-jahr-besonders-ansteckend-das-ist-ein-guter-grund-fuer-eine-impfung-ld.1913213)
+
+> Relevance score: [3] - Seasonal flu vaccine advice for mutated strain; routine public health guidance without major new threat or policy change.
+
+## Tolcapon Blocks Protein LecA as Basis for Virulence Blockers
+
+[mt-portal.de](https://mt-portal.de/aktuell/tolcapon-blockiert-protein-leca-als-basis-fuer-anti-infektiva/) • _Friday, November 28, 2025, 14:05_
+
+LecA from Pseudomonas aeruginosa enables attachment to cells and biofilm formation and is the target of new agents.
+
+When the hospital germ Pseudomonas aeruginosa infects humans, it uses the sugar-binding protein LecA to attach to human cells, infect them, and form so-called biofilms. LecA thus plays a central role in the ... [read more](https://mt-portal.de/aktuell/tolcapon-blockiert-protein-leca-als-basis-fuer-anti-infektiva/)
+
+> Relevance score: [2] - Niche medical research on bacterial protein blocker; early-stage science with no immediate broad health or societal impact.
+
+## Central Vein Sign in MRI as New Diagnostic Option
+
+[Medical Tribune](https://www.medical-tribune.de/medizin-und-forschung/artikel/zentrales-venenzeichen-im-mrt-als-neue-diagnostikoption) • _Friday, November 28, 2025, 08:40_
+
+The central vein sign in MRI could facilitate MS diagnosis. However, it still needs to be checked against various parameters.
+
+To date, multiple sclerosis (MS) is confirmed in typical signs of a clinically isolated syndrome by detecting oligoclonal bands. The disadvantage: A lumbar puncture is required. A gentler alternative could be the central vein sign... [read more](https://www.medical-tribune.de/medizin-und-forschung/artikel/zentrales-venenzeichen-im-mrt-als-neue-diagnostikoption)
+
+> Relevance score: [2] - Emerging MRI diagnostic for MS; niche medical advancement with potential but no immediate broad health system impact.
+
+## Süssli: No Contracts from the Arms Industry as Ex-Army Chief
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/karenzfrist-fuer-thomas-suessli-keine-auftraege-aus-der-ruestungsindustrie-fuer-den-ex-armeechef) • _Friday, November 28, 2025, 07:08_
+
+Thomas Süssli is barred from jobs in the arms sector for the next twelve months. The VBS confirms this.
+
+At the end of the year, the army chief Thomas Süssli is stepping down. He was the «peace general» of the Swiss Army for six years. The 59-year-old is leaving voluntarily and receives no pension or severance pay. He has already indicated that h... [read more](https://www.srf.ch/news/schweiz/karenzfrist-fuer-thomas-suessli-keine-auftraege-aus-der-ruestungsindustrie-fuer-den-ex-armeechef)
+
+> Relevance score: [2] - Cooling-off period for former Swiss army chief; procedural rule enforcement with minimal governance impact.
+
+## The Deep Fall of Blocher's EMS-Chemie
+
+[Inside Paradeplatz](https://insideparadeplatz.ch/2025/11/28/der-tiefe-fall-von-bochers-ems-chemie/) • _Friday, November 28, 2025, 07:23_
+
+Stock halved in 4 years, family no longer in top ten of 300 richest Swiss. Conversely friend Martin: Ebner buys jets, takes off.
+
+Today's 300 «richest list» brings a Krösi friendship to the point. Among the «biggest climbers 2025» is Martin Ebner with 1.75 billion plus.
+Among the «biggest decliners» is the Blocher family with 1 billion m... [read more](https://insideparadeplatz.ch/2025/11/28/der-tiefe-fall-von-bochers-ems-chemie/)
+
+> Relevance score: [1] - Decline in Swiss business family wealth and company stock; business news without wider economic or societal effects.
 
 
 </details>

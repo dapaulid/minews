@@ -2,170 +2,258 @@
 
 ---
 
-_Aktualisiert: Freitag, 28. November 2025, 18:21 Uhr_
+_Aktualisiert: Samstag, 29. November 2025, 06:24 Uhr_
 
-## Arm sind in der Schweiz vor allem jene ohne Job und Familien
+## Trump stellt Politik auf den Kopf: Trump will Russlands besetzte Ukraine-Gebiete anerkennen - Europa reagiert entsetzt
 
-[srf.ch](https://www.srf.ch/news/wirtschaft/arm-im-reichen-land-warum-die-armut-in-der-schweiz-nicht-weniger-wird) • _Freitag, 28. November 2025, 05:57 Uhr_
+[bluewin.ch](https://www.bluewin.ch/de/news/international/trump-russland-ukraine-annektierte-gebiete-anerkennung-friedensplan-2984809.html) • _Freitag, 28. November 2025, 14:13 Uhr_
 
-Armut in der Schweiz kehrt oft wieder zurück. Betroffen sind vor allem jene ohne stabilen Job und Familien.
+Laut einem Bericht des «Telegraph» sollen die USA unter Präsident Trump bereit sein, Russlands Kontrolle über besetzte ukrainische Regionen anzuerkennen. Der Vorstoss sorgt in Europa für erhebliche Unruhe.
 
-### Erster umfassender Armutsbericht des Bundes
-- Erster Bericht des [[Bundesamts für Sozialversicherungen|BSV]] evaluiert alle verfügbaren Daten zur [[Armut]] in der [[Schweiz]].
-- 8 bis 9 % der Bevölkerung sind arm; Quote stabil seit über 10 Jahren trotz Reduktionsverpflichtung.
-- Bericht dient als Grundlage für erste nationale Armutsstrategie.
+### US-Vorschlag zur Anerkennung russischer Kontrolle
+- Laut einem Bericht des [Telegraph](https://de.wikipedia.org/wiki/The_Daily_Telegraph) sind die [USA](https://de.wikipedia.org/wiki/Vereinigte_Staaten) unter [Präsident Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump) bereit, die russische Kontrolle über besetzte ukrainische Gebiete de facto anzuerkennen.
+  - Betroffene Regionen: [Krim](https://de.wikipedia.org/wiki/Krim), Teile von [Donezk](https://de.wikipedia.org/wiki/Oblast_Donezk), [Luhansk](https://de.wikipedia.org/wiki/Oblast_Luhansk), [Cherson](https://de.wikipedia.org/wiki/Oblast_Cherson) und [Saporischschja](https://de.wikipedia.org/wiki/Oblast_Saporischschja).
+- Der Vorschlag ist Teil eines überarbeiteten Friedensplans (von 28 auf 19 Punkte reduziert), der einen radikalen Bruch mit der bisherigen US-Außenpolitik darstellt.
 
-### Definition von Armut
-- Armut: Haushaltseinkommen (inkl. Sozialleistungen) unter sozialem Existenzminimum, das nötigste Ausgaben nicht deckt.
-- Wichtige Ausgaben (nach [[Schweizerischen Konferenz für Sozialhilfe|SKOS]]): Wohnkosten, Gesundheit, Nahrung, Bekleidung, Energie, Haushalt, Pflege, Verkehr, Medien, Bildung, Freizeit etc.
-- Mindestbedarf: Alleinstehende 1061 [[Schweizer Franken|CHF]]/Monat + Wohnkosten/Krankenkasse; Familie mit 2 Kindern 2271 CHF/Monat.
-- Berücksichtigt 7 Lebensbereiche: Einkommen, Bildung, Erwerbsarbeit, Gesundheit, Wohnen, soziale Beziehungen, politische Teilhabe.
+### Verhandlungen und Beteiligte
+- Trumps Sondergesandter [Steve Witkoff](https://en.wikipedia.org/wiki/Steve_Witkoff) und Schwiegersohn [Jared Kushner](https://de.wikipedia.org/wiki/Jared_Kushner) reisten nach Moskau, um den Plan [Wladimir Putin](https://de.wikipedia.org/wiki/Wladimir_Putin) persönlich zu überbringen.
+- Ukrainische Delegation (u. a. Stabschef [Andrij Jermak](https://de.wikipedia.org/wiki/Andrij_Jermak) und Sicherheitsberater [Rustem Umjerow](https://de.wikipedia.org/wiki/Rustem_Umjerow)) plant Reisen nach Florida ins [Mar-a-Lago](https://de.wikipedia.org/wiki/Mar-a-Lago)-Resort für Beratungen mit Trumps Team.
+- Heikelste Fragen, insbesondere territoriale Neuordnung, sollen in direkten Gesprächen zwischen Trump und [Wolodymyr Selenskyj](https://de.wikipedia.org/wiki/Wolodymyr_Selenskyj) geklärt werden.
 
-### Besonders betroffene Gruppen
-- Haushalte mit niedrigen Einkommen und hohen Ausgaben.
-- Nicht-Erwerbstätige (häufiger als Erwerbstätige).
-- Familien:
-  - Alleinerziehende.
-  - Mit mehr als 2 Kindern.
-- Alleinlebende, Personen mit geringer Bildung, Ausländerinnen und Ausländer.
+### Ukrainische Position
+- Die [Ukraine](https://de.wikipedia.org/wiki/Ukraine) lehnt jeden Verzicht auf Territorium konsequent ab; die Verfassung verbietet Abtretungen ohne landesweite Volksabstimmung.
+- Jermak zu [The Atlantic](https://de.wikipedia.org/wiki/The_Atlantic): «Kein vernünftiger Mensch würde ein Dokument unterschreiben, das Land aufgibt.»
 
-### Auslöser der Armut
-- Übergänge: Ausbildung, Erwerbsleben, Pensionierung (Prävention möglich).
-- Unvorhersehbare Ereignisse: Neues Kind, Trennung, schwere Krankheit, Todesfall, Jobverlust.
+### Europäische und internationale Reaktionen
+- Europa reagiert entsetzt und alarmiert: Der Schritt würde gewaltsame Grenzverschiebungen legitimieren und einen weltweit wirkenden Präzedenzfall schaffen.
+  - Gruppe von Staaten bekräftigt: Grenzen dürfen nicht mit Gewalt verschoben werden.
+  - EU-Gegenpapier empfiehlt, territoriale Fragen erst nach vollständiger Waffenruhe zu behandeln, ohne Anerkennung russischer Ansprüche.
+- Zitat eines Informanten: «Die Amerikaner achten nicht auf die europäische Position. Europa könne tun, was es wolle.»
 
-### Gründe für anhaltende Armut
-- Häufige Benachteiligungen: 50 % chronisch krank, viele wollen mehr arbeiten (können nicht), zu kleine/teure Wohnungen.
-- Armut selten dauerhaft, kehrt aber häufig zurück nach temporärem Ausstieg.
+### Weitere Entwicklungen
+- Kremls neuer Sicherheitsstrategieplan sieht vollständige Integration der besetzten Regionen in russische Strukturen innerhalb eines Jahrzehnts vor; Rückzug ausgeschlossen.
+- Veröffentlichte Telefongespräche: Witkoff riet russischen Vertretern, wie sie im Weißen Haus Sympathien gewinnen könnten (z. B. Forderung nach Aufgabe Donezks durch Ukraine); vermutlich von europäischer Behörde geleakt, um Nähe zu Moskau offenzulegen.
 
-### Wege aus der Armut
-- Individuell: Neuer Job, Beziehung, passende Wohnung, staatliche Mittel.
-- Strukturell: Tiefe Arbeitslosigkeit ändert Quote nicht; fehlende koordinierte Armutspolitik (Zitat [[Aline Masé]] von [[Caritas Schweiz]]).
-- Geplante Armutsstrategie als Hoffnungsschimmer.
+> Relevance score: [8] - Reported US policy shift on recognizing Russian control in Ukraine could significantly alter global geopolitics and European security, with high long-term significance.
 
-### Rolle von Sozialversicherungen und Leistungen
-- Individuen primär selbst verantwortlich, aber ausgebaute Sozialversicherungen (Unfall, Krankheit, Invalidität) und Leistungen.
-- Reduzieren Armutsquote bei Erwerbstätigen/Familien von 16 % auf 6 % (2/3 durch Sozialversicherungen).
-- Problem: 20–40 % mit Anspruch beziehen Leistungen nicht (fehlende Info, Scham, Hürden).
+## Pfister schlägt Mehrwertsteuererhöhung für Armeeausgaben vor
 
-### Datenlücken
-- Keine Analysen individueller Armutsverläufe ohne kantonale Steuerdaten.
-- Harmonisierung blockiert; könnte erfolgreiche kantonalen Politiken zeigen (Forderung Aline Masé).
+[Blick](https://www.blick.ch/politik/brisanter-plan-von-martin-pfister-durchgesickert-kommt-jetzt-der-mehrwertsteuer-schock-id21465501.html) • _Freitag, 28. November 2025, 08:47 Uhr_
 
-> Relevance score: [8] - First comprehensive federal report on poverty in Switzerland, affecting 8-9% of population, especially those without stable jobs or families; highlights structural socioeconomic issues with national civic relevance.
+Verteidigungsminister Martin Pfister will offenbar die Mehrwertsteuer zugunsten der Armee anheben. Die Konsumsteuer rückt damit an mehreren Fronten ins Zentrum – und in Bundesbern zeichnet sich eine heisse Debatte ab.
 
-## wie die Schweiz Asylverfahren in die Länge zieht
+### Vorschlag von Verteidigungsminister Pfister
+- [Martin Pfister](https://de.wikipedia.org/wiki/Martin_Pfister) (Mitte) plant eine Anhebung der [Mehrwertsteuer](https://de.wikipedia.org/wiki/Mehrwertsteuer) um 0,5 Prozentpunkte, um jährlich 1,75 Milliarden Franken für die Armee zu generieren.
+- Ziel: Schnellere Aufrüstung gegen hybride Kriegsführung, inklusive weiterer Luftabwehrsysteme.
+- Vorschlag sickerte aus einer sicherheitspolitischen Klausur des [Bundesrats](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)) durch, bei der Pfister militärische Führungskräfte mitbrachte und auf rasche Mehrfinanzierung pochte.
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/alam-erhaelt-kein-bleiberecht-und-lebt-dennoch-jahrelang-hier-wie-die-schweiz-asylverfahren-in-die-laenge-zieht-ld.1910237) • _Freitag, 28. November 2025, 05:30 Uhr_
+### Begründung und Umsetzung
+- Basierend auf Einschätzungen, dass [Russland](https://de.wikipedia.org/wiki/Russland) 2028 oder 2029 erneut Europa angreifen könnte.
+- Erhöhung frühestens 2028 möglich, erfordert Volksabstimmung.
+- Alternative wie Lockerung der Schuldenbremse politisch schwierig, wie unter Vorgängerin [Viola Amherd](https://de.wikipedia.org/wiki/Viola_Amherd) (Mitte) gezeigt.
 
-Immer mehr Personal bearbeitet Asyldossiers – aber die Pendenzen bleiben. Der Bund gibt Millionen für Personen aus, deren Aussichten auf Asyl minim sind. Jetzt findet eine nationale Asylkonferenz statt.
+### Mehrwertsteuer im Fokus
+- Mehrfache Erhöhungen drohen durch 13. [AHV](https://de.wikipedia.org/wiki/Alters-_und_Hinterlassenenversicherung)-Rente (ab Dezember 2026, Kosten 4–5 Mrd. Franken/Jahr).
+  - [Innenministerin Elisabeth Baume-Schneider](https://de.wikipedia.org/wiki/Elisabeth_Baume-Schneider) (SP) schlägt 0,7 Prozentpunkte vor.
+  - Ständerat favorisiert Mischvariante aus Lohnbeiträgen und Mehrwertsteuer.
+- 2024 diskutiertes «Sicherheitsprozent» von Benedikt Würth (Mitte): 0,4 Punkte Armee, 0,6 Punkte AHV – vom Bundesrat abgelehnt, aber Mehrwertsteuer als Finanzierungsoption anerkannt ([Tamedia](https://de.wikipedia.org/wiki/Tamedia)-Bericht).
 
-### Fall von Jahangir Alam
-- Jahangir Alam aus [Bangladesch](https://de.wikipedia.org/wiki/Bangladesch) stellte 2015 Asyl in der Schweiz an, wurde aber per [Dublin-Verordnung](https://de.wikipedia.org/wiki/Dublin-Verordnung) abgewiesen, da er zuvor in Italien beantragt hatte.
-- Nach Ablehnung durch das [Bundesverwaltungsgericht_(Schweiz)](https://de.wikipedia.org/wiki/Bundesverwaltungsgericht_(Schweiz)] tauchte er unter, kehrte 2018 zurück; SEM übernahm wegen verstrichener Frist.
-- Alam berichtete von Verfolgung als Mitglied der [Bangladesh_Nationalist_Party](https://de.wikipedia.org/wiki/Bangladesh_Nationalist_Party) (BNP), gefälschtem Drogenvorwurf und Haftbefehlen – Geschichte als unglaubwürdig eingestuft (Widersprüche, mehrmalige Reisen).
-- Asyl 2020 abgelehnt, endgültige Gerichtsbestätigung erst 2024 (viereinhalb Jahre); Kosten über 70'000 Franken durch Unterbringung.
+> Relevance score: [7] - Swiss defense minister proposes VAT increase for military funding; significant national fiscal and security policy debate with civic impact.
 
-### Systemreform und anhaltende Verzögerungen
-- Trotz Neustrukturierung 2019 (Vereinfachung, mehr Personal beim [Staatssekretariat_f%C3%BCr_Migration_(SEM)](https://de.wikipedia.org/wiki/Staatssekretariat_f%C3%BCr_Migration)) bleiben Verfahren langwierig.
-  - Überlastete Infrastruktur, Asylsuchende ohne Bleiberecht halten sich jahrelang auf.
-  - Asylsuchende aus Bangladesch selten (2018: 4 von 65'000), hohe Ablehnungsquoten auch in Italien.
+## Razzia bei Selenskis Stabschef
 
-### Pendenzen und Kosten
-- Aktuell über 17'000 offene Verfahren; Beschwerden beim Bundesverwaltungsgericht gestiegen auf 6378 (von 2640 vor drei Jahren).
-  - Ursachen: Mehr komplexe Fälle durch SEM-Abbau von Altfällen, Verschärfung bei Türkei-Asylanten.
-  - Prognose: ~6000 neue Beschwerden bis Jahresende trotz zusätzlicher Richter.
-- Monatliche Globalpauschalen: 14 Mio. Franken für abgewiesene Personen; 99,2% SEM-Entscheide rechtsbeständig.
-- Durchschnittsdauer Gerichtsverfahren: 187 Tage, bei Fällen wie Alam deutlich länger durch Unterlagen und Replikationen.
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/korruptionsaffaere-in-der-ukraine-hausdurchsuchung-bei-selenskis-engstem-vertrauten-ld.1914065) • _Freitag, 28. November 2025, 17:14 Uhr_
 
-### Politische Diskussion und Ausblick
-- Nationale Asylkonferenz in Bern prüft System; Kantone üben Druck auf Bund aus.
-- Ständerat Benedikt Würth (Mitte, SG) fordert Motion für Beschleunigung: Regulatorische Vereinfachungen (kürzere Begründungen bei klaren Fällen, keine aufschiebende Wirkung bei Mehrfachgesuchen).
-  - Kritik am [Justizdepartement](https://de.wikipedia.org/wiki/Bundesdepartement_f%C3%BCr_Justiz_und_Polizei) von Beat Jans: Fokus auf Personal statt Effizienz.
-- Alam aktuell verschwunden, möglicherweise abgeschoben oder untergetaucht.
+Der Leiter der Präsidialverwaltung galt als graue Eminenz der ukrainischen Politik. Trotz heftiger Kritik im Zuge hielt Präsident Selenski lange an seinem engsten Vertrauten fest. Nun ist Andri Jermak zurückgetreten.
 
-> Relevance score: [7] - Details prolonged Swiss asylum processing, persistent backlogs despite more staff, high costs for low-success cases, and national conference; significant for Swiss governance and immigration policy.
+### Rücktritt von Andrij Jermak
+- Präsident [Wolodymyr Selenskyj](https://de.wikipedia.org/wiki/Wolodymyr_Selenskyj) kündigte in seiner abendlichen Videoansprache den Rücktritt von [Andrij Jermak](https://de.wikipedia.org/wiki/Andrij_Jermak), Leiter der Präsidialverwaltung und engstem Vertrauten, an.
+- Jermak leitete kürzlich die ukrainische Delegation bei Gesprächen in Genf zum US-Friedensplan.
+- Selenskyj betonte, inmitten von Friedensverhandlungen brauche die Ukraine innere Stärke ohne Gerüchte; Jermak habe die Position korrekt vertreten, das Amt werde neu besetzt.
 
-## Putin: Rückzug der Ukraine Bedingung für Kampfende
+### Razzia und Ermittlungen
+- Frü Morgens durchsuchten Mitarbeiter des [Nationalen Antikorruptionsbüros (NABU)](https://de.wikipedia.org/wiki/Nationales_Antikorruptionsb%C3%BCro_der_Ukraine) und der [Sonderstaatsanwaltschaft für Korruptionsverbrechen (SAPO)](https://de.wikipedia.org/wiki/Spezialisierte_Antikorruptionsstaatsanwaltschaft) Jermaks Wohnung.
+- Die Razzia steht im Zusammenhang mit "Operation Midas", einer seit 15 Monaten laufenden Ermittlung zu Korruption in strategischen Staatsbereichen, basierend auf abgehörten Telefongesprächen.
 
-[GMX](https://www.gmx.ch/magazine/politik/russland-krieg-ukraine/ukraine-krieg-putin-nennt-harte-bedingung-einstellung-kampfhandlungen-41635146) • _Donnerstag, 27. November 2025, 19:48 Uhr_
+### Details zur Operation Midas
+- Im Energiesektor mussten Zulieferer Schmiergelder von 10–15 % des Vertragswerts zahlen, um Aufträge zu erhalten; insgesamt bis 100 Millionen Dollar veruntreut.
+- Zentrale Figur: [Timur Minditsch](https://de.wikipedia.org/wiki/Tymur_Myndar), früherer Geschäftspartner Selenskyjs, der vor dem Zugriff nach Israel floh.
+  - Zwei Minister entlassen.
+  - Mehrere Festnahmen.
 
-Russlands Präsident Putin ist zur Einstellung der Kämpfe im Ukraine-Krieg bereit – stellt aber eine harte Forderung. Im überarbeiteten US-Plan sieht er eine mögliche Verhandlungsbasis.
+### Spekulationen zu Jermak
+- Keine konkreten Anschuldigungen gegen Jermak, aber Spekulationen, er sei die Person mit Decknamen "Ali Baba" in Telefonmitschnitten.
+- Opposition forderte Rücktritt, da Jermak Macht im Präsidentenpalast bündle und Korruption durch Umfeld fördere.
 
-### Putins Bedingung für Waffenstillstand
-- Der russische Präsident [Wladimir Putin](https://de.wikipedia.org/wiki/Wladimir_Putin) ist bereit, die Kampfhandlungen im [Ukraine-Krieg](https://de.wikipedia.org/wiki/Russischer_%C3%9Cberfall_auf_die_Ukraine_2022) einzustellen, falls die Ukraine aus den von Russland beanspruchten Gebieten abzieht.
-  - Betroffene Regionen: [Donezk](https://de.wikipedia.org/wiki/Oblast_Donezk), [Luhansk](https://de.wikipedia.org/wiki/Oblast_Luhansk), [Cherson](https://de.wikipedia.org/wiki/Oblast_Cherson) und [Saporischschja](https://de.wikipedia.org/wiki/Oblast_Saporischschja).
-- Andernfalls werde Russland den Rückzug durch "militärische Mittel" erzwingen; Putin äußerte dies am 27. November in [Bischkek](https://de.wikipedia.org/wiki/Bischkek), [Kirgisistan](https://de.wikipedia.org/wiki/Kirgisistan).
+### Jermaks Einfluss und Kritik
+- Als "graue Eminenz" galt Jermak als mächtigster Mann nach Selenskyj; mischte in Entscheidungen mit:
+  - Verspäteter Rückzug aus [Bachmut](https://de.wikipedia.org/wiki/Schlacht_um_Bachmut) (Frühling 2023) mit unnötigen Opfern.
+  - Absetzung des Oberbefehlshabers [Waleri Saluschnyj](https://de.wikipedia.org/wiki/Waleri_Saluschnyj).
+- Vermuteter Hintermann eines gescheiterten Gesetzesvorstoßes zur politischen Kontrolle von NABU und SAPO.
+- Trotz Druck hielt Selenskyj lange an ihm fest, ernannte ihn sogar zum Verhandlungsleiter; Razzia machte ihn untragbar.
 
-### US-Verhandlungsplan
-- Putin sieht den überarbeiteten [US-Plan](https://de.wikipedia.org/wiki/Russischer_%C3%9Cberfall_auf_die_Ukraine_2022) (von 28 auf ca. 20 Punkte reduziert) als mögliche Grundlage für zukünftige Vereinbarungen.
-- [Kremlsprecher Dmitri Peskow](https://de.wikipedia.org/wiki/Dmitri_Peskow) bezeichnete Verhandlungen als "ernsthaft".
-- Kommende Gespräche: US-Sondergesandter Steve Witkoff in Moskau nächste Woche; US-Verteidigungsstaatssekretär Dan Driscoll in Kiew diese Woche.
+> Relevance score: [6] - Resignation of Ukraine's top aide amid corruption scandal impacts wartime governance credibility, with moderate global implications for the ongoing conflict, but not a structural shift.
 
-### Militärische Lage
-- Russland kontrolliert ein Fünftel der Ukraine; Putin: Russische Truppen praktisch nicht aufzuhalten.
-  - Umzingelt: [Pokrowsk](https://de.wikipedia.org/wiki/Pokrowsk) und Myrnograd in Donezk.
-  - Vorstöße: Wowtschansk ([Charkiw](https://de.wikipedia.org/wiki/Oblast_Charkiw)), Siwersk (Donezk), Guliaipole (Saporischschja).
-- Laut [ISW](https://de.wikipedia.org/wiki/Institute_for_the_Study_of_War): Russischer Vormarsch 2025 schneller (monatlich 467 km²).
+## Gipfel: Jans erklärt geplante Änderungen im Asylwesen ab 2027
 
-### Weitere Aussagen
-- Russland plant keine Angriffe auf EU-Staaten, aber "Vergeltungsmassnahmen" bei Einfrieren russischer Vermögenswerte.
-- Ukraine lehnt Gebietsabtretungen kategorisch ab; Krieg seit Februar 2022 schlimmster Konflikt in Europa seit WK II.
+[20 Minuten](https://www.20min.ch/story/medienkonferenz-beat-jans-informiert-das-soll-sich-ab-2027-im-asylwesen-aendern-103459300) • _Freitag, 28. November 2025, 16:41 Uhr_
 
-> Relevance score: [7] - Putin conditions Ukraine war end on Ukrainian withdrawal, citing revised US plan as basis; notable development in major global conflict with potential long-term geopolitical impact.
+Bundesrat Beat Jans und die Kantone diskutieren neue Strategien zur Verbesserung des Asylverfahrens. Welche Massnahmen sind geplant?
+
+### Asyl-Gipfel in Bern
+- Bundesrat [Beat Jans](https://de.wikipedia.org/wiki/Beat_Jans) ([SP](https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz)) traf Vertreter von Bund, Kantonen, Gemeinden und Städten zur Analyse der Asylsituation.
+- Alle Staatsebenen erkennen Handlungsbedarf im Rahmen der [Asylstrategie 2027](https://de.wikipedia.org/wiki/Asylpolitik_der_Schweiz) an.
+
+### Geplante Änderungen im Asylwesen
+- Beschleunigung von Asylverfahren und rascherer Abbau von Pendenzen.
+- System schwankungstauglicher gestalten.
+- Verbindlichere Förderung der Integration.
+- Prüfung eines vorgelagerten Verfahrens für Personen ohne Schutzanspruch zur Entlastung der Strukturen.
+- Zitat Jans: «Ein Systemwechsel steht nicht zur Debatte. Wer Anspruch hat auf Schutz, der findet ihn in der Schweiz. [...] schnellere Entscheide, schnellere Rückkehr und schnellere Integration.»
+
+### Sicherheit und Regelverstöße
+- Gesetzliche Anpassungen zur Stärkung der Akzeptanz und Handlungsfähigkeit bei straffälligen Personen.
+- Stärkung des Wegweisungsvollzugs für Ausreisepflichtige.
+- Weiterentwicklung der Taskforce gegen Intensivtäter.
+- [Philippe Müller](https://de.wikipedia.org/wiki/Philippe_M%C3%BCller_(Politiker,_1967)) (FDP, Vertreter der Justiz- und Polizeidirektoren): «Zentral ist für uns, dass sich Personen, die in die Schweiz kommen, an unsere Regeln halten. Verletzen sie die Regeln, ist eine entschlossene Reaktion nötig.»
+
+### Schutzstatus S
+- Einbettung ins Gesamtsystem mit klarer Regelung für Aufhebung oder Übergang in [Status B](https://de.wikipedia.org/wiki/Aufenthaltsbewilligung_(Schweiz)) (Aufenthaltsbewilligung).
+- Besonders betroffen: [Ukrainische Bürger](https://de.wikipedia.org/wiki/Ukraine).
+- Herausforderungen bei Unterbringung, Ungleichbehandlungen (z. B. Reise-Möglichkeiten, Sozialhilfe) und Vorbereitung auf geregelte Rückkehr.
+- [Hanspeter Hilfiker](https://de.wikipedia.org/wiki/Hanspeter_Hilfiker) (FDP, Aarauer Stadtpräsident): Unterbringung ist grosse Herausforderung, Neustrukturierung nötig.
+
+### Nächste Schritte
+- Umgehende Umsetzung identifizierter Massnahmen.
+- Ausarbeitung weiterer mittel- und langfristiger Massnahmen.
+- Jans warnt vor Unterschätzung der Strategie, freut sich auf Zusammenarbeit; Umsetzung je nach Bereich unterschiedlich langwierig.
+
+> Relevance score: [6] - Swiss federal plans to reform asylum procedures from 2027 affect national migration policy and civic resources, with moderate long-term governance relevance.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Putin über Angriff auf Europa: "Völliger Blödsinn"
+## WHO warnt: Gefahr durch Masern steigt
 
-[Watson](https://www.watson.ch/international/russland/670960827-putin-ueber-angriff-auf-europa-voelliger-bloedsinn) • _Donnerstag, 27. November 2025, 20:00 Uhr_
+[Salzburger Nachrichten](https://www.sn.at/panorama/wissen/who-gefahr-masern-188471137) • _Freitag, 28. November 2025, 12:29 Uhr_
 
-Der russische Präsident ist nach eigenen Worten bereit, den Verzicht auf einen Angriff gegen Europa schriftlich festzuhalten.
+Die Weltgesundheitsorganisation (WHO) befürchtet eine Ausbreitung der hochansteckenden und in seltenen Fällen tödlichen Masern.
 
-Der russische Präsident Wladimir Putin ist nach eigenen Worten bereit, im Zuge diplomatischer Verhandlungen den Verzicht auf einen Angriff gegen Europa schriftlich festzuhalten. Es sei «völliger Blödsinn» zu behaupten, dass Russland vorhabe, Europa z... [weiterlesen](https://www.watson.ch/international/russland/670960827-putin-ueber-angriff-auf-europa-voelliger-bloedsinn)
+"Für große Teile der Welt läuten die Alarmglocken", sagte Kate O'Brien, Direktorin der WHO-Impfabteilung. Der aktuelle Bericht zeigt laut WHO, dass das Tempo beim Kampf gegen Masern und Röteln trotz aller Erfolge zu niedrig ist. "Die Zahl der Toten u... [weiterlesen](https://www.sn.at/panorama/wissen/who-gefahr-masern-188471137)
 
-> Relevance score: [5] - Putin denies Russian plans to attack Europe and offers written guarantee; diplomatic rhetoric amid tensions with moderate European security relevance.
+> Relevance score: [5] - WHO global warning on rising measles risk due to vaccination gaps; moderate public health relevance but not a crisis-level event.
 
-## Trump will venezolanische Drogenhändler "sehr bald" an Land angreifen
+## Armut in der Schweiz: Diese Menschen sind am häufigsten betroffen
 
-[20 Minuten](https://www.20min.ch/story/venezuela-trump-will-drogenhaendler-sehr-bald-auch-an-land-angreifen-103459232) • _Freitag, 28. November 2025, 01:40 Uhr_
+[Watson](https://www.watson.ch/schweiz/geld/292209378-armut-in-der-schweiz-diese-menschen-sind-am-haeufigsten-betroffen) • _Freitag, 28. November 2025, 10:51 Uhr_
 
-US-Präsident Donald Trump kündigt an, dass die USA bald auch an Land gegen Drogenhändler vorgehen werden.
+In der Schweiz sind acht bis neun Prozent der Bevölkerung arm. Dieser Prozentanteil ist seit über zehn Jahren stabil.
 
-Die USA wollen nach den Worten von Präsident Donald Trump «sehr bald» auch an Land gegen venezolanische Drogenhändler vorgehen. «Wir werden auch damit beginnen, sie auf dem Landweg zu stoppen», dies werde «sehr bald» beginnen, sagte Trump am Donnerst... [weiterlesen](https://www.20min.ch/story/venezuela-trump-will-drogenhaendler-sehr-bald-auch-an-land-angreifen-103459232)
+In der Schweiz sind acht bis neun Prozent der Bevölkerung arm. Dieser Prozentanteil ist seit über zehn Jahren stabil, obwohl sich die Schweiz dazu verpflichtet hatte, die Armut im Land zu verringern.
+Nun hat das Bundesamts für Sozialversicherungen de... [weiterlesen](https://www.watson.ch/schweiz/geld/292209378-armut-in-der-schweiz-diese-menschen-sind-am-haeufigsten-betroffen)
 
-> Relevance score: [4] - US president announces expansion of anti-drug operations into Venezuela on land; potential international security implications but limited scale and structural change.
+> Relevance score: [5] - Stable poverty rates in Switzerland highlight ongoing social issue affecting 8-9% of population; moderate national civic relevance.
 
-## Nach Attacke in Washington: Trump lässt Green Cards überprüfen
+## HIV-Infektionen: Vereinte Nationen warnen vor Rückschritten im Kampf gegen Aids
 
-[Blick](https://www.blick.ch/ausland/nach-attacke-in-washington-trump-laesst-green-cards-aus-problematischen-laendern-pruefen-id21465079.html) • _Donnerstag, 27. November 2025, 23:54 Uhr_
+[zeit.de](https://www.zeit.de/gesundheit/2025-11/un-kinderhilfswerk-aids-hiv) • _Freitag, 28. November 2025, 07:02 Uhr_
 
-Die USA reagieren auf den tödlichen Angriff eines Afghanen auf Nationalgardisten. Die Behörden überprüfen Green Cards aus 19 «problematischen Ländern» und setzen afghanische Einwanderungsanträge aus.
+Bei Kürzungen der Aids-Mittel drohten fast zwei Millionen Kinder zu sterben, warnt UNICEF. Man riskiere, die Fortschritte der letzten Jahrzehnte "zunichte" zu machen.
 
-Die USA schotten sich ab: Präsident Donald Trump (79) nimmt die Attacke in Washington als Anlass zu weiteren Verschärfungen gegen Migranten.
-Der Hintergrund: Am Mittwoch (Ortszeit) hatte ein Mann aus Afghanistan das Feuer auf Nationalgardisten eröffn... [weiterlesen](https://www.blick.ch/ausland/nach-attacke-in-washington-trump-laesst-green-cards-aus-problematischen-laendern-pruefen-id21465079.html)
+Das UN-Kinderhilfswerk (Unicef) hat anlässlich des Welt-Aids-Tags am 1. Dezember vor Rückschlägen bei der Bekämpfung der Immunschwächekrankheit gewarnt. Bei einem Fortbestehen der aktuellen Maßnahmen zur Verhütung und Behandlung von HIV-Infektionen w... [weiterlesen](https://www.zeit.de/gesundheit/2025-11/un-kinderhilfswerk-aids-hiv)
 
-> Relevance score: [4] - US tightens green card reviews from 19 countries and pauses Afghan applications post-attack; affects US immigration policy with some global migration relevance but niche.
+> Relevance score: [5] - UN warning on potential AIDS setbacks due to funding cuts; moderate global health relevance but ongoing issue without acute crisis.
 
-## Israelische Sicherheitskräfte erschiessen militante Palästinenser
+## Gotthard-Tunnel: Bohrmaschine kommt im Frühjahr 2026 wieder zum Einsatz
 
-[20 Minuten](https://www.20min.ch/story/ramallah-militante-palaestinenser-ergeben-sich-erschossen-103459059) • _Donnerstag, 27. November 2025, 21:21 Uhr_
+[20 Minuten](https://www.20min.ch/story/zweite-roehre-bohr-desaster-am-gotthard-neustart-bei-meter-740-103459327) • _Freitag, 28. November 2025, 10:47 Uhr_
 
-Israelische Sicherheitskräfte wollen im Westjordanland gesuchte Palästinenser festnehmen. Als diese ein Gebäude verlassen, fallen Schüsse.
+Die Bohrmaschine im Gotthard-Tunnel ist nach 190 Metern blockiert. Sprengungen sollen nun den Vortrieb wieder ermöglichen.
 
-Bei einem Einsatz im Westjordanland haben israelische Sicherheitskräfte mindestens zwei gesuchte Palästinenser getötet, die sich Berichten zufolge den Einsatzkräften zuvor ergeben haben sollen. Israels Armee und Polizei teilten mit, der Vorfall werde... [weiterlesen](https://www.20min.ch/story/ramallah-militante-palaestinenser-ergeben-sich-erschossen-103459059)
+Die Tunnelbohrmaschine (TBM) auf der Südseite der zweiten Gotthard-Strassenröhre ist nach 190 Metern zum Stillstand gekommen, wie bereits seit dem Sommer bekannt ist. Wie das Bundesamt für Strassen (Astra) mitteilte, sei der maschinelle Vortrieb in d... [weiterlesen](https://www.20min.ch/story/zweite-roehre-bohr-desaster-am-gotthard-neustart-bei-meter-740-103459327)
 
-> Relevance score: [3] - Routine incident in ongoing West Bank conflict with fatalities; minor escalation in protracted violence, low novel impact.
+> Relevance score: [4] - Technical delay in key Swiss infrastructure project with planned resumption; minor short-term impact on transport.
 
-## Kindheit bis Alter - Gehirnstruktur durchläuft fünf Phasen
+## Krieg in der Ukraine - Orban spricht mit Putin über Öl- und Gaslieferungen
 
-[Radio Central](https://www.radiocentral.ch/news/international/kindheit-bis-alter-gehirnstruktur-durchlaeuft-fuenf-phasen-162611566) • _Donnerstag, 27. November 2025, 19:54 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-orban-spricht-mit-putin-ueber-oel-und-gaslieferungen) • _Freitag, 28. November 2025, 15:35 Uhr_
 
-Im Laufe eines Lebens verdrahtet sich das Gehirn einer Studie zufolge fünfmal umfassend neu. Im Alter von im Mittel etwa 9, 32, 66 und 83 Jahren gebe es Wendepunkte der neuronalen Vernetzung, berichtet ein Forschungsteam im Fachmagazin «Nature Communications».
+Ungarns Ministerpräsident Viktor Orban hat in Moskau Kremlchef Wladimir Putin getroffen.
 
-Die Neuverdrahtung gehe jeweils mit verschiedenen Denkweisen im Zuge von Wachstum, Reifung und Alterung einher. «Die Phasen liefern wichtige Hinweise, wozu unser Gehirn in verschiedenen Lebensabschnitten am besten geeignet oder wann es am anfälligste... [weiterlesen](https://www.radiocentral.ch/news/international/kindheit-bis-alter-gehirnstruktur-durchlaeuft-fuenf-phasen-162611566)
+Angesichts der humanitären Krise in der Ukraine sammelt die Glückskette Spenden für die betroffene ukrainische Bevölkerung. Millionen Menschen – vor allem Kinder, Frauen und ältere Menschen – sind bereits geflohen und suchen Zuflucht in den Nachbarlä... [weiterlesen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-orban-spricht-mit-putin-ueber-oel-und-gaslieferungen)
 
-> Relevance score: [2] - Scientific study on brain rewiring phases over lifespan; niche research with no direct structural, civic, or societal impact.
+> Relevance score: [3] - Hungarian PM's meeting with Putin on energy amid Ukraine war has limited direct impact on Switzerland or broad global structures beyond niche energy diplomacy.
+
+## Infostealer greift unbemerkt Daten auf MacOS ab
+
+[SwissCybersecurity.net](https://www.swisscybersecurity.net/news/2025-11-28/infostealer-greift-unbemerkt-daten-auf-macos-ab) • _Freitag, 28. November 2025, 11:15 Uhr_
+
+Jamf Threat Labs hat mit Digitstealer einen neuen Infostealer entdeckt, der MacOS-Systeme ins Visier nimmt.
+
+Das Threat-Labs-Team von Jamf hat eine neue MacOS-Malware entdeckt. Der Infostealer namens Digitstealer umgeht Sicherheitssysteme mithilfe von mehrstufigen Angriffsmustern und Hardware-Prüfungen und stiehlt unbemerkt sensible Daten von Apple-Systemen... [weiterlesen](https://www.swisscybersecurity.net/news/2025-11-28/infostealer-greift-unbemerkt-daten-auf-macos-ab)
+
+> Relevance score: [3] - New MacOS malware discovery; cybersecurity concern for Apple users but limited scale and no widespread societal disruption.
+
+## Airbus A320 Neo mit Triebwerken von Pratt & Whitney machen bei schlechtem Winterwetter Probleme: Airbus erlässt Startbeschränkungen
+
+[aeroTELEGRAPH](https://www.aerotelegraph.com/flugzeuge/airbus-a320-neo-mit-triebwerken-von-pratt-und-whitney-machen-bei-schlechtem/2cb9btz) • _Freitag, 28. November 2025, 10:04 Uhr_
+
+Air Astana musste kürzlich den Betrieb ihrer Airbus A320 Neo, A321 Neo und A321 LR einschränken. Schuld war gefrierender Nebel. Recherchen von aeroTELEGRAPH zeigen: Airbus hat Startbeschränkungen für Exemplare mit Triebwerken von Pratt & Whitney für alle Betreiber erlassen.
+
+Dass Fluggesellschaften Flugzeuge am Boden lassen müssen, da neue Motoren in heißen und staubigen Umgebungen Mühe machen, war bekannt. Besonders Getriebefan-Triebwerke (oft abgekürzt als GTF) von Pratt & Whitney sind betroffen. Am Flughafen Almaty is... [weiterlesen](https://www.aerotelegraph.com/flugzeuge/airbus-a320-neo-mit-triebwerken-von-pratt-und-whitney-machen-bei-schlechtem/2cb9btz)
+
+> Relevance score: [3] - Aviation industry issue with engine restrictions; affects airlines but niche economic impact, not broad public relevance.
+
+## schnell impfen gegen das mutierte Grippevirus
+
+[NZZ](https://www.nzz.ch/wissenschaft/das-grippevirus-ist-in-diesem-jahr-besonders-ansteckend-das-ist-ein-guter-grund-fuer-eine-impfung-ld.1913213) • _Freitag, 28. November 2025, 08:51 Uhr_
+
+Experten rechnen für den kommenden Winter mit einem besonders fiesen Erreger. Gegen ihn scheint auch der Impfstoff nur eingeschränkt zu wirken. Warum es trotzdem eine gute Idee ist, sich mit einer Impfung zu schützen.
+
+Die Ersten, die Alarm schlugen, waren die Japaner. Eine Grippewelle im September, das ist man nicht gewohnt im Inselstaat. Normalerweise erreicht der Erreger Japan auf seinem Zug rund um den Globus erst im November. Diesmal musste man schon Anfang Ok... [weiterlesen](https://www.nzz.ch/wissenschaft/das-grippevirus-ist-in-diesem-jahr-besonders-ansteckend-das-ist-ein-guter-grund-fuer-eine-impfung-ld.1913213)
+
+> Relevance score: [3] - Seasonal flu vaccine advice for mutated strain; routine public health guidance without major new threat or policy change.
+
+## Tolcapon blockiert Protein LecA als Basis für Virulenzblocker
+
+[mt-portal.de](https://mt-portal.de/aktuell/tolcapon-blockiert-protein-leca-als-basis-fuer-anti-infektiva/) • _Freitag, 28. November 2025, 14:05 Uhr_
+
+LecA von Pseudomonas aeruginosa ermöglicht das Anheften an Zellen und die Bildung von Biofilmen und ist Ziel neuer Wirkstoffe.
+
+Infiziert der Krankenhauskeim Pseudomonas aeruginosa den Menschen, nutzt er das zuckerbindende Protein LecA, um sich an menschliche Zellen anzuheften, diese zu befallen und sogenannte Biofilme zu bilden. Damit spielt LecA eine zentrale Rolle bei der ... [weiterlesen](https://mt-portal.de/aktuell/tolcapon-blockiert-protein-leca-als-basis-fuer-anti-infektiva/)
+
+> Relevance score: [2] - Niche medical research on bacterial protein blocker; early-stage science with no immediate broad health or societal impact.
+
+## Zentrales Venenzeichen im MRT als neue Diagnostikoption
+
+[Medical Tribune](https://www.medical-tribune.de/medizin-und-forschung/artikel/zentrales-venenzeichen-im-mrt-als-neue-diagnostikoption) • _Freitag, 28. November 2025, 08:40 Uhr_
+
+Das zentrale Venenzeichen im MRT könnte die MS-Diagnose erleichtern. Es muss aber noch auf verschiedene Parameter hin geprüft werden.
+
+Bisher wird die Multiple Sklerose (MS) bei typischen Zeichen eines klinisch isolierten Syndroms mit der Detektion oligoklonaler Banden gesichert. Der Nachteil: Man benötigt eine Liquorpunktion. Eine schonende Alternative könnte das zentrale Venenzeic... [weiterlesen](https://www.medical-tribune.de/medizin-und-forschung/artikel/zentrales-venenzeichen-im-mrt-als-neue-diagnostikoption)
+
+> Relevance score: [2] - Emerging MRI diagnostic for MS; niche medical advancement with potential but no immediate broad health system impact.
+
+## Süssli: Keine Aufträge aus der Rüstungsindustrie als Ex-Armeechef
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/karenzfrist-fuer-thomas-suessli-keine-auftraege-aus-der-ruestungsindustrie-fuer-den-ex-armeechef) • _Freitag, 28. November 2025, 07:08 Uhr_
+
+Thomas Süssli bleiben Jobs im Rüstungsbereich für die nächsten zwölf Monate verwehrt. Das bestätigt das VBS.
+
+Ende Jahr tritt der Chef der Armee, Thomas Süssli, ab. Er war sechs Jahre lang «Friedensgeneral» der Schweizer Armee. Der 59-Jährige geht aus freien Stücken und bekommt keine Rente oder Abgangsentschädigung. Er hat bereits durchblicken lassen, dass e... [weiterlesen](https://www.srf.ch/news/schweiz/karenzfrist-fuer-thomas-suessli-keine-auftraege-aus-der-ruestungsindustrie-fuer-den-ex-armeechef)
+
+> Relevance score: [2] - Cooling-off period for former Swiss army chief; procedural rule enforcement with minimal governance impact.
+
+## Der tiefe Fall von Blochers Ems-Chemie
+
+[Inside Paradeplatz](https://insideparadeplatz.ch/2025/11/28/der-tiefe-fall-von-bochers-ems-chemie/) • _Freitag, 28. November 2025, 07:23 Uhr_
+
+Aktie halbiert in 4 Jahren, Familie nicht mehr in Top-Ten der 300 reichsten Schweizer. Umgekehrt Freund Martin: Ebner kauft Jets, startet durch.
+
+Die heutige 300er „Reichsten-Bilanz“ bringt eine Krösi-Freundschaft auf den Punkt. Unter den „grössten Aufsteigern 2025“ figuriert Martin Ebner mit 1,75 Milliarden plus.
+Unter den „grössten Absteigern“ findet man die Familie Blocher mit 1 Milliarde m... [weiterlesen](https://insideparadeplatz.ch/2025/11/28/der-tiefe-fall-von-bochers-ems-chemie/)
+
+> Relevance score: [1] - Decline in Swiss business family wealth and company stock; business news without wider economic or societal effects.
 
 
 </details>
