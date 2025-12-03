@@ -2,230 +2,376 @@
 
 ---
 
-_Updated: Monday, December 1, 2025, 06:34_
+_Aktualisiert: Wednesday, December 3, 2025, 06:29_
 
-## Shortcomings in the Office for Population Protection: IT Failure in Federal Exercise: Why the Federal Office for Population Protection is Once Again in the Spotlight of Criticism
+## Medical Breakthrough: Berlin Patient Cured of HIV
 
-[bluewin E-Mail](https://www.bluewin.ch/de/news/schweiz/babs-it-panne-bundesuebung-bevoelkerungsschutz-probleme-2986457.html) • _Sunday, November 30, 2025, 06:36_
+[Blick](https://www.blick.ch/ausland/als-siebter-mensch-weltweit-berliner-patient-von-hiv-geheilt-forscher-feiern-sensation-id21479916.html) • _Tuesday, December 2, 2025, 17:39_
 
-A failure of the central situation picture system severely disrupted the large federal crisis exercise. The incident raises new questions about the operational capability of civil protection – and once again puts the controversial leadership in the center of criticism.
+Seven years after a leukemia treatment with stem cell transplantation, a 60-year-old man from Berlin is HIV-free. This medical breakthrough refutes previous assumptions about HIV cure and gives hope.
 
-### IT Failure in the National Crisis Exercise
-- In a large exercise by the federal government and the [Cantons](https://en.wikipedia.org/wiki/Cantons_of_Switzerland) in early November, a hybrid attack on Switzerland was simulated.
-- The central [situation picture system](https://en.wikipedia.org/wiki/Common_operational_picture) of the [Federal Office for Civil Protection (FOCP)](https://en.wikipedia.org/wiki/Federal_Office_for_Civil_Protection) collapsed multiple times, temporarily without access for cantonal crisis staffs.
-  - As a result, it was unclear which reports were current and how the situation was developing.
-  - Experts: "Without a situation picture, you cannot lead."
-- FOCP confirms disruption on November 6; the system only stabilized after adjustments.
-- Similar problems already during the 2024 exercise.
+### Medical Breakthrough
+- A 60-year-old man from Berlin is considered cured of [HIV](https://en.wikipedia.org/wiki/HIV) seven years after a [stem cell transplantation](https://en.wikipedia.org/wiki/Hematopoietic_stem_cell_transplantation).
+- He is the "second [Berlin Patient](https://en.wikipedia.org/wiki/Berlin_patient)" and thus the seventh person worldwide to be cured of HIV.
+- The transplantation took place in 2015 exclusively to treat severe [leukemia](https://en.wikipedia.org/wiki/Leukemia), not for HIV therapy.
 
-### Ongoing Criticism of Leadership and Digitalization
-- [Cantons](https://en.wikipedia.org/wiki/Cantons_of_Switzerland) criticize lack of progress in modernizing civil protection despite tense security policy situation.
-- Internal audit report from the Defense Department warns:
-  - Cyberattack or power outage could paralyze essential parts of the alert system.
-  - Lack of clear goals, responsibilities, and priorities in digital transformation.
-- Surveys and statements show great dissatisfaction, e.g., with ABC protection or crisis communication.
+### Course of the Cure
+- Three years after the transplantation, the patient was able to stop his HIV medications.
+- Six years without evidence of active HIV and without therapy since then – now confirmed as a sustained cure.
 
-### Director and Political Reaction
-- FOCP Director [Michaela Schärer](https://en.wikipedia.org/wiki/Michaela_Sch%C3%A4rer) is at the center of criticism.
-  - Defends herself with federal austerity measures; criticism is part of the job.
-- [Federal Council](https://en.wikipedia.org/wiki/Federal_Council_(Switzerland)) backs her: FOCP is "not in a crisis."
-- Cantons demand more speed, digital robustness, and more reliable systems; IT blackout provides new arguments.
+### Refutation of Previous Assumptions
+- The donated stem cells did not come from a person with natural HIV resistance (e.g., [CCR5-Δ32 mutation](https://en.wikipedia.org/wiki/CCR5)).
+- This refutes the assumption that genetically protected donor cells are necessarily required.
 
-### Previous Weaknesses
-- During exercise at the [Gösgen Nuclear Power Plant](https://en.wikipedia.org/wiki/G%C3%B6sgen_Nuclear_Power_Plant):
-  - Federal alarm center sent contradictory information.
-  - Unclear guidelines for protecting vulnerable groups.
+### Scientific Explanation
+- The patient's immune system played a decisive role.
+  - Strong immune response around the transplantation eliminated virus remnants.
+  - Mild, helpful immune activity of the body supported the success.
 
-> Relevance score: [8] - IT failure exposes flaws in Swiss federal crisis preparedness; raises governance and national security concerns.
+> Relevance score: [8] - Rare confirmed HIV cure via stem cell transplant challenges medical assumptions, offers long-term hope for global HIV treatment strategies.
 
-## Trump Increases Pressure on Venezuela: "Threats Remind of Putin's Rhetoric"
+## Megadeal in Healthcare: Geneva MSC Acquires Hirslanden
 
-[20 Minuten](https://www.20min.ch/story/eskalation-in-venezuela-trumps-rhetorik-erinnert-an-die-argumentationsmuster-putins-103460718) • _Sunday, November 30, 2025, 13:53_
+[Blick](https://www.blick.ch/wirtschaft/hirslanden-geht-an-msc-genfer-milliardaer-kauft-sich-groesste-schweizer-spitalgruppe-id21478605.html) • _Tuesday, December 2, 2025, 16:11_
 
-Tensions in Venezuela are rising as Trump considers military options. Expert warns that Trump is deliberately playing with uncertainty.
+Diego Aponte is one of the richest Swiss and has good connections to the White House. Now the president of shipping giant MSC is snapping up the Hirslanden Group with its 16 clinics and 11,000 employees.
 
-### Trump's Measures Against Venezuela
-- US President [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) declared the airspace over [Venezuela](https://en.wikipedia.org/wiki/Venezuela) closed, directed at airlines, pilots, drug dealers, and human smugglers (via [Truth Social](https://en.wikipedia.org/wiki/Truth_Social)).
-- USA deployed warships and the largest aircraft carrier to the Caribbean to combat drug trafficking.
-- Trump also announced imminent operations on land and accuses Caracas of controlling drug gangs and using them against US security.
+### Acquisition of Hirslanden by MSC
+- Shipping giant [MSC](https://en.wikipedia.org/wiki/Mediterranean_Shipping_Company) under President [Diego Aponte](https://en.wikipedia.org/wiki/Diego_Aponte) is acquiring the [Hirslanden](https://en.wikipedia.org/wiki/Hirslanden) Group, Switzerland's largest private clinic group with 16 clinics and 11,000 employees.
+- This is part of a split of the [Mediclinic](https://en.wikipedia.org/wiki/Mediclinic_International) conglomerate: MSC gets Hirslanden (Switzerland), [Remgro](https://en.wikipedia.org/wiki/Remgro) from [Johann Rupert](https://en.wikipedia.org/wiki/Johann_Rupert) gets the South African clinics.
+- The partners are separating activities by home markets; Mediclinic was acquired for 4.3 billion francs in 2022.
 
-### Venezuela's Reaction
-- Government under President [Nicolás Maduro](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro) calls Trump's step a "colonialist threat."
-- Maduro holds army exercises along the coast and suspects a planned overthrow by Washington.
-- Maduro could use the situation to stoke anti-American sentiments in the Global South and among [BRICS](https://en.wikipedia.org/wiki/BRICS) states.
+### Background of the Aponte Family
+- [Diego Aponte](https://en.wikipedia.org/wiki/Diego_Aponte) (53), scion of the Geneva Aponte family with 24-25 billion francs in assets (No. 4 on Bilanz's 300 Richest), is seen as a pioneer for 15 percent tariffs on US exports through meetings with [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump).
+- Sister [Alexa Aponte](https://en.wikipedia.org/wiki/Alexa_Aponte_Vago) (50) was recently elected to the board of [Rolex](https://en.wikipedia.org/wiki/Rolex).
+- Family is secretive; MSC is the world's largest container shipping company and No. 4 in the cruise business.
 
-### Assessment by Geopolitics Expert Remo Reginold
-- Trump is deliberately building a threat scenario, testing limits through unpredictability and accepting collateral damage.
-- Invasion ruled out, but targeted attacks (e.g., with special forces) possible and rhetorically defensible as protective measures.
-- High risk of unintended escalations through dangerous intermediate stages.
+### Profile and Finances of Hirslanden
+- Hirslanden employs 11,000 staff in Switzerland and works with over 2,500 doctors.
+- Network: 16 clinics in 9 cantons, operating centers, radiology and radiotherapy institutes.
+- Financially strong: First half-year with 930 million francs in revenue and 122 million francs in profit (slight increase).
 
-### Comparison with Putin's Rhetoric
-- Trump's word choice and logic resemble [Vladimir Putin's](https://en.wikipedia.org/wiki/Vladimir_Putin) argumentative patterns.
-  - Both justify attacks as protection of national security (e.g., Putin's "special operation" in Ukraine).
-- Such interpretations open space for escalations and diminish Western criticism of Putin.
+### Outlook and Guarantees
+- Contracts in the first quarter of 2026, handover by end of 2026; headquarters (Zurich or Geneva?) unclear.
+- No job cuts expected; those responsible guarantee continuity and stability for staff and patients, employee interests were taken into account.
 
-### Global Perspective
-- Criticism of US approach in parts of the political West.
-- Mainly diplomatic condemnations expected, no further consequences.
+> Relevance score: [8] - Major acquisition of Swiss hospital group (16 clinics, 11k jobs) reshapes national healthcare structure and ownership.
 
-> Relevance score: [7] - Geopolitical escalation with US threats against Venezuela could impact regional stability and international relations; significant but rhetorical so far.
+## Russia in No Rush for Peace in Ukraine
 
-## Clear No Trend in the Inheritance Tax Initiative
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/witkoff-bei-putin-russland-hat-keine-eile-bei-frieden-in-der-ukraine-ld.1914585) • _Tuesday, December 2, 2025, 13:54_
 
-[SWI swissinfo.ch](https://www.swissinfo.ch/ger/schweizer-politik/nein-zur-erbschaftssteuer-initiative-schweiz-abstimmung-30-novem/90542362) • _Sunday, November 30, 2025, 12:01_
+Donald Trump's special envoy, together with Jared Kushner, presents the American proposals for ending the Ukraine war to the Russian president. In Russia, there is skepticism about a breakthrough.
 
-The first trend confirms expectations: Switzerland will clearly reject the inheritance tax initiative today.
+### Meeting in Moscow
+- US Special Envoy [Steve Witkoff](https://en.wikipedia.org/wiki/Steve_Witkoff) and [Jared Kushner](https://en.wikipedia.org/wiki/Jared_Kushner) met [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin), Yuri Ushakov, and Kirill Dmitriev in the Kremlin.
+  - Talks lasted almost five hours, started late.
+  - Presentation of the 28-point plan plus four additional documents for a peace solution.
+- No concrete results or compromises; agreement to silence on details.
 
-### Voting Result
-- The [[Inheritance Tax Initiative]] of the [[Young Socialists Switzerland|Juso]] has failed.
-- **78% No votes**, all [[Cantons of Switzerland|Cantons]] reject it.
-- Clearer result than polls predicted.
+### Russian Reaction
+- Ushakov called the talks "useful and constructive"; not further from peace.
+  - Agreement possible on some points, not others.
+  - Territorial issues essential, but no solutions found.
+- No planned Putin-[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) meeting; dependent on progress.
+- Prior skepticism: Mixed experiences with Witkoff, Ukraine not "broken."
 
-### Current Status Quo
-- The federal government levies no [[inheritance tax]]es.
-- Only cantons levy them; all except three exempt direct descendants.
+### Russian Demands
+- Recognition of conquered territories ([Donbas](https://en.wikipedia.org/wiki/Donbas), Southeast Ukraine, [Crimea](https://en.wikipedia.org/wiki/Crimea)) by USA and international actors.
+- From Ukraine: Renunciation of [NATO](https://en.wikipedia.org/wiki/NATO) membership, withdrawal from Donbas.
+- [Demilitarization](https://en.wikipedia.org/wiki/Demilitarization) and [denazification](https://en.wikipedia.org/wiki/Denazification) of Ukraine (army downsizing, rights for Russian speakers, overthrow of government).
+- Comprehensive security architecture, elimination of "root causes" of the conflict.
 
-### Content of the Initiative
-- Taxation of inheritances over 50 million [[Swiss Francs|Francs]] at 50% at the federal level.
-- Proceeds intended for [[climate protection]].
+### Putin's Strategy
+- No rush; thoroughness before quick ceasefire.
+  - Goal: Control over Ukraine, buffer zones, minimal room for interpretation.
+  - Avoidance of Minsk agreements mistakes (2014/15).
+- Military successes emphasized (e.g., Pokrovsk, Vovchansk); Ukraine hopeless.
+- Criticism of [Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy)'s regime as a "junta," corruption scandal exploited.
 
-### Affected Households
-- Around 2500 households in total.
-  - Of which 300 with assets over 100 million Francs (severely affected).
+### Societal Mood
+- War-weary majority in Russia due to economy, restrictions, soldiers' suffering.
+- Putin can sell any peace as a victory; economic pressure still insufficient for compromises.
 
-### Arguments of the Parties
-- **Supporters (Juso)**: Super-rich disproportionately burden the environment, should pay.
-- **Opponents**: 
-  - Expulsion of important taxpayers.
-  - Assets often tied up in companies; heirs would have to sell shares and lose control.
-- Opponents' arguments convinced the voters.
+> Relevance score: [8] - Key diplomacy update on Ukraine war with US envoy meeting Putin; significant global geopolitical implications.
 
-> Relevance score: [7] - National referendum result on inheritance tax; shapes Switzerland's tax haven status and wealth distribution policy with ongoing economic implications.
+## Army Chief Süssli: No Longer at Peace, But Not Yet at War
 
-## Is Switzerland's Reputation Saved?
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/abschiedsinterview-armeechef-suessli-russland-versucht-die-regeln-zu-aendern) • _Tuesday, December 2, 2025, 15:45_
 
-[SWI swissinfo.ch](https://www.swissinfo.ch/ger/schweizer-politik/nach-dem-nein-zur-erbschaftssteuer-initiative-wie-gross-ist-der-schaden-f%C3%BCr-die-steueroase-schweiz/90556541) • _Sunday, November 30, 2025, 12:53_
+In the interview, he takes stock of his term and explains where Switzerland is unprotected and what he personally regrets.
 
-Switzerland has clearly rejected an inheritance tax for the super-rich. What this means for its image and fiscal future.
+### Thomas Süssli and His Term
+- The 57-year-old Aargauer [Thomas Süssli](https://en.wikipedia.org/wiki/Thomas_S%C3%BCssli) has been Chief of the [Swiss Army](https://en.wikipedia.org/wiki/Swiss_Armed_Forces) since January 1, 2020, and heads the Defense Department sector in the [Federal Department of Defence, Civil Protection and Sports (DDPS)](https://en.wikipedia.org/wiki/Federal_Department_of_Defence,_Civil_Protection_and_Sport) under [Federal Councillor Martin Pfister](https://en.wikipedia.org/wiki/Martin_Pfister).
+- He is stepping down by the end of 2025 and takes stock of six years.
 
-### Vote on the Inheritance Tax Initiative
-- Switzerland has clearly rejected the initiative of the [Young Socialists](https://en.wikipedia.org/wiki/Social_Democratic_Youth_Switzerland), which would tax inheritances over 50 million Francs at 50% and use the proceeds for [climate protection](https://en.wikipedia.org/wiki/Climate_change_mitigation).
-- Around 2500 households would be affected, especially 300 with assets over 100 million Francs.
-- Supporters' arguments: Super-rich disproportionately burden the environment.
-- Opponents' arguments: Expulsion of wealthy taxpayers; sale of company-tied assets and loss of control in companies.
+### Changed Security Situation in Europe and Switzerland
+- Europe has become more dangerous: [Russia](https://en.wikipedia.org/wiki/Russia) expands influence with hybrid warfare (disinformation, [cyberattacks](https://en.wikipedia.org/wiki/Cyberattack), sabotage, espionage).
+- Switzerland: "No longer at peace, but not yet at war" – target for espionage and cyberattacks.
+- Probability of conventional war low, but not excluded; primary threat from distance (ballistic missiles, drones, cyberattacks).
 
-### Reputational Damage to the "Tax Haven Switzerland"
-- The initiative made international headlines and reinforced the image of resentments against the rich in [Switzerland](https://en.wikipedia.org/wiki/Switzerland).
-- Experts see limited damage:
-  - Discussions unsettled foreigners and prevented inflows.
-  - Few departures: [Jürg Niederbacher](https://en.wikipedia.org/wiki/PwC) (PwC) knows clients who left; prominent case [Renaud de Planta](https://en.wikipedia.org/wiki/Pictet_&_Cie) (Pictet & Cie) to Italy.
-  - [Florian Scheuer](https://en.wikipedia.org/wiki/University_of_Zurich) (UZH) and [Marius Brülhart](https://en.wikipedia.org/wiki/University_of_Lausanne) (Uni Lausanne): Mass exodus unlikely, as Federal Council signaled exit time.
-- [Andrea Opel](https://en.wikipedia.org/wiki/University_of_Lucerne) (Uni Luzern): Clear no signals reliability and legal certainty through direct democracy.
+### Army Weaknesses
+- Army to be handed over in desired state from 20 years ago: Only competence preserved, capabilities missing.
+- No defense against drones, missiles, or cruise missiles – "without protective roof."
+- Opponent attacks weakest points.
 
-### Expert Prognoses on Future Debates
-- Short-term: No makes new initiatives more difficult.
-- Long-term: Discussion of moderate [inheritance tax](https://en.wikipedia.org/wiki/Inheritance_tax) will return.
-  - Financing needs for [13th AHV pension](https://en.wikipedia.org/wiki/Old_Age_and_Survivors%27_Insurance); moderate tax as alternative to wage deductions or VAT.
-  - Brülhart: High tax rate was fiscal own goal; poll showed expulsion fear as main reason.
-  - Niederbacher: Low wealth tax majority-capable.
-  - [Peter Spuhler](https://en.wikipedia.org/wiki/Peter_Spuhler): Open to moderate inheritance tax if wealth tax lowered.
-- Switzerland already has wealth tax, which acts like advance inheritance tax; cantons tax inheritances (except for direct descendants in most).
+### Demand for Rearmament
+- Rearmament across the board necessary: 10 billion francs for urgent gaps.
+  - Air defense.
+  - Infantry protection, medical services, communication.
+- Army must cover entire spectrum; protection of own space (Alpine region, airspace as hub).
 
-> Relevance score: [6] - Analysis of rejected inheritance tax on wealthy; affects Swiss fiscal image and tax policy attractiveness, moderate national economic relevance.
+### Dependence on Cooperation
+- Switzerland cannot defend itself alone, needs cooperation with [NATO](https://en.wikipedia.org/wiki/NATO) states.
+- Expectation: Own efforts for time-limited self-defense.
 
+### Personal Reflection and Future
+- Regrets: Not always communicated challenges well (e.g., financial hole debate); sometimes too fast for the system.
+- After December 31: Active break with travel (tech hubs in Asia), future open.
 
-<details><summary markdown="span">Show unimportant events</summary>
+> Relevance score: [7] - Swiss army chief assesses national vulnerabilities in farewell; relevant to Swiss security and governance.
 
-## This Is How Political Inclusion Is Regulated in 26 Cantons
+## Winter Session 2025 - National Council Votes for Easing Arms Exports
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/teilhabe-von-beeintraechtigten-so-ist-die-politische-inklusion-in-ihrem-kanton-geregelt) • _Sunday, November 30, 2025, 13:49_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/wintersession-2025-nationalrat-stimmt-fuer-lockerungen-bei-waffenexporten) • _Tuesday, December 2, 2025, 11:43_
 
-In Zug, Zurich, and Vaud, Sunday was also about participation of the disabled. The cantonal comparison.
+National Council and Council of States debate for three weeks in Bern. Find the most important decisions here.
 
-Anyone who has a Swiss passport and is at least 18 years old can vote, elect, and be elected. One might think. Because the Federal Constitution still states Art. 136:
-"Those not interdicted due to mental illness or mental weakness" ... [read more](https://www.srf.ch/news/schweiz/teilhabe-von-beeintraechtigten-so-ist-die-politische-inklusion-in-ihrem-kanton-geregelt)
+### Arms Exports and War Materiel Act
+- The [National Council](https://en.wikipedia.org/wiki/National_Council_(Switzerland)) votes for easing arms exports and changes to the [War Materiel Act](https://en.wikipedia.org/wiki/War_Materiel_Act).
 
-> Relevance score: [5] - Addresses voting rights for disabled in Swiss cantons; enhances civic inclusion but limited to specific policy updates without broad structural change.
+### Budget Decisions
+- More money for federal offices of security authorities.
+- Conservative [Council of States members](https://en.wikipedia.org/wiki/Council_of_States_(Switzerland)) warn against additional spending.
 
-## Cuts in HIV Hit Women and Children Particularly Hard, According to Foundation
+### Transport and Subsidies
+- [Council of States](https://en.wikipedia.org/wiki/Council_of_States_(Switzerland)) cuts subsidy for night train to Sweden.
 
-[Nau.ch](https://www.nau.ch/news/europa/kurzungen-bei-hiv-treffen-laut-stiftung-frauen-und-kinder-besonders-67071039) • _Sunday, November 30, 2025, 08:53_
+### Investment Screening Act
+- Councils agree on "[Lex China](https://en.wikipedia.org/wiki/Lex_China)": Agreement on the Investment Screening Act.
 
-Global funding cuts could jeopardize progress in the fight against HIV and Aids. Women and children would be particularly affected.
+### Ukraine Aid
+- [SRF](https://en.wikipedia.org/wiki/SRG_SSR) specialist editor: "The goal is not aid for [Ukraine](https://en.wikipedia.org/wiki/Ukraine)."
 
-Keystone-SDA
-Germany, 30.11.2025 - 08:53
-Global funding cuts could jeopardize progress in the fight against HIV and Aids. Women and children would be particularly affected.
-There have been major successes in the fight against HIV and Aids over the years. This... [read more](https://www.nau.ch/news/europa/kurzungen-bei-hiv-treffen-laut-stiftung-frauen-und-kinder-besonders-67071039)
+### Personnel Decisions
+- [Council of States](https://en.wikipedia.org/wiki/Council_of_States_(Switzerland)) does not want to grant federal employees inflation compensation in 2026.
+- [David Zuberbühler](https://en.wikipedia.org/wiki/David_Zuberb%C3%BChler) announces resignation as [National Councilor](https://en.wikipedia.org/wiki/National_Council_(Switzerland)).
 
-> Relevance score: [5] - Global HIV funding cuts threaten progress, disproportionately affecting vulnerable groups; moderate health impact but not structural.
+> Relevance score: [7] - Swiss policy shift easing arms export rules; affects national governance and international trade.
 
-## Rickli's Failure Fuels Zurich Hospital Crisis
+## Direct Tax Deduction: Solution Against Debt?
 
-[Inside Paradeplatz](https://insideparadeplatz.ch/2025/11/30/ricklis-versagen-befeuert-zuercher-spitalkrise/) • _Sunday, November 30, 2025, 07:59_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/radio-srf-1/steuerrevolution-direktabzug-der-steuern-loesung-gegen-schulden) • _Tuesday, December 2, 2025, 17:15_
 
-SVP poster woman has unilaterally punished Wetzikon without checking on the other small ones. Voters decide today.
+Basel-City wants to automatically transfer ten percent of wages to the state. This could prevent tax debts.
 
-In the shadow of the big battles on inheritance usury tax and militia deployment for all Helvetians, today in the economic canton of Zurich it's about something decisive.
-Will the Zurich Oberland save its hospital in Wetzikon? The twelve municipalities to which the health... [read more](https://insideparadeplatz.ch/2025/11/30/ricklis-versagen-befeuert-zuercher-spitalkrise/)
+### Tax Debts in Switzerland
+- Debts are widespread; in 2020, almost 10% of the population had tax arrears according to federal survey.
+- At [Debt Counseling Switzerland](https://en.wikipedia.org/wiki/Debt_counseling), over 80% of clients have tax debts, leading to thousands of debt enforcements and millions in written-off claims.
 
-> Relevance score: [4] - Political mishandling exacerbates regional hospital crisis in Zurich; affects local healthcare access but not national scale.
+### Plan in Basel-City
+- The [Grand Council of the Canton of Basel-City](https://en.wikipedia.org/wiki/Grand_Council_of_Basel-City) approved a counter-proposal to the [SP](https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland) initiative "No Tax Debts Thanks to Direct Deduction" at the end of October.
+- Planned: Voluntary flat-rate wage deduction of 10% (5% in [Riehen](https://en.wikipedia.org/wiki/Riehen) and [Bettingen](https://en.wikipedia.org/wiki/Bettingen)), directly from employer to tax office.
+  - Mandatory for companies with 50+ employees, voluntary for smaller.
+  - Opt-out possible for employees; tax return remains mandatory, with final settlement after assessment.
 
-## Zurich Rejects Speed Limit 30 and Right of First Refusal: Projections Show Clear Trends
+### Political Situation
+- Supported by factions [Basta](https://en.wikipedia.org/wiki/Basta_(political_party)), [SP](https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland), and [Greens](https://en.wikipedia.org/wiki/Green_Party_of_Switzerland).
+- Opponents: [FDP](https://en.wikipedia.org/wiki/FDP.The_Liberals), [GLP](https://en.wikipedia.org/wiki/Green_Liberal_Party), [LDP](https://en.wikipedia.org/wiki/Liberal_Party_of_Switzerland), [Center-EVP](https://en.wikipedia.org/wiki/The_Centre_(political_party)) and [SVP](https://en.wikipedia.org/wiki/Swiss_People%27s_Party).
+- Employers' and business associations have launched a referendum; proposal likely to go to vote.
 
-[20 Minuten](https://www.20min.ch/story/zuerich-stimmt-ab-velo-kredit-und-wohnraumprojekte-im-fokus-ticker-103460695) • _Sunday, November 30, 2025, 10:44_
+### Opponents' Arguments
+- Disempowerment of citizens; risk of debt shifting elsewhere.
+- Low-budget earners avoid deduction; no relief due to still necessary tax return.
+- High bureaucratic effort and liability risk for companies.
+- Affects only about one third of employees (those residing in the canton).
 
-Zurich's eligible voters have decided: Speed limit 30 and the right of first refusal are rejected.
+### Proponents' Arguments
+- Annual tax bill as one-time payment often triggers late payment interest, debt enforcements, and debt spirals.
+- Automatic deduction reduces debt risk, relieves canton, and secures revenue.
 
-30.11.2025
-Sun 10:44
-Municipal proposals
-And now to the municipal proposals:
-Bike framework loan (350 million)
-In 2015, the electorate approved a framework loan of 120 million Francs. This is now to be replaced by a new loan of 350 ... [read more](https://www.20min.ch/story/zuerich-stimmt-ab-velo-kredit-und-wohnraumprojekte-im-fokus-ticker-103460695)
+### National Perspective
+- In 2022, parliamentarian [Emmanuel Amoos](https://en.wikipedia.org/wiki/Emmanuel_Amoos) ([SP](https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland)) demanded voluntary wage deduction at federal level; failed in [Council of States](https://en.wikipedia.org/wiki/Council_of_States_(Switzerland)) in 2024.
+- Success in [Basel-City](https://en.wikipedia.org/wiki/Canton_of_Basel-Stadt) could inspire other cantons.
 
-> Relevance score: [3] - Local Zurich votes on speed limits and housing rights; urban policy with limited national or long-term impact.
+> Relevance score: [6] - Swiss cantonal proposal to auto-deduct taxes addresses debt issue affecting ~10% of population; moderate civic relevance nationally.
 
-## China: Retirees Being Trained for Artificial Intelligence
+## This Is Why Kyiv Is Afraid of Witkoff
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/kuenstliche-intelligenz-chinas-pensionierte-werden-fit-gemacht-fuer-die-ki) • _Sunday, November 30, 2025, 08:01_
+[Blick](https://www.blick.ch/ausland/steve-witkoff-wieder-in-moskau-deshalb-ist-die-ukraine-vor-dem-heutigen-putin-treffen-extrem-nervoes-id21478728.html) • _Tuesday, December 2, 2025, 13:22_
 
-The AI hype has gripped all of China. The government wants to get seniors on board too.
+Trump's special envoy Steve Witkoff meets Vladimir Putin in Moscow this afternoon to present the revised peace plan. Recent past shows: Witkoff is not up to the task. A dangerous game enters the next round.
 
-The Silver Locks Club meets on the eighth floor of a shopping center in Shanghai. The room is full on this Monday because the topic, image editing with artificial intelligence, is popular. Smartphones are ready, a magnifying glass u... [read more](https://www.srf.ch/news/international/kuenstliche-intelligenz-chinas-pensionierte-werden-fit-gemacht-fuer-die-ki)
+### Background of the Meeting
+- Trump's special envoy [Steve Witkoff](https://en.wikipedia.org/wiki/Steve_Witkoff) (68) meets [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) (73) in Moscow today and hands over the peace plan revised by Kyiv and Washington.
+- Many US politicians and Ukrainians fear concessions to Putin; Witkoff criticized as naive or "traitor."
 
-> Relevance score: [3] - Chinese initiative to train retirees in AI; interesting social adaptation but limited global structural significance.
+### Three Reasons for Nervousness in Kyiv
+- **Witkoff does not understand the Ukraine war**:
+  - No expert diplomatic team; Witkoff showed ignorance, e.g., could not name the regions annexed by Russia ([Crimea](https://en.wikipedia.org/wiki/Crimea), [Donetsk](https://en.wikipedia.org/wiki/Donetsk_Oblast), [Luhansk](https://en.wikipedia.org/wiki/Luhansk_Oblast), [Zaporizhzhia](https://en.wikipedia.org/wiki/Zaporizhzhia_Oblast), [Kherson](https://en.wikipedia.org/wiki/Kherson_Oblast)).
+  - Spreads Russian propaganda, e.g., tale of encircled Ukrainian soldiers in [Kursk](https://en.wikipedia.org/wiki/Kursk_Oblast).
+- **Witkoff acts like a Russian agent**:
+  - [Bloomberg](https://en.wikipedia.org/wiki/Bloomberg_L.P.) transcripts: Witkoff gave tips to [Yuri Ushakov](https://en.wikipedia.org/wiki/Yuri_Ushakov) (78) on influencing Trump; Russians (incl. [Kirill Dmitriev](https://en.wikipedia.org/wiki/Kirill_Dmitriev)) provided 28-point plan.
+  - Relies on Kremlin interpreter, leading to misunderstandings (e.g., "peaceful withdrawal from Kherson").
+- **[Marco Rubio](https://en.wikipedia.org/wiki/Marco_Rubio) (54) sidelined**:
+  - Rubio worked on plan in Geneva with Ukraine and saw "enormous successes"; not at Witkoff-Putin meeting.
+  - Witkoff (sixth Russia trip in 2025, never in Ukraine) accompanied by [Jared Kushner](https://en.wikipedia.org/wiki/Jared_Kushner) (44); prioritizes economic interests.
+  - Criticism from expert [Heather Conley](https://en.wikipedia.org/wiki/Heather_Conley) (AEI): Acts against US interests.
 
-## World's Smallest Light-Emitting Diode Fabricated
+### Putin's Maximum Demands
+- Agreement to ceasefire only with cession of [Donbas](https://en.wikipedia.org/wiki/Donbas) (incl. 6,000 km² under Ukrainian control); Ukraine cannot do this constitutionally.
+- Russians gain time to weaken Ukraine and simulate diplomacy; solution remains distant.
 
-[IT-Markt](https://www.it-markt.ch/news/2025-11-30/weltkleinste-leuchtdiode-fabriziert) • _Sunday, November 30, 2025, 09:00_
+> Relevance score: [6] - Critique of US envoy's Ukraine diplomacy competence; tied to ongoing conflict but opinion-focused.
 
-Researchers at ETH Zurich produce organic light-emitting diodes (OLEDs) on the nanoscale – they are about a hundred times s
+## Winter Session 2025 - Council of States Cuts Night Train Subsidies ++ "Lex China" Passed
 
-Miniaturization is the driving force of the semiconductor industry. The enormous performance increase of computers since the 1950s is largely based on the ability to fabricate ever smaller structures on silicon chips. Chemical engin... [read more](https://www.it-markt.ch/news/2025-11-30/weltkleinste-leuchtdiode-fabriziert)
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/wintersession-2025-staenderat-streicht-nachtzug-subventionen-lex-china-ist-durch) • _Tuesday, December 2, 2025, 13:12_
 
-> Relevance score: [2] - ETH Zurich tech breakthrough in nanotechnology; innovative but niche scientific advancement without immediate societal impact.
+National Council and Council of States debate for three weeks in Bern. Find the most important decisions here.
 
-## Unstable Proteins Control Cell Functions in Diseases
+### Budget Decisions
+- More money for federal offices of [security authorities](https://en.wikipedia.org/wiki/Security_police_(Switzerland)).
+- Conservative [Council of States members](https://en.wikipedia.org/wiki/Council_of_States_(Switzerland)) warn against additional spending.
 
-[mt-portal.de](https://mt-portal.de/aktuell/instabile-proteine-steuern-zellfunktionen-bei-erkrankungen/) • _Sunday, November 30, 2025, 07:05_
+### Transport Policy
+- [Council of States](https://en.wikipedia.org/wiki/Council_of_States_(Switzerland)) cuts subsidy for night train to Sweden.
 
-Proteins play a central role in cells and diseases, and understanding their dynamics could enable new therapeutic approaches.
+### Investment Screening Act ("Lex China")
+- Councils agree on the Investment Screening Act, known as "Lex China."
 
-At the center of the study was a folded region – the so-called cold shock domain (CSD/CSDex) – within the YB1 protein, an IDP with multiple functions in the cell. The researchers wanted to know how this region maintains its structural stab... [read more](https://mt-portal.de/aktuell/instabile-proteine-steuern-zellfunktionen-bei-erkrankungen/)
+### Ukraine Aid
+- [SRF](https://en.wikipedia.org/wiki/SRG_SSR) specialist editor: "The goal is not aid for [Ukraine](https://en.wikipedia.org/wiki/Ukraine)."
 
-> Relevance score: [2] - Basic research on protein dynamics in diseases; potential long-term medical insights but highly niche.
+### Inflation Compensation
+- [Council of States](https://en.wikipedia.org/wiki/Council_of_States_(Switzerland)) does not want to compensate federal employees for inflation in 2026.
 
-## Anonymous Flyer with CO₂ Law Reference Shocks Blatten VS
+### Personnel
+- David Zuberbühler announces resignation as [National Councilor](https://en.wikipedia.org/wiki/National_Council_(Switzerland)).
 
-[Watson](https://www.watson.ch/schweiz/wallis/317125828-anonymer-flyer-mit-co-gesetz-bezug-schockiert-blatten-vs) • _Sunday, November 30, 2025, 07:43_
+### War Materiel Act
+- The [National Council](https://en.wikipedia.org/wiki/National_Council_(Switzerland)) votes for changes to the [War Materiel Act](https://en.wikipedia.org/wiki/War_Materiel_Act).
 
-An anonymous letter is causing a stir in the buried Valais village of Blatten. The author blames the villagers themselves for the landslide.
+> Relevance score: [6] - Swiss parliamentary decisions on transport subsidies and China policy; moderate national governance impact.
 
-"Miserable and disrespectful": Anonymous flyer shocks Blatten VS
-An anonymous letter is causing a stir in the buried Valais village of Blatten. The author blames the villagers themselves for the landslide at the end of May – because they voted in 2021... [read more](https://www.watson.ch/schweiz/wallis/317125828-anonymer-flyer-mit-co-gesetz-bezug-schockiert-blatten-vs)
+## President Peter Leibinger Warns: Germany in Free Fall
 
-> Relevance score: [1] - Local controversy over anonymous blame for village landslide; trivial social media-style outrage.
+[20 Minuten](https://www.20min.ch/story/historische-krise-alarmstimmung-in-der-industrie-deutschland-im-freien-fall-103462042) • _Tuesday, December 2, 2025, 10:05_
+
+The German industry has been shrinking for years. Peter Leibinger demands urgent structural reforms from the government.
+
+### Alarm from BDI President Peter Leibinger
+- President of the [Federation of German Industries (BDI)](https://en.wikipedia.org/wiki/Federation_of_German_Industries), [Peter Leibinger](https://en.wikipedia.org/wiki/Peter_Leibinger), warns of a historic crisis at the German economic location.
+- Germany is in "free fall" and experiencing the deepest crisis since the existence of the [Federal Republic of Germany](https://en.wikipedia.org/wiki/Federal_Republic_of_Germany).
+- The federal government is not responding decisively enough.
+
+### Structural Decline of Industry
+- For 2025, a production decline of two percent is expected in a new industry report – the fourth shrinking year in a row.
+- This is a "structural decline" in which industry continuously loses substance.
+- A dramatic low point threatens by the end of 2025.
+
+### Situation in the Sectors
+- Chemical industry: Plant utilization only at 70 percent.
+- Mechanical engineering and steel industry: Under strong pressure.
+- Construction industry: Stabilizing.
+- Automotive industry: Production increase expected, capacity utilization risen, but employment under pressure.
+
+### Demands on the Government
+- Immediate economic policy turnaround with priorities on competitiveness and growth.
+- Decisive structural reforms, as every month of delay costs jobs, prosperity, and state leeway.
+- Transparent use of special fund for additional investments.
+- Consistent bureaucracy reduction and tangible relief for companies.
+
+> Relevance score: [6] - Warnings on German industrial decline; relevant to Swiss-EU economic ties but not transformative.
+
+
+<details><summary markdown="span">Show Unimportant Events</summary>
+
+## Russian Ship in Black Sea Attacked by Drone
+
+[Blick](https://www.blick.ch/ausland/von-ukraine-drohne-russisches-schiff-im-schwarzen-meer-angegriffen-id21479569.html) • _Tuesday, December 2, 2025, 16:09_
+
+A Russian ship was allegedly attacked by a drone in the Black Sea. The oil tanker Midvolga 2 sustained only minor damage, no injuries. Ukraine denies any involvement. Erdogan speaks of "worrying escalation."
+
+Keystone-SDAThe Swiss News Agency
+In the Black Sea, a Russian ship was allegedly attacked by a drone again. There were only minor damages and no injuries. This was reported by the Russian state news age... [read more](https://www.blick.ch/ausland/von-ukraine-drohne-russisches-schiff-im-schwarzen-meer-angegriffen-id21479569.html)
+
+> Relevance score: [5] - Minor incident in ongoing Ukraine-Russia conflict; limited escalation with no casualties or major damage.
+
+## Maduro Under Pressure: USA Offers Exile in Russia
+
+[Blick](https://www.blick.ch/ausland/moeglichkeit-gegeben-zu-gehen-bot-trump-regierung-maduro-exil-bei-putin-an-id21477662.html) • _Tuesday, December 2, 2025, 09:34_
+
+A US Senator has unpacked new details about the Trump-Maduro phone call. Trump allegedly offered the Venezuelan strongman to go into exile – to Moscow!
+
+Janine EnderliNews Editor
+US pressure on Venezuela strongman Nicolás Maduro (63) remains unrelenting. According to reports, the US government offered the head of state flight into exile. Now more details have become known... [read more](https://www.blick.ch/ausland/moeglichkeit-gegeben-zu-gehen-bot-trump-regierung-maduro-exil-bei-putin-an-id21477662.html)
+
+> Relevance score: [4] - US pressure on Venezuelan leader; niche geopolitical maneuver with limited global scale.
+
+## Australia: Intelligence Chief Mike Burgess Warns of Espionage
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/verfolgung-von-dissidenten-australien-warnt-vor-toedlichen-operationen-auslaendischer-dienste) • _Tuesday, December 2, 2025, 15:47_
+
+Mike Burgess speaks of three states that would kill in Australia. He doesn't name names. Speculation is intense.
+
+Australia may be at the end of the world, but geography doesn't protect the country from evil. That was the recent warning from Australia's top spy chief, Mike Burgess. The island of Australia is not isolated, he said with a view to the... [read more](https://www.srf.ch/news/international/verfolgung-von-dissidenten-australien-warnt-vor-toedlichen-operationen-auslaendischer-dienste)
+
+> Relevance score: [3] - Vague espionage warnings from Australia; speculative and geographically distant from scope.
+
+## RTL Cuts 600 Jobs: Massive Layoffs at Private Broadcaster
+
+[20 Minuten](https://www.20min.ch/story/privatsender-rtl-streicht-600-stellen-103462085) • _Tuesday, December 2, 2025, 10:14_
+
+Private broadcaster RTL has announced it will cut 600 jobs. This decision affects all areas and could influence the media landscape.
+
+RTL Deutschland media group is cutting around 600 jobs as part of a restructuring. "There are two big challenges we need to solve to be successful long-term," said RTL Deutschland CEO Stephan Schmitter to the German... [read more](https://www.20min.ch/story/privatsender-rtl-streicht-600-stellen-103462085)
+
+> Relevance score: [3] - Media company layoffs in Germany; limited structural impact beyond entertainment sector.
+
+## Red Alert at OpenAI: "Critical Phase for ChatGPT"
+
+[Blick](https://www.blick.ch/digital/kritische-phase-fuer-chatgpt-alarmstufe-rot-openai-ruft-den-notstand-aus-id21477575.html) • _Tuesday, December 2, 2025, 14:20_
+
+Topsy-turvy in Silicon Valley: Three years ago Google trembled, now OpenAI calls "red alert." Because the giant is catching up, CEO Sam Altman sacrifices all side projects.
+
+Tobias BolzernDigital Editor
+Sam Altman hits the panic button. The OpenAI CEO has internally declared a state of emergency ("Code Red"), as reported by US portal theinformation.com based on a leaked internal memo. The reason for Altman's unease... [read more](https://www.blick.ch/digital/kritische-phase-fuer-chatgpt-alarmstufe-rot-openai-ruft-den-notstand-aus-id21477575.html)
+
+> Relevance score: [2] - Corporate rivalry in AI sector; hype without broader societal or economic impact.
+
+## "Zubi" Resigns from National Council
+
+[Blick](https://www.blick.ch/politik/sehr-schwerer-tag-ausserrhoder-nationalrat-zubi-tritt-aus-dem-nationalrat-zurueck-id21478058.html) • _Tuesday, December 2, 2025, 10:06_
+
+SVP parliamentarian David Zuberbühler resigns. The only National Councilor from Appenzell Ausserrhoden cites professional obligations.
+
+Tobias BruggmannPolitics Editor
+After ten years in the National Council, David Zuberbühler (46) resigns. It is a "special but for me personally also very difficult day," writes "Zubi" on Facebook. He justifies his resignation with his profess... [read more](https://www.blick.ch/politik/sehr-schwerer-tag-ausserrhoder-nationalrat-zubi-tritt-aus-dem-nationalrat-zurueck-id21478058.html)
+
+> Relevance score: [2] - Single Swiss MP resignation due to personal reasons; negligible national impact.
+
+## Samsung Presents Tri-Foldable Smartphone "Galaxy Z TriFold"
+
+[20 Minuten](https://www.20min.ch/story/suedkorea-samsung-bringt-dreifach-faltbares-smartphone-auf-den-markt-103462389) • _Tuesday, December 2, 2025, 17:33_
+
+Samsung's new "Galaxy Z TriFold" offers impressive 25 cm screen area and launches in South Korea on December 12.
+
+The Galaxy Z TriFold will be available in South Korea from December 12. Other markets like China, Taiwan, Singapore, the United Arab Emirates, and the USA are to follow. No mention of Europe or Switzerland yet.
+Samsung follows its... [read more](https://www.20min.ch/story/suedkorea-samsung-bringt-dreifach-faltbares-smartphone-auf-den-markt-103462389)
+
+> Relevance score: [1] - Consumer tech product launch; hype-driven gadget with no structural societal impact.
+
+## UBS Directors Jet Around the Globe - to Use Up Budget
+
+[Inside Paradeplatz](https://insideparadeplatz.ch/2025/12/02/ubs-direktoren-jetten-um-globus-um-budget-aufzubrauchen/) • _Tuesday, December 2, 2025, 07:59_
+
+Managing Directors and other senior executives are to book extra trips by year-end so that the same amount is available in 2026. Nonsense, says UBS.
+
+In the military, soldiers used up all ammunition at the end of refresher course. To get the same amount from the armory the next year.
+High UBS cadres are allegedly doing the same. Managing and Executive Directors, the top ca... [read more](https://insideparadeplatz.ch/2025/12/02/ubs-direktoren-jetten-um-globus-um-budget-aufzubrauchen/)
+
+> Relevance score: [1] - Anecdotal corporate spending practice; trivial internal business matter.
 
 
 </details>
