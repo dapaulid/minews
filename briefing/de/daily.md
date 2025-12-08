@@ -2,130 +2,175 @@
 
 ---
 
-_Aktualisiert: Mittwoch, 3. Dezember 2025, 18:29 Uhr_
+_Aktualisiert: Montag, 8. Dezember 2025, 18:56 Uhr_
 
-## Putin weicht keinen Millimeter von seinen Forderungen ab
+## Krieg in der Ukraine - Starmer empfängt Selenski - Gespräche über "Friedensplan"
 
-[Blick](https://www.blick.ch/ausland/witkoff-und-kushner-bei-putin-kreml-unterhaendler-postet-friedenstaube-id21480713.html) • _Dienstag, 2. Dezember 2025, 23:53 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-starmer-empfaengt-selenski-gespraeche-ueber-friedensplan) • _Montag, 8. Dezember 2025, 06:02 Uhr_
 
-Hochrangige US-Vertreter diskutierten in Moskau einen Friedensplan für die Ukraine. Nach einem langen Treffen mit Putin kommen positive Signale. Doch der Streit um russische Gebietsansprüche ist schwer zu lösen.
+Der ukrainische Präsident und der britische Premierminister wollen über das weitere Vorgehen im Ukraine-Krieg beraten.
 
-### Treffen in Moskau
-- Hochrangige US-Delegation, darunter [Steve Witkoff](https://de.wikipedia.org/wiki/Steve_Witkoff) (68) und [Jared Kushner](https://de.wikipedia.org/wiki/Jared_Kushner) (44, Schwiegersohn von [Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump) (79)), diskutierte mit [Wladimir Putin](https://de.wikipedia.org/wiki/Wladimir_Putin) (73) fast fünf Stunden über den US-Friedensplan für die [Ukraine](https://de.wikipedia.org/wiki/Ukraine).
-- Kreml-Berater [Juri Uschakow](https://de.wikipedia.org/wiki/Juri_Uschakow) (78): Kein Fortschritt, man ist weder näher noch weiter von einem Frieden entfernt; viel Arbeit nötig, insbesondere bei russischen Gebietsansprüchen.
+### Aufbau der Hilfe  
+- Die **Glückskette** sammelt Spendengelder, um den betroffenen Menschen in der **[Ukraine](https://de.wikipedia.org/wiki/Ukraine)** humanitär zu helfen.  
+- Das Netzwerk arbeitet mit Partnerorganisationen auf nationaler und internationaler Ebene zusammen, um betroffene Personen zu erreichen.
 
-### Russische Position
-- [Putin](https://de.wikipedia.org/wiki/Wladimir_Putin) weicht nicht von Forderungen ab, verlangt Abtretung des gesamten [Donbass](https://de.wikipedia.org/wiki/Donbass) in der Ostukraine, obwohl russische Armee nicht alle Teile kontrolliert.
-- Kreml-Unterhändler [Kirill Dmitrijew](https://de.wikipedia.org/wiki/Kirill_Dmitrijew) (50) bezeichnete Verhandlungen auf X als «produktiv» und postete eine Friedenstaube-Emoji.
+### Zielgruppen  
+- **Millionen** Menschen sind bereits geflohen, insbesondere:  
+  - **[Kinder](https://de.wikipedia.org/wiki/Kind)**  
+  - **[Frauen](https://de.wikipedia.org/wiki/Frau_(Rolle))**  
+  - **[Ältere Menschen](https://de.wikipedia.org/wiki/Alt%C3%A4r)**  
+- Diese suchen Zuflucht in Nachbarländern oder in relativ geschützten Innenregionen der Ukraine.
 
-### Ukrainische Position
-- [Ukraine](https://de.wikipedia.org/wiki/Ukraine) lehnt Gebietsabtretungen strikt ab, wie [Wolodymyr Selenskyj](https://de.wikipedia.org/wiki/Wolodymyr_Selenskyj) (47) betonte.
-- Ukrainische Delegation diskutierte am Wochenende in Florida 6,5 Stunden allein über russische Gebietsforderungen.
+### Geografische Reichweite  
+- Die Hilfe gilt für die Ukraine und die unmittelbar benachbarten Staaten:  
+  - **[Polen](https://de.wikipedia.org/wiki/Polen)**  
+  - **[Rumänien](https://de.wikipedia.org/wiki/Rum%C3%A4nien)**  
+  - **[Moldawien](https://de.wikipedia.org/wiki/Moldawien)**  
+  - **[Ungarn](https://de.wikipedia.org/wiki/Ungarn)**  
+- Zusätzlich unterstützt die **Glückskette** auch Hilfsprojekte in der **[Schweiz](https://de.wikipedia.org/wiki/Schweiz)**.
 
-### Friedensplan und Ausblick
-- US-Plan mit ursprünglich 28 Punkten (Ende November publik), wurde kürzlich angepasst, da Teile für Ukraine und Europa unannehmbar waren; USA und Ukraine arbeiteten bilateral daran.
-- Witkoff soll Ergebnisse mit Trump besprechen.
-- Krieg, begonnen am 24. Februar 2022 durch russischen Angriff, dauert mit voller Härte an, trotz Friedensgespräche.
+### Spendenabwicklung  
+- Spenden können online über **[www.glueckskette.ch](https://www.glueckskette.ch)** eingereicht werden.  
+- Alternativ über das Postkonto  
+  - Kontonummer 10‑15000‑6  
+  - Vermerk: „**Krise in der Ukraine**“
 
-> Relevance score: [8] - US-Russia talks on Ukraine peace stalled on territorial demands; significant for ongoing global conflict with long-term geopolitical and European stability implications.
 
-## Kritik an SBB: Milliardenauftrag an Siemens stösst auf breite Ablehnung
+> Relevance score: [8] - The Ukraine war is a major international conflict; any high‑level discussion of a peace plan could reshape European security and global geopolitics. While the meeting occurs in London, its outcome would affect many countries, including Switzerland, through safety, energy and refugee considerations.
 
-[20 Minuten](https://www.20min.ch/story/exklusive-umfrage-kritik-an-sbb-zwei-drittel-lehnen-mega-auftrag-an-siemens-ab-103462220) • _Mittwoch, 3. Dezember 2025, 06:01 Uhr_
+## EU plant grossen Bahnausbau: Strecken sollen Schweiz umfahren
 
-Die Entscheidung der SBB, einen Milliardenauftrag an Siemens zu vergeben, trifft auf massive Kritik. Zwei Drittel der Bevölkerung sind dagegen.
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/bahnausbau-in-europa-eu-plant-hochgeschwindigkeitsnetz-um-die-schweiz-herum) • _Montag, 8. Dezember 2025, 06:02 Uhr_
 
-### Auftragsvergabe
-- Die [SBB](https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen) vergab einen Auftrag über rund 2 Milliarden Franken für 116 Doppelstockzüge für Zürich und die Westschweiz an [Siemens Mobility](https://de.wikipedia.org/wiki/Siemens_Mobility), nicht an die Schweizer [Stadler Rail](https://de.wikipedia.org/wiki/Stadler_Rail) von [Peter Spuhler](https://de.wikipedia.org/wiki/Peter_Spuhler).
-- Begründung der SBB: Siemens bot das vorteilhafteste Angebot nach rechtlichen Vorgaben, mit Preisdifferenz in dreistelliger Millionenhöhe über die Lebensdauer; «Swissness» ist nach Beschaffungsgesetz nicht erlaubt.
-- SBB hebt hervor: 6000 Mitarbeitende in der Schweiz, Einkäufe von über 550 Mio. Franken bei 1900 Schweizer Unternehmen.
+Die SBB baut Direktverbindungen nach Europa aus. Die EU plant derweil ihren Netzausbau um die Schweiz herum.
 
-### Umfrageergebnisse
-- Exklusive Umfrage von Leewas für 20 Minuten und Tamedia: 65 % (zwei Drittel) der Bevölkerung lehnen die Vergabe an Siemens ab.
-- Ablehnung quer durch alle politischen Lager, stärkste Skepsis bei SVP-Anhängern; auf linker Seite weniger ausgeprägt.
+### Neue Direktverbindungen der SBB  
+- **Fahrplanwechsel am kommenden Wochenende** – die SBB erweitert ihr internationales Netz mit mehr **umsteigefreien Tagesverbindungen**.  
+- Vorgestellt von **Véronique Stephan**, Leiterin Markt Personenverkehr bei der **[SBB](https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen)**.  
+- **Zusätzliche Direktverbindungen**:  
+  - Chur → Deutschland  
+  - Wallis → Deutschland  
+  - Basel/Genf → Mailand  
+  - Zürich → Florenz (bisher nur bis Bologna) und La Spezia (bisher nur bis Genua); im Sommer fährt der Zug weiter nach **Livorno**.  
+  - Westschweiz → Marseille (Ausbau in den Sommermonaten).  
+- Langfristiges Ziel des **Bundesamts für Verkehr (BAV)**: ein Hochgeschwindigkeitszug, der in **unter sechs Stunden** von der Schweiz nach **London** verkehrt.
 
-### Stellungnahmen der Beteiligten
-- [Stadler Rail](https://de.wikipedia.org/wiki/Stadler_Rail): Keine Äusserung wegen laufendem Rekurs beim [Bundesverwaltungsgericht](https://de.wikipedia.org/wiki/Bundesverwaltungsgericht_(Schweiz)).
-- [Siemens](https://de.wikipedia.org/wiki/Siemens): Attraktives, wettbewerbsfähiges Angebot; Zug optimal für Ballungszentren mit hohem Komfort.
+### EU‑Bahnausbauplan ohne Einbeziehung der Schweiz  
+- Die **EU‑Kommission** hat ein neues **Verkehrspaket** vorgestellt, das bis 2040 mehrere Hochgeschwindigkeitsstrecken vorsieht, um Reisezeiten zwischen europäischen Metropolen drastisch zu verkürzen.  
+- **Vizepräsident Raffaele Fitto** betont, dass durch das Schließen von **Netzlücken** Kurzstreckenflüge und lange Autofahrten ersetzt werden sollen.  
+- **Geplante Neubaustrecken (bis 2040)**:  
+  - Warschau → Baltikum  
+  - Paris → Madrid → **[Lissabon](https://de.wikipedia.org/wiki/Lissabon)** (neue Verbindung)  
+- **Reduzierte Reisezeiten auf bestehenden Routen** (Beispiele):  
+  - Berlin – Rom: **10 Stunden 15 Minuten** (statt 14 h 30 min)  
+  - Paris – Rom: **8 Stunden 45 Minuten** (statt 10 h 50 min)  
+  - Paris – Madrid – Lissabon: **9 Stunden** (bisher keine Direktverbindung)  
+  - Kopenhagen – Berlin: **4 Stunden** (statt 7 h)  
+  - Wien – Bukarest: **7 Stunden 55 Minuten** (statt 17 h 40 min)  
+  - Bukarest – Sofia – Athen: **12 Stunden** (statt 24 h)  
+- Die Schweiz liegt im Dreieck **Berlin‑Paris‑Rom**, wird jedoch in diesen Plänen nicht berücksichtigt.
 
-### Politische Kritik
-- [Gerhard Pfister](https://de.wikipedia.org/wiki/Gerhard_Pfister) (Mitte): Fehlentscheid, SBB-Führung muss politische Verantwortung für Steuergelder und Akzeptanz übernehmen; Regeln nutzen, ohne sie zu ändern.
-- [David Roth](https://de.wikipedia.org/wiki/David_Roth_(Politiker)) (SP): Ökologische und soziale Spielräume in Ausschreibungen ausschöpfen, um Arbeitsplätze zu sichern, innerhalb internationaler Regeln.
-- [Christian Imark](https://de.wikipedia.org/wiki/Christian_Imark) (SVP): Enttäuscht, aber Frage ist beschaffungsrechtlich; Gerichte und Geschäftsprüfungskommission (GPK) prüfen Einhaltung der Regeln.
+### Stellungnahmen aus der Schweiz  
+- **Véronique Stephan** (SBB) warnt, dass die Schweiz nicht **abgehängt** werden dürfe, und begrüßt grundsätzlich die EU‑Investitionen in die Bahninfrastruktur.  
+- Das **BAV** betont, dass die Schweiz zwar im ständigen Austausch mit europäischen Partnern stehe, aber **nicht direkt** in die aktuelle EU‑Bahn‑Diskussion eingebunden sei.  
+- **Michael Müller** (BAV) weist darauf hin, dass die Schweiz bereits **Vorreiter** beim Bahnausbau war:  
+  - **[Gotthard‑Base‑Tunnel](https://de.wikipedia.org/wiki/Gotthard‑Base‑Tunnel)**, **[Ceneri‑Base‑Tunnel](https://de.wikipedia.org/wiki/Ceneri‑Base‑Tunnel)** und **[Lötschberg‑Base‑Tunnel](https://de.wikipedia.org/wiki/Lötschberg‑Base‑Tunnel)**.  
+  - In den letzten 30 Jahren über **eine Milliarde Franken** für Strecken- und Anschlussinvestitionen ins europäische Hochgeschwindigkeitsnetz ausgegeben.  
+- Aktuelle Engpässe liegen eher bei **Zubringerstrecken** (z. B. **Biel – Belfort**, Ausbau nach **München**), die weiterhin Handlungsbedarf haben.
 
-### Nachspiel
-- Rekurs von Stadler beim Bundesverwaltungsgericht; mögliche Prüfung durch GPK und weitere Instanzen.
+### Ausblick  
+- Der EU‑Plan wirkt zunächst wie eine **ambitionierte Absichtserklärung**; seine Umsetzung wird zeigen, ob die Schweiz im Bahnnetz **„nicht abgehängt“** wird.  
+- Weitere umsteigefreie Verbindungen und mögliche Hochgeschwindigkeitsverbindungen nach **London** stehen im Fokus des **Bundesamts für Verkehr**.  
+- Die Schweiz muss ihre **Zubringerinfrastruktur** weiter stärken, um von den EU‑Investitionen langfristig zu profitieren.
 
-> Relevance score: [7] - Swiss national railway SBB awards 2B CHF contract to foreign Siemens over local firm amid public backlash; affects transport infrastructure, economy, and jobs in Switzerland.
-
-## Kriegsverbrechen in der Karibik? - Pete Hegseth steht unter Verdacht
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/kriegsverbrechen-in-der-karibik-pete-hegseth-steht-unter-verdacht-ld.1914632) • _Mittwoch, 3. Dezember 2025, 05:30 Uhr_
-
-Die tödlichen Angriffe auf Boote von Drogenschmugglern in der Karibik waren rechtlich bereits umstritten. Der US-Verteidigungsminister wird nun aber verdächtigt, auch die Tötung von Schiffbrüchigen befohlen zu haben. Selbst Republikaner fürchten Verstösse gegen das Kriegsrecht.
-
-### Militäroperationen in der Karibik
-- Seit September hat das US-Militär über 21 Boote von mutmasslichen [Drogenschmugglern](https://de.wikipedia.org/wiki/Drogenschmuggel) in der Karibik und im Ostpazifik zerstört und dabei 82 Personen getötet.
-- Viele Experten und Verbündete wie [Frankreich](https://de.wikipedia.org/wiki/Frankreich) oder [Grossbritannien](https://de.wikipedia.org/wiki/Vereinigtes_K%C3%B6nigreich) halten die Angriffe für illegale aussergerichtliche Tötungen.
-
-### Vorwürfe gegen Pete Hegseth
-- Ein Bericht der [Washington Post](https://de.wikipedia.org/wiki/The_Washington_Post) behauptet: Vor dem ersten Angriff am 2. September soll US-Verteidigungsminister [Pete Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth) den Befehl «alle zu töten» gegeben haben.
-- Zwei Überlebende, die sich an Trümmerteilen festhielten, wurden angeblich durch eine weitere Rakete getötet, befohlen vom Kommandanten der [SEAL Team 6](https://de.wikipedia.org/wiki/United_States_Navy_SEALs).
-
-### Besorgnis bei Republikanern
-- Republikanische Abgeordnete äussern Kritik:
-  - [Mike Turner](https://en.wikipedia.org/wiki/Mike_Turner): «Illegale Handlung», falls zutreffend.
-  - [Don Bacon](https://en.wikipedia.org/wiki/Don_Bacon): Verletzung des [Kriegsrechts](https://de.wikipedia.org/wiki/Kriegsv%C3%B6lkerrecht).
-  - Senatsvorsitzender des Verteidigungsausschusses [Roger Wicker](https://en.wikipedia.org/wiki/Roger_Wicker) fordert «rigorose Untersuchung» mit Zugang zu Video- und Audioaufnahmen.
-
-### Reaktionen der Regierung
-- Hegseth nennt den Bericht «erlogen» und teilt auf [X](https://de.wikipedia.org/wiki/X_(soziales_Netzwerk)) ein Meme mit einer Schildkröte, die Drogenschmuggler bekämpft.
-- [Weisses Haus](https://de.wikipedia.org/wiki/Weißes_Haus): Admiral [Frank Bradley](https://en.wikipedia.org/wiki/Frank_Bradley_(admiral)) handelte im Rahmen seiner Befugnisse, bevollmächtigt von Hegseth.
-- [Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump): Hätte keinen zweiten Angriff gewollt; Hegseth bestreitet den Befehl.
-- [New York Times](https://de.wikipedia.org/wiki/The_New_York_Times): Keine mündliche Anweisung; schriftliche Direktiven erwähnen Überlebende nicht; Hegseth verfolgte Mission live, gab keine weiteren Order.
-
-### Rechtliche und strategische Aspekte
-- Regierungsmitarbeiter rechtfertigen: Boot und Drogen blieben legitimes Ziel; Militärjurist [Geoffrey Corn](https://en.wikipedia.org/wiki/Geoffrey_Corn) hält Angriffe für illegal, da kein bewaffneter Konflikt.
-- Trump-Regierung sieht «Krieg gegen Drogenterroristen», begründet damit auch Pläne gegen [Nicolás Maduro](https://de.wikipedia.org/wiki/Nicol%C3%A1s_Maduro) in [Venezuela](https://de.wikipedia.org/wiki/Venezuela); Justizministerium-Memo unter Verschluss.
-- Hegseths Haltung: Kriege «nach unseren Regeln» führen; [Kriegsvölkerrecht](https://de.wikipedia.org/wiki/Kriegsv%C3%B6lkerrecht) «geschrieben, damit wir verlieren»; fordert «risikobereite und aggressive Anführer».
-
-> Relevance score: [6] - Allegations of war crimes against US Defense Secretary in Caribbean anti-drug operations killing 82; raises international law concerns but unproven and niche to military policy.
+> Relevance score: [6] - The EU’s railway expansion that bypasses Switzerland directly influences Swiss transport policy, cross‑border trade and regional connectivity. It is significant for the national economy but does not reshape the broader European system.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Airbus muss über 600 Maschinen überprüfen
+## Ungewöhnliche Methode zur Alzheimer-Prävention: Die Rolle von Schwefelwasserstoff
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/nach-qualitaetsproblem-airbus-muss-ueber-680-maschinen-weltweit-ueberpruefen) • _Mittwoch, 3. Dezember 2025, 06:23 Uhr_
+[it boltwise](https://www.it-boltwise.de/ungewoehnliche-methode-zur-alzheimer-praevention-die-rolle-von-schwefelwasserstoff.html) • _Montag, 8. Dezember 2025, 00:43 Uhr_
 
-Der europäische Flugzeughersteller muss Flugzeuge des Typs A320 überprüfen. Weltweit werden über 600 Maschinen geprüft.
+Schwefelwasserstoff könnte eine schützende Wirkung auf alternde Gehirnzellen haben und das Risiko von Alzheimer reduzieren, wie eine Studie von Johns Hopkins Medicine zeigt.
 
-Airbus muss wegen eines «Qualitätsproblems» bei Bauteilen für den Flugzeugtyp A320 weltweit bis zu 628 Maschinen überprüfen.
-Dabei handle es sich um die Gesamtzahl der «potenziell betroffenen Flugzeuge», erklärte Airbus am Dienstag. Es bedeute nicht,... [weiterlesen](https://www.srf.ch/news/wirtschaft/nach-qualitaetsproblem-airbus-muss-ueber-680-maschinen-weltweit-ueberpruefen)
+BALTIMORE / LONDON (IT BOLTWISE) – Eine neue Studie von Johns Hopkins Medicine zeigt, dass Schwefelwasserstoff, ein Gas, das in kleinen Mengen im menschlichen Körper produziert wird, eine schützende Wirkung auf alternde Gehirnzellen haben könnte. Die... [weiterlesen](https://www.it-boltwise.de/ungewoehnliche-methode-zur-alzheimer-praevention-die-rolle-von-schwefelwasserstoff.html)
 
-> Relevance score: [5] - Global aviation safety inspections on 628 A320 planes due to quality issue; potential disruptions to air travel but no accidents reported, moderate scale impact.
+> Relevance score: [5] - A new biomedical finding could, if validated, influence future preventative strategies for a widespread disease, giving it medium‑term global health relevance. At present it remains an early‑stage study.
 
-## Armeechef hinterlässt durchzogene Bilanz
+## Äthiopien will einen Zugang zum Meer
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/der-cybergeneral-tritt-ab-sein-einsatz-war-gross-die-bilanz-bleibt-durchzogen-ld.1914086) • _Mittwoch, 3. Dezember 2025, 05:30 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/spannungen-mit-eritrea-aethiopien-will-einen-zugang-zum-meer-unbedingt) • _Sonntag, 7. Dezember 2025, 20:33 Uhr_
 
-Thomas Süssli hat die Armee wieder auf Verteidigung ausgerichtet. Doch er verlässt eine Armee in der Vertrauenskrise.
+Der äthiopische Premierminister Ahmed will sich durchsetzen. Eritrea denkt nicht daran, nachzugeben.
 
-Als die damalige Verteidigungsministerin Viola Amherd am 9. September 2019 Thomas Süssli als neuen Chef der Armee vorstellte, versprach dieser: «Ich werde mich für eine Kultur einsetzen, die auch Fehler zulässt.» Amherd hatte den ehemaligen Banker Be... [weiterlesen](https://www.nzz.ch/schweiz/der-cybergeneral-tritt-ab-sein-einsatz-war-gross-die-bilanz-bleibt-durchzogen-ld.1914086)
+Worum geht es? Äthiopien hat seinen Zugang zum Meer Ende der 1990er-Jahre im Grenzkrieg gegen Eritrea verloren. Bis dahin lief ein grosser Teil des äthiopischen Handels über den eritreischen Hafen Assab. Nun stellt Premierminister Abiy Ahmed offen in... [weiterlesen](https://www.srf.ch/news/international/spannungen-mit-eritrea-aethiopien-will-einen-zugang-zum-meer-unbedingt)
 
-> Relevance score: [5] - Swiss Army chief departs amid trust crisis despite defense reorientation; relevant to national security governance but internal leadership issue with limited broad impact.
+> Relevance score: [5] - Ethiopia’s bid for a sea outlet could alter Red Sea trade flows and regional geopolitics, bearing moderate global economic significance, though immediate effects on Switzerland are indirect.
 
-## Abgründe in der Krypto-Welt
+## Prämienanstieg 2026: Was Autofahrer jetzt wissen müssen
 
-[Inside Paradeplatz](https://insideparadeplatz.ch/2025/12/02/abgruende-in-der-krypto-welt/) • _Dienstag, 2. Dezember 2025, 19:12 Uhr_
+[20 Minuten](https://www.20min.ch/story/praemienanstieg-2026-was-autofahrer-jetzt-wissen-muessen-103462914) • _Montag, 8. Dezember 2025, 04:44 Uhr_
 
-Wer zu früh, zu stark oder unvorsichtig investiert, riskiert nicht nur Geld, sondern unter Umständen sein Leben.
+Bei zweistelligen Aufschlägen lohnt sich fast immer ein Anbieterwechsel. Vergleichsportale sehen verbreitete Erhöhungen von 10 bis 20 %.
 
-Die Flut zieht sich zurück, und man sieht, wer nackt geschwommen hat.
-Das Bonmot, das Warren Buffett zugeschrieben wird, beschreibt die zerstörerische Kraft von Finanzblasen präzise.
-In den letzten Wochen hat sich diese Maxime auf brutalste Weise bes... [weiterlesen](https://insideparadeplatz.ch/2025/12/02/abgruende-in-der-krypto-welt/)
+Nicht nur Krankenkassen werden nächstes Jahr teurer. Auch Autoversicherungen wollen höhere Prämien. Ein Anstieg zeichnete sich schon im Herbst ab, das Ausmass war aber noch unklar. Jetzt erhalten Versicherte die neuen Policen – und die haben es in si... [weiterlesen](https://www.20min.ch/story/praemienanstieg-2026-was-autofahrer-jetzt-wissen-muessen-103462914)
 
-> Relevance score: [2] - Sensational stories of risks in crypto investments; niche financial sector drama without structural economic or societal impact.
+> Relevance score: [4] - Rising car‑insurance premiums affect a sizable segment of Swiss households and have modest economic relevance, but they are a routine market development rather than a structural shift.
+
+## JAKi: Neue Daten zu Sicherheit, Risiken und künftigen Einsatzmöglichkeiten
+
+[medonline.at](https://medonline.at/news/medizin/4000154899/jaki-neue-daten-zu-sicherheit-risiken-und-kuenftigen-einsatzmoeglichkeiten/) • _Montag, 8. Dezember 2025, 00:00 Uhr_
+
+Beim EULAR-Kongress wurden aktuelle Studien zu Malignität, Infektionsrisiko unter Januskinase-Inhibitoren (JAKi) und neue Einsatzmöglichkeiten vorgestellt.
+
+Beim EULAR-Jahreskongress 2025 präsentierten Experten neue Erkenntnisse zu Malignität und Infektionsrisiken unter Januskinase-Inhibitoren (JAKi). Sie zeigten auch mögliche Anwendungen jenseits der rheumatoiden Arthritis auf.
+Prof. Dr. Kim Lauper vom ... [weiterlesen](https://medonline.at/news/medizin/4000154899/jaki-neue-daten-zu-sicherheit-risiken-und-kuenftigen-einsatzmoeglichkeiten/)
+
+> Relevance score: [4] - Updates from a major rheumatology conference affect clinical practice and patient safety in Switzerland and elsewhere, but the impact is confined to a specific medical field.
+
+## Thailand bombardiert kambodschanische Militärziele an der Grenze
+
+[20 Minuten](https://www.20min.ch/story/grenzkonflikt-thailand-toter-und-vier-verletzte-bei-gefechten-mit-kambodscha-103466061) • _Montag, 8. Dezember 2025, 03:20 Uhr_
+
+Nach einem tödlichen Vorfall an der thailändisch-kambodschanischen Grenze setzt Thailand Flugzeuge ein, um Militärstellungen in Kambodscha zu attackieren.
+
+Thailand hat nach der jüngsten Gewalteskalation im Grenzgebiet zu Kambodscha Luftangriffe auf Ziele im Nachbarland geflogen. Kambodschanische Soldaten hätten am Montag das Feuer auf thailändische Truppen in der Provinz Ubon Ratchathani eröffnet, erkl... [weiterlesen](https://www.20min.ch/story/grenzkonflikt-thailand-toter-und-vier-verletzte-bei-gefechten-mit-kambodscha-103466061)
+
+> Relevance score: [3] - A localized escalation between Thailand and Cambodia is important regionally but has limited direct impact on Switzerland or on global governance structures.
+
+## Stiftung Warentest warnt: Gesundheitsgefahr bei diesen deutschen Supermarkt-Produkten!
+
+[Freundin](https://www.freundin.de/lifestyle/fitness-gesundheit/stiftung-warentest-warnt-gesundheitsgefahr-bei-diesen-deutschen-supermarkt-produkten) • _Sonntag, 7. Dezember 2025, 21:00 Uhr_
+
+Die Testergebnisse alarmieren: Diese Supermarkt-Produkte kamen bei Stiftung Warentest schlecht weg und können sogar die Gesundheit belasten
+
+Wer heutzutage im Supermarkt einkaufen geht, der wird von der wahnsinnig großen Auswahl an Produkten fast ein wenig erschlagen. Vor allem, wenn es um Konserven geht, steht man oft vor einem meterlangen Regal voller Möglichkeiten.
+Die Produkte sind pr... [weiterlesen](https://www.freundin.de/lifestyle/fitness-gesundheit/stiftung-warentest-warnt-gesundheitsgefahr-bei-diesen-deutschen-supermarkt-produkten)
+
+> Relevance score: [3] - Consumer‑product safety warnings are useful for shoppers but are limited to German items; the broader public impact in Switzerland is modest.
+
+## Zugentgleisung in Altstätten SG
+
+[Blick](https://www.blick.ch/schweiz/ostschweiz/st-gallen/viele-familien-betroffen-zug-entgleist-bei-altstaetten-sg-eine-person-im-spital-id21496618.html) • _Sonntag, 7. Dezember 2025, 20:57 Uhr_
+
+Am Sonntagabend entgleiste in der Ostschweiz ein Zug der Appenzeller Bahnen. Eine Person musste ins Spital gebracht werden.
+
+Janine EnderliRedaktorin News
+Schreckmoment bei Altstätten SG: Ein Zug der Appenzeller Bahnen ist am Sonntagabend auf der Höhe der Haltestelle Alter Zoll zwischen Altstätten und Gais AR entgleist.
+Ein Leserreporter wurde Zeuge des Unfalls. «Ich fuhr ... [weiterlesen](https://www.blick.ch/schweiz/ostschweiz/st-gallen/viele-familien-betroffen-zug-entgleist-bei-altstaetten-sg-eine-person-im-spital-id21496618.html)
+
+> Relevance score: [3] - A local train derailment with a single injury is a safety incident of regional interest; it does not affect national transport policy or larger societal issues.
+
+## Deutsche Minderheit in Polen nimmt ab
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/groesste-anerkannte-minderheit-deutsche-minderheit-in-polen-nimmt-ab-die-gruende) • _Sonntag, 7. Dezember 2025, 19:38 Uhr_
+
+Noch sind sie die grösste anerkannte Minderheit im Land. Ein Blick auf die Entwicklung mit dem Journalisten Jan Opielka.
+
+Darum geht es: Mit rund 130'000 Menschen stellen die Deutschen die grösste Minderheit in Polen dar. Seit der Volkszählung 2001 hat ihre Zahl um 20'000 Menschen abgenommen. Als anerkannte nationale Minderheit im 38-Millionen-Volk geniesst sie den Schu... [weiterlesen](https://www.srf.ch/news/international/groesste-anerkannte-minderheit-deutsche-minderheit-in-polen-nimmt-ab-die-gruende)
+
+> Relevance score: [2] - Changes in a minority population in Poland are demographically noteworthy but have little direct relevance to Swiss society or to broader international dynamics.
 
 
 </details>
