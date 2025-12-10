@@ -2,171 +2,212 @@
 
 ---
 
-_Updated: Monday, 8 December 2025, 18:56_
+_Updated: Wednesday, December 10, 2025, 18:26_
 
-## War in Ukraine – Starmer Receives Zelensky – Talks on “Peace Plan”
+## First Incel Attack in Switzerland: He Set Off to Kill
 
-[Swiss Radio and Television (SRF)](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-starmer-empfaengt-selenski-gespraeche-ueber-friedensplan) • *Monday, 8 December 2025, 06:02*
+[Swiss Radio and Television](https://www.srf.ch/news/schweiz/hass-auf-frauen-er-fuhr-los-um-zu-toeten) • _Wednesday, December 10, 2025, 05:59_
 
-The Ukrainian president and the British prime minister want to discuss the next steps in the Ukraine war.
+A young Swiss man radicalised online and drove into two women. Fedpol mentions incel extremism for the first time.
 
-### Structure of the Aid  
-- The **Glückskette** (Lucky Chain) collects donations to provide humanitarian assistance to people affected in the **[Ukraine](https://en.wikipedia.org/wiki/Ukraine)**.  
-- The network works with partner organisations at national and international levels to reach those in need.
+### Background of the attack
+- On September 11, 2020 the 27‑year‑old **Kevin B.** drove his car in Amriswil into 15‑year‑old Hiyoba and her friend Sarah, who were coming from a bike.  
+- According to the court ruling, the goal was **to kill or seriously injure people** – a hate‑driven rampage that had been planned for months (vehicle and weapon acquisition).  
+- Kevin B. wrote an English manifesto containing racist, antisemitic and misogynist ideologies.
 
-### Target Groups  
-- **Millions** of people have already fled, especially:  
-  - **[Children](https://en.wikipedia.org/wiki/Child)**  
-  - **[Women](https://en.wikipedia.org/wiki/Woman)**  
-  - **[Older People](https://en.wikipedia.org/wiki/Elderly)**  
-- They are seeking refuge in neighbouring countries or in relatively protected interior regions of Ukraine.
+### Incel extremism in Switzerland
+- The **Federal Office of Police (Fedpol)** listed the case in an internal short‑analysis from 2022 as **incel extremism** – the first time such a classification was made.  
+- Fedpol states that there is no systematic monitoring of incel threats in Switzerland; the analysis only covered the period 2017‑2022.  
+- In the Arbon District Court judgment (2023) it is noted that the **incel sub‑culture** is hard to quantify; a large incel forum recorded about 34 000 registered users in 2025.
 
-### Geographic Reach  
-- The aid covers Ukraine and the immediately neighbouring states:  
-  - **[Poland](https://en.wikipedia.org/wiki/Poland)**  
-  - **[Romania](https://en.wikipedia.org/wiki/Romania)**  
-  - **[Moldova](https://en.wikipedia.org/wiki/Moldova)**  
-  - **[Hungary](https://en.wikipedia.org/wiki/Hungary)**  
-- In addition, the **Glückskette** also supports relief projects in **[Switzerland](https://en.wikipedia.org/wiki/Switzerland)**.
+### Global incel attacks
+- Since 2014 more than **50 people have been killed** worldwide in attacks carried out by persons motivated by incel ideology. Examples:  
+  - 2014 shooting in the USA (6 dead) – the perpetrator wanted revenge for rejections by women.  
+  - 2018 rampage in Canada (10 dead).  
+  - The **Halle attack 2019** in Germany is also linked to incel ideology.  
+- The common traits are that the attackers are often young, socially isolated men who move in radicalising online forums.
 
-### Donation Processing  
-- Donations can be submitted online via **[www.glueckskette.ch](https://www.glueckskette.ch)**.  
-- Alternatively, by post to the account  
-  - Account number 10‑15000‑6  
-  - Reference: “**Crisis in Ukraine**”
+### Analysis of the manifesto and the forums
+- **Veronika Kracher**, sociologist and incel expert, describes the forums as places where hatred against women, migrants and society is expressed daily (e.g., rape and stoning threats).  
+- Violent fantasies and the sharing of pornographic violence are considered “fuel”.  
+- Kevin B.’s manifesto contains incel terminology and a pronounced victim stance, but less focus on his own appearance or sexuality – typical of pure incel attackers.
 
-> Relevance score: [8] – The Ukraine war is a major international conflict; any high‑level discussion of a peace plan could reshape European security and global geopolitics. While the meeting takes place in London, its outcome would affect many countries, including Switzerland, through safety, energy and refugee considerations.
+### Legal consequences
+- In 2023 the Arbon District Court sentenced Kevin B. to **13.5 years in prison** for attempted murder; the sentence is to be served in a closed psychiatric facility instead of a regular prison.  
+- A forgotten mobile phone is cited in the ruling as the reason why no additional victims were killed on the day of the attack.
 
-## EU Plans Major Railway Expansion: Routes to Bypass Switzerland
+### Impact on the victims and societal reactions
+- Sarah has never ridden a bike again; Hiyoba had to give up athletics because of lingering injuries.  
+- Both re‑watched the attacker’s livestream, which intensified the trauma (“like a video game”).  
+- **SRF Investigative** published selected excerpts from the manifesto and launched the podcast series **“Alpha Boys”**, which examines the influence of the “manosphere” (including influencers such as **Andrew Tate**) on young men.  
 
-[Swiss Radio and Television (SRF)](https://www.srf.ch/news/schweiz/bahnausbau-in-europa-eu-plant-hochgeschwindigkeitsnetz-um-die-schweiz-herum) • *Monday, 8 December 2025, 06:02*
+### Outlook
+- The case remains the only known incel‑motivated attack in Switzerland; Fedpol warns that the situation may have worsened, but emphasises that no systematic monitoring is in place.  
+- The debate on prevention, online radicalisation and the societal roots of incel hatred remains open.
 
-SBB is expanding direct connections to Europe. Meanwhile the EU is planning its network expansion around Switzerland.
+> Relevance score: [6] – First recognised incel‑motivated violent attack in Switzerland; signals emergence of a new extremist threat, will likely prompt law‑enforcement and policy responses and affect public‑safety debates.
 
-### New Direct Connections by SBB  
-- **Timetable change next weekend** – SBB is expanding its international network with more **non‑changing‑train day connections**.  
-- Presented by **Véronique Stephan**, Head of Passenger Market at the **[Swiss Federal Railways (SBB)](https://en.wikipedia.org/wiki/Swiss_Federal_Railways)**.  
-- **Additional direct connections**:  
-  - Chur → Germany  
-  - Valais → Germany  
-  - Basel/Geneva → Milan  
-  - Zurich → Florence (previously only up to Bologna) and La Spezia (previously only up to Genoa); in summer the train continues to **Livorno**.  
-  - Western Switzerland → Marseille (expansion during the summer months).  
-- Long‑term goal of the **Federal Office of Transport (FOT)**: a high‑speed train that travels from Switzerland to **London in under six hours**.
+## Canton Comparison: Where Free Rental Apartments Disappear Fastest
 
-### EU Railway Expansion Plan Excluding Switzerland  
-- The **EU Commission** has presented a new **transport package** that envisions several high‑speed lines by 2040 to dramatically cut travel times between European metropolises.  
-- **Vice‑President Raffaele Fitto** stresses that closing **network gaps** should replace short‑haul flights and long car journeys.  
-- **Planned new lines (by 2040)**:  
-  - Warsaw → the Baltic states  
-  - Paris → Madrid → **[Lisbon](https://en.wikipedia.org/wiki/Lisbon)** (new connection)  
-- **Reduced travel times on existing routes** (examples):  
-  - Berlin – Rome: **10 h 15 min** (instead of 14 h 30 min)  
-  - Paris – Rome: **8 h 45 min** (instead of 10 h 50 min)  
-  - Paris – Madrid – Lisbon: **9 h** (previously no direct connection)  
-  - Copenhagen – Berlin: **4 h** (instead of 7 h)  
-  - Vienna – Bucharest: **7 h 55 min** (instead of 17 h 40 min)  
-  - Bucharest – Sofia – Athens: **12 h** (instead of 24 h)  
-- Switzerland lies within the Berlin‑Paris‑Rome triangle, but is not considered in these plans.
+[20 Minutes](https://www.20min.ch/story/kantonsvergleich-hier-sind-freie-mietwohnungen-am-schnellsten-weg-103466794) • _Wednesday, December 10, 2025, 04:32_
 
-### Statements from Switzerland  
-- **Véronique Stephan** (SBB) warns that Switzerland must not be **left behind**, and generally welcomes EU investment in rail infrastructure.  
-- The **FOT** emphasizes that while Switzerland is in constant dialogue with European partners, it is **not directly** involved in the current EU rail discussion.  
-- **Michael Müller** (FOT) points out that Switzerland has already been a **pioneer** in rail expansion:  
-  - **[Gotthard Base Tunnel](https://en.wikipedia.org/wiki/Gotthard_Base_Tunnel)**, **[Ceneri Base Tunnel](https://en.wikipedia.org/wiki/Ceneri_Base_Tunnel)** and **[Lötschberg Base Tunnel](https://en.wikipedia.org/wiki/L%C3%B6tschberg_Base_Tunnel)**.  
-  - In the last 30 years more than **one billion Swiss francs** have been spent on line and connection investments into the European high‑speed network.  
-- Current bottlenecks are mainly on **feeder lines** (e.g., **Biel – Belfort**, expansion toward **Munich**), which still require action.
+There are more apartments on the market, but they disappear in record time. Fast rentals are becoming the norm.
 
-### Outlook  
-- The EU plan initially looks like an **ambitious declaration of intent**; its implementation will show whether Switzerland will be **“left behind”** in the rail network.  
-- More non‑changing‑train connections and possible high‑speed links to **London** are at the focus of the **Federal Office of Transport**.  
-- Switzerland must continue to strengthen its **feeder infrastructure** to benefit long‑term from EU investments.
+### Overall development  
+- The **Online‑Housing Index** (jointly created by the **House and Owners Association** (HEV), the property portal **Newhome**, the real‑estate association **SVIT** and the **Swiss Real Institute** of HWZ) shows that vacant rental apartments have been rented increasingly faster over the past 15 years.  
+- Compared with the previous year, the average listing duration is now **only 24 days** – one day less, the shortest period since the index began.  
+- Despite a supply increase of about **6 %** (≈ 25 000 additional listings between Oct 2024 – Sept 2025) demand outstrips supply, causing apartments to disappear more quickly.
 
-> Relevance score: [6] – The EU’s railway expansion that bypasses Switzerland directly influences Swiss transport policy, cross‑border trade and regional connectivity. It is significant for the national economy but does not reshape the broader European system.
+### Canton and city comparison  
+- **Fastest rentals** (≈ 2 weeks):  
+  - **Geneva** and **Zug** – average 14 days  
+  - **Zurich** and **Schwyz** – average 16 days  
+- **Longest stay**:  
+  - **Jura** – 51 days  
+  - **Neuchâtel** – 40 days  
+- Other cities with roughly a month until rental: **Basel**, **Fribourg**, **St. Gallen**, **Lugano**.  
+- **City leaders**:  
+  - **Chur** – average 10 days  
+  - **Winterthur** and **Geneva** – each 13 days  
+  - **Zurich** – 16 days  
 
-<details><summary markdown="span">Show minor events</summary>
+### Demand by apartment size  
+- **Two‑room apartments** (usually cheaper) see **increasing demand** in almost all cities compared with the previous year.  
+- **Large apartments** (≥ 5 rooms) experience **decreasing demand** in most cities.  
 
-## Unusual Method for Alzheimer’s Prevention: The Role of Hydrogen Sulfide
+### Methodology & source  
+- Data come from the **Online‑Housing Index**, which analyses the eight largest Swiss property portals.  
+- The index records the **average time listings stay active**, providing an indicator of the supply‑demand balance in the rental market.  
 
-[it boltwise](https://www.it-boltwise.de/ungewoehnliche-methode-zur-alzheimer-praevention-die-rolle-von-schwefelwasserstoff.html) • *Monday, 8 December 2025, 00:43*
+*(The analysis reflects the current state of the Swiss rental market and shows that “fast rentals” are becoming the new normal.)*
 
-Hydrogen sulfide could have a protective effect on aging brain cells and reduce the risk of Alzheimer’s, according to a study by Johns Hopkins Medicine.
+> Relevance score: [6] – Housing‑market dynamics directly affect a large portion of the Swiss population, informing debates on rent policy and urban planning; a notable domestic socioeconomic issue.
 
-BALTIMORE / LONDON (IT BOLTWISE) – A new study from Johns Hopkins Medicine shows that hydrogen sulfide, a gas produced in small amounts in the human body, may protect aging brain cells. The… [read more](https://www.it-boltwise.de/ungewoehnliche-methode-zur-alzheimer-praevention-die-rolle-von-schwefelwasserstoff.html)
+## Within a Few Months: Zelensky Ready for New Elections
 
-> Relevance score: [5] – A new biomedical finding could, if validated, influence future preventative strategies for a widespread disease, giving it medium‑term global health relevance. At present it remains an early‑stage study.
+[Blick](https://www.blick.ch/ausland/selenski-reagiert-auf-trumps-forderung-ich-bin-bereit-fuer-wahlen-id21501332.html) • _Tuesday, December 9, 2025, 21:33_
 
-## Ethiopia Wants a Sea Access
+Since May 2024 President Zelensky’s term officially ended – a point criticized by Donald Trump. Now the Ukrainian president declares: “I am ready for elections” and outlines the conditions.
 
-[Swiss Radio and Television (SRF)](https://www.srf.ch/news/international/spannungen-mit-eritrea-aethiopien-will-einen-zugang-zum-meer-unbedingt) • *Sunday, 7 December 2025, 20:33*
+### Background
+- The official term of President **[Wolodymyr Zelenskyy](https://en.wikipedia.org/wiki/Wolodymyr_Zelenskyy)** (47) ended in May 2024.  
+- The lack of elections since the enactment of **[martial law](https://en.wikipedia.org/wiki/Martial_law)** has raised questions about the legitimacy of his presidency.  
 
-Ethiopian Prime Minister Ahmed wants to press his claim. Eritrea is not thinking of giving in.
+### Statements by **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)**
+- In an interview with **[Politico](https://en.wikipedia.org/wiki/Politico_(magazine))**, Trump calls for new elections in war‑torn **Ukraine**.  
+- He calls the timing “important” and criticises the fact that no elections have been held for a long time.  
 
-What is it about? Ethiopia lost its sea access at the end of the 1990s in the border war with Eritrea. Until then a large part of Ethiopian trade passed through the Eritrean port of Assab. Now Prime Minister Abiy Ahmed openly states… [read more](https://www.srf.ch/news/international/spannungen-mit-eritrea-aethiopien-will-einen-zugang-zum-meer-unbedingt)
+### Zelensky’s readiness for new elections
+- In an interview with **[Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel)**, Zelensky says he is prepared to organise new elections.  
+- He plans to ask parliament to draft **proposals to amend**  
+  - the legal foundations and  
+  - the **[election law](https://en.wikipedia.org/wiki/Election_law)** during martial law.  
 
-> Relevance score: [5] – Ethiopia’s bid for a sea outlet could alter Red Sea trade flows and regional geopolitics, bearing moderate global economic significance, though immediate effects on Switzerland are indirect.
+### Planned steps and timetable
+- The goal is to ensure election security with the support of the **United States** and Europe.  
+- If the conditions are met, new elections could take place within **60 – 90 days**.
 
-## Premium Increase 2026: What Drivers Need to Know Now
+> Relevance score: [6] – Timing of Ukrainian presidential elections is important for European security dynamics, which indirectly affect Swiss foreign‑policy considerations; still, the direct impact on Swiss daily life is modest.
 
-[20 Minuten](https://www.20min.ch/story/praemienanstieg-2026-was-autofahrer-jetzt-wissen-muessen-103462914) • *Monday, 8 December 2025, 04:44*
+<details><summary markdown="span">Show less important events</summary>
 
-With double‑digit hikes, switching providers is almost always worthwhile. Comparison portals see common increases of 10 % to 20 %.
+## Child prostitution: More cases in the Romandy region
 
-Not only health insurance will become more expensive next year. Car insurance premiums are also set to rise. An increase was already evident in autumn, but the exact scale was unclear. Now policyholders receive the new policies – and they have… [read more](https://www.20min.ch/story/praemienanstieg-2026-was-autofahrer-jetzt-wissen-muessen-103462914)
+[Swiss Radio and Television](https://www.srf.ch/news/dialog/kritik-an-fehlender-praevention-zunehmende-faelle-von-kinderprostitution-in-der-westschweiz) • _Wednesday, December 10, 2025, 05:42_
 
-> Relevance score: [4] – Rising car‑insurance premiums affect a sizable segment of Swiss households and have modest economic relevance, but they are a routine market development rather than a structural shift.
+In the most recent known case a barbershop is alleged to have exploited six minors for sexual services.
 
-## JAKi: New Data on Safety, Risks and Future Uses
+The barbershop, located in the centre of Geneva, is now closed. Only the police tape still hanging on the door hints at what may have taken place behind the façade.  
+A half‑dozen youths, … [read more](https://www.srf.ch/news/dialog/kritik-an-fehlender-praevention-zunehmende-faelle-von-kinderprostitution-in-der-westschweiz)
 
-[medonline.at](https://medonline.at/news/medizin/4000154899/jaki-neue-daten-zu-sicherheit-risiken-und-kuenftigen-einsatzmoeglichkeiten/) • *Monday, 8 December 2025, 00:00*
+> Relevance score: [5] – Increase in child sexual exploitation cases is a serious social problem and will drive police, judicial and child‑protection measures, but the issue remains relatively localized and does not reshape national structures.
 
-At the EULAR Congress, current studies on malignancy, infection risk under Janus Kinase inhibitors (JAKi) and new applications were presented.
+## Hundreds demonstrate in Bern against violence toward women
 
-At the 2025 EULAR Annual Congress, experts presented new findings on malignancy and infection risks under Janus Kinase inhibitors (JAKi). They also showed possible uses beyond rheumatoid arthritis.  
-Prof. Dr. Kim Lauper from … [read more](https://medonline.at/news/medizin/4000154899/jaki-neue-daten-zu-sicherheit-risiken-und-kuenftigen-einsatzmoeglichkeiten/)
+[Swiss Radio and Television](https://www.srf.ch/news/schweiz/nach-beschluss-von-nationalrat-hunderte-personen-demonstrieren-in-bern-gegen-gewalt-an-frauen) • _Tuesday, December 9, 2025, 20:11_
 
-> Relevance score: [4] – Updates from a major rheumatology conference affect clinical practice and patient safety in Switzerland and elsewhere, but the impact is confined to a specific medical field.
+The demonstrators demand more protection. The National Council had approved budget cuts for gender‑based violence protection the day before.
 
-## Thailand Bombards Cambodian Military Targets at the Border
+Several hundred people gathered on the Federal Square in Bern calling for increased funding to protect women from gender‑based violence.  
+The National Council had the day before decided not to increase the budget for women's protection.  
+The dem… [read more](https://www.srf.ch/news/schweiz/nach-beschluss-von-nationalrat-hunderte-personen-demonstrieren-in-bern-gegen-gewalt-an-frauen)
 
-[20 Minuten](https://www.20min.ch/story/grenzkonflikt-thailand-toter-und-vier-verletzte-bei-gefechten-mit-kambodscha-103466061) • *Monday, 8 December 2025, 03:20*
+> Relevance score: [5] – Public demonstration on gender‑based violence highlights a pressing domestic issue, can influence legislation and funding for protective measures.
 
-After a deadly incident on the Thailand‑Cambodia border, Thailand deployed aircraft to attack military positions in Cambodia.
+## Trump pressures Zelensky: “He must accept things because he’s losing”
 
-Thailand, following the latest escalation of violence on the border with Cambodia, launched air strikes on targets in the neighboring country. Cambodian soldiers said they opened fire on Thai troops in the province of Ubon Ratchathani on Monday… [read more](https://www.20min.ch/story/grenzkonflikt-thailand-toter-und-vier-verletzte-bei-gefechten-mit-kambodscha-103466061)
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/trump-setzt-selenski-unter-druck-er-muss-dinge-akzeptieren-denn-er-verliert-ld.1915694) • _Tuesday, December 9, 2025, 19:25_
 
-> Relevance score: [3] – A localized escalation between Thailand and Cambodia is important regionally but has limited direct impact on Switzerland or on global governance structures.
+European leaders have revised the peace plan with Kyiv and want to send it to Washington. Yet they seem to rely less on U.S. help. In a new interview Trump expresses contempt for the Europeans.
 
-## Stiftung Warentest Warns: Health Risks in These German Supermarket Products!
+For Vladimir Putin the diplomatic drama must be a real joy. Europeans and Americans still cannot agree on a joint position in the peace talks with Moscow after months of back‑and‑forth. And this … [read more](https://www.nzz.ch/international/trump-setzt-selenski-unter-druck-er-muss-dinge-akzeptieren-denn-er-verliert-ld.1915694)
 
-[Freundin](https://www.freundin.de/lifestyle/fitness-gesundheit/stiftung-warentest-warnt-gesundheitsgefahr-bei-diesen-deutschen-supermarkt-produkten) • *Sunday, 7 December 2025, 21:00*
+> Relevance score: [5] – U.S. pressure on Ukraine’s president is part of broader geopolitical manoeuvring; relevant for European security context, though indirect for Switzerland.
 
-Test results alarm: These supermarket products performed poorly in Stiftung Warentest tests and can even endanger health.
+## Re‑election of the Federal President costs 200 000 CHF for Guy Parmelin’s party celebration
 
-Anyone who shops in a supermarket today is almost overwhelmed by the huge range of products. Especially when it comes to canned goods, one often faces a wall‑to‑wall shelf of options. The products are… [read more](https://www.freundin.de/lifestyle/fitness-gesundheit/stiftung-warentest-warnt-gesundheitsgefahr-bei-diesen-deutschen-supermarkt-produkten)
+[blue News](https://www.bluewin.ch/de/news/schweiz/200000-viel-kostet-die-wahlparty-von-guy-parmelin-3002360.html) • _Tuesday, December 9, 2025, 19:36_
 
-> Relevance score: [3] – Consumer‑product safety warnings are useful for shoppers but are limited to German items; the broader public impact in Switzerland is modest.
+On Wednesday Guy Parmelin could be re‑elected as Federal President. In the canton of Vaud a costly celebration is planned – while tensions simmer elsewhere. While the party celebrates, civil servants are fighting austerity plans.
 
-## Train Derailment in Altstätten SG
+(Original text contained garbled fragments; the article discusses the high cost of the celebration and criticism of public‑sector wage cuts.)
 
-[Blick](https://www.blick.ch/schweiz/ostschweiz/st-gallen/viele-familien-betroffen-zug-entgleist-bei-altstaetten-sg-eine-person-im-spital-id21496618.html) • *Sunday, 7 December 2025, 20:57*
+> Relevance score: [4] – Cost of the president’s party is a political‑budget matter of limited scale; noteworthy but not a structural change.
 
-On Sunday evening a train of the Appenzell Railway derailed in eastern Switzerland. One person had to be taken to hospital.
+## Bye‑bye left‑wing wokeness? Democrats in the USA turn to the centre
 
-Janine Enderli, News editor  
-Shock moment in Altstätten SG: A train of the Appenzell Railway derailed Sunday evening at the Alter Zoll stop between Altstätten and Gais AR.  
-A reader‑reporter witnessed the accident. “I was …” [read more](https://www.blick.ch/schweiz/ostschweiz/st-gallen/viele-familien-betroffen-zug-entgleist-bei-altstaetten-sg-eine-person-im-spital-id21496618.html)
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/bye-bye-linke-wokeness-demokraten-in-den-usa-setzen-auf-die-mitte-ld.1915179) • _Wednesday, December 10, 2025, 05:30_
 
-> Relevance score: [3] – A local train derailment with a single injury is a safety incident of regional interest; it does not affect national transport policy or larger societal issues.
+The Democrats drifted left after 2016 and lost again to Donald Trump. Now a coalition of donors, think‑tanks and politicians is testing a moderate resurgence.
 
-## German Minority in Poland Is Declining
+A year after their defeat to Donald Trump, Democrats are regaining hope. In a handful of off‑cycle elections they recently celebrated notable successes. It felt like a moment of relief: perhaps, the Democrats hope, there is a … [read more](https://www.nzz.ch/international/bye-bye-linke-wokeness-demokraten-in-den-usa-setzen-auf-die-mitte-ld.1915179)
 
-[Swiss Radio and Television (SRF)](https://www.srf.ch/news/international/groesste-anerkannte-minderheit-deutsche-minderheit-in-polen-nimmt-ab-die-gruende) • *Sunday, 7 December 2025, 19:38*
+> Relevance score: [3] – US party‑politics shift has limited direct impact on Swiss society or governance; may be of interest geopolitically but low civic relevance for Switzerland.
 
-They are still the largest recognized minority in the country. A look at the development with journalist Jan Opielka.
+## Doctors say weight‑loss drugs could fill treatment gap for women with PCOS
 
-What it’s about: With around 130 000 people, Germans are the biggest minority in Poland. Since the 2001 census their number has fallen by 20 000. As a recognized national minority within a 38‑million‑people population they enjoy certain rights… [read more](https://www.srf.ch/news/international/groesste-anerkannte-minderheit-deutsche-minderheit-in-polen-nimmt-ab-die-gruende)
+[TradingView](https://de.tradingview.com/news/reuters.com,2025:newsml_L8N3XF212:0/) • _Tuesday, December 9, 2025, 20:22_
 
-> Relevance score: [2] – Changes in a minority population in Poland are demographically noteworthy but have little direct relevance to Swiss society or to broader international dynamics.
+- By Bhanvi Satija and Robin Respaut: Women with polycystic ovary syndrome (PCOS) are increasingly turning to blockbuster drugs from Eli Lilly (NYSE:LLY) and Novo Nordisk (OMXCOP:NOVO_B) to control the hormonal disorder’s symptoms, according to an exclusive analysis of US patient data…
+
+> Relevance score: [3] – Medical development relevant to a specific patient group; while beneficial, it does not constitute a major societal or structural shift for Switzerland.
+
+## President Trump attacks Europe: “Weak” and “Politically Correct”
+
+[20 Minutes](https://www.20min.ch/story/eu-spitzenpolitiker-schwach-und-politisch-korrekt-trump-schiesst-gegen-europa-103467002) • _Tuesday, December 9, 2025, 19:34_
+
+Trump expresses negative views about European politics and warns about the future of many states.
+
+U.S. President Donald Trump again intensified his criticism of Europe. He said that while he may tolerate the “current leadership,” he described European leaders as “weak” and “politically correct” in an interview with the news portal Politico… [read more](https://www.20min.ch/story/eu-spitzenpolitiker-schwach-und-politisch-korrekt-trump-schiesst-gegen-europa-103467002)
+
+> Relevance score: [3] – Trump’s rhetorical criticism of Europe may affect transatlantic discourse but has little concrete effect on Swiss policy or society.
+
+## Greek farmers storm Heraklion airport and halt flights
+
+[aeroTELEGRAPH](https://www.aerotelegraph.com/sicherheit/griechische-bauern-stuermen-flughafen-heraklion-und-legen-flugverkehr-lahm/3m1wv7t) • _Wednesday, December 10, 2025, 05:19_
+
+During protests on the Greek island of Crete, farmers entered the apron of Heraklion airport. Flights were halted for several hours.
+
+Demonstrating farmers blocked roads with their tractors and other … [read more](https://www.aerotelegraph.com/sicherheit/griechische-bauern-stuermen-flughafen-heraklion-und-legen-flugverkehr-lahm/3m1wv7t)
+
+> Relevance score: [2] – Greek agricultural protest affecting a single airport is largely irrelevant to Swiss citizens and has no structural consequences for Switzerland.
+
+## In Miami, a Democrat becomes mayor for the first time in 30 years
+
+[Watson](https://www.watson.ch/international/usa/915764379-in-miami-wird-erstmals-seit-30-jahren-eine-demokratin-buergermeisterin) • _Wednesday, December 10, 2025, 04:02_
+
+The metropolis of Miami in the U.S. state of Florida will be governed by a Democrat for the first time in roughly three decades.
+
+In Miami, a Democrat wins the mayoral election for the first time in about 30 years. … [read more](https://www.watson.ch/international/usa/915764379-in-miami-wird-erstmals-seit-30-jahren-eine-demokratin-buergermeisterin)
+
+> Relevance score: [2] – Local US municipal election carries minimal relevance for Swiss public affairs or global structural change.
+
+## Intense fighting on the Cambodia border
+
+[DER FARANG](https://der-farang.com/de/pages/heftige-kaempfe-an-der-grenze-zu-kambodscha) • _Wednesday, December 10, 2025, 03:29_
+
+BANGKOK/PHNOM PENH: There is no longer any talk of peace; sharp shooting has resumed on the border between the Southeast Asian neighbours. … [read more](https://der-farang.com/de/pages/heftige-kaempfe-an-der-grenze-zu-kambodscha)
+
+> Relevance score: [2] – Escalation of conflict in Southeast Asia is geopolitically notable but does not have immediate or sizable impact on Switzerland’s security or society.
 
 </details>
