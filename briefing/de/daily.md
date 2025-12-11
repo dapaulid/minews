@@ -2,380 +2,204 @@
 
 ---
 
-_Aktualisiert: Donnerstag, 11. Dezember 2025, 06:28 Uhr_
+_Aktualisiert: Donnerstag, 11. Dezember 2025, 18:30 Uhr_
 
-## Notenbank entscheidet: So reagieren Gold, Bitcoin und Dollar auf die Zinsen
+## Zinspolitik der SNB: Bleiben die Zinsen bei null oder sinken sie ins Minus?
 
-[20 Minuten](https://www.20min.ch/story/zinsentscheid-us-notenbank-unter-druck-so-reagieren-gold-bitcoin-und-dollar-103467450) • _Mittwoch, 10. Dezember 2025, 17:01 Uhr_
+[20 Minuten](https://www.20min.ch/story/oekonomen-legen-sich-fest-nullzinsen-oder-minuskurs-so-entscheidet-der-snb-praesident-103467354) • _Mittwoch, 10. Dezember 2025, 19:45 Uhr_
 
-Jerome Powell gibt am Mittwoch den Zinsentscheid bekannt. Die Reaktionen auf Gold, Bitcoin und den Dollar könnten entscheidend sein.
+Die Schweizerische Nationalbank steht vor einer Entscheidung. Was bedeutet das für Hypotheken und die Wirtschaft?
 
-### Hintergrund des Zinsentscheids
-- Die **[Federal Reserve](https://en.wikipedia.org/wiki/Federal_Reserve)** (Fed) legt am Mittwoch den Leitzins fest.  
-- Die US‑Inflation bleibt hartnäckig, was höhere Zinsen rechtfertigen könnte.  
-- **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** drängt jedoch auf größere Zinssenkungen, um das Wirtschaftswachstum zu fördern.  
+### Hintergrund & Erwartungsumfrage  
+- Am **Donnerstag** kündigt **[Martin Schlegel](https://en.wikipedia.org/wiki/Martin_Schlegel)** als Präsident der **[Schweizerischen Nationalbank (SNB)](https://en.wikipedia.org/wiki/Swiss_National_Bank)** den nächsten Leitzins‑Entscheid an.  
+- Eine von **[Reuters](https://www.reuters.com/)** durchgeführte Befragung von 40 Ökonomen ergibt:  
+  - **38 Experten** erwarten, dass der Leitzins bei **0 %** bleibt.  
+  - **2 Experten** sehen eine mögliche Senkung auf **‑0,25 %**.  
 
-### Erwartete Zinssenkung und mögliche Szenarien
-- Ökonom*innen erwarten, dass **[Jerome Powell](https://en.wikipedia.org/wiki/Jerome_Powell)** eine dritte Zinssenkung um **0,25 %** ankündigt, wodurch der Leitzins auf **3,5 %–3,75 %** fallen würde (niedrigster Stand seit rund drei Jahren).  
-- Laut **Maurizio Porfiri**, Investmentchef von **Maverix Securities**, ist nicht nur die Höhe, sondern vor allem der **Ton** von Powell entscheidend:
-  - **Szenario A – Betonung von Inflation und schwacher Konjunktur**  
-    - Markt preist weitere Zinssenkungen in den nächsten zwei Jahren ein.  
-  - **Szenario B – Hinweis auf vorsichtige Pause**  
-    - Erwartung, dass die Zinsen länger unverändert bleiben.
+### Szenario 1 – Beibehaltung der Nullzinsen  
+- **Inflation & Wachstum**: Im November sank die Inflation um 0,2 % (Monatsvergleich); das BIP‑Wachstum liegt bei ca. 0,5 %. Beides reicht laut **[Philipp Burckhardt](https://www.lombardodier.com/)** (Fixed‑Income‑Stratege, Lombard Odier) nicht aus, um in den Negativzins‑Bereich zu gelangen.  
+- **Auswirkungen**:  
+  - **Hypothekenzinsen**: Markt hat das Szenario bereits eingepreist → kaum Reaktion.  
+  - **Mietpreise**: Der hypothekarische Referenzzinssatz bleibt unter Druck, doch die Nachfrage nach Mietwohnungen bleibt der Haupttreiber.  
+  - **Inflation**: Bleibt kurzfristig niedrig, dürfte mittelfristig wieder steigen.  
+  - **Bankguthaben**: Keine Zinsen, Negativzinsen bleiben ein „theoretisches Szenario“.  
+  - **Euro/Franken‑Kurs**: Durch das Zinsgefälle zur **[Europäischen Zentralbank (EZB)](https://en.wikipedia.org/wiki/European_Central_Bank)** (Leitzins ca. 2 %) bleibt der Franken wenig attraktiv → langfristige Abwertung gegenüber dem Euro.  
+  - **Wirtschaft**: Nullzinsen fördern die Kreditnachfrage und damit Investitionen, was die Schweizer Wirtschaft unterstützt.  
 
-### Auswirkungen auf die Finanzmärkte
-- **Szenario A (weitere Senkungen)**  
-  - **Kreditzinsen** (z. B. Hypotheken) sinken in den USA.  
-  - **US‑Dollar** schwächt sich ab.  
-  - **Gold** profitiert typischerweise von niedrigeren Zinsen → Kurs steigt.  
-  - **Bitcoin** könnte noch stärker als Gold zulegen.  
-- **Szenario B (keine weiteren Senkungen)**  
-  - **US‑Dollar** stärkt sich.  
-  - **Gold** und **Bitcoin** erleben Gewinnmitnahmen → Kursrückgang.  
+### Szenario 2 – Senkung auf **‑0,25 %**  
+- **Marktreaktion**: Ein Negativzins würde die Märkte überraschen, da das Umfeld (hohe EU‑Zinsen) eher eine Pause nahelegt.  
+- **Auswirkungen**:  
+  - **Hypothekenzinsen**: Sinkt, da das Szenario nicht erwartet war.  
+  - **Mietpreise**: Weiterer Druck nach unten auf den Referenzzinssatz, aber die starke Mietnachfrage bleibt entscheidend.  
+  - **Inflation**: Wie im ersten Szenario tief, mittelfristig jedoch wieder ansteigend.  
+  - **Bankguthaben**: Banken stehen unter verstärktem Druck und könnten Negativzinsen stärker an Kunden weitergeben.  
+  - **Euro/Franken‑Kurs**: Das große Zinsdifferential zur EZB macht den Franken weiterhin wenig attraktiv → weitere Abwertung gegenüber dem Euro.  
+  - **Wirtschaft**: Noch tiefere Kreditkosten erhöhen die Investitionsnachfrage, was das Wirtschaftswachstum stimuliert.  
 
-### Konkrete Folgen für Schweizer Verbraucher
-- **Schwächerer Dollar** (Szenario A)  
-  - USA‑Urlaub wird günstiger: Flüge, Hotels, Mietwagen, Restaurants und Parktickets werden in Dollar abgerechnet, die Kreditkartenabrechnung erfolgt aber in Franken.  
-  - **Onlineshopping** in US‑Shops (Sneaker, Elektronik usw.) wird preiswerter.  
-  - **Abonnements** für Streaming‑Dienste, Cloud‑Speicher oder Apps, die in Dollar fakturiert werden, kosten weniger.  
-- **Stärkerer Dollar** (Szenario B)  
-  - USA‑Reisen verteuern sich: Mehr Franken für Burger, Disney‑Tickets, Trinkgelder, Uber‑Fahrten und Inlandsflüge.  
-
-### Fazit
-- Der **Zinsentscheid** der Fed und insbesondere Powells **Kommunikationsstil** bestimmen die kurzfristige Entwicklung von **Dollar**, **Gold** und **Bitcoin**.  
-- Diese Bewegungen haben direkte, spürbare Auswirkungen auf die Kaufkraft von Schweizer Konsument:innen bei Reisen, Online‑Käufen und abonnementbasierten Diensten.  
-
-> Relevance score: [7] - US Fed rate decision shapes global financial markets, affecting Swiss investors, banks and the broader economy; significant worldwide relevance.
-
-## Ständerat kippt Nationalratsentscheid: Mehr Geld für Frauen nach Protesten
-
-[20 Minuten](https://www.20min.ch/story/nun-also-doch-nach-protesten-staenderat-will-mehr-geld-fuer-schutz-von-frauen-103467327) • _Mittwoch, 10. Dezember 2025, 11:02 Uhr_
-
-Nach massiven Protesten und einer Petition mit über 200'000 Unterschriften fordert der Ständerat nun Gelder für den Schutz von Frauen.
-
-### Hintergrund  
-- Der **[Nationalrat (Schweiz)](https://en.wikipedia.org/wiki/National_Council_(Switzerland))** wollte am Montag die geplante Aufstockung der Mittel für Gewaltprävention gegen Frauen kürzen.  
-- Statt der von der Nationalratskommission vorgeschlagenen **2,5 Mio. CHF** wurde nur **1,5 Mio. CHF** beschlossen.
-
-### Proteste und Petition  
-- Am Dienstag fanden auf dem **Bundesplatz** zahlreiche Demonstrationen statt, unterstützt von **[Sozialdemokratische Partei der Schweiz (SP)](https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland)**‑Abgeordneten **Tamara Funiciello** und **Anna Rosenwasser**.  
-- Eine Online‑Petition erreichte über **200 000 Unterschriften** und wurde von Prominenten wie  
-  - **[Michelle Hunziker](https://en.wikipedia.org/wiki/Michelle_Hunziker)**,  
-  - Autorin **Yvonne Eisenring**,  
-  - Moderatorin **Gülsha** unterstützt.  
-
-### Entscheidung des Ständerats  
-- Der **[Ständerat (Schweiz)](https://en.wikipedia.org/wiki/Council_of_States_(Switzerland))** reversierte den Nationalratsbeschluss und sprach sich erneut für die **2,5 Mio. CHF** aus.  
-- Das Budgetverfahren wird damit zurück an den Nationalrat verwiesen, der erneut entscheiden muss.  
-
-### Finanzielle Details  
-- **Ziel:** Aufstockung des Budgets des **Büros für Gleichstellung** auf **2,5 Mio. CHF**.  
-- **Begründung der SP:**  
-  - **27 Femizide** (Frauendomizide) im laufenden Jahr,  
-  - **10 000** Frauen erleben häusliche Gewalt.  
-  - Forderung nach einer nationalen Aufklärungskampagne, nicht nur lokaler Plakate.  
-- **Kritik von Mitte‑Ständerätin Andrea Gmür‑Schönenberger:**  
-  - Hinweis auf vergleichbare Ausgaben für Wein‑Promotion, Alkohol‑Kampagnen und Wolfsschutz, um die Prioritätensetzung zu hinterfragen.  
-
-### Weitere politische Reaktionen  
-- **Kritik an Protestaktionen:**  
-  - Gmür‑Schönenberger bezeichnete die massive E‑Mail‑Flut als „orchestrierte Aktion“ und „Polit‑Marketing einer einzigen Partei“.  
-  - **Reto Nause** (CVP) warf der SP‑Abgeordneten **Tamara Funiciello** vor, identische Texte zu verbreiten und Falschinformationen zu streuen.  
-- **Bundesrätin Karin Keller‑Sutter** wies die Behauptung, es wolle gespart werden, zurück und forderte Faktenbasierung in der Diskussion.  
+### Konsequenzen für Verbraucher & Unternehmen  
+- **Sparer & Pensionskassen**: Bleiben bei Nullzinsen ohne Ertrag; bei Negativzinsen könnten sie Gebühren oder Abschläge erfahren.  
+- **Kreditnehmer**: Profitieren von niedrigen bzw. fallenden Hypotheken‑ und Konsumkrediten.  
+- **Exportindustrie**: Ein schwächerer Franken unterstützt die Wettbewerbsfähigkeit.  
+- **Tourismus (Einkaufstouristen)**: Profitieren ebenfalls von einem günstigeren Franken.  
 
 ---  
+*Die endgültige Entscheidung der SNB wird maßgeblich bestimmen, ob die aktuelle Politik weiter zur Stimulierung der Wirtschaft beiträgt oder zusätzliche Belastungen für Sparer und das Finanzsystem mit sich bringt.*
 
-*Die wichtigsten Punkte zeigen, dass nach breitem öffentlichen und politischen Druck die kleinere Kammer (Ständerat) das ursprüngliche Budget für den Schutz von Frauen wieder erhöhen will, während gleichzeitig parteipolitische Spannungen über die Protestmethoden bestehen.*
+> Relevance score: [9] - Decisions of the Swiss National Bank directly affect mortgage rates, credit conditions and the broader economy. High relevance for all Swiss residents.
 
-> Relevance score: [7] - Parliamentary reversal following mass protests, allocating additional funds for protection against gender‑based violence; high civic significance.
+## Bis zu 250 Millionen Mehrkosten Ausbau des Bahnhofs Bern dauert offenbar deutlich länger und kostet viel mehr
 
-## Selenski gibt sich offen, stellt aber Bedingungen
+[blue News](https://www.bluewin.ch/de/news/schweiz/ausbau-des-berner-bahnhofs-dauert-offenbar-deutlich-laenger-als-geplant-3004416.html) • _Donnerstag, 11. Dezember 2025, 05:47 Uhr_
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/ukraine-selenski-zeigt-sich-bereit-zu-baldigen-wahlen-aber-stellt-bedingungen-dafuer-ld.1915817) • _Mittwoch, 10. Dezember 2025, 13:50 Uhr_
+Der ausgebaute Bahnhof Bern kann voraussichtlich erst im Jahr 2031 eröffnet werden. Vergangenes Jahr hiess es, die Eröffnung finde Ende 2029 statt. Die Bauarbeiten dauern nicht nur länger als geplant, sie sind auch viel teurer.
 
-Voraussetzung für Neuwahlen ist laut dem ukrainischen Präsidenten eine bessere Sicherheitslage. Dafür wäre wohl ein Waffenstillstand nötig – eine Forderung, die Russland beharrlich ablehnt. Selenski versucht damit, den Druck der USA abzuwehren.
+### Projektüberblick  
+- Der **[Bahnhof Bern]** (https://de.wikipedia.org/wiki/Bahnhof_Bern) wird voraussichtlich erst **2031** eröffnet, statt wie 2022 noch geplanten **Ende 2029**.  
+- Der Umbau kostet nun etwa **40 % mehr** als ursprünglich veranschlagt: zusätzlich **200‑250 Millionen CHF**.  
+
+### Gründe für die Verzögerungen  
+- **Einsprachen** von Anwohnern und Interessengruppen haben den Zeitplan mehrfach nach hinten verschoben.  
+- **Geologische Schwierigkeiten** und komplexe Bauarbeiten, z. B.:  
+  - **Altlasten** auf dem Baugelände (https://de.wikipedia.org/wiki/Altlast)  
+  - **Mangelhafte Verankerungen** und notwendige **Bodenvereisungen**  
+- **Pandemiebedingte** Auswirkungen (COVID‑19‑Pandemie) führten zu Lieferengpässen und Arbeitsausfällen (https://de.wikipedia.org/wiki/COVID-19-Pandemie).  
+
+### Entwicklung des Kostenrahmens  
+- Ursprüngliches Budget: **974 Millionen CHF** für den Umbau inkl. neuer Personenunterführung und neues **[RBS‑Tiefbahnhof]** (https://de.wikipedia.org/wiki/Regionalverkehr_Bern%E2%80%93Solothurn).  
+- Erhöhte Ausgaben resultieren aus den genannten technischen und planungsbedingten Problemen sowie aus gestiegenen Material‑ und Lohnkosten.  
+
+### Fazit  
+- Der Ausbau des Bahnhofs ist sowohl zeitlich als auch finanziell erheblich über den ursprünglichen Plan hinausgeschoben.  
+- Die zusätzlichen **200‑250 Millionen CHF** und die neue Zielöffnung 2031 spiegeln die Komplexität großer Infrastrukturprojekte in urbanen Räumen wider.  
+
+> Relevance score: [8] - Major public‑infrastructure project with a multi‑hundred‑million‑franc cost overrun and a delay of several years. Directly influences national transport capacity, regional development and public finances.
+
+## Solar-Initiative: Alle Dächer und Fassaden sollen Solarpanels erhalten
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/solar-installationspflicht-solar-initiative-mit-134-000-unterschriften-eingereicht) • _Mittwoch, 10. Dezember 2025, 20:53 Uhr_
+
+Mit der Initiative sollen in der Schweiz alle geeigneten Dächer und Fassaden mit Solarpanels ausgestattet werden.
 
 ### Hintergrund  
-- Der ukrainische Präsident **[Wolodimir Selenski](https://de.wikipedia.org/wiki/Volodymyr_Zelenskyj)** steht unter starkem Druck von den **[USA](https://de.wikipedia.org/wiki/USA)**, insbesondere nach Äußerungen von Präsident **[Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump)**, die den Krieg als Vorwand für die Verschiebung von Wahlen bezeichneten.  
-- Trump hatte im Interview mit *Politico* gefordert, dass in der Ukraine bald Neuwahlen stattfinden, da der Konflikt gegen Russland sonst als „Ausrede“ genutzt werde.
+- Die [Grünen Schweiz](https://de.wikipedia.org/wiki/Grünliberale_Parti) haben bei der [Bundeskanzlei](https://de.wikipedia.org/wiki/Bundeskanzlei_(Schweiz)) 134 000 Unterschriften für die **Solarinitiative** eingereicht.  
+- Ziel ist, alle geeigneten Dächer und Fassaden in der **Schweiz** mit **Solarmodulen** auszustatten.  
 
-### Selenskis Bedingungen für Neuwahlen  
-- Selenski betont, dass er bereit sei, Neuwahlen abzuhalten, verlangt jedoch drei Voraussetzungen:  
-  1. **Änderung der Gesetzgebung** zum Kriegsrecht (Gesetz von 2015, das keine Präsidentschaftswahlen in Kriegszeiten zulässt).  
-  2. **Stimmabgabe für Soldaten** – Möglichkeit, dass im Einsatz befindliche Truppen wählen können.  
-  3. **Bessere Sicherheitslage**, idealerweise ein umfassender **[Waffenstillstand](https://de.wikipedia.org/wiki/Waffenstillstand)**.  
+### Kernpunkte der Initiative  
+- **Offizieller Titel:** „Für eine sichere Versorgung mit erneuerbaren Energien (Solarinitiative)“.  
+- **Pflicht zur Installation** von Solarpanels auf Dächern und Fassaden, außer wenn:  
+  - Schutzinteressen (z. B. Denkmalschutz, Natur‑ und Artenschutz) überwiegen, **oder**  
+  - Die Installation aus anderen Gründen unverhältnismäßig wäre.  
 
-- Ohne einen sicheren Rahmen für die Wahl könne kein legitimes Wahlergebnis gewährleistet werden.
+### Politische Argumentation  
+- Parteipräsidentin **[Lisa Mazzone](https://de.wikipedia.org/wiki/Lisa_Mazzone)** betont, dass die Initiative gleichzeitig Klima‑ und Naturschutz stärkt und die **Energiewende** vorantreibt, ohne auf teure und riskante **[Atomkraftwerke](https://de.wikipedia.org/wiki/Atomkraft)** setzen zu müssen.  
+- Die Grünen argumentieren, dass die Schweiz durch vermehrte Solarenergie ihre Verantwortung im Inland übernehmen könne und nicht auf **Klimakompensationen** im Ausland „freikaufen“ müsse.  
 
-### Politische Strategie  
-- Selenski nutzt die Forderung nach Sicherheit, um die Schuld für das Ausbleiben von Wahlen von der Ukraine auf **[Russland](https://de.wikipedia.org/wiki/Russland)** zu verlagern.  
-- Er fordert die USA und ihre europäischen Partner auf, **Sicherheitsgarantien** für die Wahl zu geben; eine solche Zusage sei jedoch unwahrscheinlich.  
-- Durch diese Position versucht Selenski, Trumps Vorwurf, der Krieg sei ein Vorwand, zu entkräften und gleichzeitig die russische Propaganda zu kontern, die die Legitimität seiner Regierung bestreite.
+### Verfahrensstand  
+- Für eine Volksabstimmung sind mindestens **100 000 gültige Unterschriften** erforderlich; die Bundeskanzlei prüft die Gültigkeit der eingereichten Signaturen.  
+- Diese Initiative wäre die erste **[Volksinitiative](https://de.wikipedia.org/wiki/Volksinitiative_(Schweiz))** seit zehn Jahren, bei der die Grünen alle Unterschriften eigenständig gesammelt haben.  
 
-### Rechtlicher Rahmen  
-- **Verfassung der Ukraine** verbietet Parlamentswahlen in Kriegszeiten, um zu verhindern, dass ein autoritärer Präsident das Kriegsrecht ausnutzt, um eine günstige Legislative zu wählen.  
-- **Präsidentschaftswahlen** sind nicht explizit durch die Verfassung geregelt; das einschlägige Kriegsrecht kann jedoch vom Parlament (**[Verkhovna Rada](https://de.wikipedia.org/wiki/Verkhovna_Rada)**) geändert werden.  
-- Selenski hat seine Fraktion angewiesen, Reformvorschläge zur Anpassung des Kriegsrechts zu erarbeiten.
+> Relevance score: [8] - National political initiative aiming to mandate solar panel installation on all suitable Swiss roofs and façades. Could reshape the energy mix, climate policy and construction sector.
 
-### Ausblick  
-- Selbst wenn Neuwahlen innerhalb von 60‑90 Tagen abgehalten würden, würden sie voraussichtlich **keine grundsätzliche Änderung** der ukrainischen Außenpolitik gegenüber Russland bewirken.  
-- Selenski dürfte seine Machtposition weiter festigen; potenzielle Rivalen wie der frühere Oberbefehlshaber **[Waleri Saluschni](https://de.wikipedia.org/wiki/Valeriy_Saloh)**, jetzt Botschafter in London, teilen ebenfalls eine **antirussische, prowestliche** Haltung.  
-- Der Druck aus Washington bleibt, doch die eigentlichen Streitpunkte des Ukraine‑Russland-Konflikts liegen jenseits der Frage nach Neuwahlen.
+## Bloomberg berichtet: Massiver Stellenabbau bei Pfizer Schweiz
 
-> Relevance score: [6] - Ukrainian president’s stance influences European security dynamics and Swiss foreign‑policy considerations; moderate‑high geopolitical relevance.
+[Blick](https://www.blick.ch/wirtschaft/laut-bericht-pfizer-streicht-hunderte-stellen-in-der-schweiz-id21505847.html) • _Mittwoch, 10. Dezember 2025, 18:40 Uhr_
 
-## Guy Parmelin, der neue Bundespräsident für das Jahr 2026 und das Understatement
+Pfizer plant einem Bericht zufolge einen massiven Stellenabbau in der Schweiz. Das Pharmaunternehmen will bis Jahresende seine Schweizer Belegschaft von 300 auf etwa 70 Mitarbeiter reduzieren. Diese Massnahme ist Teil eines mehrjährigen Kostensenkungsprogramms.
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/das-parmelin-prinzip-der-neue-bundespraesident-nutzt-understatement-als-politische-strategie-ld.1915614) • _Mittwoch, 10. Dezember 2025, 12:33 Uhr_
+### Hintergrund  
+- **Pfizer** (https://en.wikipedia.org/wiki/Pfizer) führt ein mehrjähriges **Kostensenkungsprogramm** (https://en.wikipedia.org/wiki/Cost_reduction) von rund **5,6 Mrd. CHF** bis 2027 durch.  
+- Das Unternehmen reduziert seine Präsenz in **Schweiz** (https://en.wikipedia.org/wiki/Switzerland), einem der wichtigsten Exportsektoren des Landes.  
 
-Wenn andere von Eitelkeiten und Emotionen getrieben werden, bleibt er einfach sitzen und erkennt so fast überall «eine Opportunität». Heute ist Guy Parmelin zum zweiten Mal zum Bundespräsidenten gewählt worden.
+### Stellenabbau in der Schweiz  
+- Die Belegschaft der Schweizer Tochter wird von etwa **300** auf **ca. 70** Mitarbeitende bis Ende 2023 gesenkt.  
+- Der Abbau umfasst mehrere hundert Stellen und ist Teil der übergeordneten Kostensenkungsstrategie.  
 
-### Politische Strategie und Stil  
-- Parmelin nutzt bewusst **Understatement** – er lässt sich unterschätzen, um ungestört arbeiten zu können.  
-- Sein öffentlicher Auftritt ist minimalistisch (z. B. der **Bucket‑Hat**‑Auftritt), was ihn als „väterlichen“ Politiker stilisiert, ohne dass dies seine Kompetenz mindert.  
-- Als Präsident erscheint er nur jährlich beim **Bundesratsreisli**, wo Kleidung als wichtiges Kommunikationsmittel gilt.
+### Führungswechsel und eingeschränkter Handlungsspielraum  
+- **Sabine Bruckner**, langjährige Leiterin des Schweizer Geschäfts, wechselt zum 1. Dezember ins internationale Team von Pfizer, wo sie eine globale Rolle übernehmen soll.  
+- **Res Lal** übernimmt die Leitung des Schweizer Geschäfts, jedoch mit einem **eingeschränkten Handlungsspielraum**, wie Bloomberg‑Informanten berichten.  
 
-### Krisen und Leistungen  
-- **Russlands Überfall auf die Ukraine** (2022) und der Zusammenbruch der **Credit  Suisse** (2023) gehören zu den großen Herausforderungen, denen er begegnete.  
-- Während seiner ersten Präsidentschaft stand die Schweiz mitten in der **Corona‑Krise** und die **SVP** stand in offener Opposition zur Regierung.  
-- Als Wirtschaftsminister leitete er den **Zollstreit mit den USA** und schloss nach 16 Jahren Verhandlungen ein Freihandelsabkommen mit **Indien** sowie die Verhandlungen mit den **Mercosur‑Staaten** ab.  
+### Branchenkontext  
+- **Novartis** (https://en.wikipedia.org/wiki/Novartis) hatte im November bereits angekündigt, wegen einer **Automatisierungsoffensive** etwa **550** Stellen in der Schweiz abzubauen.  
+- Der Stellenabbau bei Pfizer folgt somit einem Trend, bei dem große Pharmariesen ihre Kostenstruktur in der Schweiz neu ausrichten.  
 
-### Kollegialität und EU‑Politik  
-- Parmelin betont seine enge Bindung an die **Kollegialität** im Bundesrat, wobei er auch taktisch agiert, um die öffentliche Sensibilität zu berücksichtigen.  
-- Er war maßgeblich daran beteiligt, einen Kompromiss zwischen Wirtschaftspartnern und Sozialpartnern zu erreichen, der die Unterstützung für das EU‑Rahmenabkommen sicherstellte.  
-- Trotz parteiinterner Kritik unterstützt er als Präsident 2026 die Unterzeichnung der neuen EU‑Verträge in Brüssel und stellt das Amt über parteipolitische Vorgaben.  
-
-### Verhandlungsführung und Runde Tische  
-- **Helene Budliger Artieda**, seine Staatssekretärin für Wirtschaft, übernimmt die Vorarbeit in Verhandlungen; Parmelin greift ein, sobald klare Signale vorliegen.  
-- Seine Stärke liegt im **Zusammenbringen von Interessen** (Bauern, Gewerkschaften, Großverteiler) und im **Vermitteln von Kompromissen** über runde Tische.  
-- Kolleginnen und Kollegen (z. B. **Pierre‑Yves Maillard**) loben sein Talent, Konfliktparteien zu „de‑blockieren“ und nachhaltige Lösungen zu finden.  
-
-### Ausblick als Bundespräsident 2026  
-- Parmelin plant, die **Runden‑Tisch‑Strategie** künftig auf internationaler Ebene anzuwenden, indem er gezielt Minister, Staatschefs und soziale Akteure einbezieht.  
-- Er betont, dass sich die Welt verändert habe und Chancen proaktiv genutzt werden müssen, um politische Blockaden zu lösen.  
-- Sein Ziel ist, das **Bundespräsidium** als Plattform für kollaborative, unaufgeregte und ergebnisorientierte Politik zu etablieren.  
-
-> Relevance score: [6] - Annual election of the Swiss Federal President is a key political event; notable for national governance.
-
-## Gericht hebt Einreiseverbot gegen Martin Sellner auf
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/rechtsextremer-aktivist-gericht-einreiseverbot-fuer-martin-sellner-aufgehoben-1) • _Mittwoch, 10. Dezember 2025, 09:57 Uhr_
-
-Das Verbot bewirke letztlich ein Redeverbot, so das Bundesverwaltungsgericht.
-
-### Urteil des Bundesverwaltungsgerichts
-- Das **Bundesverwaltungsgericht** hat das am 10. Oktober 2024 vom **Bundesamt für Polizei (Fedpol)** verhängte 18‑tägige **Einreiseverbot** gegen den österreichischen Rechtsextremisten **[Martin Sellner](https://de.wikipedia.org/wiki/Martin_Sellner)** für rechtswidrig erklärt und rückwirkend aufgehoben.  
-- Das Gericht betont, dass das Verbot faktisch einem **Redeverbot** gleichkomme und die Verhältnismäßigkeit (18 Tage) nicht gegeben sei.
-
-### Hintergrund des Einreiseverbots
-- Die schweizerische Gruppe **Junge Tat** (von den Behörden als rechtsextrem eingestuft) hatte **Sellner** zu einem Vortrag am 19. Oktober eingeladen.  
-- Trotz des Verbots reiste Sellner ein und wurde am Veranstaltungstag von der **Kantonspolizei Thurgau** abgeführt.  
-
-### Begründung des Gerichts
-- **Kein kausaler Zusammenhang**: Das Auftreten von Sellner bei der Jungen Tat könne nicht automatisch als Unterstützung oder Befürwortung von gewalttätig‑extremistischen Straftaten gewertet werden.  
-- **Sicherheitslage**: Die **Zürcher Staatsanwaltschaft** führte Strafbefehle gegen sechs Mitglieder der Jungen Tat aus; jedoch bestand kein nachweisbarer Einfluss dieser Verfahren auf die innere Sicherheit der Schweiz durch Sellner.  
-- **Verhältnismäßigkeit**: Das Gericht zweifelt an, dass ein kurzzeitiges Einreiseverbot geeignet sei, eine gegenseitige Radikalisierung nachhaltig zu verhindern.
-
-### Verfahrensablauf und Verantwortlichkeiten
-- Fedpol hatte im September 2024 der **Kantonspolizei Zürich** gegenüber keine Gefährdung durch Sellner gesehen und das Verbot zunächst abgelehnt.  
-- Auf Drängen des **Kommandanten der Kantonspolizei Zürich** intervenierte **Direktorin Nicoletta Della Valle** von Fedpol und genehmigte entgegen der internen Empfehlung das Einreiseverbot.  
-- Das Urteil verweist auf **Sellners politische Position** am äußeren rechten Rand, seine Mitgliedschaft in der **[Identitären Bewegung Österreich (IBÖ)](https://de.wikipedia.org/wiki/Identit%C3%A4re_Bewegung)** und seine Publikationen, die Themen wie „Remigration“ behandeln – ein Schlüsselbegriff der Rechtsextremen.
-
-### Konsequenzen für Martin Sellner
-- Sellner erhält eine **Parteientschädigung** von **3 000 CHF** für den unrechtmäßig verhängten Eingriff.  
-- Das Gericht betont, dass die Entscheidung grundsätzliche Rechtsfragen klärt, die künftig wieder aufgeworfen werden könnten, ohne dass ein rechtzeitiger gerichtlicher Eingriff möglich wäre.  
-
----  
-
-*Hinweis: Die genannten Wikipedia‑Links führen zu den jeweiligen Artikeln in der deutschen Wikipedia und sind zum Zeitpunkt der Erstellung gültig.*
-
-> Relevance score: [6] - Federal court decision on an extremist activist’s entry ban; impacts legal precedent and political discourse in Switzerland.
-
-## Ignazio Cassis im Interview: "In vielen Hinsichten hat die USA nicht unrecht"
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/aussenminister-im-interview-ignazio-cassis-usa-haben-in-vieler-hinsicht-nicht-unrecht) • _Mittwoch, 10. Dezember 2025, 07:14 Uhr_
-
-Der Aussenminister erörtert drängende Fragen aus der Wirtschafts- und Sicherheitspolitik.
-
-### Neue Rolle in der OSZE  
-- **Ignazio Cassis** ([Wikipedia](https://de.wikipedia.org/wiki/Ignazio_Cassis)) übernimmt 2026 den Vorsitz der **Organisation für Sicherheit und Zusammenarbeit in Europa** ([Wikipedia](https://de.wikipedia.org/wiki/Organisation_für_Sicherheit_und_Zusammenarbeit_in_Europa)) als amtierender Vorsitzender.  
-- Ziel: Die OSZE soll „auf Knopfdruck“ in der Lage sein, ein vereinbartes Waffenstillstands‑Monitoring sofort umzusetzen.  
-
-### Sicht auf die USA und Sicherheitspolitik  
-- In der neuen US‑Sicherheitsstrategie unter **Donald Trump** ([Wikipedia](https://de.wikipedia.org/wiki/Donald_Trump)) kritisiert die USA die europäische Verteidigung.  
-- Cassis stimmt zu, dass Europa nach dem Zweiten Weltkrieg keine eigenständige Verteidigungsstruktur aufgebaut hat und nach 80 Jahren weiterhin stark von den **USA** ([Wikipedia](https://de.wikipedia.org/wiki/USA)) abhängig ist.  
-- Die Botschaft Trumps: „Nehmt eure Zukunft selbst in die Hand.“  
-
-### Russland und europäische Sicherheit  
-- Cassis betont, dass eine europäische Sicherheitspolitik ohne Einbeziehung **Russlands** ([Wikipedia](https://de.wikipedia.org/wiki/Russland)) illusorisch sei.  
-- Die OSZE bleibt eine der wenigen Organisationen, in der Russland noch Vollmitglied ist, wodurch Dialogmöglichkeiten erhalten bleiben, selbst wenn die Mitglieder sich blockieren.  
-
-### Wirtschaftsdiplomatie und Zollstreit  
-- Schweizer Wirtschaftskapitäne brachten dem US‑Präsidenten Geschenke, um einen Zollstreit zu lösen – eine Tradition, die seit dem 19. Jahrhundert in der Schweizer Diplomatie verankert ist.  
-- Cassis sieht darin keinen Verstoß und betont die Wichtigkeit von Wirtschaftsdiplomaten.  
-- Der Investor **Alfred Gantner** ([Wikipedia](https://de.wikipedia.org/wiki/Alfred_Gantner)) wirft Cassis eine Verzögerung bei einer Zollvereinbarung vor; Cassis bezeichnet diese Anschuldigungen als frei erfunden und unbegründet.  
-
-### Radikalisierung und gesellschaftlicher Zusammenhalt  
-- Cassis kritisiert den wachsenden Mangel an Respekt für Andersdenkende, insbesondere nach Vorfällen wie der Flucht vor einer **Pro‑Palästina‑Demo** in **Bellinzona** ([Wikipedia](https://de.wikipedia.org/wiki/Bellinzona)).  
-- Er warnt, dass diese Radikalisierung die Demokratie und den Zusammenhalt des **Bundesrates** ([Wikipedia](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz))) gefährde, da alle Mitglieder bereits ähnliche Angriffe erlebt haben.  
-- Trotz der Feier der kulturellen Vielfalt am 1. August sieht Cassis die aktuelle Stimmung als riskant für die Stabilität des Landes.  
-
-> Relevance score: [6] - Swiss foreign minister discusses US relations while Switzerland chairs the OSCE; relevant for Swiss foreign‑policy and security stance.
+> Relevance score: [7] - Large-scale job cuts at a major pharmaceutical company in Switzerland impact the local labour market, high‑skill employment and the national biotech sector.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Pfizer streicht Hunderte Jobs in der Schweiz: Stellenabbau auf 70 Mitarbeitende
+## Streit um Landesmantelvertrag: Baubranche in Sorge
 
-[20 Minuten](https://www.20min.ch/story/bis-ende-jahr-pfizer-streicht-hunderte-jobs-in-der-schweiz-103467579) • _Mittwoch, 10. Dezember 2025, 18:18 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/vertragsloser-zustand-droht-konflikt-um-arbeitsbedingungen-macht-baubranche-bauchweh) • _Donnerstag, 11. Dezember 2025, 05:59 Uhr_
 
-Pfizer plant drastische Kürzungen in der Schweiz. Bis Ende des Jahres sollen nur noch 70 Mitarbeitende bleiben.
+Auf den Baustellen wird befürchtet: Ohne Vertrag drohen Lohndumping und Schwarzarbeit. Eine Einigung sei deshalb nötig.
 
-Der US-Pharmakonzern Pfizer plant, in der Schweiz Hunderte Stellen abzubauen. Laut mit der Angelegenheit vertrauten Personen soll die Zahl der Mitarbeitenden bis Ende dieses Jahres von 300 auf rund 70 sinken, wie Bloomberg schreibt.
-Die Kürzungen fol... [weiterlesen](https://www.20min.ch/story/bis-ende-jahr-pfizer-streicht-hunderte-jobs-in-der-schweiz-103467579)
+Es ist kalt und neblig an diesem Dezembermorgen. Auf der Grossbaustelle im Mattenhofquartier in der Stadt Kriens herrscht schon reger Betrieb. Fünf Stockwerke des neuen Wohnkomplexes stehen bereits, sieben sollen es am Ende werden.
+Am Start ist auch ... [weiterlesen](https://www.srf.ch/news/schweiz/vertragsloser-zustand-droht-konflikt-um-arbeitsbedingungen-macht-baubranche-bauchweh)
 
-> Relevance score: [5] - Large pharma employer cuts ~230 jobs, affecting local labour market and Swiss pharma sector but limited to one company; moderate structural impact.
+> Relevance score: [5] - National dispute over a collective labour contract that could affect wages, working conditions and the prevalence of illegal labour in the Swiss construction sector. Impacts a sizable industry but does not reshape the overall economy.
 
-## Mobilitätsinitiative: Zürcher Stadtrat zieht ans Bundesgericht
+## Fed-Leitzinsentscheid - US-Notenbank senkt Zinsen zum dritten Mal in Folge
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/tempo-30-auf-hauptstrassen-stadt-zuerich-zieht-mobilitaetsinitiative-vor-bundesgericht) • _Mittwoch, 10. Dezember 2025, 16:09 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/fed-leitzinsentscheid-us-notenbank-senkt-zinsen-zum-dritten-mal-in-folge) • _Mittwoch, 10. Dezember 2025, 20:04 Uhr_
 
-Der Zürcher Stadtrat wehrt sich gegen den Entzug der Rechte beim Tempolimit. Dies verletze die Gemeindeautonomie.
+Die US-Notenbank senkt den Leitzins um 25 Basispunkte auf eine Spanne von 3.50 bis 3.75 Prozent.
 
-Der Zürcher Stadtrat zieht den Beschluss des Kantonsrats zur Mobilitätsinitiative ans Bundesgericht.
-Der Entscheid, auf Hauptstrassen kaum mehr Tempo 30 zuzulassen, verletze die Gemeindeautonomie.
-Die am 30.11. angenommene Mobilitätsinitiative verlan... [weiterlesen](https://www.srf.ch/news/schweiz/tempo-30-auf-hauptstrassen-stadt-zuerich-zieht-mobilitaetsinitiative-vor-bundesgericht)
+Die US-Notenbank Federal Reserve (Fed) senkt zum dritten Mal in diesem Jahr den Leitzins.
+Der Zentralbankrat setzte das Zinsniveau um 0.25 Punkte herab auf eine Spanne von 3.5 bis 3.75 Prozent, wie die Fed in Washington mitteilte.
+Grund dafür waren e... [weiterlesen](https://www.srf.ch/news/international/fed-leitzinsentscheid-us-notenbank-senkt-zinsen-zum-dritten-mal-in-folge)
 
-> Relevance score: [5] - Legal challenge over speed‑limit autonomy could set a precedent for cantonal powers; important for Swiss governance but affects a single canton.
+> Relevance score: [5] - US rate cut influences global financial conditions, exchange rates and Swiss monetary policy outlook. Important for investors and macro‑economy but indirect.
 
-## BAG bestätigt Grippewelle in der Schweiz: 846 Fälle in einer Woche
+## Wie würde sich Kevin Hassett als Fed-Chef zeigen?
 
-[20 Minuten](https://www.20min.ch/story/neue-zahlen-grippewelle-hat-die-schweiz-offiziell-erfasst-103467437) • _Mittwoch, 10. Dezember 2025, 13:14 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/kuehler-oekonom-oder-verteidiger-trumps-die-zwei-gesichter-des-kevin-hassett-ld.1915274) • _Donnerstag, 11. Dezember 2025, 05:30 Uhr_
 
-Die Grippewelle hat die Schweiz erfasst. Das BAG berichtet von 846 neuen Fällen und einem frühen Beginn der Saison.
+Der 63-Jährige könnte bald das Fed führen, die wichtigste Zentralbank der Welt. Ob er Erfolg hat, hängt davon ab, ob er sich glaubhaft von Trump distanzieren kann.
 
-In der Schweiz wurden die Schwellenwerte für eine Grippewelle überschritten, wie die neuesten Zahlen des Bundesamts für Gesundheit zeigen. In der vergangenen Woche wurden in der Schweiz und Liechtenstein 846 laborbestätigte Grippefälle registriert. D... [weiterlesen](https://www.20min.ch/story/neue-zahlen-grippewelle-hat-die-schweiz-offiziell-erfasst-103467437)
+Wer nur einen flüchtigen Blick auf Kevin Hassetts Biografie wirft, versteht die ganze Aufregung nicht. Die Laufbahn des 63-Jährigen, der vermutlich bald Chef der mächtigsten Zentralbank der Welt wird, ist für einen republikanischen Ökonomen typisch: ... [weiterlesen](https://www.nzz.ch/wirtschaft/kuehler-oekonom-oder-verteidiger-trumps-die-zwei-gesichter-des-kevin-hassett-ld.1915274)
 
-> Relevance score: [5] - National flu wave impacts public health and healthcare system; affects a sizable part of the population.
+> Relevance score: [4] - Discussion of a potential US Federal Reserve chair, which could affect global monetary conditions and indirectly influence Swiss markets, but the article is mainly about US politics with limited immediate impact on Switzerland.
 
-## Am PSI gelingt magnetische Variation von 2D-Materialien per Laser
+## Studie deckt genetische Verbindungen psychischer Erkrankungen auf
 
-[punkt4.info](https://punkt4.info/nachrichten/detail/news/am-psi-gelingt-magnetische-variation-von-2d-materialien-per-laser/) • _Mittwoch, 10. Dezember 2025, 11:52 Uhr_
+[Radio Central](https://www.radiocentral.ch/news/schweiz/studie-deckt-genetische-verbindungen-psychischer-erkrankungen-auf-162751718) • _Donnerstag, 11. Dezember 2025, 01:44 Uhr_
 
-Villigen AG/Boulder - Forschende des Paul Scherrer Instituts (PSI) haben mit Kolleginnen und Kollegen aus den USA mittels bestehender Lasertechnik in Materialien kontinuierliche zweidimensionale Veränderungen der magnetischen Eigenschaften erreicht. Das kann neue Anwendungen in Computing, Sensorik und Photonik erschliessen.
+Viele psychische Erkrankungen sind laut einer neuen Studie genetisch miteinander verknüpft. So steigern Gene, die das Risiko für eine psychische Erkrankung erhöhen, oft auch die Wahrscheinlichkeit für andere psychische Störungen.
 
-(CONNECT) Wissenschaftlerinnen des Paul Scherrer Instituts (PSI) haben in Zusammenarbeit mit dem National Institute of Standards and Technology in Bolder im US-Bundesstaat Colorado neuartige magnetische Strukturen in 2D geschaffen, die per Laser gezi... [weiterlesen](https://punkt4.info/nachrichten/detail/news/am-psi-gelingt-magnetische-variation-von-2d-materialien-per-laser/)
+Für die Studie haben Forscherinnen und Forscher von fast 500 Forschungsinstitutionen weltweit DNA-Daten von mehr als einer Million Menschen mit diagnostizierten psychischen Erkrankungen zusammengetragen, untersucht und verglichen. Die Resultate wurde... [weiterlesen](https://www.radiocentral.ch/news/schweiz/studie-deckt-genetische-verbindungen-psychischer-erkrankungen-auf-162751718)
 
-> Relevance score: [5] - Breakthrough research at the Paul Scherrer Institute with potential tech applications; moderate scientific relevance.
+> Relevance score: [4] - Important scientific finding with potential long‑term implications for mental‑health research and treatment worldwide, including Switzerland, yet the immediate civic impact is modest.
 
-## Neuer Auftrag für Spuhler: Rigi Bahnen kaufen Züge für 22 Mio.
+## Krieg in der Ukraine - Merz, Macron und Starmer telefonieren mit Trump
 
-[Blick](https://www.blick.ch/wirtschaft/neuer-auftrag-fuer-patron-peter-spuhler-rigi-bahnen-kaufen-stadler-zuege-fuer-22-millionen-franken-id21503937.html) • _Mittwoch, 10. Dezember 2025, 11:06 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-merz-macron-und-starmer-telefonieren-mit-trump) • _Mittwoch, 10. Dezember 2025, 19:52 Uhr_
 
-Vier neue Zahnradbahnzüge der Rigi Bahnen sollen ab 2030 zwischen Goldau und Rigi Kulm verkehren. Die Rigi Bahnen investieren dafür rund 22 Millionen Franken.
+Im Gespräch ging es um den Stand der Verhandlungen über einen Waffenstillstand und die Arbeit am Friedensplan.
 
-Nathalie BennRedaktorin Wirtschaft
-Stadler-Rail-Patron Peter Spuhler (66) darf sich über einen neuen Auftrag freuen: Der Zugbauer mit Sitz in Bussnang TG stellt vier weitere Zahnradbahn-Züge für die Rigi Bahnen her. Das Unternehmen habe einen entspre... [weiterlesen](https://www.blick.ch/wirtschaft/neuer-auftrag-fuer-patron-peter-spuhler-rigi-bahnen-kaufen-stadler-zuege-fuer-22-millionen-franken-id21503937.html)
+Angesichts der humanitären Krise in der Ukraine sammelt die Glückskette Spenden für die betroffene ukrainische Bevölkerung. Millionen Menschen – vor allem Kinder, Frauen und ältere Menschen – sind bereits geflohen und suchen Zuflucht in den Nachbarlä... [weiterlesen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-merz-macron-und-starmer-telefonieren-mit-trump)
 
-> Relevance score: [5] - Major procurement for Swiss rail infrastructure; supports transport sector and regional economy.
+> Relevance score: [3] - Diplomatic talks about the Ukraine conflict involve European leaders but have limited immediate effect on Swiss domestic or foreign policy.
 
-## Grossrätin fordert Nachtzug ab Bern – trotz Bundes
+## LG Electronics präsentiert nächste Generation von KI-Technologie auf der CES 2026
 
-[20 Minuten](https://www.20min.ch/story/parlament-streicht-gelder-sp-frau-fordert-kanton-bern-soll-jetzt-den-malmoe-nachtzug-retten-103466764) • _Mittwoch, 10. Dezember 2025, 06:48 Uhr_
+[MarketScreener Deutschland](https://de.marketscreener.com/boerse-nachrichten/lg-electronics-praesentiert-naechste-generation-von-ki-technologie-auf-der-ces-2026-ce7d50dadc88f723) • _Donnerstag, 11. Dezember 2025, 03:20 Uhr_
 
-Der mal geplante SBB-Nachtzug nach Kopenhagen und Malmö könnte mit Berner Geldern doch Realität werden. Politisch ist der Vorschlag umstritten.
+LG Electronics wird auf der CES 2026 in Las Vegas seine neue KI-Kabinenplattform vorstellen. Diese innovative In-Car-Lösung, die für den Einsatz auf automobilen Hochleistungsrechnersystemen ...
 
-Ab nächstem April hätte ein Nachtzug der SBB von Basel aus nach Kopenhagen und Malmö verkehren sollen. Doch dafür wären Subventionen des Bundes in Höhe von zehn Millionen Franken nötig gewesen – welche das Parlament bei der Budgetberatung am Dienstag... [weiterlesen](https://www.20min.ch/story/parlament-streicht-gelder-sp-frau-fordert-kanton-bern-soll-jetzt-den-malmoe-nachtzug-retten-103466764)
+LG Electronics wird auf der CES 2026 in Las Vegas (6.-9. Januar) seine neue KI-Kabinenplattform vorstellen. Diese innovative In-Car-Lösung, die für den Einsatz auf automobilen Hochleistungsrechnersystemen (HPC) konzipiert ist, nutzt generative künstl... [weiterlesen](https://de.marketscreener.com/boerse-nachrichten/lg-electronics-praesentiert-naechste-generation-von-ki-technologie-auf-der-ces-2026-ce7d50dadc88f723)
 
-> Relevance score: [5] - Proposal for a night train linking Switzerland to Scandinavia involves federal funding decisions and transport policy; moderate national interest.
+> Relevance score: [2] - Technology showcase from a foreign firm at a US trade show. Interesting for tech enthusiasts but little direct relevance to Swiss society, economy or policy.
 
-## Forscher zweifeln an bisherigen Annahmen über Neptun und Uranus
+## Vor Küste von Venezuela: USA beschlagnahmen Öl-Tanker
 
-[SWI swissinfo.ch](https://www.swissinfo.ch/ger/forscher-zweifeln-an-bisherigen-annahmen-%C3%BCber-neptun-und-uranus/90614900) • _Mittwoch, 10. Dezember 2025, 12:10 Uhr_
+[Blick](https://www.blick.ch/ausland/eskalation-der-spannungen-usa-beschlagnahmen-oel-tanker-vor-kueste-venezuelas-id21506198.html) • _Mittwoch, 10. Dezember 2025, 21:52 Uhr_
 
-Die beiden Planeten Uranus und Neptun könnten deutlich mehr Gestein in ihrem Inneren verbergen als bisher angenommen. Diese neue Entdeckung eines Zürcher Forschungsteams stellt jahrzehntelange Theorien infrage.
+Am Mittwoch verkündete Donald Trump, dass die USA einen venezolanischen Öl-Tanker beschlagnahmt habe. Dies dürfte die Beziehungen zur Regierung Venezuelas weiter belasten.
 
-Lex China: Darum will die Schweiz Investitionen aus dem Ausland prüfen
-Mehr Lex China: Darum will die Schweiz Investitionen aus dem Ausland prüfen
-Palästinensische Feministinnen: Arbeit zwischen Armut und Gewalt
-Mehr Palästinensische Feministinnen: A... [weiterlesen](https://www.swissinfo.ch/ger/forscher-zweifeln-an-bisherigen-annahmen-%C3%BCber-neptun-und-uranus/90614900)
+Die Vereinigten Staaten haben einen venezolanischen Öltanker beschlagnahmt, wie amerikanische Medien berichten. Diese Aktion könnte die ohnehin angespannten Beziehungen zwischen den beiden Ländern weiter belasten.
+Präsident Donald Trump verkündete im... [weiterlesen](https://www.blick.ch/ausland/eskalation-der-spannungen-usa-beschlagnahmen-oel-tanker-vor-kueste-venezuelas-id21506198.html)
 
-> Relevance score: [4] - Scientific discovery from a Swiss team challenges long‑standing planetary models; interesting but niche for the general public.
-
-## Zwei Luchse werden in Graubünden ausgesetzt, um Bestandsverluste auszugleichen
-
-[20 Minuten](https://www.20min.ch/story/graubuenden-bund-bewilligt-aussetzung-von-zwei-luchsen-103467360) • _Mittwoch, 10. Dezember 2025, 11:11 Uhr_
-
-Nach dem irrtümlichen Erlegen von drei Luchsen genehmigt der Bund die Aussetzung zweier Tiere zur Stabilisierung der Population.
-
-Das Bundesamt für Umwelt (Bafu) hat das Gesuch des Amts für Jagd und Fischerei für die Aussetzung zweier Luchse Ende November bewilligt. Es handelt sich dabei um je einen ausgewachsenen Luchs aus der Jura-Population und den Karpaten.
-Ab Februar 2026 ... [weiterlesen](https://www.20min.ch/story/graubuenden-bund-bewilligt-aussetzung-von-zwei-luchsen-103467360)
-
-> Relevance score: [4] - Wildlife conservation measure within Switzerland; contributes to biodiversity policy but affects a small segment.
-
-## Industrieareal in Laufen wegen PFAS viel später wieder bebaut.
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/nach-grossbrand-in-baselland-gift-blockiert-wiederaufbau-von-industriegebiet-in-laufen) • _Mittwoch, 10. Dezember 2025, 17:30 Uhr_
-
-Wegen giftiger PFAS-Chemikalien vom Löschschaum verzögert sich die Sanierung eines grossen Industrieareals um Jahre.
-
-Wo vor fünf Jahren haushohe Flammen wüteten, wachsen nun Sträucher und Gräser zwischen den Bodenplatten. Seit dem Brand ist auf dem früheren Industrieareal am Südrand von Laufen BL kaum etwas geschehen.
-Dass das Areal brach liegt, macht den Laufener ... [weiterlesen](https://www.srf.ch/news/schweiz/nach-grossbrand-in-baselland-gift-blockiert-wiederaufbau-von-industriegebiet-in-laufen)
-
-> Relevance score: [3] - Environmental contamination delays redevelopment of a single industrial site; local relevance with limited wider impact.
-
-## Mann stirbt an Tollwut: Niere von infiziertem Spender transplantiert
-
-[20 Minuten](https://www.20min.ch/story/usa-mann-stirbt-an-tollwut-kontakt-zu-krankem-tier-hatte-er-nicht-103467435) • _Mittwoch, 10. Dezember 2025, 15:12 Uhr_
-
-Ein Mann aus Michigan starb an Tollwut, nachdem er eine infizierte Niere transplantiert bekam. Der Spender war von einem Stinktier gekratzt worden.
-
-Der Diagnose Tollwut beim Menschen geht normalerweise der Kontakt mit einem infizierten Tier voraus. Deshalb raten Fachleute auch, etwa um streunende Katzen und Hunde einen Bogen zu machen. Die tödlich verlaufene Infektion eines Mannes aus dem US-Bun... [weiterlesen](https://www.20min.ch/story/usa-mann-stirbt-an-tollwut-kontakt-zu-krankem-tier-hatte-er-nicht-103467435)
-
-> Relevance score: [2] - A US medical case with no direct Swiss impact; interesting but not relevant to Swiss public understanding.
-
-## Profile müssen offengelegt werden
-
-[20 Minuten](https://www.20min.ch/story/usa-verschaerfte-kontrolle-bei-einreise-auch-schweizer-betroffen-103467476) • _Mittwoch, 10. Dezember 2025, 14:39 Uhr_
-
-Die US-Grenzschutzbehörde plant, Einreisende zur Offenlegung ihrer Social-Media-Profile zu verpflichten. Welche Folgen hat das?
-
-Die US-Grenzschutzbehörde will Touristen bei der Einreise in die USA zur Offenlegung ihrer Social-Media-Konten verpflichten. Einreisende müssten den Grenzbeamten ihre Beiträge in sozialen Netzwerken aus den letzten fünf Jahren zugänglich machen, heis... [weiterlesen](https://www.20min.ch/story/usa-verschaerfte-kontrolle-bei-einreise-auch-schweizer-betroffen-103467476)
-
-> Relevance score: [2] - US border policy proposal; limited relevance for Switzerland and its citizens.
-
-## Kult-Imbisse am Bellevue erhalten eine Gnadenfrist
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/streit-mit-der-stadt-zuerich-kult-imbisse-am-bellevue-erhalten-eine-gnadenfrist) • _Mittwoch, 10. Dezember 2025, 14:09 Uhr_
-
-Die Imbissstände am Zürcher Bellevue können doch noch länger bleiben – für die Betreiberinnen nur ein kleiner Trost.
-
-Eigentlich wäre Ende Jahr Schluss gewesen. Nun dürfen die beiden Imbissstände «Riviera» und «Bistro & Grill am See» beim Bellevue doch noch weitere neun Monate bleiben.
-Wie das Regionaljournal Zürich Schaffhausen erfahren hat, verlängert die Stadt Zü... [weiterlesen](https://www.srf.ch/news/schweiz/streit-mit-der-stadt-zuerich-kult-imbisse-am-bellevue-erhalten-eine-gnadenfrist)
-
-> Relevance score: [2] - Local Zurich food‑stall extension; minor civic relevance.
-
-## Airbus Defence and Space unterzeichnet 50-Millionen-Euro-Vertrag mit der DGA
-
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/airbus-defence-and-space-unterzeichnet-50-millionen-euro-vertrag-mit-der-dga-ce7d51d3d189f421) • _Mittwoch, 10. Dezember 2025, 11:33 Uhr_
-
-Die französische Rüstungsbehörde Direction générale de l'armement hat mit Airbus Defence and Space einen Rahmenvertrag mit einem maximalen Volumen von 50 Millionen Euro abgeschlossen.
-Der...
-
-Die französische Rüstungsbehörde Direction générale de l'armement (DGA) hat mit Airbus Defence and Space einen Rahmenvertrag mit einem maximalen Volumen von 50 Millionen Euro abgeschlossen.
-Der Vertrag sieht die Integration von Komponenten der Künstl... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/airbus-defence-and-space-unterzeichnet-50-millionen-euro-vertrag-mit-der-dga-ce7d51d3d189f421)
-
-> Relevance score: [2] - French defence contract; no direct Swiss involvement, limited impact on Swiss affairs.
-
-## Airbus erhält 50-Millionen-Euro-Auftrag zur Implementierung französischer Militär-KI
-
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/airbus-erhaelt-50-millionen-euro-auftrag-zur-implementierung-franzoesischer-militaer-ki-ce7d51d3de80f320) • _Mittwoch, 10. Dezember 2025, 11:20 Uhr_
-
-10. Dezember - Airbus hat einen Vertrag im Wert von 50 Millionen Euro abgeschlossen, um künstliche Intelligenz, die von der französischen Ministerialagentur für Verteidigungs-KI entwickelt...
-
-10. Dezember - Airbus hat einen Vertrag im Wert von 50 Millionen Euro (58 Millionen US-Dollar) abgeschlossen, um künstliche Intelligenz, die von der französischen Ministerialagentur für Verteidigungs-KI (AMIAD) entwickelt wurde, in Waffen- und Inform... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/airbus-erhaelt-50-millionen-euro-auftrag-zur-implementierung-franzoesischer-militaer-ki-ce7d51d3de80f320)
-
-> Relevance score: [2] - Same as above – foreign defence deal, negligible Swiss relevance.
+> Relevance score: [2] - US‑Venezuela confrontation that may affect global oil markets but has no direct bearing on Swiss domestic affairs or policy.
 
 
 </details>
