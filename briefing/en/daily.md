@@ -2,212 +2,324 @@
 
 ---
 
-_Updated: Wednesday, December 10, 2025, 18:26_
+_Updated: Thursday, December 11, 2025, 06:28 AM_
 
-## First Incel Attack in Switzerland: He Set Off to Kill
+## Central bank decides: How gold, Bitcoin and the dollar react to interest rates
 
-[Swiss Radio and Television](https://www.srf.ch/news/schweiz/hass-auf-frauen-er-fuhr-los-um-zu-toeten) • _Wednesday, December 10, 2025, 05:59_
+[20 Minutes](https://www.20min.ch/story/zinsentscheid-us-notenbank-unter-druck-so-reagieren-gold-bitcoin-und-dollar-103467450) • _Wednesday, December 10, 2025, 17:01 AM_
 
-A young Swiss man radicalised online and drove into two women. Fedpol mentions incel extremism for the first time.
+Jerome Powell will announce the interest‑rate decision on Wednesday. The reactions of gold, Bitcoin and the dollar could be decisive.
 
-### Background of the attack
-- On September 11, 2020 the 27‑year‑old **Kevin B.** drove his car in Amriswil into 15‑year‑old Hiyoba and her friend Sarah, who were coming from a bike.  
-- According to the court ruling, the goal was **to kill or seriously injure people** – a hate‑driven rampage that had been planned for months (vehicle and weapon acquisition).  
-- Kevin B. wrote an English manifesto containing racist, antisemitic and misogynist ideologies.
+### Background of the rate decision
+- The **[Federal Reserve](https://en.wikipedia.org/wiki/Federal_Reserve)** (Fed) will set the policy rate on Wednesday.  
+- U.S. inflation remains stubborn, which could justify higher rates.  
+- **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** is nevertheless pushing for larger rate cuts to boost economic growth.  
 
-### Incel extremism in Switzerland
-- The **Federal Office of Police (Fedpol)** listed the case in an internal short‑analysis from 2022 as **incel extremism** – the first time such a classification was made.  
-- Fedpol states that there is no systematic monitoring of incel threats in Switzerland; the analysis only covered the period 2017‑2022.  
-- In the Arbon District Court judgment (2023) it is noted that the **incel sub‑culture** is hard to quantify; a large incel forum recorded about 34 000 registered users in 2025.
+### Expected cut and possible scenarios
+- Economists expect **[Jerome Powell](https://en.wikipedia.org/wiki/Jerome_Powell)** to announce a third cut of **0.25 %**, bringing the policy rate down to **3.5 %–3.75 %** (the lowest level in about three years).  
+- According to **Maurizio Porfiri**, chief investment officer at **Maverix Securities**, it is not only the size but especially the **tone** of Powell that matters:
+  - **Scenario A – Emphasis on inflation and weak economy**  
+    - Market prices in further cuts over the next two years.  
+  - **Scenario B – Hint at a cautious pause**  
+    - Expectation that rates will stay unchanged for longer.
 
-### Global incel attacks
-- Since 2014 more than **50 people have been killed** worldwide in attacks carried out by persons motivated by incel ideology. Examples:  
-  - 2014 shooting in the USA (6 dead) – the perpetrator wanted revenge for rejections by women.  
-  - 2018 rampage in Canada (10 dead).  
-  - The **Halle attack 2019** in Germany is also linked to incel ideology.  
-- The common traits are that the attackers are often young, socially isolated men who move in radicalising online forums.
+### Impact on financial markets
+- **Scenario A (further cuts)**  
+  - **Loan rates** (e.g., mortgages) fall in the United States.  
+  - **U.S. Dollar** weakens.  
+  - **Gold** typically benefits from lower rates → price rises.  
+  - **Bitcoin** could rally even more strongly than gold.  
+- **Scenario B (no further cuts)**  
+  - **U.S. Dollar** strengthens.  
+  - **Gold** and **Bitcoin** see profit‑taking → price decline.  
 
-### Analysis of the manifesto and the forums
-- **Veronika Kracher**, sociologist and incel expert, describes the forums as places where hatred against women, migrants and society is expressed daily (e.g., rape and stoning threats).  
-- Violent fantasies and the sharing of pornographic violence are considered “fuel”.  
-- Kevin B.’s manifesto contains incel terminology and a pronounced victim stance, but less focus on his own appearance or sexuality – typical of pure incel attackers.
+### Concrete consequences for Swiss consumers
+- **Weaker dollar** (Scenario A)  
+  - Trips to the USA become cheaper: flights, hotels, rental cars, restaurants and park tickets are billed in dollars, but credit‑card statements are in francs.  
+  - **Online shopping** in U.S. stores (sneakers, electronics, etc.) becomes cheaper.  
+  - **Subscriptions** for streaming, cloud storage or apps invoiced in dollars cost less.  
+- **Stronger dollar** (Scenario B)  
+  - USA trips become more expensive: more francs for burgers, Disney tickets, tips, Uber rides and domestic flights.  
 
-### Legal consequences
-- In 2023 the Arbon District Court sentenced Kevin B. to **13.5 years in prison** for attempted murder; the sentence is to be served in a closed psychiatric facility instead of a regular prison.  
-- A forgotten mobile phone is cited in the ruling as the reason why no additional victims were killed on the day of the attack.
+### Bottom line
+- The **Fed’s rate decision** and, above all, Powell’s **communication style** will determine the short‑term trajectory of the **dollar**, **gold** and **Bitcoin**.  
+- These moves have direct, tangible effects on the purchasing power of Swiss consumers for travel, online purchases and subscription‑based services.  
 
-### Impact on the victims and societal reactions
-- Sarah has never ridden a bike again; Hiyoba had to give up athletics because of lingering injuries.  
-- Both re‑watched the attacker’s livestream, which intensified the trauma (“like a video game”).  
-- **SRF Investigative** published selected excerpts from the manifesto and launched the podcast series **“Alpha Boys”**, which examines the influence of the “manosphere” (including influencers such as **Andrew Tate**) on young men.  
+> Relevance score: [7] – US Fed rate decision shapes global financial markets, affecting Swiss investors, banks and the broader economy; significant worldwide relevance.
 
-### Outlook
-- The case remains the only known incel‑motivated attack in Switzerland; Fedpol warns that the situation may have worsened, but emphasises that no systematic monitoring is in place.  
-- The debate on prevention, online radicalisation and the societal roots of incel hatred remains open.
+---
 
-> Relevance score: [6] – First recognised incel‑motivated violent attack in Switzerland; signals emergence of a new extremist threat, will likely prompt law‑enforcement and policy responses and affect public‑safety debates.
+## Council of States overturns National Council decision: More money for women after protests
 
-## Canton Comparison: Where Free Rental Apartments Disappear Fastest
+[20 Minutes](https://www.20min.ch/story/nun-also-doch-nach-protesten-staenderat-will-mehr-geld-fuer-schutz-von-frauen-103467327) • _Wednesday, December 10, 2025, 11:02 AM_
 
-[20 Minutes](https://www.20min.ch/story/kantonsvergleich-hier-sind-freie-mietwohnungen-am-schnellsten-weg-103466794) • _Wednesday, December 10, 2025, 04:32_
+After massive protests and a petition with over 200 000 signatures, the Council of States now demands funds for the protection of women.
 
-There are more apartments on the market, but they disappear in record time. Fast rentals are becoming the norm.
+### Background  
+- The **[National Council (Switzerland)](https://en.wikipedia.org/wiki/National_Council_(Switzerland))** wanted to cut the planned increase of money for violence prevention against women on Monday.  
+- Instead of the **2.5 million CHF** proposed by the National Council’s committee, only **1.5 million CHF** had been approved.
 
-### Overall development  
-- The **Online‑Housing Index** (jointly created by the **House and Owners Association** (HEV), the property portal **Newhome**, the real‑estate association **SVIT** and the **Swiss Real Institute** of HWZ) shows that vacant rental apartments have been rented increasingly faster over the past 15 years.  
-- Compared with the previous year, the average listing duration is now **only 24 days** – one day less, the shortest period since the index began.  
-- Despite a supply increase of about **6 %** (≈ 25 000 additional listings between Oct 2024 – Sept 2025) demand outstrips supply, causing apartments to disappear more quickly.
+### Protests and petition  
+- On Tuesday, numerous demonstrations took place on **Bundesplatz**, supported by **[Social Democratic Party of Switzerland (SP)](https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland)** members **Tamara Funiciello** and **Anna Rosenwasser**.  
+- An online petition gathered more than **200 000 signatures** and was backed by celebrities such as  
+  - **[Michelle Hunziker](https://en.wikipedia.org/wiki/Michelle_Hunziker)**,  
+  - author **Yvonne Eisenring**,  
+  - presenter **Gülsha**.  
 
-### Canton and city comparison  
-- **Fastest rentals** (≈ 2 weeks):  
-  - **Geneva** and **Zug** – average 14 days  
-  - **Zurich** and **Schwyz** – average 16 days  
-- **Longest stay**:  
-  - **Jura** – 51 days  
-  - **Neuchâtel** – 40 days  
-- Other cities with roughly a month until rental: **Basel**, **Fribourg**, **St. Gallen**, **Lugano**.  
-- **City leaders**:  
-  - **Chur** – average 10 days  
-  - **Winterthur** and **Geneva** – each 13 days  
-  - **Zurich** – 16 days  
+### Decision of the Council of States  
+- The **[Council of States (Switzerland)](https://en.wikipedia.org/wiki/Council_of_States_(Switzerland))** reversed the National Council’s resolution and again voted for the **2.5 million CHF**.  
+- The budget procedure is now sent back to the National Council, which must decide again.  
 
-### Demand by apartment size  
-- **Two‑room apartments** (usually cheaper) see **increasing demand** in almost all cities compared with the previous year.  
-- **Large apartments** (≥ 5 rooms) experience **decreasing demand** in most cities.  
+### Financial details  
+- **Goal:** Increase the budget of the **Office for Gender Equality** to **2.5 million CHF**.  
+- **SP’s justification:**  
+  - **27 femicides** (women murdered) this year,  
+  - **10 000** women experience domestic violence.  
+  - Call for a national awareness campaign, not just local posters.  
+- **Critique by centrist Council of States member Andrea Gmür‑Schönenberger:**  
+  - Pointed out comparable spending on wine promotion, alcohol campaigns and wolf protection to question priority setting.  
 
-### Methodology & source  
-- Data come from the **Online‑Housing Index**, which analyses the eight largest Swiss property portals.  
-- The index records the **average time listings stay active**, providing an indicator of the supply‑demand balance in the rental market.  
+### Further political reactions  
+- **Criticism of protest actions:**  
+  - Gmür‑Schönenberger called the massive e‑mail flood an “orchestrated action” and “political marketing of a single party”.  
+  - **Reto Nause** (CVP) accused SP deputy **Tamara Funiciello** of spreading identical texts and misinformation.  
+- **Federal Councilor Karin Keller‑Sutter** rejected the claim that savings were being sought and demanded a fact‑based discussion.  
 
-*(The analysis reflects the current state of the Swiss rental market and shows that “fast rentals” are becoming the new normal.)*
+---  
 
-> Relevance score: [6] – Housing‑market dynamics directly affect a large portion of the Swiss population, informing debates on rent policy and urban planning; a notable domestic socioeconomic issue.
+*The key points show that, after broad public and political pressure, the smaller chamber (Council of States) wants to raise the original budget for women’s protection again, while partisan tensions over protest methods persist.*
 
-## Within a Few Months: Zelensky Ready for New Elections
+> Relevance score: [7] – Parliamentary reversal following mass protests, allocating additional funds for protection against gender‑based violence; high civic significance.
 
-[Blick](https://www.blick.ch/ausland/selenski-reagiert-auf-trumps-forderung-ich-bin-bereit-fuer-wahlen-id21501332.html) • _Tuesday, December 9, 2025, 21:33_
+---
 
-Since May 2024 President Zelensky’s term officially ended – a point criticized by Donald Trump. Now the Ukrainian president declares: “I am ready for elections” and outlines the conditions.
+## Zelensky says he’s ready, but sets conditions
 
-### Background
-- The official term of President **[Wolodymyr Zelenskyy](https://en.wikipedia.org/wiki/Wolodymyr_Zelenskyy)** (47) ended in May 2024.  
-- The lack of elections since the enactment of **[martial law](https://en.wikipedia.org/wiki/Martial_law)** has raised questions about the legitimacy of his presidency.  
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/ukraine-selenski-zeigt-sich-bereit-zu-baldigen-wahlen-aber-stellt-bedingungen-dafuer-ld.1915817) • _Wednesday, December 10, 2025, 13:50 PM_
 
-### Statements by **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)**
-- In an interview with **[Politico](https://en.wikipedia.org/wiki/Politico_(magazine))**, Trump calls for new elections in war‑torn **Ukraine**.  
-- He calls the timing “important” and criticises the fact that no elections have been held for a long time.  
+The condition for new elections, according to the Ukrainian president, is a better security situation. That would likely require a ceasefire—a demand Russia stubbornly rejects. Zelensky is trying to deflect pressure from the United States.
 
-### Zelensky’s readiness for new elections
-- In an interview with **[Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel)**, Zelensky says he is prepared to organise new elections.  
-- He plans to ask parliament to draft **proposals to amend**  
-  - the legal foundations and  
-  - the **[election law](https://en.wikipedia.org/wiki/Election_law)** during martial law.  
+### Background  
+- Ukrainian President **[Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy)** is under strong pressure from the **[United States](https://en.wikipedia.org/wiki/United_States)**, especially after statements by President **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** that described the war as a pretext for postponing elections.  
+- Trump, in an interview with *Politico*, demanded that Ukraine hold new elections soon, arguing that otherwise the conflict with Russia would be used as an “excuse.”  
 
-### Planned steps and timetable
-- The goal is to ensure election security with the support of the **United States** and Europe.  
-- If the conditions are met, new elections could take place within **60 – 90 days**.
+### Zelensky’s conditions for elections  
+- Zelensky emphasizes that he is ready to hold elections but demands three prerequisites:  
+  1. **Amendment of the wartime legislation** (the 2015 law that forbids presidential elections during war).  
+  2. **Voting rights for soldiers** – allowing troops in combat to cast ballots.  
+  3. **Better security situation**, ideally a comprehensive **[ceasefire](https://en.wikipedia.org/wiki/Ceasefire)**.  
 
-> Relevance score: [6] – Timing of Ukrainian presidential elections is important for European security dynamics, which indirectly affect Swiss foreign‑policy considerations; still, the direct impact on Swiss daily life is modest.
+- Without a secure framework, a legitimate election result could not be guaranteed.
+
+### Political strategy  
+- Zelensky uses the security demand to shift blame for the lack of elections onto **[Russia](https://en.wikipedia.org/wiki/Russia)**.  
+- He calls on the United States and its European partners to provide **security guarantees** for the vote; such a promise, however, is unlikely.  
+- By taking this stance, Zelensky tries to counter Trump’s claim that the war is a pretext while also contesting Russian propaganda that questions his government’s legitimacy.
+
+### Legal framework  
+- The **Constitution of Ukraine** bans parliamentary elections in wartime to prevent an authoritarian president from exploiting martial law to elect a favorable legislature.  
+- **Presidential elections** are not explicitly regulated by the constitution; the relevant wartime law can, however, be altered by the parliament (**[Verkhovna Rada](https://en.wikipedia.org/wiki/Verkhovna_Rada)**).  
+- Zelensky has instructed his team to draft reform proposals to adapt the wartime legislation.
+
+### Outlook  
+- Even if new elections were held within 60–90 days, they would likely **not bring about a fundamental change** in Ukraine’s foreign policy toward Russia.  
+- Zelensky is expected to further consolidate his power; potential rivals such as former commander **[Valeriy Saloh](https://en.wikipedia.org/wiki/Valeriy_Saloh)**, now ambassador in London, also share an **anti‑Russian, pro‑Western** stance.  
+- Pressure from Washington remains, but the core disputes of the Ukraine‑Russia conflict lie beyond the question of new elections.
+
+> Relevance score: [6] – Ukrainian president’s stance influences European security dynamics and Swiss foreign‑policy considerations; moderate‑high geopolitical relevance.
+
+---
+
+## Guy Parmelin, the new Federal President for 2026 and the art of understatement
+
+[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/das-parmelin-prinzip-der-neue-bundespraesident-nutzt-understatement-als-politische-strategie-ld.1915614) • _Wednesday, December 10, 2025, 12:33 PM_
+
+When others are driven by vanity and emotion, he simply sits back and sees “opportunity” everywhere. Today Guy Parmelin has been elected Federal President for a second time.
+
+### Political strategy and style  
+- Parmelin deliberately uses **understatement** – he lets himself be underestimated so he can work undisturbed.  
+- His public appearance is minimalist (e.g., the **bucket‑hat** appearance), styling him as a “fatherly” politician without diminishing his competence.  
+- As President he appears only once a year at the **Bundesratsreisli**, where clothing is considered an important communication tool.
+
+### Crises and achievements  
+- **Russia’s invasion of Ukraine** (2022) and the collapse of **Credit Suisse** (2023) are among the major challenges he faced.  
+- During his first presidency the Swiss Confederation was in the middle of the **COVID‑19 crisis** and the **SVP** was openly opposing the government.  
+- As Economy Minister he led the **customs dispute with the United States** and, after 16 years of negotiations, concluded a free‑trade agreement with **India** and wrapped up talks with the **Mercosur** countries.  
+
+### Collegiality and EU policy  
+- Parmelin stresses his close bond to **collegiality** in the Federal Council, while also acting tactically to consider public sensitivity.  
+- He was instrumental in forging a compromise between business and social partners that secured support for the **EU framework agreement**.  
+- Despite intra‑party criticism, he, as President in 2026, will back the signing of the new EU treaties in Brussels and place the office above partisan demands.  
+
+### Negotiation leadership and round tables  
+- **Helene Budliger Artieda**, his State Secretary for Economy, does the preparatory work in negotiations; Parmelin steps in once clear signals emerge.  
+- His strength lies in **bringing interests together** (farmers, unions, large retailers) and **mediating compromises** through round‑table talks.  
+- Colleagues such as **Pierre‑Yves Maillard** praise his talent for “de‑blocking” conflict parties and finding sustainable solutions.  
+
+### Outlook as Federal President 2026  
+- Parmelin plans to apply the **round‑table strategy** internationally, deliberately involving ministers, heads of state and civil‑society actors.  
+- He stresses that the world has changed and opportunities must be proactively used to resolve political deadlocks.  
+- His goal is to establish the **Federal Presidency** as a platform for collaborative, calm and result‑oriented politics.  
+
+> Relevance score: [6] – Annual election of the Swiss Federal President is a key political event; notable for national governance.
+
+---
+
+## Court lifts entry ban against Martin Sellner
+
+[Swiss Radio and Television (SRF)](https://www.srf.ch/news/schweiz/rechtsextremer-aktivist-gericht-einreiseverbot-fuer-martin-sellner-aufgehoben-1) • _Wednesday, December 10, 2025, 09:57 AM_
+
+The ban effectively amounted to a speech ban, according to the Federal Administrative Court.
+
+### Federal Administrative Court judgment
+- The **Federal Administrative Court** declared the 18‑day **entry ban** imposed on **[Martin Sellner](https://en.wikipedia.org/wiki/Martin_Sellner)** by the **Federal Office of Police (Fedpol)** on 10 October 2024 unlawful and lifted it retroactively.  
+- The court stressed that the ban was in practice a **speech ban** and that the proportionality of an 18‑day restriction was not justified.
+
+### Background of the entry ban
+- The Swiss group **Junge Tat** (classified by authorities as right‑wing extremist) had invited **Sellner** to give a talk on 19 October.  
+- Despite the ban, Sellner entered the country and was escorted by the **Thurgau Cantonal Police** on the day of the event.  
+
+### Court’s reasoning
+- **No causal link**: Sellner’s appearance at Junge Tat could not automatically be interpreted as support for or endorsement of violent‑extremist crimes.  
+- **Security situation**: The **Zurich Public Prosecutor’s Office** had issued criminal complaints against six members of Junge Tat; however, there was no demonstrable impact of these proceedings on Switzerland’s internal security caused by Sellner.  
+- **Proportionality**: The court doubted that a short‑term entry ban could sustainably prevent mutual radicalisation.
+
+### Procedure and responsibilities
+- In September 2024, Fedpol had informed the **Zurich Cantonal Police** that it saw no threat from Sellner and initially rejected the ban.  
+- At the urging of the **Commander of the Zurich Cantonal Police**, **Director Nicoletta Della Valle** of Fedpol overruled the internal recommendation and approved the entry ban.  
+- The judgment references **Sellner’s political position on the far‑right fringe**, his membership in the **[Identitarian Movement (Austria)](https://en.wikipedia.org/wiki/Identitarian_movement)** and his publications on topics such as “remigration” – a key term of the far‑right.
+
+### Consequences for Martin Sellner
+- Sellner receives a **compensation** of **CHF 3 000** for the unlawful interference.  
+- The court emphasizes that the decision clarifies fundamental legal questions that may be raised again in the future, without a timely judicial intervention possible.  
+
+---  
+
+*Note: The Wikipedia links above point to the German‑language articles that were current at the time of writing.*
+
+> Relevance score: [6] – Federal court decision on an extremist activist’s entry ban; impacts legal precedent and political discourse in Switzerland.
+
+---
+
+## Ignazio Cassis in interview: “In many respects the USA is not wrong”
+
+[Swiss Radio and Television (SRF)](https://www.srf.ch/news/schweiz/aussenminister-im-interview-ignazio-cassis-usa-haben-in-vieler-hinsicht-nicht-unrecht) • _Wednesday, December 10, 2025, 07:14 AM_
+
+The foreign minister discusses pressing issues in economic and security policy.
+
+### New role in the OSCE  
+- **Ignazio Cassis** ([Wikipedia](https://en.wikipedia.org/wiki/Ignazio_Cassis)) will assume the chairmanship of the **[Organization for Security and Co‑operation in Europe](https://en.wikipedia.org/wiki/Organization_for_Security_and_Cooperation_in_Europe)** in 2026 as the incumbent chair.  
+- Goal: The OSCE should be able to implement an agreed cease‑fire monitoring “at the push of a button.”
+
+### Views on the USA and security policy  
+- In the new U.S. security strategy under **Donald Trump** ([Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump)) the United States criticize European defence.  
+- Cassis agrees that Europe, after World War II, never built an independent defence structure and remains heavily dependent on the **[United States](https://en.wikipedia.org/wiki/United_States)** after 80 years.  
+- Trump’s message: “Take your future into your own hands.”
+
+### Russia and European security  
+- Cassis stresses that a European security policy that excludes **[Russia](https://en.wikipedia.org/wiki/Russia)** is unrealistic.  
+- The OSCE remains one of the few organisations where Russia is still a full member, preserving dialogue even when other members block each other.
+
+### Economic diplomacy and customs dispute  
+- Swiss business leaders have given gifts to the U.S. president to resolve a customs dispute – a tradition rooted in Swiss diplomacy since the 19th century.  
+- Cassis sees no violation and stresses the importance of economic diplomats.  
+- Investor **[Alfred Gantner](https://en.wikipedia.org/wiki/Alfred_Gantner)** accuses Cassis of delaying a customs agreement; Cassis calls the accusations fabricated and unfounded.
+
+### Radicalisation and social cohesion  
+- Cassis condemns the growing lack of respect for dissenting opinions, especially after incidents such as the **pro‑Palestine demonstration** in **[Bellinzona](https://en.wikipedia.org/wiki/Bellinzona)**.  
+- He warns that this radicalisation threatens democracy and the cohesion of the **[Federal Council](https://en.wikipedia.org/wiki/Federal_Council_(Switzerland))**, as all members have already experienced similar attacks.  
+- Despite celebrating cultural diversity on 1 August, Cassis sees the current mood as risky for the country’s stability.  
+
+> Relevance score: [6] – Swiss foreign minister discusses US relations while Switzerland chairs the OSCE; relevant for Swiss foreign‑policy and security stance.
+
+---
 
 <details><summary markdown="span">Show less important events</summary>
 
-## Child prostitution: More cases in the Romandy region
+## Pfizer cuts hundreds of jobs in Switzerland: workforce reduced to 70 employees
 
-[Swiss Radio and Television](https://www.srf.ch/news/dialog/kritik-an-fehlender-praevention-zunehmende-faelle-von-kinderprostitution-in-der-westschweiz) • _Wednesday, December 10, 2025, 05:42_
+[20 Minutes](https://www.20min.ch/story/bis-ende-jahr-pfizer-streicht-hunderte-jobs-in-der-schweiz-103467579) • _Wednesday, December 10, 2025, 18:18 PM_
 
-In the most recent known case a barbershop is alleged to have exploited six minors for sexual services.
+Pfizer plans drastic cuts in Switzerland. By the end of the year only 70 employees should remain.
 
-The barbershop, located in the centre of Geneva, is now closed. Only the police tape still hanging on the door hints at what may have taken place behind the façade.  
-A half‑dozen youths, … [read more](https://www.srf.ch/news/dialog/kritik-an-fehlender-praevention-zunehmende-faelle-von-kinderprostitution-in-der-westschweiz)
+The U.S. pharma giant intends to cut hundreds of positions in Switzerland. According to sources, the staff count will drop from roughly 300 to about 70 by year‑end, Bloomberg reports.
 
-> Relevance score: [5] – Increase in child sexual exploitation cases is a serious social problem and will drive police, judicial and child‑protection measures, but the issue remains relatively localized and does not reshape national structures.
+## Mobility initiative: Zurich city council takes the case to the Federal Court
 
-## Hundreds demonstrate in Bern against violence toward women
+[Swiss Radio and Television (SRF)](https://www.srf.ch/news/schweiz/tempo-30-auf-hauptstrassen-stadt-zuerich-zieht-mobilitaetsinitiative-vor-bundesgericht) • _Wednesday, December 10, 2025, 16:09 PM_
 
-[Swiss Radio and Television](https://www.srf.ch/news/schweiz/nach-beschluss-von-nationalrat-hunderte-personen-demonstrieren-in-bern-gegen-gewalt-an-frauen) • _Tuesday, December 9, 2025, 20:11_
+The Zurich city council is challenging the cantonal decision that limits speed‑limit initiatives on main roads, arguing it violates municipal autonomy.
 
-The demonstrators demand more protection. The National Council had approved budget cuts for gender‑based violence protection the day before.
+## Federal Office of Public Health confirms flu wave in Switzerland: 846 cases in one week
 
-Several hundred people gathered on the Federal Square in Bern calling for increased funding to protect women from gender‑based violence.  
-The National Council had the day before decided not to increase the budget for women's protection.  
-The dem… [read more](https://www.srf.ch/news/schweiz/nach-beschluss-von-nationalrat-hunderte-personen-demonstrieren-in-bern-gegen-gewalt-an-frauen)
+[20 Minutes](https://www.20min.ch/story/neue-zahlen-grippewelle-hat-die-schweiz-offiziell-erfasst-103467437) • _Wednesday, December 10, 2025, 13:14 PM_
 
-> Relevance score: [5] – Public demonstration on gender‑based violence highlights a pressing domestic issue, can influence legislation and funding for protective measures.
+The flu wave has hit Switzerland. The FOPH reports 846 new laboratory‑confirmed cases and an early start to the season.
 
-## Trump pressures Zelensky: “He must accept things because he’s losing”
+## PSI achieves magnetic variation of 2D materials by laser
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/trump-setzt-selenski-unter-druck-er-muss-dinge-akzeptieren-denn-er-verliert-ld.1915694) • _Tuesday, December 9, 2025, 19:25_
+[punkt4.info](https://punkt4.info/nachrichten/detail/news/am-psi-gelingt-magnetische-variation-von-2d-materialien-per-laser/) • _Wednesday, December 10, 2025, 11:52 AM_
 
-European leaders have revised the peace plan with Kyiv and want to send it to Washington. Yet they seem to rely less on U.S. help. In a new interview Trump expresses contempt for the Europeans.
+Researchers at the Paul Scherrer Institute (PSI), together with US colleagues, used existing laser technology to create continuous two‑dimensional changes in the magnetic properties of materials, opening new possibilities for computing, sensing and photonics.
 
-For Vladimir Putin the diplomatic drama must be a real joy. Europeans and Americans still cannot agree on a joint position in the peace talks with Moscow after months of back‑and‑forth. And this … [read more](https://www.nzz.ch/international/trump-setzt-selenski-unter-druck-er-muss-dinge-akzeptieren-denn-er-verliert-ld.1915694)
+## New contract for Spuhler: Rigi Railways to buy trains for CHF 22 million
 
-> Relevance score: [5] – U.S. pressure on Ukraine’s president is part of broader geopolitical manoeuvring; relevant for European security context, though indirect for Switzerland.
+[Blick](https://www.blick.ch/wirtschaft/neuer-auftrag-fuer-patron-peter-spuhler-rigi-bahnen-kaufen-stadler-zuege-fuer-22-millionen-franken-id21503937.html) • _Wednesday, December 10, 2025, 11:06 AM_
 
-## Re‑election of the Federal President costs 200 000 CHF for Guy Parmelin’s party celebration
+Four new rack‑rail trains for the Rigi Railways are scheduled to run from 2030 between Goldau and Rigi Kulm, with an investment of roughly CHF 22 million.
 
-[blue News](https://www.bluewin.ch/de/news/schweiz/200000-viel-kostet-die-wahlparty-von-guy-parmelin-3002360.html) • _Tuesday, December 9, 2025, 19:36_
+## Councilor demands night train from Bern – despite federal opposition
 
-On Wednesday Guy Parmelin could be re‑elected as Federal President. In the canton of Vaud a costly celebration is planned – while tensions simmer elsewhere. While the party celebrates, civil servants are fighting austerity plans.
+[20 Minutes](https://www.20min.ch/story/parlament-streicht-gelder-sp-frau-fordert-kanton-bern-soll-jetzt-den-malmoe-nachtzug-retten-103466764) • _Wednesday, December 10, 2025, 06:48 AM_
 
-(Original text contained garbled fragments; the article discusses the high cost of the celebration and criticism of public‑sector wage cuts.)
+The proposed SBB night train to Copenhagen and Malmö could become reality with Bern’s contribution, though the plan remains politically contentious.
 
-> Relevance score: [4] – Cost of the president’s party is a political‑budget matter of limited scale; noteworthy but not a structural change.
+## Researchers question previous assumptions about Neptune and Uranus
 
-## Bye‑bye left‑wing wokeness? Democrats in the USA turn to the centre
+[SWI swissinfo.ch](https://www.swissinfo.ch/ger/forscher-zweifeln-an-bisherigen-annahmen-%C3%BCber-neptun-und-uranus/90614900) • _Wednesday, December 10, 2025, 12:10 PM_
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/bye-bye-linke-wokeness-demokraten-in-den-usa-setzen-auf-die-mitte-ld.1915179) • _Wednesday, December 10, 2025, 05:30_
+A Zurich research team suggests that Uranus and Neptune may contain far more rock in their interiors than previously thought, challenging long‑standing planetary models.
 
-The Democrats drifted left after 2016 and lost again to Donald Trump. Now a coalition of donors, think‑tanks and politicians is testing a moderate resurgence.
+## Two lynxes released in Graubünden to offset population losses
 
-A year after their defeat to Donald Trump, Democrats are regaining hope. In a handful of off‑cycle elections they recently celebrated notable successes. It felt like a moment of relief: perhaps, the Democrats hope, there is a … [read more](https://www.nzz.ch/international/bye-bye-linke-wokeness-demokraten-in-den-usa-setzen-auf-die-mitte-ld.1915179)
+[20 Minutes](https://www.20min.ch/story/graubuenden-bund-bewilligt-aussetzung-von-zwei-luchsen-103467360) • _Wednesday, December 10, 2025, 11:11 AM_
 
-> Relevance score: [3] – US party‑politics shift has limited direct impact on Swiss society or governance; may be of interest geopolitically but low civic relevance for Switzerland.
+After the accidental killing of three lynxes, the federal government approved the release of two animals to stabilize the population.
 
-## Doctors say weight‑loss drugs could fill treatment gap for women with PCOS
+## Industrial site in Laufen delayed by PFAS contamination
 
-[TradingView](https://de.tradingview.com/news/reuters.com,2025:newsml_L8N3XF212:0/) • _Tuesday, December 9, 2025, 20:22_
+[Swiss Radio and Television (SRF)](https://www.srf.ch/news/schweiz/nach-grossbrand-in-baselland-gift-blockiert-wiederaufbau-von-industriegebiet-in-laufen) • _Wednesday, December 10, 2025, 17:30 PM_
 
-- By Bhanvi Satija and Robin Respaut: Women with polycystic ovary syndrome (PCOS) are increasingly turning to blockbuster drugs from Eli Lilly (NYSE:LLY) and Novo Nordisk (OMXCOP:NOVO_B) to control the hormonal disorder’s symptoms, according to an exclusive analysis of US patient data…
+Cleanup of a large industrial area in Laufen is postponed for years because of PFAS chemicals from firefighting foam.
 
-> Relevance score: [3] – Medical development relevant to a specific patient group; while beneficial, it does not constitute a major societal or structural shift for Switzerland.
+## Man dies of rabies: infected donor kidney transplanted
 
-## President Trump attacks Europe: “Weak” and “Politically Correct”
+[20 Minutes](https://www.20min.ch/story/usa-mann-stirbt-an-tollwut-kontakt-zu-krankem-tier-hatte-er-nicht-103467435) • _Wednesday, December 10, 2025, 15:12 PM_
 
-[20 Minutes](https://www.20min.ch/story/eu-spitzenpolitiker-schwach-und-politisch-korrekt-trump-schiesst-gegen-europa-103467002) • _Tuesday, December 9, 2025, 19:34_
+A man from Michigan died of rabies after receiving a kidney from a donor who had been scratched by a raccoon.
 
-Trump expresses negative views about European politics and warns about the future of many states.
+## Profiles must be disclosed for U.S. entry
 
-U.S. President Donald Trump again intensified his criticism of Europe. He said that while he may tolerate the “current leadership,” he described European leaders as “weak” and “politically correct” in an interview with the news portal Politico… [read more](https://www.20min.ch/story/eu-spitzenpolitiker-schwach-und-politisch-korrekt-trump-schiesst-gegen-europa-103467002)
+[20 Minutes](https://www.20min.ch/story/usa-verschaerfte-kontrolle-bei-einreise-auch-schweizer-betroffen-103467476) • _Wednesday, December 10, 2025, 14:39 PM_
 
-> Relevance score: [3] – Trump’s rhetorical criticism of Europe may affect transatlantic discourse but has little concrete effect on Swiss policy or society.
+U.S. border officials plan to require travelers to reveal their social‑media profiles upon entry, raising concerns for Swiss citizens.
 
-## Greek farmers storm Heraklion airport and halt flights
+## Cult snack bars at Bellevue get a grace period
 
-[aeroTELEGRAPH](https://www.aerotelegraph.com/sicherheit/griechische-bauern-stuermen-flughafen-heraklion-und-legen-flugverkehr-lahm/3m1wv7t) • _Wednesday, December 10, 2025, 05:19_
+[Swiss Radio and Television (SRF)](https://www.srf.ch/news/schweiz/streit-mit-der-stadt-zuerich-kult-imbisse-am-bellevue-erhalten-eine-gnadenfrist) • _Wednesday, December 10, 2025, 14:09 PM_
 
-During protests on the Greek island of Crete, farmers entered the apron of Heraklion airport. Flights were halted for several hours.
+The two snack bars at Zurich’s Bellevue can stay open for nine more months, offering a small consolation to the owners.
 
-Demonstrating farmers blocked roads with their tractors and other … [read more](https://www.aerotelegraph.com/sicherheit/griechische-bauern-stuermen-flughafen-heraklion-und-legen-flugverkehr-lahm/3m1wv7t)
+## Airbus Defence and Space signs €50 million contract with the French DGA
 
-> Relevance score: [2] – Greek agricultural protest affecting a single airport is largely irrelevant to Swiss citizens and has no structural consequences for Switzerland.
+[MarketScreener Switzerland](https://ch.marketscreener.com/boerse-nachrichten/airbus-defence-and-space-unterzeichnet-50-millionen-euro-vertrag-mit-der-dga-ce7d51d3d189f421) • _Wednesday, December 10, 2025, 11:33 AM_
 
-## In Miami, a Democrat becomes mayor for the first time in 30 years
+The French defence agency **Direction générale de l'armement** has concluded a framework agreement with Airbus Defence and Space worth up to €50 million.
 
-[Watson](https://www.watson.ch/international/usa/915764379-in-miami-wird-erstmals-seit-30-jahren-eine-demokratin-buergermeisterin) • _Wednesday, December 10, 2025, 04:02_
+## Airbus receives €50 million order to implement French military AI
 
-The metropolis of Miami in the U.S. state of Florida will be governed by a Democrat for the first time in roughly three decades.
+[MarketScreener Switzerland](https://ch.marketscreener.com/boerse-nachrichten/airbus-erhaelt-50-millionen-euro-auftrag-zur-implementierung-franzoesischer-militaer-ki-ce7d51d3de80f320) • _Wednesday, December 10, 2025, 11:20 AM_
 
-In Miami, a Democrat wins the mayoral election for the first time in about 30 years. … [read more](https://www.watson.ch/international/usa/915764379-in-miami-wird-erstmals-seit-30-jahren-eine-demokratin-buergermeisterin)
-
-> Relevance score: [2] – Local US municipal election carries minimal relevance for Swiss public affairs or global structural change.
-
-## Intense fighting on the Cambodia border
-
-[DER FARANG](https://der-farang.com/de/pages/heftige-kaempfe-an-der-grenze-zu-kambodscha) • _Wednesday, December 10, 2025, 03:29_
-
-BANGKOK/PHNOM PENH: There is no longer any talk of peace; sharp shooting has resumed on the border between the Southeast Asian neighbours. … [read more](https://der-farang.com/de/pages/heftige-kaempfe-an-der-grenze-zu-kambodscha)
-
-> Relevance score: [2] – Escalation of conflict in Southeast Asia is geopolitically notable but does not have immediate or sizable impact on Switzerland’s security or society.
+Airbus has secured a €50 million contract to integrate French defence‑AI technology into weapons and intelligence systems.
 
 </details>
