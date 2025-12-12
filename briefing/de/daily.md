@@ -2,204 +2,151 @@
 
 ---
 
-_Aktualisiert: Donnerstag, 11. Dezember 2025, 18:30 Uhr_
+_Aktualisiert: Freitag, 12. Dezember 2025, 18:23 Uhr_
 
-## Zinspolitik der SNB: Bleiben die Zinsen bei null oder sinken sie ins Minus?
+## PFAS-Grenzwerte: Der Bund verschiebt Übernahme der EU-Grenzwerte
 
-[20 Minuten](https://www.20min.ch/story/oekonomen-legen-sich-fest-nullzinsen-oder-minuskurs-so-entscheidet-der-snb-praesident-103467354) • _Mittwoch, 10. Dezember 2025, 19:45 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/doch-keine-eu-uebernahme-bund-verschiebt-anpassung-der-pfas-grenzwerte-im-trinkwasser) • _Freitag, 12. Dezember 2025, 06:00 Uhr_
 
-Die Schweizerische Nationalbank steht vor einer Entscheidung. Was bedeutet das für Hypotheken und die Wirtschaft?
+Wegen laufender politischer Diskussionen verzichtet der Bund vorerst auf strengere PFAS-Grenzwerte im Trinkwasser.
 
-### Hintergrund & Erwartungsumfrage  
-- Am **Donnerstag** kündigt **[Martin Schlegel](https://en.wikipedia.org/wiki/Martin_Schlegel)** als Präsident der **[Schweizerischen Nationalbank (SNB)](https://en.wikipedia.org/wiki/Swiss_National_Bank)** den nächsten Leitzins‑Entscheid an.  
-- Eine von **[Reuters](https://www.reuters.com/)** durchgeführte Befragung von 40 Ökonomen ergibt:  
-  - **38 Experten** erwarten, dass der Leitzins bei **0 %** bleibt.  
-  - **2 Experten** sehen eine mögliche Senkung auf **‑0,25 %**.  
+### Hintergrund und geplante Anpassung  
+- Das **Bundesamt für Lebensmittelsicherheit und Veterinärwesen** (BLV) wollte die Trinkwasser‑Grenzwerte für **[PFAS](https://de.wikipedia.org/wiki/PFAS)** zum 1. Januar 2026 an die neuen EU‑Bestimmungen anpassen.  
+- Bislang gelten in der Schweiz Grenzwerte nur für drei Stoffe (PFOS, PFHxS, PFOA).  
+- Geplant war ein einheitlicher Grenzwert von **0,1 µg / L** für 20 ausgewählte PFAS, was sowohl die Strenge als auch die Zahl der abgedeckten Substanzen erhöhen würde.  
 
-### Szenario 1 – Beibehaltung der Nullzinsen  
-- **Inflation & Wachstum**: Im November sank die Inflation um 0,2 % (Monatsvergleich); das BIP‑Wachstum liegt bei ca. 0,5 %. Beides reicht laut **[Philipp Burckhardt](https://www.lombardodier.com/)** (Fixed‑Income‑Stratege, Lombard Odier) nicht aus, um in den Negativzins‑Bereich zu gelangen.  
-- **Auswirkungen**:  
-  - **Hypothekenzinsen**: Markt hat das Szenario bereits eingepreist → kaum Reaktion.  
-  - **Mietpreise**: Der hypothekarische Referenzzinssatz bleibt unter Druck, doch die Nachfrage nach Mietwohnungen bleibt der Haupttreiber.  
-  - **Inflation**: Bleibt kurzfristig niedrig, dürfte mittelfristig wieder steigen.  
-  - **Bankguthaben**: Keine Zinsen, Negativzinsen bleiben ein „theoretisches Szenario“.  
-  - **Euro/Franken‑Kurs**: Durch das Zinsgefälle zur **[Europäischen Zentralbank (EZB)](https://en.wikipedia.org/wiki/European_Central_Bank)** (Leitzins ca. 2 %) bleibt der Franken wenig attraktiv → langfristige Abwertung gegenüber dem Euro.  
-  - **Wirtschaft**: Nullzinsen fördern die Kreditnachfrage und damit Investitionen, was die Schweizer Wirtschaft unterstützt.  
+### Politische Diskussion und Verzögerung  
+- Die **Umweltkommission des Ständerats** hat einen Vorstoß eingebracht, nach dem die Schweiz eigene PFAS‑Grenzwerte festlegen soll, unabhängig von der EU.  
+- Der Vorstoß beinhaltet zudem eine Unterstützung für landwirtschaftliche Betriebe, deren Produkte die Grenzwerte überschreiten.  
+- Beide Bundesräte (Ständerat und Nationalrat) haben den Vorstoß grundsätzlich angenommen, aber der Ständerat muss ihn erneut behandeln.  
+- Wegen dieser laufenden Debatte hat das BLV die geplante Anpassung vorerst **ausgesetzt**.  
 
-### Szenario 2 – Senkung auf **‑0,25 %**  
-- **Marktreaktion**: Ein Negativzins würde die Märkte überraschen, da das Umfeld (hohe EU‑Zinsen) eher eine Pause nahelegt.  
-- **Auswirkungen**:  
-  - **Hypothekenzinsen**: Sinkt, da das Szenario nicht erwartet war.  
-  - **Mietpreise**: Weiterer Druck nach unten auf den Referenzzinssatz, aber die starke Mietnachfrage bleibt entscheidend.  
-  - **Inflation**: Wie im ersten Szenario tief, mittelfristig jedoch wieder ansteigend.  
-  - **Bankguthaben**: Banken stehen unter verstärktem Druck und könnten Negativzinsen stärker an Kunden weitergeben.  
-  - **Euro/Franken‑Kurs**: Das große Zinsdifferential zur EZB macht den Franken weiterhin wenig attraktiv → weitere Abwertung gegenüber dem Euro.  
-  - **Wirtschaft**: Noch tiefere Kreditkosten erhöhen die Investitionsnachfrage, was das Wirtschaftswachstum stimuliert.  
+### Ziel des Vorstoßes der Umweltkommission  
+- **Benedikt Würth** (Mitte‑Ständerat) betont, dass das PFAS‑Problem Zeit zum Lösen brauche.  
+- Die Schweiz soll eigenständige Trinkwasser‑Grenzwerte entwickeln, die **mit den Lebensmittel‑Grenzwerten** (z. B. für Fleisch und Milch) abgestimmt sind.  
+- Das BLV prüft, ob eigenständige Grenzwerte sinnvoller sind – dies könnte zu **strengerer** Regelung führen als in der EU.  
 
-### Konsequenzen für Verbraucher & Unternehmen  
-- **Sparer & Pensionskassen**: Bleiben bei Nullzinsen ohne Ertrag; bei Negativzinsen könnten sie Gebühren oder Abschläge erfahren.  
-- **Kreditnehmer**: Profitieren von niedrigen bzw. fallenden Hypotheken‑ und Konsumkrediten.  
-- **Exportindustrie**: Ein schwächerer Franken unterstützt die Wettbewerbsfähigkeit.  
-- **Tourismus (Einkaufstouristen)**: Profitieren ebenfalls von einem günstigeren Franken.  
+### Ursachen für PFAS‑Belastungen in Lebensmitteln  
+- Der **Schweizer Bauernverband** sieht als wahrscheinlichste Quelle das **Düngen mit Klärschlamm**, das PFAS in den Boden und damit ins Tierfutter bringt.  
+- Auch belastetes **Wasser** könnte eine Rolle spielen.  
 
----  
-*Die endgültige Entscheidung der SNB wird maßgeblich bestimmen, ob die aktuelle Politik weiter zur Stimulierung der Wirtschaft beiträgt oder zusätzliche Belastungen für Sparer und das Finanzsystem mit sich bringt.*
+### Argumente für die Übernahme der EU‑Grenzwerte  
+- **Eva Goldmann**, PFAS‑Expertin beim **WWF Schweiz**, fordert einen einheitlichen Grenzwert für die 20 wichtigsten PFAS, weil sonst zu viele einzelne Werte definiert würden.  
+- Eine einheitliche würde die **Trinkwasserversorger handlungsfähig** machen und eine Reduktion der Belastung ermöglichen.  
 
-> Relevance score: [9] - Decisions of the Swiss National Bank directly affect mortgage rates, credit conditions and the broader economy. High relevance for all Swiss residents.
+### Stellung der Wasserversorgungen  
+- Der **Fachverband für Wasser, Gas und Wärme** (SVGW) berichtet, dass die meisten Versorgungsunternehmen die EU‑Grenzwerte bereits einhalten können.  
+- Unternehmen, die durch früheren Einsatz von PFAS‑haltigem **Löschschaum** belastet sind, haben bereits **Maßnahmen** ergriffen.  
 
-## Bis zu 250 Millionen Mehrkosten Ausbau des Bahnhofs Bern dauert offenbar deutlich länger und kostet viel mehr
+> Relevance score: [6] - National environmental regulation that affects drinking‑water safety for the whole population. The delay limits stricter health protection, but it is a regulatory change rather than a breakthrough, so its long‑term structural impact is moderate.
 
-[blue News](https://www.bluewin.ch/de/news/schweiz/ausbau-des-berner-bahnhofs-dauert-offenbar-deutlich-laenger-als-geplant-3004416.html) • _Donnerstag, 11. Dezember 2025, 05:47 Uhr_
+## Brüssel umgeht Ungarn: EU friert russisches Staatsvermögen dauerhaft ein - und schafft Grundlage für Ukraine-Kredite
 
-Der ausgebaute Bahnhof Bern kann voraussichtlich erst im Jahr 2031 eröffnet werden. Vergangenes Jahr hiess es, die Eröffnung finde Ende 2029 statt. Die Bauarbeiten dauern nicht nur länger als geplant, sie sind auch viel teurer.
+[Die Weltwoche](https://weltwoche.ch/daily/bruessel-umgeht-ungarn-eu-friert-russisches-staatsvermoegen-dauerhaft-ein-und-schafft-grundlage-fuer-ukraine-kredite/) • _Freitag, 12. Dezember 2025, 01:11 Uhr_
 
-### Projektüberblick  
-- Der **[Bahnhof Bern]** (https://de.wikipedia.org/wiki/Bahnhof_Bern) wird voraussichtlich erst **2031** eröffnet, statt wie 2022 noch geplanten **Ende 2029**.  
-- Der Umbau kostet nun etwa **40 % mehr** als ursprünglich veranschlagt: zusätzlich **200‑250 Millionen CHF**.  
+Die EU beschließt, russisches Vermögen dauerhaft einzufrieren, um Ukraine-Kredite zu ermöglichen. Ungarns Veto wird ausgeschlossen; Diskussionen um Risiken bestehen fort.
 
-### Gründe für die Verzögerungen  
-- **Einsprachen** von Anwohnern und Interessengruppen haben den Zeitplan mehrfach nach hinten verschoben.  
-- **Geologische Schwierigkeiten** und komplexe Bauarbeiten, z. B.:  
-  - **Altlasten** auf dem Baugelände (https://de.wikipedia.org/wiki/Altlast)  
-  - **Mangelhafte Verankerungen** und notwendige **Bodenvereisungen**  
-- **Pandemiebedingte** Auswirkungen (COVID‑19‑Pandemie) führten zu Lieferengpässen und Arbeitsausfällen (https://de.wikipedia.org/wiki/COVID-19-Pandemie).  
+### Entscheidung und Rechtsgrundlage
+- Die Mitgliedstaaten der [EU](https://en.wikipedia.org/wiki/European_Union) haben beschlossen, das russische Staatsvermögen **dauerhaft einzufrieren** und jede Rückübertragung nach Moskau **unbefristet zu verbieten**.  
+- Der Beschluss soll per **Mehrheitsentscheidung** gefasst werden, was ein mögliches Veto **[Ungarn](https://en.wikipedia.org/wiki/Hungary)** ausschließt.  
+- Grundlage dafür ist **Artikel 122** des [EU‑Vertrags](https://en.wikipedia.org/wiki/Treaty_on_European_Union), der Maßnahmen bei schweren wirtschaftlichen Störungen auch ohne Einstimmigkeit erlaubt.
 
-### Entwicklung des Kostenrahmens  
-- Ursprüngliches Budget: **974 Millionen CHF** für den Umbau inkl. neuer Personenunterführung und neues **[RBS‑Tiefbahnhof]** (https://de.wikipedia.org/wiki/Regionalverkehr_Bern%E2%80%93Solothurn).  
-- Erhöhte Ausgaben resultieren aus den genannten technischen und planungsbedingten Problemen sowie aus gestiegenen Material‑ und Lohnkosten.  
+### Finanzielle Details
+- Insgesamt sind in der EU rund **210 Mrd. €** an Geldern der russischen Zentralbank blockiert.  
+  - davon **ca. 185 Mrd. €** bei dem belgischen Finanzdienstleister **[Euroclear](https://en.wikipedia.org/wiki/Euroclear)**.  
+- Die rechtliche Basis ermöglicht, die **Zinsen** aus diesem eingefrorenen Vermögen künftig für **Kredite an die [Ukraine](https://en.wikipedia.org/wiki/Ukraine)** zu verwenden.  
+- Eine Rückzahlung an Russland ist nur nach Kriegsende denkbar, wenn Moskau **Reparationen** leistet.
 
-### Fazit  
-- Der Ausbau des Bahnhofs ist sowohl zeitlich als auch finanziell erheblich über den ursprünglichen Plan hinausgeschoben.  
-- Die zusätzlichen **200‑250 Millionen CHF** und die neue Zielöffnung 2031 spiegeln die Komplexität großer Infrastrukturprojekte in urbanen Räumen wider.  
+### Reaktionen und Bedenken
+- **[Belgien](https://en.wikipedia.org/wiki/Belgium)** bremst die Initiative mit Hinweisen auf mögliche **rechtliche und finanzielle Risiken**.  
+  - Premier **[Bart De Wever](https://en.wikipedia.org/wiki/Bart_De_Wever)** fordert:
+    - Garantien, dass mögliche Verluste **gemeinschaftlich getragen** werden.  
+    - Ausreichende **Absicherungen** für die beteiligten Staaten.  
+- **Russland** warnt die EU: die Nutzung der Gelder sei ein **„Akt des Diebstahls“**.  
+- Die **[Europäische Kommission](https://en.wikipedia.org/wiki/European_Commission)** betont dagegen, dass die Mittel **nicht konfisziert**, sondern **in Form von Krediten** für den Wiederaufbau der Ukraine eingesetzt werden.
 
-> Relevance score: [8] - Major public‑infrastructure project with a multi‑hundred‑million‑franc cost overrun and a delay of several years. Directly influences national transport capacity, regional development and public finances.
+### Auswirkungen für die Ukraine
+- Die Zinsen aus den eingefrorenen russischen Zentralbankgeldern bilden eine **nachhaltige Finanzierungsquelle** für die Ukraine.  
+- Damit wird ein **direkter Zusammenhang** zwischen der Wirtschaftssanktion gegen Russland und der Unterstützung des ukrainischen Wiederaufbaus hergestellt.
 
-## Solar-Initiative: Alle Dächer und Fassaden sollen Solarpanels erhalten
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/solar-installationspflicht-solar-initiative-mit-134-000-unterschriften-eingereicht) • _Mittwoch, 10. Dezember 2025, 20:53 Uhr_
-
-Mit der Initiative sollen in der Schweiz alle geeigneten Dächer und Fassaden mit Solarpanels ausgestattet werden.
-
-### Hintergrund  
-- Die [Grünen Schweiz](https://de.wikipedia.org/wiki/Grünliberale_Parti) haben bei der [Bundeskanzlei](https://de.wikipedia.org/wiki/Bundeskanzlei_(Schweiz)) 134 000 Unterschriften für die **Solarinitiative** eingereicht.  
-- Ziel ist, alle geeigneten Dächer und Fassaden in der **Schweiz** mit **Solarmodulen** auszustatten.  
-
-### Kernpunkte der Initiative  
-- **Offizieller Titel:** „Für eine sichere Versorgung mit erneuerbaren Energien (Solarinitiative)“.  
-- **Pflicht zur Installation** von Solarpanels auf Dächern und Fassaden, außer wenn:  
-  - Schutzinteressen (z. B. Denkmalschutz, Natur‑ und Artenschutz) überwiegen, **oder**  
-  - Die Installation aus anderen Gründen unverhältnismäßig wäre.  
-
-### Politische Argumentation  
-- Parteipräsidentin **[Lisa Mazzone](https://de.wikipedia.org/wiki/Lisa_Mazzone)** betont, dass die Initiative gleichzeitig Klima‑ und Naturschutz stärkt und die **Energiewende** vorantreibt, ohne auf teure und riskante **[Atomkraftwerke](https://de.wikipedia.org/wiki/Atomkraft)** setzen zu müssen.  
-- Die Grünen argumentieren, dass die Schweiz durch vermehrte Solarenergie ihre Verantwortung im Inland übernehmen könne und nicht auf **Klimakompensationen** im Ausland „freikaufen“ müsse.  
-
-### Verfahrensstand  
-- Für eine Volksabstimmung sind mindestens **100 000 gültige Unterschriften** erforderlich; die Bundeskanzlei prüft die Gültigkeit der eingereichten Signaturen.  
-- Diese Initiative wäre die erste **[Volksinitiative](https://de.wikipedia.org/wiki/Volksinitiative_(Schweiz))** seit zehn Jahren, bei der die Grünen alle Unterschriften eigenständig gesammelt haben.  
-
-> Relevance score: [8] - National political initiative aiming to mandate solar panel installation on all suitable Swiss roofs and façades. Could reshape the energy mix, climate policy and construction sector.
-
-## Bloomberg berichtet: Massiver Stellenabbau bei Pfizer Schweiz
-
-[Blick](https://www.blick.ch/wirtschaft/laut-bericht-pfizer-streicht-hunderte-stellen-in-der-schweiz-id21505847.html) • _Mittwoch, 10. Dezember 2025, 18:40 Uhr_
-
-Pfizer plant einem Bericht zufolge einen massiven Stellenabbau in der Schweiz. Das Pharmaunternehmen will bis Jahresende seine Schweizer Belegschaft von 300 auf etwa 70 Mitarbeiter reduzieren. Diese Massnahme ist Teil eines mehrjährigen Kostensenkungsprogramms.
-
-### Hintergrund  
-- **Pfizer** (https://en.wikipedia.org/wiki/Pfizer) führt ein mehrjähriges **Kostensenkungsprogramm** (https://en.wikipedia.org/wiki/Cost_reduction) von rund **5,6 Mrd. CHF** bis 2027 durch.  
-- Das Unternehmen reduziert seine Präsenz in **Schweiz** (https://en.wikipedia.org/wiki/Switzerland), einem der wichtigsten Exportsektoren des Landes.  
-
-### Stellenabbau in der Schweiz  
-- Die Belegschaft der Schweizer Tochter wird von etwa **300** auf **ca. 70** Mitarbeitende bis Ende 2023 gesenkt.  
-- Der Abbau umfasst mehrere hundert Stellen und ist Teil der übergeordneten Kostensenkungsstrategie.  
-
-### Führungswechsel und eingeschränkter Handlungsspielraum  
-- **Sabine Bruckner**, langjährige Leiterin des Schweizer Geschäfts, wechselt zum 1. Dezember ins internationale Team von Pfizer, wo sie eine globale Rolle übernehmen soll.  
-- **Res Lal** übernimmt die Leitung des Schweizer Geschäfts, jedoch mit einem **eingeschränkten Handlungsspielraum**, wie Bloomberg‑Informanten berichten.  
-
-### Branchenkontext  
-- **Novartis** (https://en.wikipedia.org/wiki/Novartis) hatte im November bereits angekündigt, wegen einer **Automatisierungsoffensive** etwa **550** Stellen in der Schweiz abzubauen.  
-- Der Stellenabbau bei Pfizer folgt somit einem Trend, bei dem große Pharmariesen ihre Kostenstruktur in der Schweiz neu ausrichten.  
-
-> Relevance score: [7] - Large-scale job cuts at a major pharmaceutical company in Switzerland impact the local labour market, high‑skill employment and the national biotech sector.
+> Relevance score: [6] - Major EU financial decision with global ramifications, especially for sanctions policy and the funding of Ukraine. Although Switzerland is not an EU member, the move influences European financial markets and foreign‑policy debates that affect Swiss interests.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Streit um Landesmantelvertrag: Baubranche in Sorge
+## Verbrenner-Aus: EU-Parlament will Verbot rückgängig machen
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/vertragsloser-zustand-droht-konflikt-um-arbeitsbedingungen-macht-baubranche-bauchweh) • _Donnerstag, 11. Dezember 2025, 05:59 Uhr_
+[20 Min](https://www.20min.ch/story/eu-verbrenner-aus-soll-wieder-gekippt-werden-103468263) • _Donnerstag, 11. Dezember 2025, 18:28 Uhr_
 
-Auf den Baustellen wird befürchtet: Ohne Vertrag drohen Lohndumping und Schwarzarbeit. Eine Einigung sei deshalb nötig.
+Statt eines vollständigen Verbots von Verbrenner-Autos, soll statt 100 Prozent nur eine 90-prozentige CO2-Reduktion erreicht werden.
 
-Es ist kalt und neblig an diesem Dezembermorgen. Auf der Grossbaustelle im Mattenhofquartier in der Stadt Kriens herrscht schon reger Betrieb. Fünf Stockwerke des neuen Wohnkomplexes stehen bereits, sieben sollen es am Ende werden.
-Am Start ist auch ... [weiterlesen](https://www.srf.ch/news/schweiz/vertragsloser-zustand-droht-konflikt-um-arbeitsbedingungen-macht-baubranche-bauchweh)
+Der Chef der Europäischen Volkspartei (EVP), Manfred Weber, sieht nach einem Gespräch mit EU-Kommissionspräsidentin Ursula von der Leyen eine Lösung im Streit um die Zukunft von Autos mit Verbrennermotor in Europa. «Bei Neuzulassungen ab 2035 soll nu... [weiterlesen](https://www.20min.ch/story/eu-verbrenner-aus-soll-wieder-gekippt-werden-103468263)
 
-> Relevance score: [5] - National dispute over a collective labour contract that could affect wages, working conditions and the prevalence of illegal labour in the Swiss construction sector. Impacts a sizable industry but does not reshape the overall economy.
+> Relevance score: [5] - A significant EU policy debate on vehicle emissions that will affect the European auto market and climate policy. Switzerland, as a neighboring economy with a sizable car sector, will feel indirect effects, making it moderately relevant.
 
-## Fed-Leitzinsentscheid - US-Notenbank senkt Zinsen zum dritten Mal in Folge
+## Polizei manipuliert Beweisfotos und kassiert zu Unrecht Bussen
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/fed-leitzinsentscheid-us-notenbank-senkt-zinsen-zum-dritten-mal-in-folge) • _Mittwoch, 10. Dezember 2025, 20:04 Uhr_
+[20 Min](https://www.20min.ch/story/kanton-glarus-polizei-kassierte-zu-unrecht-bussgelder-und-manipulierte-bilder-103468352) • _Donnerstag, 11. Dezember 2025, 22:38 Uhr_
 
-Die US-Notenbank senkt den Leitzins um 25 Basispunkte auf eine Spanne von 3.50 bis 3.75 Prozent.
+Ein Gericht spricht einen geblitzten Fahrer frei, nachdem die Polizei gefälschte Fotos einreichte. Über 600 Bussen könnten nun annulliert werden.
 
-Die US-Notenbank Federal Reserve (Fed) senkt zum dritten Mal in diesem Jahr den Leitzins.
-Der Zentralbankrat setzte das Zinsniveau um 0.25 Punkte herab auf eine Spanne von 3.5 bis 3.75 Prozent, wie die Fed in Washington mitteilte.
-Grund dafür waren e... [weiterlesen](https://www.srf.ch/news/international/fed-leitzinsentscheid-us-notenbank-senkt-zinsen-zum-dritten-mal-in-folge)
+Ein Polizist der Glarner Kantonspolizei soll Bilder manipuliert haben, die darüber entscheiden können, ob ein Autofahrer eine Busse zahlen muss oder nicht. Dies kam bei einem Prozess vor dem Glarner Obergericht aus, der am Donnerstag stattfand. Hunde... [weiterlesen](https://www.20min.ch/story/kanton-glarus-polizei-kassierte-zu-unrecht-bussgelder-und-manipulierte-bilder-103468352)
 
-> Relevance score: [5] - US rate cut influences global financial conditions, exchange rates and Swiss monetary policy outlook. Important for investors and macro‑economy but indirect.
+> Relevance score: [4] - A local case of police misconduct in the canton of Glarus that raises concerns about rule of law and can affect many drivers with unjust fines. Important for Swiss civic trust but limited to a canton.
 
-## Wie würde sich Kevin Hassett als Fed-Chef zeigen?
+## Das würde Social-Media-Kontrolle bei USA-Einreise bedeuten
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/kuehler-oekonom-oder-verteidiger-trumps-die-zwei-gesichter-des-kevin-hassett-ld.1915274) • _Donnerstag, 11. Dezember 2025, 05:30 Uhr_
+[Nau.ch](https://www.nau.ch/news/amerika/das-wurde-social-media-kontrolle-bei-usa-einreise-bedeuten-67076062) • _Freitag, 12. Dezember 2025, 03:15 Uhr_
 
-Der 63-Jährige könnte bald das Fed führen, die wichtigste Zentralbank der Welt. Ob er Erfolg hat, hängt davon ab, ob er sich glaubhaft von Trump distanzieren kann.
+Die USA wollen die Social-Media-Profile von Touristen kontrollieren. Wonach Grenzbeamte suchen und nach welchen Kriterien sie bewerten, ist unklar.
 
-Wer nur einen flüchtigen Blick auf Kevin Hassetts Biografie wirft, versteht die ganze Aufregung nicht. Die Laufbahn des 63-Jährigen, der vermutlich bald Chef der mächtigsten Zentralbank der Welt wird, ist für einen republikanischen Ökonomen typisch: ... [weiterlesen](https://www.nzz.ch/wirtschaft/kuehler-oekonom-oder-verteidiger-trumps-die-zwei-gesichter-des-kevin-hassett-ld.1915274)
+Etienne Sticher
+USA , 12.12.2025 - 03:15
+Die USA wollen die Social-Media-Profile von Touristen kontrollieren. Wonach Grenzbeamte suchen und nach welchen Kriterien sie bewerten, ist unklar.
+Das Wichtigste in Kürze
+Die USA planen Social-Media-Kontrolle... [weiterlesen](https://www.nau.ch/news/amerika/das-wurde-social-media-kontrolle-bei-usa-einreise-bedeuten-67076062)
 
-> Relevance score: [4] - Discussion of a potential US Federal Reserve chair, which could affect global monetary conditions and indirectly influence Swiss markets, but the article is mainly about US politics with limited immediate impact on Switzerland.
+> Relevance score: [3] - Potential US border policy that could affect Swiss travelers to the United States, but the measure is still speculative and limited in scope. Its impact on Swiss citizens is possible but not large.
 
-## Studie deckt genetische Verbindungen psychischer Erkrankungen auf
+## Ein König, Rebellen und das Milliardengeschäft mit Erdgas
 
-[Radio Central](https://www.radiocentral.ch/news/schweiz/studie-deckt-genetische-verbindungen-psychischer-erkrankungen-auf-162751718) • _Donnerstag, 11. Dezember 2025, 01:44 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/keine-zukunft-dafuer-gas-und-rebellen-ein-besuch-in-der-heimat-von-christian-aus-der-podcast-serie-250-dollar-ld.1916048) • _Freitag, 12. Dezember 2025, 05:31 Uhr_
 
-Viele psychische Erkrankungen sind laut einer neuen Studie genetisch miteinander verknüpft. So steigern Gene, die das Risiko für eine psychische Erkrankung erhöhen, oft auch die Wahrscheinlichkeit für andere psychische Störungen.
+Im Südosten Nigerias liegt Imo State. Ein Gliedstaat, arm an Zukunftsaussichten, aber reich an Gas. Christian bricht von hier auf. Die NZZ sucht in Imo State nach seinen Gründen.
 
-Für die Studie haben Forscherinnen und Forscher von fast 500 Forschungsinstitutionen weltweit DNA-Daten von mehr als einer Million Menschen mit diagnostizierten psychischen Erkrankungen zusammengetragen, untersucht und verglichen. Die Resultate wurde... [weiterlesen](https://www.radiocentral.ch/news/schweiz/studie-deckt-genetische-verbindungen-psychischer-erkrankungen-auf-162751718)
+«Es ist nicht das erste Mal, dass ein junger Mann aus dem Dorf in die Wüste aufbricht», sagt König Douglas Okwara. Okwara ist ein Igwe, wie die traditionellen Herrscher hier, im Südosten Nigerias, heissen. Er regiert das «alte Königreich Umuna», eine... [weiterlesen](https://www.nzz.ch/international/keine-zukunft-dafuer-gas-und-rebellen-ein-besuch-in-der-heimat-von-christian-aus-der-podcast-serie-250-dollar-ld.1916048)
 
-> Relevance score: [4] - Important scientific finding with potential long‑term implications for mental‑health research and treatment worldwide, including Switzerland, yet the immediate civic impact is modest.
+> Relevance score: [2] - A feature on gas extraction in Nigeria; it has no direct connection to Swiss policy, economy or society and is unlikely to affect Swiss public understanding of world events in a concrete way.
 
-## Krieg in der Ukraine - Merz, Macron und Starmer telefonieren mit Trump
+## Der wilde Mann der Trump-Regierung
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-merz-macron-und-starmer-telefonieren-mit-trump) • _Mittwoch, 10. Dezember 2025, 19:52 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/pete-hegseth-der-wilde-mann-der-trump-regierung-ld.1915830) • _Freitag, 12. Dezember 2025, 05:30 Uhr_
 
-Im Gespräch ging es um den Stand der Verhandlungen über einen Waffenstillstand und die Arbeit am Friedensplan.
+Chat-Skandal, chaotische Personalpolitik, ein mögliches Kriegsverbrechen – Hegseth steht unter Druck und geniesst doch das Vertrauen seines Chefs. Wer ist der selbsternannte Kriegsminister?
 
-Angesichts der humanitären Krise in der Ukraine sammelt die Glückskette Spenden für die betroffene ukrainische Bevölkerung. Millionen Menschen – vor allem Kinder, Frauen und ältere Menschen – sind bereits geflohen und suchen Zuflucht in den Nachbarlä... [weiterlesen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-merz-macron-und-starmer-telefonieren-mit-trump)
+Wenn Pete Hegseth eine Rede hält, dann spuckt er jedes einzelne Wort aus. Seine Sätze sind ein Stakkato von Vokabeln, die alle gleich wichtig sind – will heissen: enorm wichtig. Es gibt üble Wörter wie Demokratieförderung, Klimawandel und Wokeness, u... [weiterlesen](https://www.nzz.ch/international/pete-hegseth-der-wilde-mann-der-trump-regierung-ld.1915830)
 
-> Relevance score: [3] - Diplomatic talks about the Ukraine conflict involve European leaders but have limited immediate effect on Swiss domestic or foreign policy.
+> Relevance score: [2] - Focuses on a US political figure and internal US controversies. While geopolitically interesting, it bears little relevance for Swiss civic or economic life.
 
-## LG Electronics präsentiert nächste Generation von KI-Technologie auf der CES 2026
+## US-Berufungsgericht hebt Teile der Sanktionen gegen Apple im Kartellrechtsstreit mit Epic Games auf
 
-[MarketScreener Deutschland](https://de.marketscreener.com/boerse-nachrichten/lg-electronics-praesentiert-naechste-generation-von-ki-technologie-auf-der-ces-2026-ce7d50dadc88f723) • _Donnerstag, 11. Dezember 2025, 03:20 Uhr_
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/us-berufungsgericht-hebt-teile-der-sanktionen-gegen-apple-im-kartellrechtsstreit-mit-epic-games-auf-ce7d50dbdd89f223) • _Donnerstag, 11. Dezember 2025, 19:28 Uhr_
 
-LG Electronics wird auf der CES 2026 in Las Vegas seine neue KI-Kabinenplattform vorstellen. Diese innovative In-Car-Lösung, die für den Einsatz auf automobilen Hochleistungsrechnersystemen ...
+Apple hat am Donnerstag einen Teilerfolg vor einem US-Berufungsgericht erzielt: Das Unternehmen konnte erreichen, dass Teile einer gerichtlichen Anordnung aufgehoben wurden, die den iPhone-Hersteller...
 
-LG Electronics wird auf der CES 2026 in Las Vegas (6.-9. Januar) seine neue KI-Kabinenplattform vorstellen. Diese innovative In-Car-Lösung, die für den Einsatz auf automobilen Hochleistungsrechnersystemen (HPC) konzipiert ist, nutzt generative künstl... [weiterlesen](https://de.marketscreener.com/boerse-nachrichten/lg-electronics-praesentiert-naechste-generation-von-ki-technologie-auf-der-ces-2026-ce7d50dadc88f723)
+Apple hat am Donnerstag einen Teilerfolg vor einem US-Berufungsgericht erzielt: Das Unternehmen konnte erreichen, dass Teile einer gerichtlichen Anordnung aufgehoben wurden, die den iPhone-Hersteller dazu verpflichten sollte, Änderungen an seinem luk... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/us-berufungsgericht-hebt-teile-der-sanktionen-gegen-apple-im-kartellrechtsstreit-mit-epic-games-auf-ce7d50dbdd89f223)
 
-> Relevance score: [2] - Technology showcase from a foreign firm at a US trade show. Interesting for tech enthusiasts but little direct relevance to Swiss society, economy or policy.
+> Relevance score: [2] - US antitrust litigation that may influence tech market dynamics globally, but the direct impact on Swiss consumers or businesses is marginal.
 
-## Vor Küste von Venezuela: USA beschlagnahmen Öl-Tanker
+## Fortnite kehrt nach Gerichtsbeschluss in den USA in den Google Play Store zurück
 
-[Blick](https://www.blick.ch/ausland/eskalation-der-spannungen-usa-beschlagnahmen-oel-tanker-vor-kueste-venezuelas-id21506198.html) • _Mittwoch, 10. Dezember 2025, 21:52 Uhr_
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/fortnite-kehrt-nach-gerichtsbeschluss-in-den-usa-in-den-google-play-store-zurueck-ce7d50dbdd88f42c) • _Donnerstag, 11. Dezember 2025, 19:48 Uhr_
 
-Am Mittwoch verkündete Donald Trump, dass die USA einen venezolanischen Öl-Tanker beschlagnahmt habe. Dies dürfte die Beziehungen zur Regierung Venezuelas weiter belasten.
+Das beliebte Battle-Royale-Spiel Fortnite von Epic Games ist nach Einhaltung einer einstweiligen Verfügung des US-Bezirksgerichts durch Google wieder im Google Play Store in den Vereinigten Staaten...
 
-Die Vereinigten Staaten haben einen venezolanischen Öltanker beschlagnahmt, wie amerikanische Medien berichten. Diese Aktion könnte die ohnehin angespannten Beziehungen zwischen den beiden Ländern weiter belasten.
-Präsident Donald Trump verkündete im... [weiterlesen](https://www.blick.ch/ausland/eskalation-der-spannungen-usa-beschlagnahmen-oel-tanker-vor-kueste-venezuelas-id21506198.html)
+Das beliebte Battle-Royale-Spiel Fortnite von Epic Games ist nach Einhaltung einer einstweiligen Verfügung des US-Bezirksgerichts durch Google wieder im Google Play Store in den Vereinigten Staaten verfügbar, wie das Unternehmen am Donnerstag mitteil... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/fortnite-kehrt-nach-gerichtsbeschluss-in-den-usa-in-den-google-play-store-zurueck-ce7d50dbdd88f42c)
 
-> Relevance score: [2] - US‑Venezuela confrontation that may affect global oil markets but has no direct bearing on Swiss domestic affairs or policy.
+> Relevance score: [1] - Entertainment‑industry news about a video game’s US availability; it has no substantive effect on Swiss society, economy or governance.
 
 
 </details>
