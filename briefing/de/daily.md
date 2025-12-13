@@ -2,151 +2,164 @@
 
 ---
 
-_Aktualisiert: Freitag, 12. Dezember 2025, 18:23 Uhr_
+_Aktualisiert: Samstag, 13. Dezember 2025, 18:20 Uhr_
 
-## PFAS-Grenzwerte: Der Bund verschiebt Übernahme der EU-Grenzwerte
+## Die Ukraine soll 2027 der EU beitreten
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/doch-keine-eu-uebernahme-bund-verschiebt-anpassung-der-pfas-grenzwerte-im-trinkwasser) • _Freitag, 12. Dezember 2025, 06:00 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/ein-ueberraschender-vorschlag-der-europaeer-die-ukraine-soll-schon-2027-der-eu-beitreten-ld.1916339) • _Freitag, 12. Dezember 2025, 20:13 Uhr_
 
-Wegen laufender politischer Diskussionen verzichtet der Bund vorerst auf strengere PFAS-Grenzwerte im Trinkwasser.
+Die EU muss aufpassen, bei den Ukraine-Gesprächen der USA und Russlands nicht umgangen zu werden. Jetzt hat sie laut Medienberichten ein kräftiges Zeichen gesetzt.
 
-### Hintergrund und geplante Anpassung  
-- Das **Bundesamt für Lebensmittelsicherheit und Veterinärwesen** (BLV) wollte die Trinkwasser‑Grenzwerte für **[PFAS](https://de.wikipedia.org/wiki/PFAS)** zum 1. Januar 2026 an die neuen EU‑Bestimmungen anpassen.  
-- Bislang gelten in der Schweiz Grenzwerte nur für drei Stoffe (PFOS, PFHxS, PFOA).  
-- Geplant war ein einheitlicher Grenzwert von **0,1 µg / L** für 20 ausgewählte PFAS, was sowohl die Strenge als auch die Zahl der abgedeckten Substanzen erhöhen würde.  
+### EU‑Beitrittsvorschlag für die Ukraine  
+- Europäische Regierungschefs haben den **[Vereinigten Staaten](https://de.wikipedia.org/wiki/Vereinigte_Staaten)** vorgeschlagen, die **[Ukraine](https://de.wikipedia.org/wiki/Ukraine)** bereits zum **1. Januar 2027** als Mitglied in die **[Europäische Union](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union)** aufzunehmen.  
+- Die Ukraine ist seit Sommer 2022 offizieller **EU‑Beitrittskandidat**, doch bislang wurde davon ausgegangen, dass der Beitritt noch mehrere Jahre dauern würde.  
 
-### Politische Diskussion und Verzögerung  
-- Die **Umweltkommission des Ständerats** hat einen Vorstoß eingebracht, nach dem die Schweiz eigene PFAS‑Grenzwerte festlegen soll, unabhängig von der EU.  
-- Der Vorstoß beinhaltet zudem eine Unterstützung für landwirtschaftliche Betriebe, deren Produkte die Grenzwerte überschreiten.  
-- Beide Bundesräte (Ständerat und Nationalrat) haben den Vorstoß grundsätzlich angenommen, aber der Ständerat muss ihn erneut behandeln.  
-- Wegen dieser laufenden Debatte hat das BLV die geplante Anpassung vorerst **ausgesetzt**.  
+### Beitrittsverfahren und praktische Hürden  
+- Der Beitritt erfordert Verhandlungen über **35 Kapitel** (z. B. freier Warenverkehr, Justiz, Eigentumsrechte).  
+- Bisher fand nur ein **Screening‑Verfahren** statt; die eigentlichen Kapitelverhandlungen stehen aus.  
+- Realistisch erscheint ein Beitritt innerhalb von 13 Monaten kaum, weil sowohl die Ukraine beitrittsfähig als auch die EU aufnahmefähig sein muss.  
+- Die Aufnahme eines Landes mit umfangreichen Kriegsschäden würde die EU stark verändern:  
+  * Erhöhte Ausgaben aus dem **Agrar‑ und Kohäsionsfonds**.  
+  * Andere Mitgliedstaaten (z. B. **Polen**) müssten Mittel kürzen – ein politisch heikles Thema.  
 
-### Ziel des Vorstoßes der Umweltkommission  
-- **Benedikt Würth** (Mitte‑Ständerat) betont, dass das PFAS‑Problem Zeit zum Lösen brauche.  
-- Die Schweiz soll eigenständige Trinkwasser‑Grenzwerte entwickeln, die **mit den Lebensmittel‑Grenzwerten** (z. B. für Fleisch und Milch) abgestimmt sind.  
-- Das BLV prüft, ob eigenständige Grenzwerte sinnvoller sind – dies könnte zu **strengerer** Regelung führen als in der EU.  
+### Geopolitische und sicherheitsbezogene Gründe  
+- Eine Annäherung an die EU würde das Land geopolitisch stärken und verhindern, dass **USA** und **Russland** bilaterale Regelungen zu Ungunsten der Ukraine treffen.  
+- Die EU‑Mitgliedschaft könnte die Diskussion darüber beenden, wer eine **Sicherheitsgarantie** für die Ukraine übernimmt; ähnlich wie die **[NATO](https://de.wikipedia.org/wiki/Nordatlantikpakt)** hätte die EU eine militärische Beistandspflicht.  
 
-### Ursachen für PFAS‑Belastungen in Lebensmitteln  
-- Der **Schweizer Bauernverband** sieht als wahrscheinlichste Quelle das **Düngen mit Klärschlamm**, das PFAS in den Boden und damit ins Tierfutter bringt.  
-- Auch belastetes **Wasser** könnte eine Rolle spielen.  
+### Finanzielle Unterstützung durch eingefrorene russische Vermögen  
+- Die EU plant, **90 Mrd. €** der eingefrorenen Mittel der **[Russischen Zentralbank](https://de.wikipedia.org/wiki/Zentralbank_Russlands)** (hauptsächlich bei **[Euroclear](https://de.wikipedia.org/wiki/Euroclear)**) als zinsloses Darlehen an die Ukraine zu vergeben.  
+  * Die Ukraine müsste das Darlehen nur zurückzahlen, wenn Russland Reparationszahlungen leistet – ein Szenario, das bislang als unwahrscheinlich gilt.  
+- Um Belgien (Sitz von Euroclear) vor möglichen Gegenmaßnahmen zu schützen, wurde beschlossen, die russischen Vermögenswerte **unbefristet** einzufrieren.  
+- Diese Maßnahme muss alle sechs Monate erneuert werden; eine unbefristete Einfrierung würde das Risiko von Rechtsstreitigkeiten verringern.  
 
-### Argumente für die Übernahme der EU‑Grenzwerte  
-- **Eva Goldmann**, PFAS‑Expertin beim **WWF Schweiz**, fordert einen einheitlichen Grenzwert für die 20 wichtigsten PFAS, weil sonst zu viele einzelne Werte definiert würden.  
-- Eine einheitliche würde die **Trinkwasserversorger handlungsfähig** machen und eine Reduktion der Belastung ermöglichen.  
+### Reaktionen aus Russland  
+- Die **[Zentralbank Russlands](https://de.wikipedia.org/wiki/Zentralbank_Russlands)** hat **Euroclear** vor einem Moskauer Gericht wegen angeblich schädigender Handlungen verklagt – ein Druckmittel, das weitere EU‑Entscheidungen zur Unterstützung der Ukraine erschweren könnte.  
 
-### Stellung der Wasserversorgungen  
-- Der **Fachverband für Wasser, Gas und Wärme** (SVGW) berichtet, dass die meisten Versorgungsunternehmen die EU‑Grenzwerte bereits einhalten können.  
-- Unternehmen, die durch früheren Einsatz von PFAS‑haltigem **Löschschaum** belastet sind, haben bereits **Maßnahmen** ergriffen.  
+> Relevance score: [8] - Potential EU enlargement reshapes European security, economics, and geopolitics; the decision will have significant long‑term consequences for the continent, including Switzerland’s external relations.
 
-> Relevance score: [6] - National environmental regulation that affects drinking‑water safety for the whole population. The delay limits stricter health protection, but it is a regulatory change rather than a breakthrough, so its long‑term structural impact is moderate.
+## Vermögen unbefristet für Kiew ein
 
-## Brüssel umgeht Ungarn: EU friert russisches Staatsvermögen dauerhaft ein - und schafft Grundlage für Ukraine-Kredite
+[Blick](https://www.blick.ch/ausland/moskau-bleibt-ruhig-bis-es-ums-geld-geht-210-millionen-euro-eingefroren-wirksame-waffe-gegen-putin-id21514033.html) • _Samstag, 13. Dezember 2025, 02:07 Uhr_
 
-[Die Weltwoche](https://weltwoche.ch/daily/bruessel-umgeht-ungarn-eu-friert-russisches-staatsvermoegen-dauerhaft-ein-und-schafft-grundlage-fuer-ukraine-kredite/) • _Freitag, 12. Dezember 2025, 01:11 Uhr_
+Putin wirkt unerschütterlich – bis es ums Geld geht. Die EU friert 210 Milliarden Euro russischer Vermögen ein, um die Ukraine zu unterstützen. Moskau reagiert empört und spricht von «Diebstahl» und «Kriegserklärung». Der Kreml sucht nach Wegen, zurückzuschlagen.
 
-Die EU beschließt, russisches Vermögen dauerhaft einzufrieren, um Ukraine-Kredite zu ermöglichen. Ungarns Veto wird ausgeschlossen; Diskussionen um Risiken bestehen fort.
+### Hintergrund und Entscheidung der EU
+- Die EU hat beschlossen, rund **210 Milliarden Euro** an Vermögenswerten der **Russischen Zentralbank** in Europa **unbefristet** einzufrieren.  
+  - Die Einfrierung ersetzt frühere sechs‑monatige Verlängerungen.  
+  - Statt des Kapitals sollen die **Zinsen** dieser Mittel als **Reparationskredit** für die **Ukraine** verwendet werden – ein rechtlich umstrittenes Vorgehen im internationalen Finanzrecht.  
+- **Ursula von der Leyen** erklärt, dass dies ein starkes Signal an **Russland** sei und die Kosten des „brutalen Angriffskriegs“ weiter steigen sollten.  
+- Der Kredit soll von Kiew erst zurückgezahlt werden, wenn **Russland** Wiederaufbau‑Entschädigungen leistet.  
+- Bei der Abstimmung der 27 EU‑Staaten stimmten **Ungarn** und die **Slowakei** gegen den Beschluss.
 
-### Entscheidung und Rechtsgrundlage
-- Die Mitgliedstaaten der [EU](https://en.wikipedia.org/wiki/European_Union) haben beschlossen, das russische Staatsvermögen **dauerhaft einzufrieren** und jede Rückübertragung nach Moskau **unbefristet zu verbieten**.  
-- Der Beschluss soll per **Mehrheitsentscheidung** gefasst werden, was ein mögliches Veto **[Ungarn](https://en.wikipedia.org/wiki/Hungary)** ausschließt.  
-- Grundlage dafür ist **Artikel 122** des [EU‑Vertrags](https://en.wikipedia.org/wiki/Treaty_on_European_Union), der Maßnahmen bei schweren wirtschaftlichen Störungen auch ohne Einstimmigkeit erlaubt.
+### Reaktionen aus Moskau
+- **Wladimir Putin** bleibt öffentlich zwar gelassen, delegiert die Reaktion jedoch an enge Vertraute.  
+- **Dmitri Medwedew** bezeichnete die EU‑Maßnahme als mögliche **„Kriegshandlung“**.  
+- **Sergej Netschajew**, Putins Botschafter in Deutschland, nannte das Vorgehen **„Diebstahl“**.  
+- **Maria Sacharowa**, Sprecherin des Außenministeriums, drohte mit der **„härtesten Reaktion“**.
 
-### Finanzielle Details
-- Insgesamt sind in der EU rund **210 Mrd. €** an Geldern der russischen Zentralbank blockiert.  
-  - davon **ca. 185 Mrd. €** bei dem belgischen Finanzdienstleister **[Euroclear](https://en.wikipedia.org/wiki/Euroclear)**.  
-- Die rechtliche Basis ermöglicht, die **Zinsen** aus diesem eingefrorenen Vermögen künftig für **Kredite an die [Ukraine](https://en.wikipedia.org/wiki/Ukraine)** zu verwenden.  
-- Eine Rückzahlung an Russland ist nur nach Kriegsende denkbar, wenn Moskau **Reparationen** leistet.
+### Rechtliche Schritte in Russland
+- Die **Russische Zentralbank** hat am Freitag Klage gegen das belgische Wertpapierhaus **Euroclear** eingereicht – vor einem **Moskauer Handelsgericht**.  
+  - Bei Euroclear liegen **185 Milliarden Euro** der gefrorenen Mittel; weitere **25 Milliarden Euro** befinden sich bei Banken in Belgien und Frankreich.  
+- Die Zentralbank bezeichnet die EU‑Pläne, die Vermögenswerte zur Unterstützung der Ukraine zu nutzen, als **rechtswidrig** und **völkerrechtswidrig**.
 
-### Reaktionen und Bedenken
-- **[Belgien](https://en.wikipedia.org/wiki/Belgium)** bremst die Initiative mit Hinweisen auf mögliche **rechtliche und finanzielle Risiken**.  
-  - Premier **[Bart De Wever](https://en.wikipedia.org/wiki/Bart_De_Wever)** fordert:
-    - Garantien, dass mögliche Verluste **gemeinschaftlich getragen** werden.  
-    - Ausreichende **Absicherungen** für die beteiligten Staaten.  
-- **Russland** warnt die EU: die Nutzung der Gelder sei ein **„Akt des Diebstahls“**.  
-- Die **[Europäische Kommission](https://en.wikipedia.org/wiki/European_Commission)** betont dagegen, dass die Mittel **nicht konfisziert**, sondern **in Form von Krediten** für den Wiederaufbau der Ukraine eingesetzt werden.
+### Weiteres Vorgehen
+- Die EU plant, den Reparationskredit beim anstehenden Gipfel **nächste Woche** solidarisch zu besiegeln.  
+- Die eingefrorenen Mittel bleiben ein zentrales Druckmittel im Konflikt zwischen **Russland**, der **EU** und **Ukraine**.  
 
-### Auswirkungen für die Ukraine
-- Die Zinsen aus den eingefrorenen russischen Zentralbankgeldern bilden eine **nachhaltige Finanzierungsquelle** für die Ukraine.  
-- Damit wird ein **direkter Zusammenhang** zwischen der Wirtschaftssanktion gegen Russland und der Unterstützung des ukrainischen Wiederaufbaus hergestellt.
+> Relevance score: [7] - EU's freezing of €210 bn of Russian assets is a major economic sanction affecting the war in Ukraine and financial markets; Swiss banks may be indirectly involved, giving it high relevance.
 
-> Relevance score: [6] - Major EU financial decision with global ramifications, especially for sanctions policy and the funding of Ukraine. Although Switzerland is not an EU member, the move influences European financial markets and foreign‑policy debates that affect Swiss interests.
+## Warum die Schweiz strengere PFAS
+
+[20 Min](https://www.20min.ch/story/ewigkeitschemikalien-pfas-im-trinkwasser-schweiz-vertagt-anpassung-der-grenzwerte-103468540) • _Freitag, 12. Dezember 2025, 20:10 Uhr_
+
+Ein Vorstoss im Ständerat bremst die sofortige Übernahme der neuen EU-Regeln zu PFAS.
+
+### Hintergrund  
+- **PFAS** (Per‑ und polyfluorierte Alkylsubstanzen) sind langlebige Chemikalien, die seit Jahrzehnten industriell produziert und weltweit verwendet werden.  
+- Sie gelangen über Industrie, Feuerlöschschaum und andere Quellen in die Umwelt, können in die Nahrungskette eintreten und beim Menschen nachgewiesen werden.  
+
+### Gesundheitliche Risiken von PFAS  
+- Studien deuten auf mögliche **Auswirkungen auf die Fruchtbarkeit**, Entwicklungsverzögerungen bei Kindern und ein erhöhtes **Krebsrisiko** hin.  
+- 2023 wurde in einem *Guardian*‑Bericht ein Zusammenhang zwischen dem Tod von sechs US‑Baseballspielern und PFAS festgestellt.  
+- Das **Deutsche Umweltbundesamt** fand 2020 zu hohe PFAS‑Konzentrationen im Blut von Kindern und Jugendlichen.  
+
+### Neue EU‑Grenzwerte (ab 2026)  
+- Die **Europäische Union** führt für 20 PFAS‑Substanzen einen Trinkwasser‑Grenzwert von **0,1 µg/L** ein.  
+- Bisher gelten in der Schweiz nur Grenzwerte für **PFOS**, **PFHxS** und **PFOA**.  
+
+### Schweizer Reaktion und geplante Umsetzung  
+- Die Schweiz hatte zunächst geplant, die EU‑Grenzwerte sofort zu übernehmen, hat dies jedoch **verschoben**.  
+- Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (**BLV**) teilt mit, dass die Anpassung der Grenzwerte während der laufenden politischen Diskussion aussteht.  
+
+### Diskussion im Parlament (Ständerat)  
+- Die **Umweltkommission des Ständerats** hat einen Vorstoß eingereicht, die PFAS‑Grenzwerte **unabhängig von der EU** festzulegen.  
+- Der Vorstoß wurde grundlegend im National‑ und Ständerat begrüßt, erfordert jedoch weitere Debatten im Ständerat.  
+- Ziel: **Abstimmung der Trinkwasser‑ und Lebensmittel‑Grenzwerte**, die in den EU‑Regeln bislang getrennt sind.  
+
+#### Optionen, die diskutiert werden  
+- **Schnelle Übernahme** der EU‑Grenzwerte.  
+- **Erarbeitung eigener, noch strengere** Grenzwerte.  
+- **Abwarten** und das aktuelle Vorgehen beibehalten, bis die Behörden eine Entscheidung treffen.  
+
+### Vorteile einer Übernahme der EU‑Werte  
+- Laut **Eva Goldmann** (PFAS‑Expertin, WWF Schweiz) könnten zahlreiche weitere „Ewigkeitschemikalien“ ins Trinkwasser gelangen.  
+- Ein einheitlicher Grenzwert für die **20 wichtigsten PFAS** sei sinnvoller, als für jede Substanz einzelne Werte zu setzen.  
+
+### Stellung der Wasserversorger  
+- Der Fachverband für Wasser, Gas und Wärme gibt an, dass die **EU‑Grenzwerte bereits heute** von den meisten Schweizer Wasserversorgungen eingehalten werden.  
+- Nur an **einzelnen Standorten** mit speziellen Belastungen (z. B. Rückstände von PFAS‑haltigem Löschschaum) wurden bereits **Maßnahmen** ergriffen.  
+
+> Relevance score: [6] - National legislation on persistent toxic substances directly affects public health, agriculture, and industry in Switzerland, making it an important domestic environmental policy matter.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Verbrenner-Aus: EU-Parlament will Verbot rückgängig machen
+## Laut einem Bericht verwendet das neueste Mobiltelefon von Huawei einen verbesserten Chip aus chinesischer Produktion
 
-[20 Min](https://www.20min.ch/story/eu-verbrenner-aus-soll-wieder-gekippt-werden-103468263) • _Donnerstag, 11. Dezember 2025, 18:28 Uhr_
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/laut-einem-bericht-verwendet-das-neueste-mobiltelefon-von-huawei-einen-verbesserten-chip-aus-chinesi-ce7d50d8dc89f723) • _Samstag, 13. Dezember 2025, 03:32 Uhr_
 
-Statt eines vollständigen Verbots von Verbrenner-Autos, soll statt 100 Prozent nur eine 90-prozentige CO2-Reduktion erreicht werden.
+Der Kirin 9030, der Chip, der das neueste Flaggschiff-Smartphone der Mate 80-Serie von Huawei Technologies antreibt, wurde von Chinas führender Foundry SMIC mit einer verbesserten Version von 7...
 
-Der Chef der Europäischen Volkspartei (EVP), Manfred Weber, sieht nach einem Gespräch mit EU-Kommissionspräsidentin Ursula von der Leyen eine Lösung im Streit um die Zukunft von Autos mit Verbrennermotor in Europa. «Bei Neuzulassungen ab 2035 soll nu... [weiterlesen](https://www.20min.ch/story/eu-verbrenner-aus-soll-wieder-gekippt-werden-103468263)
+Der Kirin 9030, der Chip, der das neueste Flaggschiff-Smartphone der Mate 80-Serie von Huawei Technologies antreibt, wurde von Chinas führender Foundry SMIC mit einer verbesserten Version von 7 Nanometern hergestellt, die jedoch immer noch hinter TSM... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/laut-einem-bericht-verwendet-das-neueste-mobiltelefon-von-huawei-einen-verbesserten-chip-aus-chinesi-ce7d50d8dc89f723)
 
-> Relevance score: [5] - A significant EU policy debate on vehicle emissions that will affect the European auto market and climate policy. Switzerland, as a neighboring economy with a sizable car sector, will feel indirect effects, making it moderately relevant.
+> Relevance score: [5] - Highlights progress in China’s semiconductor sector and the US‑China tech rivalry, which can affect global supply chains, but the immediate impact on Swiss society is limited.
 
-## Polizei manipuliert Beweisfotos und kassiert zu Unrecht Bussen
+## Grüne wollen Verhandlungsmandat im Zoll-Deal veröffentlichen
 
-[20 Min](https://www.20min.ch/story/kanton-glarus-polizei-kassierte-zu-unrecht-bussgelder-und-manipulierte-bilder-103468352) • _Donnerstag, 11. Dezember 2025, 22:38 Uhr_
+[Blick](https://www.blick.ch/politik/zoll-poker-mit-den-usa-gruene-wollen-verhandlungsmandat-veroeffentlichen-id21512876.html) • _Freitag, 12. Dezember 2025, 20:06 Uhr_
 
-Ein Gericht spricht einen geblitzten Fahrer frei, nachdem die Polizei gefälschte Fotos einreichte. Über 600 Bussen könnten nun annulliert werden.
+Kürzlich hat der Bund ein Verhandlungsmandat für einen Zoll-Deal mit den USA verabschiedet. Die Grünen drängen nun: Dieses soll an die Öffentlichkeit.
 
-Ein Polizist der Glarner Kantonspolizei soll Bilder manipuliert haben, die darüber entscheiden können, ob ein Autofahrer eine Busse zahlen muss oder nicht. Dies kam bei einem Prozess vor dem Glarner Obergericht aus, der am Donnerstag stattfand. Hunde... [weiterlesen](https://www.20min.ch/story/kanton-glarus-polizei-kassierte-zu-unrecht-bussgelder-und-manipulierte-bilder-103468352)
+Céline ZahnoRedaktorin Politik
+Kürzlich haben die Parlamentarier der Aussenpolitischen Kommissionen Post erhalten vom Bundesrat. Auf dem knapp zweieinhalbseitigen Papier ist die Verhandlungsposition des Bundesrats für den Zollpoker mit Washington fes... [weiterlesen](https://www.blick.ch/politik/zoll-poker-mit-den-usa-gruene-wollen-verhandlungsmandat-veroeffentlichen-id21512876.html)
 
-> Relevance score: [4] - A local case of police misconduct in the canton of Glarus that raises concerns about rule of law and can affect many drivers with unjust fines. Important for Swiss civic trust but limited to a canton.
+> Relevance score: [5] - Calls for transparency on a US‑Switzerland customs agreement touch on national trade policy and democratic oversight; relevance is moderate within Swiss political discourse.
 
-## Das würde Social-Media-Kontrolle bei USA-Einreise bedeuten
+## Wie Influenzaviren die Lungen-Abwehr gezielt außer Kraft setzen
 
-[Nau.ch](https://www.nau.ch/news/amerika/das-wurde-social-media-kontrolle-bei-usa-einreise-bedeuten-67076062) • _Freitag, 12. Dezember 2025, 03:15 Uhr_
+[Giessener Anzeiger](https://www.giessener-anzeiger.de/panorama/wie-influenzaviren-die-lungen-abwehr-gezielt-ausser-kraft-setzen-94081999.html) • _Freitag, 12. Dezember 2025, 23:00 Uhr_
 
-Die USA wollen die Social-Media-Profile von Touristen kontrollieren. Wonach Grenzbeamte suchen und nach welchen Kriterien sie bewerten, ist unklar.
+Gießener Forscher entdecken das Molekül TNFSF14 als Schlüssel. Es tötet wichtige Immunzellen und öffnet bakteriellen Infektionen die Tür.
 
-Etienne Sticher
-USA , 12.12.2025 - 03:15
-Die USA wollen die Social-Media-Profile von Touristen kontrollieren. Wonach Grenzbeamte suchen und nach welchen Kriterien sie bewerten, ist unklar.
-Das Wichtigste in Kürze
-Die USA planen Social-Media-Kontrolle... [weiterlesen](https://www.nau.ch/news/amerika/das-wurde-social-media-kontrolle-bei-usa-einreise-bedeuten-67076062)
+Startseite
+Panorama
+Wie Influenzaviren die Lungen-Abwehr gezielt außer Kraft setzen
+Gießener Forscher entdecken das Molekül TNFSF14 als Schlüssel. Es tötet wichtige Immunzellen und öffnet bakteriellen Infektionen die Tür.
+Von milden Erkältungssymptom... [weiterlesen](https://www.giessener-anzeiger.de/panorama/wie-influenzaviren-die-lungen-abwehr-gezielt-ausser-kraft-setzen-94081999.html)
 
-> Relevance score: [3] - Potential US border policy that could affect Swiss travelers to the United States, but the measure is still speculative and limited in scope. Its impact on Swiss citizens is possible but not large.
+> Relevance score: [4] - Scientific discovery about influenza mechanisms could improve future treatments, but its short‑term societal impact is limited and primarily of interest to the medical community.
 
-## Ein König, Rebellen und das Milliardengeschäft mit Erdgas
+## Thailand und Kambodscha: Kämpfe dauern an
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/keine-zukunft-dafuer-gas-und-rebellen-ein-besuch-in-der-heimat-von-christian-aus-der-podcast-serie-250-dollar-ld.1916048) • _Freitag, 12. Dezember 2025, 05:31 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/thailand-und-kambodscha-kambodscha-schliesst-grenzuebergang-zu-thailand) • _Samstag, 13. Dezember 2025, 05:00 Uhr_
 
-Im Südosten Nigerias liegt Imo State. Ein Gliedstaat, arm an Zukunftsaussichten, aber reich an Gas. Christian bricht von hier auf. Die NZZ sucht in Imo State nach seinen Gründen.
+Am Samstagmorgen meldeten die Armeen beider Seiten Angriffe.
 
-«Es ist nicht das erste Mal, dass ein junger Mann aus dem Dorf in die Wüste aufbricht», sagt König Douglas Okwara. Okwara ist ein Igwe, wie die traditionellen Herrscher hier, im Südosten Nigerias, heissen. Er regiert das «alte Königreich Umuna», eine... [weiterlesen](https://www.nzz.ch/international/keine-zukunft-dafuer-gas-und-rebellen-ein-besuch-in-der-heimat-von-christian-aus-der-podcast-serie-250-dollar-ld.1916048)
+Im Konflikt mit Thailand hat die kambodschanische Regierung den gemeinsamen Grenzübergang vollständig geschlossen.
+Am Samstagmorgen meldeten sowohl die thailändische als auch die kambodschanische Armee Angriffe.
+US-Präsident Donald Trump hatte noch a... [weiterlesen](https://www.srf.ch/news/international/thailand-und-kambodscha-kambodscha-schliesst-grenzuebergang-zu-thailand)
 
-> Relevance score: [2] - A feature on gas extraction in Nigeria; it has no direct connection to Swiss policy, economy or society and is unlikely to affect Swiss public understanding of world events in a concrete way.
-
-## Der wilde Mann der Trump-Regierung
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/pete-hegseth-der-wilde-mann-der-trump-regierung-ld.1915830) • _Freitag, 12. Dezember 2025, 05:30 Uhr_
-
-Chat-Skandal, chaotische Personalpolitik, ein mögliches Kriegsverbrechen – Hegseth steht unter Druck und geniesst doch das Vertrauen seines Chefs. Wer ist der selbsternannte Kriegsminister?
-
-Wenn Pete Hegseth eine Rede hält, dann spuckt er jedes einzelne Wort aus. Seine Sätze sind ein Stakkato von Vokabeln, die alle gleich wichtig sind – will heissen: enorm wichtig. Es gibt üble Wörter wie Demokratieförderung, Klimawandel und Wokeness, u... [weiterlesen](https://www.nzz.ch/international/pete-hegseth-der-wilde-mann-der-trump-regierung-ld.1915830)
-
-> Relevance score: [2] - Focuses on a US political figure and internal US controversies. While geopolitically interesting, it bears little relevance for Swiss civic or economic life.
-
-## US-Berufungsgericht hebt Teile der Sanktionen gegen Apple im Kartellrechtsstreit mit Epic Games auf
-
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/us-berufungsgericht-hebt-teile-der-sanktionen-gegen-apple-im-kartellrechtsstreit-mit-epic-games-auf-ce7d50dbdd89f223) • _Donnerstag, 11. Dezember 2025, 19:28 Uhr_
-
-Apple hat am Donnerstag einen Teilerfolg vor einem US-Berufungsgericht erzielt: Das Unternehmen konnte erreichen, dass Teile einer gerichtlichen Anordnung aufgehoben wurden, die den iPhone-Hersteller...
-
-Apple hat am Donnerstag einen Teilerfolg vor einem US-Berufungsgericht erzielt: Das Unternehmen konnte erreichen, dass Teile einer gerichtlichen Anordnung aufgehoben wurden, die den iPhone-Hersteller dazu verpflichten sollte, Änderungen an seinem luk... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/us-berufungsgericht-hebt-teile-der-sanktionen-gegen-apple-im-kartellrechtsstreit-mit-epic-games-auf-ce7d50dbdd89f223)
-
-> Relevance score: [2] - US antitrust litigation that may influence tech market dynamics globally, but the direct impact on Swiss consumers or businesses is marginal.
-
-## Fortnite kehrt nach Gerichtsbeschluss in den USA in den Google Play Store zurück
-
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/fortnite-kehrt-nach-gerichtsbeschluss-in-den-usa-in-den-google-play-store-zurueck-ce7d50dbdd88f42c) • _Donnerstag, 11. Dezember 2025, 19:48 Uhr_
-
-Das beliebte Battle-Royale-Spiel Fortnite von Epic Games ist nach Einhaltung einer einstweiligen Verfügung des US-Bezirksgerichts durch Google wieder im Google Play Store in den Vereinigten Staaten...
-
-Das beliebte Battle-Royale-Spiel Fortnite von Epic Games ist nach Einhaltung einer einstweiligen Verfügung des US-Bezirksgerichts durch Google wieder im Google Play Store in den Vereinigten Staaten verfügbar, wie das Unternehmen am Donnerstag mitteil... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/fortnite-kehrt-nach-gerichtsbeschluss-in-den-usa-in-den-google-play-store-zurueck-ce7d50dbdd88f42c)
-
-> Relevance score: [1] - Entertainment‑industry news about a video game’s US availability; it has no substantive effect on Swiss society, economy or governance.
+> Relevance score: [3] - A regional border conflict with limited direct effect on Switzerland; while it has some geopolitical relevance, the scale and long‑term impact are modest.
 
 
 </details>

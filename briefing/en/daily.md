@@ -2,144 +2,159 @@
 
 ---
 
-_Updated: Friday, 12 December 2025, 18:23_
+_Updated: Saturday, December 13, 2025, 18:20 CET_
 
-## PFAS Limits: The Federal Government Delays Adoption of EU Limits
+## Ukraine to join the EU in 2027
 
-[Swiss Radio and Television](https://www.srf.ch/news/schweiz/doch-keine-eu-uebernahme-bund-verschiebt-anpassung-der-pfas-grenzwerte-im-trinkwasser) • _Friday, 12 December 2025, 06:00_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/ein-ueberraschender-vorschlag-der-europaeer-die-ukraine-soll-schon-2027-der-eu-beitreten-ld.1916339) • _Friday, December 12, 2025, 20:13 CET_
 
-Due to ongoing political discussions, the federal government is temporarily refraining from stricter PFAS limits in drinking water.
+The EU must be careful not to be sidestepped in the Ukraine talks between the United States and Russia. According to media reports it has now sent a strong signal.
 
-### Background and Planned Adjustment  
-- The **Federal Office of Food Safety and Veterinary Affairs** (BLV) wanted to adjust the drinking‑water limits for **[PFAS](https://en.wikipedia.org/wiki/PFAS)** to the new EU regulations as of 1 January 2026.  
-- So far, Switzerland only has limits for three substances (PFOS, PFHxS, PFOA).  
-- The plan was a uniform limit of **0.1 µg / L** for 20 selected PFAS, which would raise both the strictness and the number of covered substances.  
+### EU accession proposal for Ukraine  
+- European heads of government have suggested to the **[United States](https://en.wikipedia.org/wiki/United_States)** that the **[Ukraine](https://en.wikipedia.org/wiki/Ukraine)** be admitted as a member of the **[European Union](https://en.wikipedia.org/wiki/European_Union)** already on **January 1, 2027**.  
+- Ukraine has been an official **EU accession candidate** since summer 2022, but it was previously assumed that accession would still take several more years.  
 
-### Political Discussion and Delay  
-- The **Environmental Commission of the Council of States** has introduced an initiative that Switzerland should set its own PFAS limits, independent of the EU.  
-- The initiative also includes support for agricultural businesses whose products exceed the limits.  
-- Both federal chambers (Council of States and National Council) have broadly accepted the initiative, but the Council of States must consider it again.  
-- Because of this ongoing debate, the BLV has **suspended** the planned adjustment for now.  
+### Accession process and practical hurdles  
+- Accession requires negotiations on **35 chapters** (e.g., free movement of goods, justice, property rights).  
+- So far only a **screening process** has taken place; the actual chapter negotiations are still pending.  
+- Realistically, accession within 13 months seems unlikely, because both Ukraine must be ready to join and the EU must be able to absorb it.  
+- Taking in a country with extensive war damage would change the EU dramatically:  
+  * Increased spending from the **Agriculture and Cohesion Funds**.  
+  * Other member states (e.g., **Poland**) would have to cut funds – a politically sensitive issue.  
 
-### Goal of the Environmental Commission’s Initiative  
-- **Benedikt Würth** (Council of States) emphasizes that the PFAS problem needs time to be solved.  
-- Switzerland should develop its own drinking‑water limits that are **aligned with the food limits** (e.g., for meat and milk).  
-- The BLV is examining whether independent limits would be more sensible – this could lead to **stricter** regulation than in the EU.  
+### Geopolitical and security‑related reasons  
+- A rapprochement with the EU would strengthen the country geopolitically and prevent the **United States** and **Russia** from reaching bilateral arrangements to the detriment of Ukraine.  
+- EU membership could end the debate over who provides a **security guarantee** for Ukraine; similar to the **[NATO](https://en.wikipedia.org/wiki/NATO)**, the EU would have a military assistance obligation.  
 
-### Sources of PFAS Contamination in Food  
-- The **Swiss Farmers’ Association** sees fertilising with sewage sludge as the most likely source, as it brings PFAS into the soil and therefore into animal feed.  
-- Contaminated **water** could also play a role.  
+### Financial support from frozen Russian assets  
+- The EU plans to grant **€90 billion** of the frozen assets of the **[Bank of Russia](https://en.wikipedia.org/wiki/Bank_of_Russia)** (mainly held at **[Euroclear](https://en.wikipedia.org/wiki/Euroclear)**) as an interest‑free loan to Ukraine.  
+- Ukraine would only have to repay the loan if Russia makes reparations payments – a scenario that has so far been considered unlikely.  
+- To protect Belgium (home of Euroclear) from possible retaliation, it was decided to freeze the Russian assets **indefinitely**.  
+- This measure must be renewed every six months; an indefinite freeze would reduce the risk of legal disputes.  
 
-### Arguments for Adopting the EU Limits  
-- **Eva Goldmann**, PFAS expert at **WWF Switzerland**, calls for a single limit for the 20 most important PFAS, because otherwise too many individual values would have to be defined.  
-- A uniform limit would make **water suppliers** able to act and would enable a reduction of the contamination.  
+### Reactions from Russia  
+- The **[Bank of Russia](https://en.wikipedia.org/wiki/Bank_of_Russia)** has sued **Euroclear** before a Moscow court for alleged harmful actions – a pressure tactic that could complicate further EU decisions to support Ukraine.  
 
-### Position of Water Suppliers  
-- The **Association for Water, Gas and Heat** (SVGW) reports that most utilities can already meet the EU limits.  
-- Companies that were affected by earlier use of PFAS‑containing **fire‑fighting foam** have already taken **measures**.  
+> Relevance score: [8] - Potential EU enlargement reshapes European security, economics, and geopolitics; the decision will have significant long‑term consequences for the continent, including Switzerland’s external relations.
 
-> Relevance score: [6] – National environmental regulation that affects drinking‑water safety for the whole population. The delay limits stricter health protection, but it is a regulatory change rather than a breakthrough, so its long‑term structural impact is moderate.
+## Assets frozen indefinitely for Kyiv
 
-## Brussels Bypasses Hungary: EU Permanently Freezes Russian State Assets – and Creates Basis for Ukraine Loans
+[Blick](https://www.blick.ch/ausland/moskau-bleibt-ruhig-bis-es-ums-geld-geht-210-millionen-euro-eingefroren-wirksame-waffe-gegen-putin-id21514033.html) • _Saturday, December 13, 2025, 02:07 CET_
 
-[Die Weltwoche](https://weltwoche.ch/daily/bruessel-umgeht-ungarn-eu-friert-russisches-staatsvermoegen-dauerhaft-ein-und-schafft-grundlage-fuer-ukraine-kredite/) • _Friday, 12 December 2025, 01:11_
+Putin appears unshakable – until money is at stake. The EU is freezing €210 billion of Russian assets to support Ukraine. Moscow reacts with outrage, calling it “theft” and a “declaration of war”. The Kremlin is looking for ways to strike back.
 
-The EU decides to permanently freeze Russian assets to enable Ukraine loans. Hungary's veto is excluded; discussions about risks continue.
+### Background and EU decision  
+- The EU has decided to freeze around **€210 billion** of assets belonging to the **Bank of Russia** in Europe **indefinitely**.  
+- The freeze replaces previous six‑month extensions.  
+- Instead of the capital, the **interest** on these funds should be used as a **reparations loan** for **Ukraine** – a legally contentious approach under international finance law.  
+- **Ursula von der Leyen** stated that this is a strong signal to **Russia** and that the costs of the “brutal war of aggression” should continue to rise.  
+- The loan should only be repaid by Kyiv when **Russia** provides reconstruction compensation.  
+- During the vote of the 27 EU states, **Hungary** and **Slovakia** voted against the decision.  
 
-### Decision and Legal Basis
-- The member states of the [EU](https://en.wikipedia.org/wiki/European_Union) have decided to **permanently freeze** Russian state assets and to **permanently forbid** any return of them to Moscow.  
-- The decision is to be adopted by **majority voting**, which excludes a possible veto by **[Hungary](https://en.wikipedia.org/wiki/Hungary)**.  
-- The legal basis is **Article 122** of the [Treaty on European Union](https://en.wikipedia.org/wiki/Treaty_on_European_Union), which allows measures in cases of severe economic disturbances without unanimity.  
+### Reactions from Moscow  
+- **Vladimir Putin** remains publicly calm, but delegates the reaction to close confidants.  
+- **Dmitry Medvedev** called the EU measure a possible **“act of war”**.  
+- **Sergei Neshchwajew**, Putin’s ambassador to Germany, called the action **“theft”**.  
+- **Maria Sacharova**, spokesperson for the foreign ministry, threatened the **“sternest response”**.  
 
-### Financial Details
-- In total, about **€210 billion** of Russian central‑bank funds are blocked in the EU.  
-  - of which **≈ €185 billion** are held by the Belgian financial service provider **[Euroclear](https://en.wikipedia.org/wiki/Euroclear)**.  
-- The legal basis allows the **interest** earned on these frozen assets to be used in the future for **loans to [Ukraine](https://en.wikipedia.org/wiki/Ukraine)**.  
-- A repayment to Russia is only conceivable after the war ends, if Moscow pays **reparations**.  
+### Legal steps in Russia  
+- The **Bank of Russia** filed a lawsuit on Friday against the Belgian securities house **Euroclear** – before a **Moscow commercial court**.  
+- Euroclear holds **€185 billion** of the frozen funds; an additional **€25 billion** are held at banks in Belgium and France.  
+- The central bank calls the EU plans to use the assets to support Ukraine **illegal** and **contrary to international law**.  
 
-### Reactions and Concerns
-- **[Belgium](https://en.wikipedia.org/wiki/Belgium)** is slowing the initiative, citing possible **legal and financial risks**.  
-  - Prime Minister **[Bart De Wever](https://en.wikipedia.org/wiki/Bart_De_Wever)** demands:  
-    - Guarantees that any potential losses are **shared collectively**.  
-    - Sufficient **safeguards** for the participating states.  
-- **Russia** warns the EU that using the funds is an **“act of.”**  
-- The **[European Commission](https://en.wikipedia.org/wiki/European_Commission)** stresses that the funds are **not confiscated**, but are to be **used as loans** for Ukraine’s reconstruction.  
+### Further steps  
+- The EU plans to seal the reparations loan solidarily at the upcoming summit **next week**.  
+- The frozen funds remain a central lever in the conflict between **Russia**, the **EU**, and **Ukraine**.  
 
-### Implications for Ukraine
-- Interest from the frozen Russian central‑bank funds creates a **sustainable financing source** for Ukraine.  
-- This establishes a **direct link** between the economic sanctions on Russia and support for Ukraine’s rebuilding.  
+> Relevance score: [7] - EU's freezing of €210 bn of Russian assets is a major economic sanction affecting the war in Ukraine and financial markets; Swiss banks may be indirectly involved, giving it high relevance.
 
-> Relevance score: [6] – Major EU financial decision with global ramifications, especially for sanctions policy and the funding of Ukraine. Although Switzerland is not an EU member, the move influences European financial markets and foreign‑policy debates that affect Swiss interests.
+## Why Switzerland wants stricter PFAS limits
+
+[20 Min](https://www.20min.ch/story/ewigkeitschemikalien-pfas-im-trinkwasser-schweiz-vertagt-anpassung-der-grenzwerte-103468540) • _Friday, December 12, 2025, 20:10 CET_
+
+A motion in the Council of States is slowing the immediate adoption of the new EU rules on PFAS.
+
+### Background  
+- **PFAS** (per‑ and polyfluoroalkyl substances) are persistent chemicals that have been industrially produced and used worldwide for decades.  
+- They enter the environment via industry, fire‑fighting foam and other sources, can enter the food chain and have been detected in humans.  
+
+### Health risks of PFAS  
+- Studies suggest possible **effects on fertility**, developmental delays in children, and an increased **cancer risk**.  
+- In 2023 a *Guardian* report found a link between the deaths of six U.S. baseball players and PFAS.  
+- The **German Environment Agency** found high PFAS concentrations in the blood of children and adolescents in 2020.  
+
+### New EU limits (from 2026)  
+- The **European Union** is introducing a drinking‑water limit of **0.1 µg/L** for 20 PFAS substances.  
+- So far, Switzerland only has limits for **PFOS**, **PFHxS**, and **PFOA**.  
+
+### Swiss reaction and planned implementation  
+- Switzerland initially planned to adopt the EU limits immediately, but has **delayed** them.  
+- The Federal Food Safety and Veterinary Office (**FSVO**) says that the adjustment of the limits is pending the ongoing political debate.  
+
+### Parliamentary debate (Council of States)  
+- The **Environment Commission of the Council of States** has submitted a motion to set PFAS limits **independently of the EU**.  
+- The motion was broadly welcomed in both the National Council and the Council of States, but requires further debate in the Council of States.  
+- Goal: **harmonisation of drinking‑water and food limits**, which are currently separate in the EU rules.  
+
+#### Options under discussion  
+- **Fast adoption** of the EU limits.  
+- **Development of own, even stricter** limits.  
+- **Wait** and maintain the current approach until authorities decide.  
+
+### Advantages of adopting the EU values  
+According to **Eva Goldmann** (PFAS expert, WWF Switzerland), many more “forever chemicals” could enter drinking water.  
+A single limit for the **20 most important PFAS** is more sensible than setting individual values for each substance.  
+
+### Position of water utilities  
+The industry association for water, gas and heat states that the **EU limits are already met today** by most Swiss water suppliers.  
+Only at **specific sites** with special contamination (e.g., residues from PFAS‑containing fire‑foam) have **measures** already been taken.  
+
+> Relevance score: [6] - National legislation on persistent toxic substances directly affects public health, agriculture, and industry in Switzerland, making it an important domestic environmental policy matter.
 
 <details><summary markdown="span">Show less important events</summary>
 
-## Internal Combustion Engines Out: EU Parliament Wants to Reverse Ban
+## A report says Huawei's newest smartphone uses an upgraded chip made in China
 
-[20 Min](https://www.20min.ch/story/eu-verbrenner-aus-soll-wieder-gekippt-werden-103468263) • _Thursday, 11 December 2025, 18:28_
+[MarketScreener Switzerland](https://ch.marketscreener.com/boerse-nachrichten/laut-einem-bericht-verwendet-das-neueste-mobiltelefon-von-huawei-einen-verbesserten-chip-aus-chinesi-ce7d50d8dc89f723) • _Saturday, December 13, 2025, 03:32 CET_
 
-Instead of a full ban on internal combustion cars, a 90 percent CO₂ reduction (instead of 100 percent) is to be achieved.
+The Kirin 9030, the chip that powers Huawei Technologies’ newest flagship Mate 80‑series smartphone, was produced by China’s leading foundry SMIC with an improved 7‑nanometer version, though it still lags behind TSM… [read more](https://ch.marketscreener.com/boerse-nachrichten/laut-einem-bericht-verwendet-das-neueste-mobiltelefon-von-huawei-einen-verbesserten-chip-aus-chinesi-ce7d50d8dc89f723)
 
-The leader of the European People’s Party (EPP), Manfred Weber, sees after a discussion with EU Commission President Ursula von der Leyen a solution in the dispute over the future of combustion‑engine cars in Europe. “For new registrations from 2035, …” [read more]
+> Relevance score: [5] - Highlights progress in China’s semiconductor sector and the US‑China tech rivalry, which can affect global supply chains, but the immediate impact on Swiss society is limited.
 
-> Relevance score: [5] – A significant EU policy debate on vehicle emissions that will affect the European auto market and climate policy. Switzerland, as a neighboring economy with a sizable car sector, will feel indirect effects, making it moderately relevant.
+## Greens want to publish the negotiation mandate for the customs deal
 
-## Police Manipulate Evidence Photos and Collect Fines Unjustly
+[Blick](https://www.blick.ch/politik/zoll-poker-mit-den-usa-gruene-wollen-verhandlungsmandat-veroeffentlichen-id21512876.html) • _Friday, December 12, 2025, 20:06 CET_
 
-[20 Min](https://www.20min.ch/story/kanton-glarus-polizei-kassierte-zu-unrecht-bussgelder-und-manipulierte-bilder-103468352) • _Thursday, 11 December 2025, 22:38_
+Recently the federal government passed a negotiation mandate for a customs deal with the United States. The Greens are now urging that it be made public.
 
-A court acquitted a flashing driver after the police submitted fabricated photos. Over 600 fines could now be annulled.
+Céline Zahno, political editor  
+Parliamentarians from the foreign policy committees recently received the mandate from the Federal Council. The roughly two‑and‑a‑half‑page document outlines the government's negotiating position for the “customs poker” with Washington… [read more](https://www.blick.ch/politik/zoll-poker-mit-den-usa-gruene-wollen-verhandlungsmandat-veroeffentlichen-id21512876.html)
 
-A police officer from the Glarus cantonal police is alleged to have manipulated images that decide whether a driver must pay a fine. This emerged during a trial before the Glarus Higher Court on Thursday. Dogs… [read more]
+> Relevance score: [5] - Calls for transparency on a US‑Switzerland customs agreement touch on national trade policy and democratic oversight; relevance is moderate within Swiss political discourse.
 
-> Relevance score: [4] – A local case of police misconduct in the canton of Glarus that raises concerns about rule of law and can affect many drivers with unjust fines. Important for Swiss civic trust but limited to a canton.
+## How influenza viruses specifically disable lung defenses
 
-## What Social‑Media Controls at US Entry Would Mean
+[Giessener Anzeiger](https://www.giessener-anzeiger.de/panorama/wie-influenzaviren-die-lungen-abwehr-gezielt-ausser-kraft-setzen-94081999.html) • _Friday, December 12, 2025, 23:00 CET_
 
-[Nau.ch](https://www.nau.ch/news/amerika/das-wurde-social-media-kontrolle-bei-usa-einreise-bedeuten-67076062) • _Friday, 12 December 2025, 03:15_
+Giessen researchers have identified the molecule TNFSF14 as a key factor. It kills important immune cells and opens the door for bacterial infections.
 
-The United States wants to check the social‑media profiles tourists. What border officers will look for and how they will assess them is unclear.
+Home → Panorama  
+How influenza viruses specifically disable lung defenses  
+Giessen researchers discover the molecule TNFSF14 as a key. It kills important immune cells and opens the door for bacterial infections.  
+From mild cold symptoms… [read more](https://www.giessener-anzeiger.de/panorama/wie-influenzaviren-die-lungen-abwehr-gezielt-ausser-kraft-setzen-94081999.html)
 
-Etienne Sticher  
-USA, 12.12.2025 – 03:15  
-The United States plans to control the social‑media profiles of tourists. What border officers will look for and the criteria they will use are unclear.  
-The main points in short: The US plans social‑media controls… [read more]
+> Relevance score: [4] - Scientific discovery about influenza mechanisms could improve future treatments, but its short‑term societal impact is limited and primarily of interest to the medical community.
 
-> Relevance score: [3] – Potential US border policy that could affect Swiss travelers to the United States, but the measure is still speculative and limited in scope. Its impact on Swiss citizens is possible but not large.
+## Thailand and Cambodia: Fighting continues
 
-## A King, Rebels and the Billion‑Dollar Gas Business
+[Swiss Radio and Television](https://www.srf.ch/news/international/thailand-und-kambodscha-kambodscha-schliesst-grenzuebergang-zu-thailand) • _Saturday, December 13, 2025, 05:00 CET_
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/keine-zukunft-dafuer-gas-und-rebellen-ein-besuch-in-der-heimat-von-christian-aus-der-podcast-serie-250-dollar-ld.1916048) • _Friday, 12 December 2025, 05:31_
+On Saturday morning, the armies on both sides reported attacks.
 
-In the southeast of Nigeria lies Imo State. A sub‑state, poor in prospects but rich in gas. Christian departs from there. The NZZ looks for his reasons in Imo State.
+In the conflict with Thailand, the Cambodian government has completely closed the shared border crossing.  
+Saturday morning saw both the Thai and Cambodian armies reporting attacks.  
+Former US President Donald Trump had… [read more](https://www.srf.ch/news/international/thailand-und-kambodscha-kambodscha-schliesst-grenzuebergang-zu-thailand)
 
-“It is not the first time a young man from the village sets out for the desert,” says King Douglas Okwara. Okwara is an Igwe, the traditional ruler here in Nigeria’s southeast, and he governs the “old Kingdom of Umuna,” a… [read more]
-
-> Relevance score: [2] – A feature on gas extraction in Nigeria; it has no direct connection to Swiss policy, economy or society and is unlikely to affect Swiss public understanding of world events in a concrete way.
-
-## The Wild Man of the Trump Administration
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/pete-hegseth-der-wilde-mann-der-trump-regierung-ld.1915830) • _Friday, 12 December 2025, 05:30_
-
-Chat scandal, chaotic personnel policy, a possible war crime – Hegseth is under pressure yet still enjoys his boss’s confidence. Who is the self‑styled war minister?
-
-When Pete Hegseth gives a speech, he spits out every single word. His sentences are a staccato of vocabularies, all equally important – meaning: enormously important. There are ugly words like democracy promotion, climate change and wokeness, … [read more]
-
-> Relevance score: [2] – Focuses on a US political figure and internal US controversies. While geopolitically interesting, it bears little relevance for Swiss civic or economic life.
-
-## US Court of Appeals Lifts Parts of Sanctions Against Apple in Antitrust Dispute with Epic Games
-
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/us-berufungsgericht-hebt-teile-der-sanktionen-gegen-apple-im-kartellrechtsstreit-mit-epic-games-auf-ce7d50dbdd89f223) • _Thursday, 11 December 2025, 19:28_
-
-Apple achieved a partial victory before a US appellate court on Thursday: the company managed to have parts of a court order lifted that required the iPhone maker to make changes to its lucrative… [read more]
-
-> Relevance score: [2] – US antitrust litigation that may influence tech market dynamics globally, but the direct impact on Swiss consumers or businesses is marginal.
-
-## Fortnite Returns to Google Play Store in the US After Court Ruling
-
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/fortnite-kehrt-nach-gerichtsbeschluss-in-den-usa-in-den-google-play-store-zurueck-ce7d50dbdd88f42c) • _Thursday, 11 December 2025, 19:48_
-
-The popular battle‑royale game Fortnite by Epic Games is back in the Google Play Store in the United States after Google complied with an injunction from a US district court… [read more]
-
-> Relevance score: [1] – Entertainment‑industry news about a video game’s US availability; it has no substantive effect on Swiss society, economy or governance.
+> Relevance score: [3] - A regional border conflict with limited direct effect on Switzerland; while it has some geopolitical relevance, the scale and long‑term impact are modest.
 
 </details>
