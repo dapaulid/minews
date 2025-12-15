@@ -2,159 +2,158 @@
 
 ---
 
-_Updated: Saturday, December 13, 2025, 18:20 CET_
+_Updated: Monday, December 15, 2025, 18:28_
 
-## Ukraine to join the EU in 2027
+## How Entrepreneurs Have Always Shaped Swiss Foreign Policy
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/ein-ueberraschender-vorschlag-der-europaeer-die-ukraine-soll-schon-2027-der-eu-beitreten-ld.1916339) • _Friday, December 12, 2025, 20:13 CET_
+[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/alfred-gantner-wie-unternehmer-die-schweizer-aussenpolitik-praegen-ld.1915710) • _Monday, December 15, 2025, 05:30_
 
-The EU must be careful not to be sidestepped in the Ukraine talks between the United States and Russia. According to media reports it has now sent a strong signal.
+The visit to the Federal Palace is not the first business‑diplomatic offensive – far from it.
 
-### EU accession proposal for Ukraine  
-- European heads of government have suggested to the **[United States](https://en.wikipedia.org/wiki/United_States)** that the **[Ukraine](https://en.wikipedia.org/wiki/Ukraine)** be admitted as a member of the **[European Union](https://en.wikipedia.org/wiki/European_Union)** already on **January 1, 2027**.  
-- Ukraine has been an official **EU accession candidate** since summer 2022, but it was previously assumed that accession would still take several more years.  
+### Current Episode – “Team Switzerland” and Alfred Gantner  
+- **Alfred Gantner**, co‑founder of **[Partners Group](https://en.wikipedia.org/wiki/Partners_Group)**, appeared in the TV programme “Arena” as a special envoy of the Federal Council.  
+- He defended the controversial **15 % tariff‑deal** with the United States, which he had helped initiate together with other entrepreneurs, and praised the actions of Federal Councillor **[Alain Parmelin](https://en.wikipedia.org/wiki/Alain_Parmelin)** and the State Secretariat for Economic Affairs.  
+- Gantner showed up in striking clothing (turtleneck sweater, sand‑coloured adventure shirt) and brought **gold bars** and a **[Rolex watch](https://en.wikipedia.org/wiki/Rolex)** into the Oval Office, a move that politicians criticised as “corrupt” and “inappropriate for trade policy.”  
+- The episode raises questions: Why do private‑equity entrepreneurs take part in top‑level political talks? And is the government increasingly using trade diplomacy as a platform for business representatives?
 
-### Accession process and practical hurdles  
-- Accession requires negotiations on **35 chapters** (e.g., free movement of goods, justice, property rights).  
-- So far only a **screening process** has taken place; the actual chapter negotiations are still pending.  
-- Realistically, accession within 13 months seems unlikely, because both Ukraine must be ready to join and the EU must be able to absorb it.  
-- Taking in a country with extensive war damage would change the EU dramatically:  
-  * Increased spending from the **Agriculture and Cohesion Funds**.  
-  * Other member states (e.g., **Poland**) would have to cut funds – a politically sensitive issue.  
+### Historical Entanglement of Business and Foreign Policy  
+- **1848**: The young Confederation created the Federal Office for Foreign Debt (today the **[Swiss Federal Department of Foreign Affairs](https://en.wikipedia.org/wiki/Swiss_Federal_Department_of_Foreign_Affairs)**). Cantonal chambers of commerce initially handled foreign‑trade representation.  
+- **Aimé Humbert** (son of a watch‑maker) founded the **[Union Horlogère](https://en.wikipedia.org/wiki/Union_Horlog%C3%A8re)** in 1858 and, acting as a “quasi‑statesman,” negotiated Switzerland’s first trade treaty with Japan.  
+- **1917** during the First World War: the “Swiss Mission” to Washington consisted of a textile entrepreneur, an economics professor and a publisher; **Hans Sulzer** was appointed “extraordinary envoy” and concluded a trade agreement with President **Woodrow Wilson**.  
+- **1939**: Private banker **Felix Somary** travelled secretly to Washington, negotiating raw‑material and food supplies for Switzerland up to 1945, shortly before the Second World War began.
 
-### Geopolitical and security‑related reasons  
-- A rapprochement with the EU would strengthen the country geopolitically and prevent the **United States** and **Russia** from reaching bilateral arrangements to the detriment of Ukraine.  
-- EU membership could end the debate over who provides a **security guarantee** for Ukraine; similar to the **[NATO](https://en.wikipedia.org/wiki/NATO)**, the EU would have a military assistance obligation.  
+### Institutional Framework – The Association “Vorort” (later Economiesuisse)  
+- **1869** Switzerland founded its first national entrepreneurs’ association, the **[Swiss Trade and Industry Association (Vorort)](https://en.wikipedia.org/wiki/Handels-%C3%9Cnd_Industrieverein_Vorort)**, which for more than a century played a decisive role in shaping foreign‑trade policy.  
+- The president of Vorort was regarded as an “eighth Federal Councillor”; during the Second World War he was given an office in the East Block of the Federal Palace.  
+- **Standing Economic Delegation** (until 2002): informal, undocumented meetings between Vorort representatives and the Federal Office for Economic Affairs (today the **[State Secretariat for Economic Affairs](https://en.wikipedia.org/wiki/State_Secretariat_for_Economic_Affairs)**).  
+- Mixed delegation missions (1970‑1994) combined politicians and business leaders and produced successes such as the first joint‑venture in China with the **[Schindler Group](https://en.wikipedia.org/wiki/Schindler_Group)**.
 
-### Financial support from frozen Russian assets  
-- The EU plans to grant **€90 billion** of the frozen assets of the **[Bank of Russia](https://en.wikipedia.org/wiki/Bank_of_Russia)** (mainly held at **[Euroclear](https://en.wikipedia.org/wiki/Euroclear)**) as an interest‑free loan to Ukraine.  
-- Ukraine would only have to repay the loan if Russia makes reparations payments – a scenario that has so far been considered unlikely.  
-- To protect Belgium (home of Euroclear) from possible retaliation, it was decided to freeze the Russian assets **indefinitely**.  
-- This measure must be renewed every six months; an indefinite freeze would reduce the risk of legal disputes.  
+### Change Driven by Globalisation and Declining Influence  
+- By the late 1980s the comprehensive **World Trade Organization** reduced the need for bilateral, entrepreneur‑initiated agreements; Vorort’s power began to wane.  
+- In 1992 the public rejected a free‑trade agreement with the **European Economic Area** for the first time – a signal that the old maxim “what is good for business is good for the country” no longer held automatically.  
+- Vorort became **[Economiesuisse](https://en.wikipedia.org/wiki/Economiesuisse)**, a less influential body that today is rarely consulted on major tariff deals (e.g., the 15 % deal).
 
-### Reactions from Russia  
-- The **[Bank of Russia](https://en.wikipedia.org/wiki/Bank_of_Russia)** has sued **Euroclear** before a Moscow court for alleged harmful actions – a pressure tactic that could complicate further EU decisions to support Ukraine.  
+### Conclusion – Alfred Gantner as Modern “Extraordinary Envoy”  
+- The current “Team Switzerland” initiative mirrors a historic pattern: Swiss entrepreneurs have been active in the foreign‑policy arena since the 19th century, often acting as **militia diplomats**.  
+- Gantner’s appearance on “Arena” and his visit to the Oval Office show that the old model – economic expertise as a core component of foreign policy – is gaining renewed momentum in the 21st century, albeit in a far more media‑driven context.  
+- The central maxim of Swiss history therefore remains: **“What is good for the companies is good for Switzerland.”** – but the way this connection is enacted today has fundamentally changed.
 
-> Relevance score: [8] - Potential EU enlargement reshapes European security, economics, and geopolitics; the decision will have significant long‑term consequences for the continent, including Switzerland’s external relations.
+> Relevance score: [7] – The piece analyses how Swiss business elites shape foreign policy, directly touching on the nation’s political decision‑making and economic strategy. It has clear national relevance and potential long‑term structural implications.
 
-## Assets frozen indefinitely for Kyiv
+## Post vs Cantonal Bank: Bernadette Koch's Delicate Dual Role
 
-[Blick](https://www.blick.ch/ausland/moskau-bleibt-ruhig-bis-es-ums-geld-geht-210-millionen-euro-eingefroren-wirksame-waffe-gegen-putin-id21514033.html) • _Saturday, December 13, 2025, 02:07 CET_
+[Blick](https://www.blick.ch/sonntagsblick/post-vizepraesidentin-geht-fremd-das-heikle-mandat-von-bernadette-koch-id21515152.html) • _Sunday, December 14, 2025, 21:29_
 
-Putin appears unshakable – until money is at stake. The EU is freezing €210 billion of Russian assets to support Ukraine. Moscow reacts with outrage, calling it “theft” and a “declaration of war”. The Kremlin is looking for ways to strike back.
-
-### Background and EU decision  
-- The EU has decided to freeze around **€210 billion** of assets belonging to the **Bank of Russia** in Europe **indefinitely**.  
-- The freeze replaces previous six‑month extensions.  
-- Instead of the capital, the **interest** on these funds should be used as a **reparations loan** for **Ukraine** – a legally contentious approach under international finance law.  
-- **Ursula von der Leyen** stated that this is a strong signal to **Russia** and that the costs of the “brutal war of aggression” should continue to rise.  
-- The loan should only be repaid by Kyiv when **Russia** provides reconstruction compensation.  
-- During the vote of the 27 EU states, **Hungary** and **Slovakia** voted against the decision.  
-
-### Reactions from Moscow  
-- **Vladimir Putin** remains publicly calm, but delegates the reaction to close confidants.  
-- **Dmitry Medvedev** called the EU measure a possible **“act of war”**.  
-- **Sergei Neshchwajew**, Putin’s ambassador to Germany, called the action **“theft”**.  
-- **Maria Sacharova**, spokesperson for the foreign ministry, threatened the **“sternest response”**.  
-
-### Legal steps in Russia  
-- The **Bank of Russia** filed a lawsuit on Friday against the Belgian securities house **Euroclear** – before a **Moscow commercial court**.  
-- Euroclear holds **€185 billion** of the frozen funds; an additional **€25 billion** are held at banks in Belgium and France.  
-- The central bank calls the EU plans to use the assets to support Ukraine **illegal** and **contrary to international law**.  
-
-### Further steps  
-- The EU plans to seal the reparations loan solidarily at the upcoming summit **next week**.  
-- The frozen funds remain a central lever in the conflict between **Russia**, the **EU**, and **Ukraine**.  
-
-> Relevance score: [7] - EU's freezing of €210 bn of Russian assets is a major economic sanction affecting the war in Ukraine and financial markets; Swiss banks may be indirectly involved, giving it high relevance.
-
-## Why Switzerland wants stricter PFAS limits
-
-[20 Min](https://www.20min.ch/story/ewigkeitschemikalien-pfas-im-trinkwasser-schweiz-vertagt-anpassung-der-grenzwerte-103468540) • _Friday, December 12, 2025, 20:10 CET_
-
-A motion in the Council of States is slowing the immediate adoption of the new EU rules on PFAS.
+Top executive moves to Luzern Cantonal Bank – but remains vice‑president of the “yellow giant.” Because of the disputed credit ban at PostFinance, she finds herself in a permanent conflict of interest.
 
 ### Background  
-- **PFAS** (per‑ and polyfluoroalkyl substances) are persistent chemicals that have been industrially produced and used worldwide for decades.  
-- They enter the environment via industry, fire‑fighting foam and other sources, can enter the food chain and have been detected in humans.  
+- **Bernadette Koch** is a 57‑year‑old auditor and long‑standing member of the board of **[Swiss Post](https://en.wikipedia.org/wiki/Swiss_Post)**.  
+- She is vice‑president of the Post board and represents the parent company on the board of **[PostFinance](https://en.wikipedia.org/wiki/PostFinance)**.  
+- She also holds board seats at companies such as **[Geberit](https://en.wikipedia.org/wiki/Geberit)** and **[Mobimo](https://en.wikipedia.org/wiki/Mobimo)**.  
 
-### Health risks of PFAS  
-- Studies suggest possible **effects on fertility**, developmental delays in children, and an increased **cancer risk**.  
-- In 2023 a *Guardian* report found a link between the deaths of six U.S. baseball players and PFAS.  
-- The **German Environment Agency** found high PFAS concentrations in the blood of children and adolescents in 2020.  
+### New Mandate at Luzern Cantonal Bank  
+- Koch is standing for election to the board of the **[Luzern Cantonal Bank](https://en.wikipedia.org/wiki/Luzerner_Kantonalbank)**.  
+- She will resign from the PostFinance board and give up the chair of Post’s Audit and Risk Committee, but will stay vice‑president of the Post board.  
 
-### New EU limits (from 2026)  
-- The **European Union** is introducing a drinking‑water limit of **0.1 µg/L** for 20 PFAS substances.  
-- So far, Switzerland only has limits for **PFOS**, **PFHxS**, and **PFOA**.  
+### Structural Conflict of Interest  
+- The president of Post, **[Christian Levrat](https://en.wikipedia.org/wiki/Christian_Levrat)**, is pushing for the lifting of PostFinance’s credit ban so the institution can also grant loans to corporate customers.  
+- Cantonal banks, including Luzern Cantonal Bank, want to keep the ban and see PostFinance as a competitor.  
+- By simultaneously advocating for credit opening at Post and opposing it at the cantonal bank, Koch finds herself in a **permanent conflict of interest**.  
+  - Academically this is referred to as a **structural conflict of interest**.  
+  - Both institutions are also under state guarantee, which intensifies the situation.  
 
-### Swiss reaction and planned implementation  
-- Switzerland initially planned to adopt the EU limits immediately, but has **delayed** them.  
-- The Federal Food Safety and Veterinary Office (**FSVO**) says that the adjustment of the limits is pending the ongoing political debate.  
+### Board Statement  
+- Post stated that the board had examined the situation and had not identified a “permanent conflict of interest of fundamental significance.”  
+- The two mandates were therefore judged **“compatible.”**  
+- Should a situational conflict arise, Koch would **step down from the respective body** at the request of the president.
 
-### Parliamentary debate (Council of States)  
-- The **Environment Commission of the Council of States** has submitted a motion to set PFAS limits **independently of the EU**.  
-- The motion was broadly welcomed in both the National Council and the Council of States, but requires further debate in the Council of States.  
-- Goal: **harmonisation of drinking‑water and food limits**, which are currently separate in the EU rules.  
+> Relevance score: [6] – A high‑profile conflict‑of‑interest case involving a senior figure in Swiss Post and a cantonal bank raises questions about corporate governance and public‑sector oversight in Switzerland.
 
-#### Options under discussion  
-- **Fast adoption** of the EU limits.  
-- **Development of own, even stricter** limits.  
-- **Wait** and maintain the current approach until authorities decide.  
+## War in Ukraine – Conversation Between Zelenskyy and Witkoff Ends
 
-### Advantages of adopting the EU values  
-According to **Eva Goldmann** (PFAS expert, WWF Switzerland), many more “forever chemicals” could enter drinking water.  
-A single limit for the **20 most important PFAS** is more sensible than setting individual values for each substance.  
+[Swiss Radio and Television](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-gespraech-zwischen-selenski-und-witkoff-beendet) • _Sunday, December 14, 2025, 21:09_
 
-### Position of water utilities  
-The industry association for water, gas and heat states that the **EU limits are already met today** by most Swiss water suppliers.  
-Only at **specific sites** with special contamination (e.g., residues from PFAS‑containing fire‑foam) have **measures** already been taken.  
+Zelenskyy wanted to use his meeting to also discuss his final proposals for President Trump’s “peace plan.”
 
-> Relevance score: [6] - National legislation on persistent toxic substances directly affects public health, agriculture, and industry in Switzerland, making it an important domestic environmental policy matter.
+### Humanitarian Situation in Ukraine  
+- The ongoing **[Russia–Ukraine war](https://en.wikipedia.org/wiki/Russia%E2%80%93Ukraine_war)** has triggered a severe humanitarian crisis.  
+- Millions of people, especially **children**, **women** and **elderly**, have fled and are seeking safety:  
+  - in neighbouring countries, or  
+  - in regional areas that have so far been spared by the fighting.  
+
+### Support via “Glückskette”  
+- The organisation **[Glückskette](https://en.wikipedia.org/wiki/Glückskette)** is collecting donations to support the affected Ukrainian population.  
+- Aid is delivered through partner organisations in:  
+  - **[Ukraine](https://en.wikipedia.org/wiki/Ukraine)**  
+  - **[Poland](https://en.wikipedia.org/wiki/Poland)**  
+  - **[Romania](https://en.wikipedia.org/wiki/Romania)**  
+  - **[Moldova](https://en.wikipedia.org/wiki/Moldova)**  
+  - **[Hungary](https://en.wikipedia.org/wiki/Hungary)**  
+  - **[Switzerland](https://en.wikipedia.org/wiki/Switzerland)**  
+
+### Donation Options  
+- Online: via the website **[glueckskette.ch](https://www.glueckskette.ch)**  
+- By bank transfer:  
+  - Post account **10‑15000‑6**  
+  - Reference: **“Crisis in Ukraine”**  
+
+*Your donation can directly help alleviate the plight of displaced people.*
+
+> Relevance score: [6] – Developments in the Ukraine war remain globally significant. The termination of a diplomatic dialogue may influence peace‑process dynamics, which are relevant to international security and humanitarian concerns.
 
 <details><summary markdown="span">Show less important events</summary>
 
-## A report says Huawei's newest smartphone uses an upgraded chip made in China
+## Presidential Election: Security Fears Push Chile to the Right
 
-[MarketScreener Switzerland](https://ch.marketscreener.com/boerse-nachrichten/laut-einem-bericht-verwendet-das-neueste-mobiltelefon-von-huawei-einen-verbesserten-chip-aus-chinesi-ce7d50d8dc89f723) • _Saturday, December 13, 2025, 03:32 CET_
+[Swiss Radio and Television](https://www.srf.ch/news/international/rechtsrutsch-in-lateinamerika-sicherheitsangst-treibt-chile-nach-rechts) • _Monday, December 15, 2025, 06:00_
 
-The Kirin 9030, the chip that powers Huawei Technologies’ newest flagship Mate 80‑series smartphone, was produced by China’s leading foundry SMIC with an improved 7‑nanometer version, though it still lags behind TSM… [read more](https://ch.marketscreener.com/boerse-nachrichten/laut-einem-bericht-verwendet-das-neueste-mobiltelefon-von-huawei-einen-verbesserten-chip-aus-chinesi-ce7d50d8dc89f723)
+Chile has voted: Far‑right candidate José Antonio Kast won the runoff decisively with more than 58 % of the vote.
 
-> Relevance score: [5] - Highlights progress in China’s semiconductor sector and the US‑China tech rivalry, which can affect global supply chains, but the immediate impact on Swiss society is limited.
+The left‑wing candidate, Jeannette Jara, received about 41 %. Kast is the most right‑wing winner since the end of the military dictatorship… [read more](https://www.srf.ch/news/international/rechtsrutsch-in-lateinamerika-sicherheitsangst-treibt-chile-nach-rechts)
 
-## Greens want to publish the negotiation mandate for the customs deal
+> Relevance score: [5] – A major election outcome in Chile shifts the country’s political direction and may affect regional geopolitics, but the consequences for Switzerland or the wider world are indirect.
 
-[Blick](https://www.blick.ch/politik/zoll-poker-mit-den-usa-gruene-wollen-verhandlungsmandat-veroeffentlichen-id21512876.html) • _Friday, December 12, 2025, 20:06 CET_
+## Hong Kong Court Convicts Pro‑Democracy Publisher Jimmy Lai
 
-Recently the federal government passed a negotiation mandate for a customs deal with the United States. The Greens are now urging that it be made public.
+[Watson](https://www.watson.ch/international/hongkong/391499867-hongkonger-gericht-spricht-prodemokratischen-verleger-jimmy-lai-schuldig) • _Monday, December 15, 2025, 04:32_
 
-Céline Zahno, political editor  
-Parliamentarians from the foreign policy committees recently received the mandate from the Federal Council. The roughly two‑and‑a‑half‑page document outlines the government's negotiating position for the “customs poker” with Washington… [read more](https://www.blick.ch/politik/zoll-poker-mit-den-usa-gruene-wollen-verhandlungsmandat-veroeffentlichen-id21512876.html)
+A court in Hong Kong has found publisher Jimmy Lai guilty in a national‑security case.
 
-> Relevance score: [5] - Calls for transparency on a US‑Switzerland customs agreement touch on national trade policy and democratic oversight; relevance is moderate within Swiss political discourse.
+Hong Kong court convicts pro‑democracy media mogul Jimmy Lai  
+A Hong Kong court has found publisher Jimmy Lai guilty in a national‑security case.  
+The judges concluded that the founder of… [read more](https://www.watson.ch/international/hongkong/391499867-hongkonger-gericht-spricht-prodemokratischen-verleger-jimmy-lai-schuldig)
 
-## How influenza viruses specifically disable lung defenses
+> Relevance score: [5] – The verdict is a significant event for human‑rights and press freedom in Hong Kong, with global attention, yet its direct effect on Swiss society is limited.
 
-[Giessener Anzeiger](https://www.giessener-anzeiger.de/panorama/wie-influenzaviren-die-lungen-abwehr-gezielt-ausser-kraft-setzen-94081999.html) • _Friday, December 12, 2025, 23:00 CET_
+## How Influenza Viruses Weaken the Immune System: JLU Study
 
-Giessen researchers have identified the molecule TNFSF14 as a key factor. It kills important immune cells and opens the door for bacterial infections.
+[FAZ](https://www.faz.net/aktuell/rhein-main/region-und-hessen/wie-grippeviren-das-immunsystem-schwaechen-jlu-studie-accg-200347163.html) • _Monday, December 15, 2025, 06:15_
 
-Home → Panorama  
-How influenza viruses specifically disable lung defenses  
-Giessen researchers discover the molecule TNFSF14 as a key. It kills important immune cells and opens the door for bacterial infections.  
-From mild cold symptoms… [read more](https://www.giessener-anzeiger.de/panorama/wie-influenzaviren-die-lungen-abwehr-gezielt-ausser-kraft-setzen-94081999.html)
+Influenza can make the lungs vulnerable to bacteria that cause severe pneumonia. A Giessen study now explains why this can happen.
 
-> Relevance score: [4] - Scientific discovery about influenza mechanisms could improve future treatments, but its short‑term societal impact is limited and primarily of interest to the medical community.
+A viral flu, also called influenza, sometimes coincides with a bacterial lung infection. This can lead to severe pneumonia. When the immune defence is strongly weakened, it can in some cases even… [read more](https://www.faz.net/aktuell/rhein-main/region-und-hessen/wie-grippeviren-das-immunsystem-schwaechen-jlu-studie-accg-200347163.html)
 
-## Thailand and Cambodia: Fighting continues
+> Relevance score: [4] – A scientific study on influenza‑induced immune suppression is relevant for public‑health knowledge but does not create immediate structural change or affect large populations directly. Moderate relevance for health‑policy discussions.
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/thailand-und-kambodscha-kambodscha-schliesst-grenzuebergang-zu-thailand) • _Saturday, December 13, 2025, 05:00 CET_
+## Boom: German Buyers Flood Across the Border
 
-On Saturday morning, the armies on both sides reported attacks.
+[Blick](https://www.blick.ch/wirtschaft/deutsche-stuermen-goldhaendler-hohe-freigrenzen-locken-deutsche-in-die-schweiz-id21514970.html) • _Sunday, December 14, 2025, 21:28_
 
-In the conflict with Thailand, the Cambodian government has completely closed the shared border crossing.  
-Saturday morning saw both the Thai and Cambodian armies reporting attacks.  
-Former US President Donald Trump had… [read more](https://www.srf.ch/news/international/thailand-und-kambodscha-kambodscha-schliesst-grenzuebergang-zu-thailand)
+The gold price is reaching new highs and attracting German buyers to Switzerland. Loose regulations and higher duty‑free limits make the purchase attractive.
 
-> Relevance score: [3] - A regional border conflict with limited direct effect on Switzerland; while it has some geopolitical relevance, the scale and long‑term impact are modest.
+Beat Schmid, Business Editor  
+On Friday the gold price climbed to roughly USD 4,300 per ounce, practically returning to the October record. Since January the metal’s value has risen by 42 % – no other asset class has… [read more](https://www.blick.ch/wirtschaft/deutsche-stuermen-goldhaendler-hohe-freigrenzen-locken-deutsche-in-die-schweiz-id21514970.html)
+
+> Relevance score: [3] – The influx of German gold buyers reflects market trends and modest cross‑border economic activity, but it does not constitute a major economic shift for Switzerland.
+
+## Border Blockade: Lawyer Warns Hun Sen
+
+[DER FARANG](https://der-farang.com/de/pages/grenzblockade-jurist-warnt-hun-sen-1) • _Monday, December 15, 2025, 06:11_
+
+BANGKOK/POIPET: A former chief legal officer of the Thai Ministry of Defence has urgently called on the president of the Cambodian Senate, Hun Sen, …  
+
+A former chief legal officer of the Thai Ministry of Defence has urgently urged the president of the Cambodian Senate, Hun Sen, to allow stranded Thai nationals to return to their homeland… [read more](https://der-farang.com/de/pages/grenzblockade-jurist-warnt-hun-sen-1)
+
+> Relevance score: [2] – The article concerns a regional diplomatic dispute in Southeast Asia. It has little direct impact on Swiss or global governance and is mainly of niche interest.
 
 </details>
