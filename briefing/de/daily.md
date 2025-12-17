@@ -2,392 +2,290 @@
 
 ---
 
-_Aktualisiert: Dienstag, 16. Dezember 2025, 18:27 Uhr_
+_Aktualisiert: Mittwoch, 17. Dezember 2025, 18:27 Uhr_
 
-## "Keine 10-Millionen-Schweiz!" - Parlament empfiehlt SVP-Zuwanderungsinitiative zur Ablehnung
+## US-Militär in der Karibik - Trump fordert von Venezuela Rückgabe von Öl und droht mit Militär
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/keine-10-millionen-schweiz-parlament-empfiehlt-svp-zuwanderungsinitiative-zur-ablehnung) • _Montag, 15. Dezember 2025, 21:09 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/usa/us-militaer-in-der-karibik-trump-fordert-von-venezuela-rueckgabe-von-oel-und-droht-mit-militaer) • _Mittwoch, 17. Dezember 2025, 04:23 Uhr_
 
-Nach dem Nationalrat sagt auch der Ständerat Nein zu der Initiative. Auch einen Gegenvorschlag soll es nicht geben.
+Trump fordert venezolanisches Öl zurück und verschärft den Druck mit Blockade und Militärpräsenz.
 
-### Initiative und Zielsetzung
-- Die Volksinitiative **«Keine 10‑Millionen‑Schweiz»** der **[Schweizerischen Volkspartei (SVP)](https://de.wikipedia.org/wiki/Schweizerische_Volkspartei)** will das Bevölkerungswachstum bis zum Jahr 2050 auf maximal zehn Millionen Menschen begrenzen.  
-- Erreicht die Schweiz diesen Grenzwert, soll das **[Personenfreizügigkeitsabkommen](https://de.wikipedia.org/wiki/Personenfreizügigkeit_(EU))** mit der **[EU](https://de.wikipedia.org/wiki/Europäische_Union)** gekündigt werden.  
-- Ziel sei, eine „nachhaltige Entwicklung“ und den Erhalt von Wohlstand und völkerrechtlichen Verpflichtungen zu sichern.
+### Trumps Forderungen und Sanktionen
+- Auf **[Truth Social](https://en.wikipedia.org/wiki/Truth_Social)** fordert **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** die „sofortige“ Rückgabe venezolanischer Öl‑ und Vermögenswerte, die seiner Ansicht nach von den USA gestohlen wurden.  
+- Der Hintergrund: Verstaatlichungen von Ölfeldern in den frühen 2000er‑Jahren, bei denen auch US‑Unternehmen betroffen waren.  
+- Trump stuft die Regierung von **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)** als **„ausländische terroristische Organisation“** ein.  
+- Er ordnet eine **„totale und vollständige Blockade aller sanktionierten [Öltanker](https://en.wikipedia.org/wiki/Oil_tanker)“** an, die Venezuela anlaufen oder verlassen.  
+  - Bereits zuvor wurde ein Öltanker vor der venezolanischen Küste beschlagnahmt.  
 
-### Parlamentarische Stellungnahmen
-- **[Bundesrat](https://de.wikipedia.org/wiki/Bundesrat_(Schweiz))**: lehnt die Initiative ohne Gegenvorschlag ab, plant jedoch begleitende Maßnahmen (z. B. strengere Asylprüfungen).  
-- **[Nationalrat](https://de.wikipedia.org/wiki/Nationalrat_(Schweiz))**: ebenfalls Ablehnung ohne Gegenvorschlag nach intensiver Herbstdebatte.  
-- **[Ständerat](https://de.wikipedia.org/wiki/St%C3%A4nderat_(Schweiz))**: stimmt mit 29 zu 9 Stimmen (6 Enthaltungen) dem Antrag zu, dem Volk ein Nein zu empfehlen; formelle Schlussabstimmung folgt am Ende der Wintersession.  
+### Militärische Drohungen
+- Trump droht mit einer wachsenden US‑Militärapräsenz:  
+  - **„Größte Flotte, die je in Südamerika zusammengestellt wurde.“**  
+  - Verlegung eines **[Flugzeugträgers](https://en.wikipedia.org/wiki/Aircraft_carrier)**, des größten Kriegsschiffs der Welt, in die Karibik.  
+- Hinweis auf mögliche **Bodeneinsätze** in der Region.  
+- Bestätigung, dass **[CIA](https://en.wikipedia.org/wiki/Central_Intelligence_Agency)**‑Operationen in Venezuela genehmigt wurden.  
 
-### Argumente der Gegner
-- **Gefährdung der bilateralen Beziehungen**  
-  - Kündigung des Freizügigkeitsabkommens würde den **[bilateralen Weg](https://de.wikipedia.org/wiki/Bilaterale_Verträge_(Schweiz))** mit der EU und damit den Zugang zum europäischen Binnenmarkt gefährden.  
-- **Wirtschaftliche Risiken**  
-  - Verlust von Arbeitsplätzen und Wohlstand durch eingeschränkten Arbeitskräfte‑ und Fachkräftezugang.  
-  - Beispiel: **[Tiana Angelina Moser](https://de.wikipedia.org/wiki/Tiana_Angelina_Moser)** (GLP) weist darauf hin, dass rund 45 % der in Schweizer Spitälern tätigen Ärzt/innen ein ausländisches Diplom besitzen – ein Verlust sei nicht tragbar.  
-- **Sicherheits‑ und Migrationsfolgen**  
-  - Gefahr des Ausschlusses aus dem **[Schengen‑ und Dublin‑System](https://de.wikipedia.org/wiki/Schengen‑Abkommen)**, was zu vermehrter irregulärer Migration und höheren Asylzahlen führen könnte.  
+### Reaktion Venezuelas
+- Die venezolanische Regierung bezeichnet Trumps Ankündigungen als **„groteske“** und als **Verstoß gegen das Völkerrecht**.  
+- Caracas betont:  
+  - Souveränität über alle Ressourcen und das Recht auf freie Schifffahrt und Handel.  
+  - Handeln im Einklang mit der **[UN‑Charta](https://en.wikipedia.org/wiki/Charter_of_the_United_Nations)**.  
+  - Verteidigung des Staatsgebiets durch Bevölkerung, Militär und Polizei auf friedlichem Wege.  
+- Maduro wirft den USA vor, den Konflikt **vor allem wegen des Öls** zu eskalieren und einen **Machtwechsel** in Caracas zu erzwingen.  
 
-### Argumente der Befürworter
-- **Begrenzung massiver Zuwanderung**  
-  - **[Esther Friedli](https://de.wikipedia.org/wiki/Esther_Friedli)** (SG) fordert neue Instrumente und Neuverhandlungen bestehender Abkommen, um die Zuwanderung „an der Wurzel zu packen“.  
-- **Nachhaltigkeit und Bevölkerungswachstum**  
-  - Die Initiative soll verhindern, dass die Einwohnerzahl vor 2050 die Kapazitätsgrenze von zehn Millionen überschreitet (auch als *Neuneinhalb‑Millionen‑Grenze* bezeichnet).  
-
-### Abstimmungsergebnisse und weitere Entwicklungen
-- **Ständerat**: 29 Ja‑Stimmen, 9 Nein‑Stimmen, 6 Enthaltungen für die Empfehlung, das Volk solle die Initiative ablehnen.  
-- **Keine Gegeninitiative**: Drei mögliche Gegenentwürfe (Schutzklausel, Zuwanderungsabgabe, separate Kündigungsabstimmung) wurden von beiden Kammern verworfen.  
-- **Historischer Kontext**: Vergleich mit der 2014 angenommenen SVP‑Initiative „Gegen die Masseneinwanderung“, die damals die Beziehungen zur EU stark belastete.  
-- **Stellungnahme von Bundesrat Beat Jans**: Die Initiative löse keine Probleme, sondern schaffe neue; das Problem müsse durch konkrete Planungen in Raumplanung und Immobilienwesen gelöst werden.  
-
-### Ausblick
-- Das Parlament hat damit klar signalisiert, dass die **«Keine 10‑Millionen‑Schweiz»**‑Initiative vom Volk abgelehnt werden soll.  
-- Noch stehen die formellen Schlussabstimmungen am Ende der Wintersession aus, bevor das Referendum endgültig beschlossen wird.
-
-> Relevance score: [8] - Parliamentary rejection of a high‑profile immigration initiative directly influences Swiss immigration policy and reflects major political currents.
-
-## Initiative ohne Gegenvorschlag abgelehnt
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/10-millionen-schweiz-das-parlament-geht-aufs-ganze-und-lehnt-die-svp-initiative-ohne-gegenvorschlag-ab-ld.1916584) • _Montag, 15. Dezember 2025, 20:08 Uhr_
-
-Im Streit um die Zuwanderung sind alle Vorentscheide gefallen. Das Volk kann im Juni 2026 ohne Gegenvorschlag über den jüngsten Angriff der SVP auf die Personenfreizügigkeit abstimmen.
-
-### Entscheidung des Ständerats
-- Der **Ständerat** hat am 9. Dezember 2025 sämtliche Gegen­vorschläge zur Initiative **„Keine 10‑Millionen‑Schweiz“** abgelehnt.  
-- Damit folgt er dem **Nationalrat** und lässt die Initiative ohne Gegen­vorschlag an die Urne gehen.  
-- Das Referendum findet voraussichtlich am **14. Juni 2026** statt; Umfragen geben der Initiative realistische Chancen.  
-- Abstimmung im Ständerat: **29 Ja‑Stimmen gegen 9 Nein‑Stimmen**, 6 Enthaltungen.  
-  - Ja‑Stimmen kamen vor allem von SVP‑Abgeordneten, aber auch von einigen Mitte‑Politikern (z. B. **Heidi Z’graggen**, **Daniel Fässler**).  
-  - Alle **SP**‑ und **FDP**‑Ständeräte lehnten die Initiative einheitlich ab.
-
-### Inhalt der Initiative
-- Ziel: Verankerung einer **Obergrenze** von **10 Millionen Einwohnern** für die ständige Wohnbevölkerung **vor 2050**.  
-- Der Bund soll „**sicherstellen**, dass dieser Grenzwert nicht überschritten wird“.  
-- Im Klartext fordert die Initiative die **Kündigung der Personenfreizügigkeit** mit der **EU**.  
-- Würde die Grenze erreicht, müsste die Schweiz – laut Initiative – die Freizügigkeit **automatisch** beenden.
-
-### Politische Reaktionen & Stellungnahmen
-- **SVP** (z. B. **Esther Friedli**) kritisiert das **Tempo** der Zuwanderung und spricht von „**Dichtestress**“ und einer „**Spirale der Zuwanderung**“.  
-- Vertreter der **Mitte** (z. B. **Benedikt Würth**) warnen vor **Wohlstandsverlusten**, besonders in ländlichen Regionen.  
-- **SP**‑Ständeräte (**Pierre‑Yves Maillard**, **Daniel Jositsch**) verteidigen die **Personenfreizügigkeit** und vergleichen die Initiative mit einem **Dampfkochtopf**, bei dem ein fester Deckel das Problem nicht löst.  
-- **FDP**‑Ständeräte (**Benjamin Mühlemann**, **Petra Gössi**) lehnen die Initiative ab; Gössi fordert jedoch einen Gegen­vorschlag mit **asylpolitischen Verschärfungen** und klareren **Schutzklauseln**.  
-- **GLP**‑Abgeordnete (**Tiana Moser**) äußert ein leichtes Schmunzeln über die Vorstellung einer „zu engen Schweiz“.  
-- **Migrationsminister Beat Jans** warnt, die Initiative gefährde **Sicherheits‑ und Menschenrechtspartnerschaften** mit der EU und könne die Wirtschaft sowie Infrastruktur stark belasten.
-
-### Gegenvorschläge und warum sie verworfen wurden
-- **Petra Gössi (FDP)**:  
-  - Verschärfung der **Asylpolitik**.  
-  - Präzisere Vorgaben für die **Schutzklausel** der Personenfreizügigkeit.  
-- **Heidi Z’graggen (Mitte)**:  
-  - Einführung einer **Zuwanderungsabgabe** (nur für Drittstaatsbürger).  
-- **Daniel Fässler (Mitte)**:  
-  - Klärung des **Kündigungsprozesses**: Möglichkeit einer **zweiten Abstimmung** oder parlamentarischen Entscheidung, um eine automatische Kündigung zu vermeiden.  
-- Alle drei Vorschläge wurden im Ständerat **abgelehnt**, da sie entweder nicht weit genug gingen, das Kernanliegen der SVP‑Initiative nicht ausreichend adressierten oder politisch zu umstritten waren.
-
-### Ausblick auf die Volksabstimmung
-- Ohne Gegen­vorschlag wird die Initiative **„nackt“** im Juni 2026 zur Abstimmung kommen.  
-- Die **Bundesbehörden** (z. B. **Bundesamt für Statistik**) rechnen laut mittlerem Szenario damit, dass die **10‑Millionen‑Marke** bereits **2041** erreicht wird, was die Dringlichkeit der Diskussion erhöht.  
-- Kritiker sehen das Risiko einer **automatischen Kündigung** der Personenfreizügigkeit als **problematisch**, betonen aber, dass das Parlament und der Bundesrat theoretisch eine Verfassungsänderung vornehmen könnten, um diesen Schritt zu verhindern – obwohl dies ein hoher politischer Aufwand wäre.  
-- Die Debatte bleibt ein **zentrales Thema** im Schweizer Migrations‑ und Europapolitik‑Diskurs und spiegelt die anhaltende **Spaltung** zwischen **SVP‑Flügel** und den **zentristischen** Parteien wider.
-
-> Relevance score: [8] - Final parliamentary decision on the SVP immigration initiative determines a key national referendum, a significant civic event.
-
-## EU will Russlands Wirtschaft den Geldhahn abdrehen
-
-[Merkur](https://www.merkur.de/wirtschaft/abdrehen-moskau-veruebt-vergeltung-eu-will-russlands-wirtschaft-den-geldhahn-zr-94081052.html) • _Dienstag, 16. Dezember 2025, 05:19 Uhr_
-
-Die Mehrheit der EU-Staaten wollen russisches Vermögen festsetzen, um damit die Ukraine zu unterstützen. Die russische Zentralbank reicht nun eine Klage ein.
-
-### EU‑Plan zur Verwertung russischer Vermögenswerte
-- Die **[Europäische Kommission](https://en.wikipedia.org/wiki/European_Commission)** will russisches Vermögen, das sich dauerhaft in der EU befindet, einfrieren und zur Finanzierung der Ukraine nutzen.  
-- Ziel ist ein „Wiederaufbau“-Kredit für die Ukraine; dafür soll die Rückübertragung der Mittel nach Russland auf unbestimmte Zeit verboten werden.  
-- Insgesamt geht es um rund **210 Mrd. €**; der Großteil (ca. 185 Mrd. €) liegt bei dem belgischen Depotunternehmen **[Euroclear](https://en.wikipedia.org/wiki/Euroclear)**.  
-
-### Reaktion der russischen Zentralbank
-- Die **[russische Zentralbank](https://en.wikipedia.org/wiki/Bank_of_Russia)** hat Klage gegen **Euroclear** eingereicht.  
-- Sie wirft dem Unternehmen „rechtswidrige Handlungen“ vor und fordert Schadensersatz, weil die EU‑Entscheidung die Verwaltung ihrer Bargeldbestände und Wertpapiere behindere.  
-- Die Klage wird als erster Vergeltungsschritt gegenüber der EU‑Entscheidung gesehen.  
-
-### Beteiligung Belgiens und weitere EU‑Länder  
-- **Belgien** ist entscheidend, weil Euroclear dort ansässig ist. Die belgbische Regierung (Vorsitzender **[Bart De Wever](https://en.wikipedia.org/wiki/Bart_De_Wever)**) verlangt:
-  - Garantie einer umfassenden Risiko‑ und Liquiditätsabsicherung für betroffene Bürger und Unternehmen.  
-  - Einen gemeinsamen Risikofonds, der von allen beteiligten EU‑Staaten finanziert wird.  
-- Weitere EU‑Staaten, in denen ebenfalls russische Zentralbank‑Vermögen eingefroren ist, sind:
-  - **[Deutschland](https://en.wikipedia.org/wiki/Germany)**
-  - **[Frankreich](https://en.wikipedia.org/wiki/France)**
-  - **[Schweden](https://en.wikipedia.org/wiki/Sweden)**
-  - **[Zypern](https://en.wikipedia.org/wiki/Cyprus)**
-- Der Ausschluss Belgiens erschwert die Umsetzung des Plans, da dort das meiste Vermögen verwaltet wird.  
-
-### Ausblick und politische Lage  
-- Der **[Bundeskanzler Friedrich Merz](https://en.wikipedia.org/wiki/Friedrich_Merz)** und andere Befürworter hoffen, De Wever bis zum anstehenden **EU‑Gipfel** zur Zustimmung zu bewegen.  
-- Belgien bleibt jedoch vorsichtig, weil es rechtliche und finanzielle Risiken befürchtet, etwa mögliche russische Vergeltungsmaßnahmen gegen europäische Privatpersonen und Unternehmen.  
-- Die Situation wird weiter von Medien wie der **[Moscow Times](https://en.wikipedia.org/wiki/The_Moscow_Times)** und der **[dpa](https://en.wikipedia.org/wiki/DPA_(news_agency))** verfolgt.
-
-> Relevance score: [7] - EU sanctions on Russian state assets represent a major economic weapon in the Ukraine conflict, influencing global finance and geopolitics. Significant but still EU‑centric.
-
-## Schweiz: Neue Gesetze und Regelungen treten 2026 in Kraft
-
-[20 Minuten](https://www.20min.ch/story/neue-gesetze-diese-aenderungen-treten-2026-in-der-schweiz-in-kraft-103469081) • _Dienstag, 16. Dezember 2025, 04:26 Uhr_
-
-2026 bringt bedeutende Änderungen in der Schweiz, darunter neue Gesetze im Strassenverkehr und Gesundheitswesen.
-
-### Verkehr  
-
-- **Digitalisierung der Fahrzeugzulassung** (ab 1. Januar 2026)  
-  - Elektronische EU‑Übereinstimmungsbescheinigungen (**eCoC**) werden automatisch aus europäischen Datenbanken abgerufen.  
-  - Fahrzeugdaten stehen im **Informationssystem Verkehrszulassung** elektronisch allen Behörden und Akteuren der Automobilbranche zur Verfügung.  
-
-- **CO₂‑Sanktionen gekoppelt an Zulassung**  
-  - Fahrzeugausweise und Kontrollschilder werden nur ausgestellt, wenn offene CO₂‑Sanktionen beglichen oder das Fahrzeug einer Neuwagenflotte zugeordnet ist.  
-
-- **Autonomes Fahren**  
-  - Auf Autobahnen dürfen zugelassene Systeme das Fahren zeitweise übernehmen, der Fahrer muss jedoch jederzeit eingreifbereit bleiben (noch keine Systeme zugelassen).  
-  - In gekennzeichneten Parkhäusern und Parkflächen ist automatisiertes Parken ohne anwesende Fahrperson erlaubt.  
-
-- **Arbeits‑ und Ruhezeitverordnung (ARV 1)** (ab 1. Juli 2026)  
-  - Für grenzüberschreitende Straßentransporte mit Fahrzeugen/Kombinationen > 2,5 t gilt die ARV, sofern die Fahrzeit mehr als die Hälfte der Arbeitszeit ausmacht.  
-  – Der Inlandverkehr bleibt unverändert.  
-
-### Gesundheit & Krankenkassen  
-
-- **Prämiensteigerung 2026**  
-  - Durchschnittliche monatliche Grundprämie: ca. **393 CHF** (ca. + 4,4 % im Durchschnitt).  
-  - Starke kantonale Unterschiede (z. B. Tessin + > 7 %, Zug – signifikante Senkung aufgrund kantonaler Beiträge).  
-
-- **Franchise‑freie Impfungen**  
-  - Standardimpfungen gegen **Diphtherie**, **Tetanus** und **Meningokokken** werden von der Franchise befreit.  
-
-### Vorsorge, AHV & Steuern  
-
-- **13. AHV‑Rente**  
-  - Erste Auszahlung im **Dezember 2026** als zusätzliche Leistung neben der regulären Rente (Details zum Ablauf noch offen).  
-
-- **Nachträgliche Säule‑3a‑Einzahlungen**  
-  - Personen, die in bestimmten Jahren keine oder nur Teilbeiträge geleistet haben, können ab dem Steuerjahr 2026 rückwirkend für 2025 **Einkäufe** tätigen.  
-
-### Strafrecht  
-
-- **Stalking als eigenständiges Delikt** (ab 1. Januar 2026)  
-  - Wer einer Person nachstellt, kann mit **bis zu drei Jahren Freiheitsstrafe** oder Geldstrafe bestraft werden.  
-  - Verfolgung kann auf Antrag des Opfers eingeleitet werden; Ziel ist stärkerer Schutz der persönlichen Freiheit und der Opfer.  
-
-### Weitere gesellschaftliche Regelungen  
-
-- **Gesetz zur Bearbeitung von Flugpassagierdaten** (ab 1. Januar 2026)  
-  - Regelt die Weitergabe von Passagierdaten durch Luftverkehrsunternehmen an die nationale Stelle zur Bekämpfung von Terrorismus und schweren Straftaten.  
-
-- **Freiwillige e‑ID mit Chip** (Einführung bis Ende 2026)  
-  - Digitaler Identitätsnachweis für Online‑Behördengänge, Bestellungen (z. B. elektronischer Führerausweis) und Altersnachweise.  
-  - Kostenloses Zusatzangebot, jedoch ohne gesicherte Finanzierung seit Parlament die vorgesehenen ~2 Mio. CHF gestrichen hat.  
-
-- **Verlängerung der Zivilschutzpflicht** (ab 1. Januar 2026)  
-  - Wehrpflichtige bleiben bis zum **40. Lebensjahr** im Zivilschutz (frühere Reduktion auf 36 Jahre wird aufgehoben).  
-
-- **Kantonswechsel von Moutier** (ab 1. Januar 2026)  
-  - Die Gemeinde mit ca. 7 500 Einwohner*innen wechselt vom Kanton **Bern** zum Kanton **Jura**; 55 % der Stimmberechtigten stimmten im März 2021 dafür.  
+### US‑Militärische Aktivitäten in der Karibik
+- Zusammenziehen von Kräften, u. a. des Flugzeugträgers, in die Region.  
+- **Tote Angriffe** auf Boote, die angeblich Drogen schmuggeln sollen:  
+  - US‑Regierung bezeichnet dies als Kampf gegen **„Drogenterroristen“**.  
+  - Kritiker sehen darin einen **Verstoß gegen das Völkerrecht**.  
 
 ---  
+*Alle genannten Personen, Organisationen und Konzepte sind mit den entsprechenden Wikipedia‑Einträgen verlinkt.*
 
-*Hinweis: Alle genannten Links führen zu entsprechenden Wikipedia‑Einträgen für weiterführende Informationen.*
+> Relevance score: [8] - Ein eskalierender Konflikt zwischen den USA und Venezuela hat geopolitische Tragweite, potenzielle Auswirkungen auf Energiemärkte und die regionale Sicherheit. Auch wenn die Schweiz nicht unmittelbar beteiligt ist, hat das Geschehen globale Relevanz.
 
-> Relevance score: [7] - A set of nationwide legal reforms in traffic, health and insurance will directly change everyday life for Swiss citizens and alter regulatory frameworks.
+## Graubünden kämpft um Kostenbeteiligung von Italien für Olympia 2026
 
-## Woche: Neue Bruchlinien bei Ukraine
+[20 Minuten](https://www.20min.ch/story/graubuenden-olympia-kostet-graubuenden-millionen-italien-reagiert-nicht-103471012) • _Dienstag, 16. Dezember 2025, 20:42 Uhr_
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/entscheidende-eu-woche-neue-bruchlinien-bei-ukraine-finanzierung-ld.1916513) • _Dienstag, 16. Dezember 2025, 05:30 Uhr_
-
-Milliardenkredit aus russischem Staatsvermögen, EU-Beitritt, Munitionslieferungen: Vor dem Showdown am EU-Gipfel zur Ukraine werden die Probleme für Brüssel nicht kleiner.
-
-### Schlüsselereignisse der Woche  
-- **Friedensgipfel in Berlin**: Verhandlungen über Bedingungen für einen Waffenstillstand in der Ukraine.  
-- **EU‑Gipfel in Brüssel (Donnerstag‑Sonntag)**: 27 Staats‑ und Regierungschefs entscheiden über die finanzielle Unterstützung Kiews für die nächsten zwei Jahre und prüfen einen möglichen schnellen Beitritt der Ukraine zur Europäischen Union.  
-
-### Finanzielle Unterstützung der Ukraine und neue Konfliktlinien  
-- **Geplanter 90‑Milliarden‑Euro‑Kredit**  
-  - Soll aus den bei **Euroclear** (https://en.wikipedia.org/wiki/Euroclear) eingefrorenen russischen Staatsvermögen stammen.  
-  - Die EU‑Kommission bezeichnet das Vorgehen nicht als Beschlagnahme, da ein Zugriff für Russland bei ausreichenden Reparationszahlungen wieder möglich wäre.  
-- **Widerstand von Mitgliedstaaten**  
-  - **Belgien** (Sitz von Euroclear) lehnt das Vorhaben zunächst ab.  
-  - **Italien**, **Bulgarien** und **Malta** schließen sich in einer gemeinsamen Erklärung an und fordern „alternative Optionen im Einklang mit EU‑ und Völkerrecht“.  
-- **Vorgeschlagene Alternative: gemeinsame Schulden**  
-  - Ähnlich wie während der **COVID‑19‑Pandemie**.  
-  - Probleme:  
-    - Hohe Verschuldung von Ländern wie **Italien** und **Belgien** gefährdet deren Bonität.  
-    - Einführung gemeinsamer Schulden erfordert einstimmigen Beschluss aller Mitgliedstaaten – derzeit nicht absehbar.  
-- **Weitere Gegenpositionen**  
-  - **Ungarn** und die **Slowakei** lehnen jede Form der Ukraine‑Unterstützung grundsätzlich ab.  
-  - **Deutschland** und die **Niederlande** wollen nach der Pandemie‑Krise keine Wiederholung eines „Dammbruchs“ in den Staatsfinanzen.  
-  - Der deutsche Europa‑Staatsminister **Gunther Krichbaum** betont, dass Verweigerern konkrete Alternativen vorzulegen seien – bisher gibt es keinen überzeugenden Vorschlag.  
-- **Qualifiziertes Mehr**  
-  - Für den geplanten Reparationskredit genügt ein qualifiziertes Mehr (55 % der Staaten, die mindestens 65 % der EU‑Bevölkerung repräsentieren).  
-  - Trotzdem könnte das Überstimmen von **Belgien** politisch schwer vorstellbar sein, weil dessen Zustimmung diplomatisch wichtig bleibt.  
-
-### Praktische Hürden bei der Freigabe der russischen Gelder  
-- **Regulierung durch Belgien**: Das belgische Finanzministerium ist allein befugt, Anweisungen zur Freigabe der eingefrorenen Vermögenswerte zu erteilen.  
-- **Euroclear‑Leitung**: Valérie Urbain (https://en.wikipedia.org/wiki/Val%C3%A9rie_Urbain), Chefin von Euroclear, berichtet, dass sie wegen russischer Drohungen rund um die Uhr unter Beobachtung steht und die tatsächliche Umsetzung des Befehls ungewiss bleibt.  
-
-### Diplomatisches Ringen um eine Lösung  
-- **EU‑Außenministerin Kaja Kallas** (https://en.wikipedia.org/wiki/Kaja_Kallas) bezeichnet die Lage als „zunehmend schwierig“, betont aber, dass noch ein paar Tage verbleiben.  
-- **Ratspräsident António Costa** (https://en.wikipedia.org/wiki/António_Costa) signalisiert, dass die Verhandlungen erst beendet werden, wenn ein Konsens gefunden ist; die Staats‑ und Regierungschefs sollen dafür bis zu drei zusätzliche Tage einplanen.  
-
-### Diskussion um den EU‑Beitritt der Ukraine  
-- **Eintrittserfordernis**: Einstimmigkeit aller Mitgliedstaaten.  
-- **Gegenstimmen**:  
-  - **Ungarn**, **Slowakei** und nun **Tschechien** (https://en.wikipedia.org/wiki/Czech_Republic).  
-  - Große Agrarländer befürchten Belastungen für die sogenannte **„Kornkammer Europas“**.  
-- **Einfluss des Mercosur‑Abkommens**  
-  - **Frankreich** möchte die Abstimmung über das **Mercosur‑Freihandelsabkommen** (https://en.wikipedia.org/wiki/Mercosur) verschieben.  
-  - Ohne Reform der Gemeinsamen Agrarpolitik (GAP) sei ein Beitritt der Ukraine kaum vorstellbar, da die GAP‑Neugestaltung eng mit dem Handelsabkommen verknüpft ist.  
-
-### Rückzug der tschechischen Munitionsinitiative  
-- **Premierminister Andrej Babiš** (https://en.wikipedia.org/wiki/Andrej_Babi%C5%A1) kündigt an, dass **Tschechien** die von ihm initiierte Munitionsinitiative verlässt.  
-  - Fast zwei Millionen Schuss großer Kaliber wurden 2024 an Kiew geliefert.  
-  - Babiš begründet den Schritt mit leeren Kassen und dem Bedarf, jede verfügbare finanzielle Ressource für die eigenen Bürger zu verwenden.  
-  - Der Rückzug hat sowohl finanzielle als auch symbolische Auswirkungen, da die Initiative 2024 von Tschechien ins Leben gerufen wurde.  
-
-> Relevance score: [6] - EU‑wide decisions on financing Ukraine with frozen Russian assets affect European security and economics. Important geopolitically, yet the direct impact on Swiss society is indirect.
-
-## Straffmassnahmen gegen Jacques Baud: Die EU will die heiligen europäischen Werte verteidigen - und sanktioniert im gleichen Atemzug unliebsame Meinungen aus der Schweiz
-
-[Die Weltwoche](https://weltwoche.ch/daily/straffmassnahmen-gegen-jacques-baud-die-eu-will-die-heiligen-europaeischen-werte-verteidigen-und-sanktioniert-im-gleichen-atemzug-unliebsame-meinungen-aus-der-schweiz/) • _Dienstag, 16. Dezember 2025, 04:11 Uhr_
-
-Die EU sanktioniert den Schweizer Oberst Jacques Baud wegen abweichender Meinungen zum Ukraine-Krieg, was Fragen zu Meinungsfreiheit und EU-Werten aufwirft.
+Die hohen Kosten für die Olympischen Winterspiele 2026 in Italien werfen Fragen auf. Graubünden sucht dringend nach Lösungen.
 
 ### Hintergrund  
-- Die Europäische Union (EU) plant, gegen den ehemaligen Schweizer Offizier **[Jacques Baud](https://de.wikipedia.org/wiki/Schweizer_Militär)** Strafmaßnahmen zu ergreifen, weil er in einem Interview mit der **[Weltwoche](https://de.wikipedia.org/wiki/Die_Weltwoche)** von der offiziellen Darstellung des **[Ukraine‑Krieg](https://de.wikipedia.org/wiki/Ukraine-Konflikt)** abweicht.  
-- Baud kritisiert die gängige Narrative der europäischen Eliten zu den Ursachen und dem Verlauf des Konflikts und wird deshalb von Brüssel als „unliebsame Meinung“ eingestuft.
+- Die **[Olympischen Winterspiele 2026](https://de.wikipedia.org/wiki/Olympische_Spiele_2026)** finden vom 6. bis 22. Februar 2026 in Norditalien statt, nahe der Schweizer Grenze.  
+- Der Kanton **[Graubünden](https://de.wikipedia.org/wiki/Graub%C3%BCnden)** hat für die Veranstaltung ein Verkehrs‑ und Sicherheitskonzept entwickelt und bereits **5,5 Millionen CHF** investiert.
 
-### Vorgehensweise der EU  
-- Die angedrohten Sanktionen sollen Baud ähnlich wie Terroristen oder enge Kreml‑Verbündete behandeln – etwa durch Einreisesperren oder wirtschaftliche Restriktionen.  
-- Damit zeige die EU, dass selbst ein neutraler Nachbarstaat wie die **[Schweiz](https://de.wikipedia.org/wiki/Schweiz)** nicht vor Kritik und abweichenden Sichtweisen geschützt ist.  
+### Finanzielle Aspekte  
+- Graubünden will einen Teil der Kosten über **Parkgebühren** decken; ein Tagesparkplatz kostet **70 CHF**.  
+- Der Kanton stellt **über 2 000 zusätzliche Parkplätze** bereit (Standorte: Zernez, Müstair, Landquart).  
+- Bisher hat **[Italien](https://de.wikipedia.org/wiki/Italien)**, bzw. die zuständige Region **[Lombardei](https://de.wikipedia.org/wiki/Lombardei)**, keine Kostenbeteiligung zugesagt.  
+- Die Graubündner Regierung, vertreten durch die Mitte‑Kantonsrätin **Carmelia Maissen**, hat die Lombardei bereits zur Fortsetzung der Verhandlungen aufgefordert, bisher jedoch ohne Rückmeldung.
 
-### Kritik an der EU‑Politik  
-- Der Artikel wirft der EU vor, **Selbstzweifel** und **Angst** zu zeigen, weil sie sich vor einer scheinbar harmlosen, aber kritischen Meinung fürchtet.  
-- Es wird argumentiert, dass die EU damit **totalitäre Vorgehensweisen** nachahmt, die sie selbst anderen Staaten vorwirft, und damit ihre behaupteten Werte – Freiheit, Meinungspluralismus und Rechtsstaatlichkeit – untergräbt.  
+### Infrastruktur und Verkehr  
+- **[Livigno](https://de.wikipedia.org/wiki/Livigno)** und **[Bormio](https://de.wikipedia.org/wiki/Bormio)**, Austragungsorte der Spiele, liegen nur wenige Dutzend Kilometer südlich der Grenze.  
+- Besucher aus Zernez oder Müstair können per **Shuttlebus** oder Zug zu den italienischen Veranstaltungsorten weiterreisen.  
+- Der **[Tunnel Munt la Schera](https://de.wikipedia.org/wiki/Tunnel_Munt_la_Schera)**, ein wichtiges Durchgangsgebäude nach Livigno, wird während der Spiele **gesperrt**; nur Fahrzeuge mit Spezialbewilligung, Grenzgänger und Pendler dürfen ihn benutzen.  
+- Der Verkehr wird gezielt zu den definierten **Park‑and‑Ride‑Standorten** in Graubünden geleitet, um die Straßen für Anwohner und lokales Gewerbe funktionstüchtig zu halten.  
+  - Anwohner erhalten **Transitvignetten** für Fahrten im **[Engadin](https://de.wikipedia.org/wiki/Engadin)** und **[Val Müstair](https://de.wikipedia.org/wiki/Val_M%C3%BCstair)**.  
 
-### Kontext und Implikationen  
-- Das Vorgehen spiegelt eine wachsende Tendenz wider, **abweichende Stimmen** in geopolitischen Debatten, insbesondere zum Ukraine‑Krieg, zu kriminalisieren.  
-- Die angedrohten Maßnahmen könnten das Verhältnis zwischen der EU und der Schweiz belasten und das Bild Europas als Hüter liberaler Werte in Frage stellen.
+### Sicherheitsmaßnahmen  
+- Die **Kantonspolizei Graubünden** stellt rund um die Uhr **30 zusätzliche Polizisten** bereit, die in den Regionen **Engadin**, **Val Müstair**, **[Bergell](https://de.wikipedia.org/wiki/Bergell)** und **[Puschlav](https://de.wikipedia.org/wiki/Puschlav)** patrouillieren.  
 
-> Relevance score: [6] - The EU sanction of a Swiss former army officer touches on free‑speech and EU‑Swiss relations, a noteworthy political development for Switzerland.
+### Verhandlungen mit Italien  
+- Graubünden schätzt, dass an Spitzentagen **3 000–4 000** Besucher über die Schweiz zu den Spielen reisen werden; die Lombardei geht von niedrigeren Zahlen aus.  
+- Die ausbleibende Kostenbeteiligung wird von Graubünden als „schwer nachvollziehbar und irritierend“ bezeichnet.  
+- Weitere Gespräche mit der Lombardei sind geplant, um eine faire Aufteilung der Mehrkosten zu erreichen.  
 
-## Die EU setzt einen Schweizer Ex-Oberst auf die Sanktionsliste
+> Relevance score: [8] - Der Streit um Kostenbeteiligungen betrifft direkt den Kanton Graubünden und damit die schweizerische Steuer- und Finanzlage. Es ist ein klarer Fall von national relevanter, lokaler Bedeutung mit potenziellen finanziellen Konsequenzen.
 
-[blue News](https://www.bluewin.ch/de/news/international/ehemaliger-oberst-der-schweizer-armee-steht-auf-eu-sanktionsliste-3010764.html) • _Montag, 15. Dezember 2025, 21:46 Uhr_
+## Verbrennerverbot gelockert: Die EU hilft den festgefahrenen deutschen Autobauern
 
-Die EU setzt einen ehemaligen Schweizer Armeeoffizier auf ihre Sanktionsliste. Ex-Oberst Jacques Baud untergrabe mit prorussischer Propaganda und Verschwörungstheorien die Stabilität der Ukraine
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/die-deutschen-autobauer-kaempfen-mit-dem-markt-und-ihrer-eigenen-starrheit-ld.1916772) • _Mittwoch, 17. Dezember 2025, 05:30 Uhr_
 
-### Hintergrund der Sanktion
-- **Jacques Baud**, 70‑jähriger ehemaliger Oberst der **[Schweizer Armee](https://de.wikipedia.org/wiki/Schweizer_Armee)**, verbreitete prorussische Propaganda und Verschwörungstheorien zum **[Ukraine‑Krieg](https://de.wikipedia.org/wiki/Krieg_in_der_Ukraine)**.  
-- Er trat regelmäßig als Gast in russisch‑nahen Fernseh‑ und Radioprogrammen auf und beschuldigte die Ukraine, sich selbst die Invasion provoziert zu haben, um der **[NATO](https://de.wikipedia.org/wiki/Nordatlantikpakt)** beizutreten.  
-- Die EU bewertete sein Vorgehen als gezielte **Informationsmanipulation**, die die Stabilität und Sicherheit der Ukraine untergraben solle.
+Die Lockerung des EU-Verbrennerverbots soll einer angeschlagenen Autoindustrie helfen. Die Deutschen haben sich früh auf das E-Auto festgelegt und so die Flexibilität eingebüsst, die einst ihre Stärke war.
 
-### Maßnahmen der EU
-- Der Rat der **[Europäische Union](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union)**, basierend auf einem Vorschlag des **[European External Action Service](https://de.wikipedia.org/wiki/European_External_Action_Service)**, nahm Baud in die **Sanktionsliste** auf.  
-- **Vermögenssperre**: EU‑Bürgern und -Unternehmen ist es verboten, Baud finanzielle Mittel oder wirtschaftliche Ressourcen zur Verfügung zu stellen.  
-- **Reiseverbot**: Baud darf die EU weder betreten noch durchreisen.  
+### Hintergrund und neue EU‑Regelung
+- Die EU‑Kommission lockert das geplante **Verbrennerverbot**: ab 2035 müssen Neuwagenflotten nur noch **90 %** weniger CO₂ ausstoßen (statt 100 %).  
+- Vorgeschlagen von **Deutschland**, **Polen** und **Italien**.  
+- Ziel: den deutschen Autobauern mehr Spielraum zu geben, während die langfristige Dekarbonisierung erhalten bleibt.  
 
-### Reaktion der Schweiz
-- Das **Staatssekretariat für Wirtschaft (SECO)** in Bern hat Kenntnis vom EU‑Beschluss, übernimmt jedoch die Sanktion nicht.  
-- Grund: Die Schweiz ist dem von der EU im Oktober 2023 verabschiedeten **Sanktionsregime gegen russische hybride Bedrohungen** nicht beigetreten, obwohl sie bereits die breiteren Sanktionen von Februar 2022 gegen Russland akzeptiert hat.  
+### Schwierigkeiten der deutschen Autoindustrie
+- **Herbert Diess** (ehem. Vorstand von **Volkswagen**) forderte 2019 ein reines Setzen auf **E‑Mobilität** und lehnte technologische Offenheit ab.  
+- Nach der **Energiewende** unter **Angela Merkel** folgte ein EU‑Verbot für Verbrenner-Neuzulassungen ab 2035.  
+- Die Realität:  
+  - 2024 sank die Zulassung von **Elektroautos** in Deutschland um **27,4 %** gegenüber 2023.  
+  - Insgesamt gingen die Fahrzeugzulassungen um **1 %** zurück.  
+  **Ursachen**  
+  - Wegfall des **Umweltbonus** im Dezember 2023, was E‑Auto‑Käufe verteuerte.  
+  - Wirtschaftliche Unsicherheit durch **Pandemie**, **Krieg** und **Energiekrise**.  
 
-### Weitere Sanktionen
-- Neben Baud wurden am selben Tag **elf weitere Personen**, eine **russische Streitkräfteeinheit** und eine **Propagandagruppe** wegen destabilisierender Aktivitäten sanktioniert.  
-- Insgesamt listet die Verordnung **59 Personen** und **17 Organisationen** auf, die wegen „destabilisierender Aktivitäten Russlands“ geführt werden.  
+### Marktentwicklung und Verbrauchermeinungen
+- Laut Studie des **Nürnberg‑Instituts für Marktentscheidungen** (2024):  
+  - **Staatliche Förderung** ist der häufigste Kaufgrund für E‑Autos, gefolgt von **Klimaschutz**.  
+  - **28 %** kauften aus Sorge, dass Verbrenner künftig teurer oder gesetzlich eingeschränkt werden könnten.  
+- Trotz Schwäche im Jahr 2024 steigt die E‑Auto‑Zulassung 2025 wieder: im November 2025 wurden **56 000** E‑Autos neu zugelassen, gegenüber **29 000** Diesel‑ und **61 000** Benzinfahrzeugen.  
 
-### Kontext des Krieges
-- Der von **[Wladimir Putin](https://de.wikipedia.org/wiki/Wladimir_Putin)** initiierte militärische Angriff, von ihm als „Spezialoperation“ bezeichnet, dauert vier Jahre an und hat bislang die russischen Kriegsziele in der Ukraine nicht erreicht, trotz materieller Überlegenheit.  
+### Technologieoffenheit: BMW als Beispiel
+- **BMW** verfolgt seit langem eine offenere Strategie: neben **Elektro‑** auch **Wasserstoffantriebe** weiterentwickelt.  
+- Ergebnis im 3. Quartal 2024:  
+  - Gewinn **5,7 Mrd. €**, deutlich über **Mercedes** (3,9 Mrd. €) und **Volkswagen** (3,4 Mrd. €).  
+  - 2024 mehr verkaufte E‑Autos als **Mercedes**, **Audi** und **Porsche** zusammen.  
 
-> Relevance score: [6] - Similar to the earlier article about Jacques Baud, this sanction highlights tension between Swiss individuals and EU policy, affecting diplomatic relations.
+### Ausblick
+- Die EU‑Anpassung reduziert den unmittelbaren Druck auf die deutschen Hersteller.  
+- Flexibilität und Technologieoffenheit – wie bei **BMW** – könnten entscheidend sein, um zukünftige Marktanteile zu sichern.  
+- Weitere Faktoren: mögliche Rückkehr des **Umweltbonus** unter Kanzler **Friedrich Merz**, sowie die wachsende Konkurrenz durch **chinesische** Marken (ca. 3 % Marktanteil in Deutschland).  
+
+> Relevance score: [7] - Eine Anpassung des EU‑Verbrennerverbots hat direkte Konsequenzen für die europäische Automobilindustrie, insbesondere Deutschland, und indirekt für die Schweiz, die stark mit der Automobilbranche verbunden ist. Es handelt sich um eine bedeutende regulatorische Änderung.
+
+## Das ist die aktuelle humanitäre Lage im Sudan
+
+[Watson](https://www.watson.ch/international/sudan/331896323-das-ist-die-aktuelle-humanitaere-lage-im-sudan) • _Dienstag, 16. Dezember 2025, 21:26 Uhr_
+
+Im Sudan entfaltet sich eine humanitäre Tragödie. Hilfsorganisationen warnen vor katastrophalen Zuständen.
+
+### Hintergrund des Konflikts
+- Seit April 2023 kämpft die sudanesische Regierung gegen die Miliz **Rapid Support Forces (RSF)** um die Kontrolle des Landes.  
+- Im Oktober 2023 fiel die strategisch wichtige Stadt **Al‑Fashir** in der Region **Nord‑Darfur** in die Hände der RSF‑Rebellen, was die Gewalt erneut in den Fokus der internationalen Medien rückte.  
+
+### Humanitäre Lage in Al‑Fashir
+- Forschende des **Humanitarian Research Lab** der **Yale University** analysieren Satellitenbilder und dokumentieren:
+  - Innerhalb von 7‑10 Tagen nach der Einnahme über **140 Lestapel** sichtbar.  
+  - Fortlaufendes Verbrennen und Verlegen der Leichen – sie bezeichnen das Geschehen als ein „Schlachthaus“.  
+- Die Stadt leidet an akuter Nahrungs- und Wasserversorgungskrise; Hilfsorganisationen haben keinen Zugang.  
+- Beobachtungen zeigen:
+  - Keine Zivilisten an Wasserstellen oder Märkten.  
+  - Nur Bewegungen und Plünderungen der RSF‑Truppen.  
+
+### Situation in Tawila und Binnenflüchtlingslagern
+- **Tawila**, etwa 70 km von Al‑Fashir entfernt, beherbergt Zehntausende Binnenflüchtlinge.  
+- Laut **Veronicah Mbogo** (Kinderschutzexpertin, *Plan International*) fehlt:
+  - Grundnahrungsmittel und Hygienematerialien.  
+  - Ausreichende Unterkünfte; viele bauen provisorische Behausungen aus **Hirsehalmen** oder erhalten nur Plastikplanen.  
+- RSF‑Kontrollpunkte rauben Flüchtlinge aus, was die humanitäre Notlage weiter verschärft.  
+
+### Sexuelle Gewalt und gesellschaftliche Stigmatisierung
+- Die **RSF** setze seit dem Völkermord in Darfur vor 20 Jahren sexualisierte Gewalt als Kriegswaffe ein; diese Praxis halte bis heute an.  
+- Das Frauennetzwerk **Siha** veröffentlichte einen Bericht über weit verbreitete sexuelle Übergriffe, die:
+  - Zielgerichtet Gemeinschaften unterdrücken und demütigen.  
+  - Mit einer hohen Dunkelziffer behaftet sind, weil Opfer stigmatisiert werden.  
+- Betroffene schweigen häufig aus Angst:
+  - Verstoß gegen die Familienehre und mögliche **Ehrensäuberungs‑Morde** durch Verwandte.  
+  - Verlust von Heiratschancen und sozialer Ausgrenzung.  
+
+### Flucht nach Tschad und Zeugenaussagen
+- In benachbarten **Tschad** treffen Hilfsorganisationen auf Flüchtlinge aus Darfur, die erschütternde Schicksale schildern:  
+  - Frauen berichten von Beobachtungen, wie ihre Brüder vor ihren Augen getötet wurden; einzelne Überlebende wurden schwer verletzt und mussten ins Krankenhaus.  
+- Diese Berichte werden von **Aktion gegen den Hunger** (*Action Against Hunger*) weitergegeben und verdeutlichen das Ausmaß von Gewalt und Leid.  
+
+> Relevance score: [7] - Der anhaltende Bürgerkrieg und die humanitäre Katastrophe im Sudan haben erhebliche Auswirkungen auf internationale Sicherheit und humanitäre Hilfe. Die Lage ist von globaler Bedeutung und erfordert internationale Aufmerksamkeit.
+
+## Trump verhängt Einreiseverbot für fünf weitere Länder
+
+[Blick](https://www.blick.ch/ausland/nach-angriff-auf-nationalgarde-trump-verhaengt-einreiseverbot-fuer-fuenf-weitere-laender-id21520773.html) • _Dienstag, 16. Dezember 2025, 21:38 Uhr_
+
+Die Trump-Regierung hat am Dienstag ein Einreiseverbot für fünf weitere Länder verhängt. Weitere Länder haben mit neuen Beschränkungen zu rechnen. Die Einreiseverschärfungen folgen auf den Angriff auf zwei Mitglieder der US-Nationalgarde Ende November.
+
+### Hintergrund
+- Die Verschärfung des US‑Einreiseverbots erfolgt nach der Festnahme eines afghanischen Staatsangehörigen, dem vorgeworfen wird, am Thanksgiving‑Wochenende zwei Mitglieder der **[US‑Nationalgarde](https://en.wikipedia.org/wiki/National_Guard_(United_States))** angeschossen zu haben.  
+- Laut **[The Washington Post](https://en.wikipedia.org/wiki/The_Washington_Post)** ist das neue Verbot eine Reaktion auf diesen Vorfall.
+
+### Erweiterung des Einreiseverbots
+- Präsident **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** hatte im Juni bereits angekündigt, die Einreise für Bürger aus zwölf Ländern komplett zu sperren und für sieben weitere Länder Beschränkungen zu verhängen.  
+- Am Dienstag wurde die Sperrliste um fünf weitere Staaten erweitert:
+  - **[Burkina Faso](https://en.wikipedia.org/wiki/Burkina_Faso)**
+  - **[Mali](https://en.wikipedia.org/wiki/Mali)**
+  - **[Niger](https://en.wikipedia.org/wiki/Niger)**
+  - **[Südsudan](https://en.wikipedia.org/wiki/South_Sudan)**
+  - **[Syrien](https://en.wikipedia.org/wiki/Syria)**
+- Zusätzlich wird die Einreise für Inhaber von Reisedokumenten der **[Palästinensischen Autonomiebehörde](https://en.wikipedia.org/wiki/Palestinian_National_Authority)** vollständig untersagt.
+
+### Teilweise Beschränkungen für weitere Länder
+- Für 15 Länder gelten nun eingeschränkte Einreisebedingungen, darunter:
+  - **Angola**
+  - **Antigua und Barbuda**
+  - **Benin**
+  - **Côte d’Ivoire**
+  - **Dominica**
+  - **Gabun**
+  - **Gambia**
+  - **Malawi**
+  - **Mauretanien**
+  - **Nigeria**
+  - **Senegal**
+  - **Tansania**
+  - **Tonga**
+  - **Sambia**
+  - **Simbabwe**  
+
+Diese Länder müssen künftig mit weiteren möglichen Beschränkungen rechnen.
+
+> Relevance score: [6] - Reisebeschränkungen der USA können Schweizer Reisende und Unternehmen betreffen und zeigen US‑Außenpolitische Tendenzen. Der Effekt ist spürbar, allerdings begrenzt auf betroffene Länder.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Krawalldemo Bern: «Risiko für Unterkühlungen» – Amnesty kritisiert Polizei
+## Wie Hassparolen Gewalt gegen Juden schüren
 
-[20 Minuten](https://www.20min.ch/story/krawalldemo-bern-risiko-fuer-unterkuehlungen-amnesty-kritisiert-polizeieinsatz-103470519) • _Dienstag, 16. Dezember 2025, 06:04 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/sidney-anschlag-terrorismus-antisemitsmus-intifada-gaza-hamas-israel-bern-frankreich-duesseldorf-synagoge-gerhard-schroeder-mamdani-new-york-ld.1916652) • _Mittwoch, 17. Dezember 2025, 05:30 Uhr_
 
-Nach schweren Ausschreitungen bei einer unbewilligten Pro-Palästina-Demo in Bern erhebt Amnesty International schwere Vorwürfe gegen die Polizei.
+Der Terroranschlag von Sydney ist nur das jüngste Beispiel für einen Antisemitismus, der seit Jahren verdrängt wird.
 
-Am 11. Oktober kam es in Bern zu massiven Ausschreitungen bei einer unbewilligten Pro-Palästina-Demonstration. Laut Polizei wird im Zusammenhang mit der Demonstration auch wegen Brandstiftung ermittelt. Augenzeugen berichteten gegenüber 20 Minuten, d... [weiterlesen](https://www.20min.ch/story/krawalldemo-bern-risiko-fuer-unterkuehlungen-amnesty-kritisiert-polizeieinsatz-103470519)
+Wenige Tage nach dem Massaker des 7. Oktober 2023, als das Ausmass des Terrors noch nicht vollständig bekannt ist, wird in der australischen Stadt Sydney demonstriert. Nicht gegen Antisemitismus, sondern gegen Israel. Und gegen die Juden. «Fuck the J... [weiterlesen](https://www.nzz.ch/feuilleton/sidney-anschlag-terrorismus-antisemitsmus-intifada-gaza-hamas-israel-bern-frankreich-duesseldorf-synagoge-gerhard-schroeder-mamdani-new-york-ld.1916652)
 
-> Relevance score: [5] - The protest and Amnesty’s criticism raise questions about police conduct and civil liberties in Switzerland. It is a national‑level civic issue but does not alter laws or institutions.
+> Relevance score: [5] - Der Beitrag analysiert Antisemitismus nach dem Sydney‑Terroranschlag und trägt zum Verständnis von Hass‑ und Gewaltmechanismen bei. Das Thema hat internationale Bedeutung, ist aber vorwiegend ein gesellschaftlicher Diskurs ohne sofortige strukturelle Folgen.
 
-## Die UBS verliert ihren Technologiechef
+## Terror in Sydney: Angreifer soll verhört werden
 
-[finews.ch](https://www.finews.ch/news/banken/70576-ubs-swiss-banking-executive-board-zurich-swiss-finance-place-n26) • _Montag, 15. Dezember 2025, 18:59 Uhr_
+[20 Minuten](https://www.20min.ch/story/terror-in-sydney-9-opfer-in-kritischem-zustand-attentaeter-soll-verhoert-werden-103471387) • _Mittwoch, 17. Dezember 2025, 03:06 Uhr_
 
-UBS ordnet Konzernleitung neu. Der Technikchef der kombinierten Grossbank scheidet überraschend aus. Eine Übergangslösung ist bereits bestimmt.
+Drei Tage nach dem Terroranschlag auf ein jüdisches Fest in Sydney werden noch 22 Verletzte im Spital behandelt. Neun sind in kritischem Zustand.
 
-UBS nimmt kurz vor Jahresende eine wichtige Veränderung in der Konzernleitung vor. Mike Dargan, Group Chief Operations and Technology Officer, tritt per Ende Dezember zurück und will sich neuen beruflichen Möglichkeiten ausserhalb der Bank widmen. Di... [weiterlesen](https://www.finews.ch/news/banken/70576-ubs-swiss-banking-executive-board-zurich-swiss-finance-place-n26)
+Drei Tage nach dem Terrorangriff auf ein jüdisches Fest in Sydney werden weiterhin 22 Verletzte im Krankenhaus behandelt. Neun von ihnen befinden sich mit Stand Mittwochmorgen Ortszeit in kritischem Zustand, sechs davon sind stabil, wie die Gesundhei... [weiterlesen](https://www.20min.ch/story/terror-in-sydney-9-opfer-in-kritischem-zustand-attentaeter-soll-verhoert-werden-103471387)
 
-> Relevance score: [5] - Leadership change at Switzerland’s largest bank may affect corporate strategy and the financial sector, but it is a routine executive turnover.
+> Relevance score: [5] - Der Terroranschlag in Sydney ist ein schweres humanitäres Ereignis, das weltweite Aufmerksamkeit erhält. Relevanz für das Verständnis von Terrorismus, jedoch ohne direkte strukturelle Folgen für die Schweiz.
 
-## Ameisensäure im Fokus: Formiat effizient zu Formaldehyd umwandeln
+## Trumps Wirtschaftserzählung bröckelt – Zahlen sind alarmierend
 
-[Analytik NEWS](https://analytik.news/presse/2025/746.html) • _Dienstag, 16. Dezember 2025, 00:04 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/usa-unter-trump-trumps-wirtschaftserzaehlung-broeckelt-zahlen-sind-alarmierend) • _Dienstag, 16. Dezember 2025, 22:02 Uhr_
 
-Für eine kohlenstoffneutrale Bioökonomie sind Verfahren erforderlich, die CO2 effizient binden und in wertvolle Produkte umwandeln. Ameisensäure beziehungsw
+Die Arbeitslosenquote ist auf 4.6% gestiegen. Seit Oktober sind mehr Jobs verloren gegangen als neu geschaffen wurden.
 
-Für eine kohlenstoffneutrale Bioökonomie sind Verfahren erforderlich, die CO2 effizient binden und in wertvolle Produkte umwandeln. Ameisensäure beziehungsweise ihr Salz Formiat gilt als vielversprechender Kandidat: Sie lässt sich aus CO2 mittels ern... [weiterlesen](https://analytik.news/presse/2025/746.html)
+Die neusten Arbeitsmarktzahlen passen nicht zur Erfolgserzählung von Präsident Trump, der von einer boomenden Wirtschaft spricht. Die US-Konjunktur kühlt spürbar ab, auch wenn der Privatsektor noch robust ist. Zudem hat der Shutdown, der Behördenstil... [weiterlesen](https://www.srf.ch/news/wirtschaft/usa-unter-trump-trumps-wirtschaftserzaehlung-broeckelt-zahlen-sind-alarmierend)
 
-> Relevance score: [4] - Research on carbon‑neutral chemical processes is scientifically valuable, but its immediate societal impact is niche and medium‑term.
+> Relevance score: [5] - Aktuelle US‑Arbeitsmarktdaten beeinflussen globale Wirtschaftsbedingungen. Die Informationen sind für Analysten wichtig, haben aber nur mittelgroße direkte Effekte auf die Schweizer Wirtschaft.
 
-## Mikrobiom-Manipulation: Neue Ansätze zur Behandlung von Multipler Sklerose
+## Weil Musk zu viel verspricht: Tesla droht Verkaufsstopp in Kalifornien
 
-[it boltwise](https://www.it-boltwise.de/mikrobiom-manipulation-neue-ansaetze-zur-behandlung-von-multipler-sklerose.html) • _Montag, 15. Dezember 2025, 20:04 Uhr_
+[Watson](https://www.watson.ch/international/usa/965765200-weil-musk-zu-viel-verspricht-tesla-droht-verkaufsstopp-in-kalifornien) • _Mittwoch, 17. Dezember 2025, 05:57 Uhr_
 
-Neue Forschung zeigt, dass Darmbakterien, die dem Myelin ähneln, das Immunsystem verwirren und MS beschleunigen können. Nicht-entzündliche Bakterien bieten Hoffnung.
+Dem Elektroauto-Hersteller Tesla droht ein 30-tägiger Verkaufsstopp im absatzstarken US-Bundesstaat Kalifornien.
 
-BASEL / LONDON (IT BOLTWISE) – Neue Forschungen zeigen, dass Darmbakterien, die dem Myelin ähneln, das Immunsystem verwirren und die Multiple Sklerose beschleunigen können. In Versuchen mit Mäusen führten solche Bakterien zu einer schnelleren Krankhe... [weiterlesen](https://www.it-boltwise.de/mikrobiom-manipulation-neue-ansaetze-zur-behandlung-von-multipler-sklerose.html)
+Dem Elektroauto-Hersteller Tesla droht ein 30-tägiger Verkaufsstopp im absatzstarken US-Bundesstaat Kalifornien.
+Auslöser ist die Einschätzung eines Gerichts, dass die Firma die Fähigkeiten ihres Assistenzsystems «Autopilot» übertrieben dargestellt h... [weiterlesen](https://www.watson.ch/international/usa/965765200-weil-musk-zu-viel-verspricht-tesla-droht-verkaufsstopp-in-kalifornien)
 
-> Relevance score: [4] - Breakthroughs in MS treatment could have long‑term health benefits, yet the news is still early‑stage research with limited immediate impact.
+> Relevance score: [4] - Ein 30‑tägiger Verkaufsstopp von Tesla in Kalifornien betrifft einen wichtigen US‑Markt, aber die Wirkung ist begrenzt und vorübergehend. Einfluss auf die globale EV‑Industrie ist gering und hat kaum direkte Konsequenzen für die Schweiz.
 
-## Ford stellt E-Auto-Produktion in USA teils ein
+## KI-Sprachmodelle im Vergleich: ChatGPT landet nur im Mittelfeld
 
-[Watson](https://www.watson.ch/international/elektroauto/461370703-ford-stellt-e-auto-produktion-in-usa-teils-ein) • _Dienstag, 16. Dezember 2025, 04:20 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/sendungen/kassensturz-espresso/tests/gadgets-elektronik/ki-sprachmodelle-im-vergleich-chatbot-duell-chatgpt-landet-nur-im-mittelfeld) • _Dienstag, 16. Dezember 2025, 19:34 Uhr_
 
-Der US-Autobauer Ford will sein verlustreiches Elektroauto-Geschäft umkrempeln und nimmt dafür eine Riesenabschreibung in Kauf.
+Viele KI-Chatbots stolpern über Schweizer Fragen und halluzinieren. Sogar der Platzhirsch ChatGPT kann nicht überzeugen.
 
-Ford stellt E-Auto-Produktion teils ein – und nimmt Riesenabschreiber in Kauf
-Der US-Autobauer Ford will sein verlustreiches Elektroauto-Geschäft umkrempeln und nimmt dafür eine Riesenabschreibung in Kauf.
-Sie soll – grösstenteils im laufenden Quarta... [weiterlesen](https://www.watson.ch/international/elektroauto/461370703-ford-stellt-e-auto-produktion-in-usa-teils-ein)
+Was bekommt man in einem Schweizer Restaurant, wenn man eine «Stange» bestellt? Zwei der getesteten KI-Chatbots behaupten, eine Stange sei ein frisches, langes Brot, das man nach Belieben belegen kann – statt eines Biers.
+Solche erfundenen Antworten ... [weiterlesen](https://www.srf.ch/sendungen/kassensturz-espresso/tests/gadgets-elektronik/ki-sprachmodelle-im-vergleich-chatbot-duell-chatgpt-landet-nur-im-mittelfeld)
 
-> Relevance score: [3] - The production cut is a corporate restructuring affecting the US auto sector and the global EV market; relevance to Swiss readers is limited.
+> Relevance score: [4] - Der Vergleich von KI‑Chatbots ist für die technologische Entwicklung und Nutzerinteraktion von Interesse, hat jedoch derzeit nur begrenzte tiefgreifende Auswirkungen auf Gesellschaft oder Wirtschaft in der Schweiz.
 
-## USA verstärken Militärpräsenz – Trinidad und Tobago unterstützt
+## Trumps Stabschefin macht indiskrete Aussagen zur US-Regierung
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/usa/us-militaer-in-der-karibik-trinidad-und-tobago-oeffnet-flughaefen-fuer-us-militaerflugzeuge) • _Dienstag, 16. Dezember 2025, 04:18 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/susie-wiles-trumps-stabschefin-macht-indiskrete-aussagen-zur-us-regierung-ld.1916926) • _Mittwoch, 17. Dezember 2025, 01:08 Uhr_
 
-Trinidad und Tobago erlaubt US-Flugzeugen logistische Nutzung – Washington verstärkt Präsenz in der Karibik.
+In Interviews mit einem Publizisten gibt Susie Wiles taktische Fehler zu und kommentiert offenherzig das Personal von Trumps Regierung. Der Präsident stützt sie dennoch.
 
-Trinidad und Tobago erlaubt US-Flugzeugen logistische Nutzung seiner Flughäfen.
-Washington verstärkt seine Militärpräsenz in der Karibik mit Flugzeugen, Kriegsschiffen und Soldaten.
-Die USA begründen ihr Vorgehen offiziell mit dem Kampf gegen Drogenh... [weiterlesen](https://www.srf.ch/news/international/usa/us-militaer-in-der-karibik-trinidad-und-tobago-oeffnet-flughaefen-fuer-us-militaerflugzeuge)
+Susie Wiles ist Stabschefin und Vertraute von Präsident Donald Trump. Ein Vorgänger riet ihr davon ab, mit dem amerikanischen Publizisten Chris Whipple zu sprechen. Schliesslich hat dieser sich darauf spezialisiert, süffige Geschichten über das Perso... [weiterlesen](https://www.nzz.ch/international/susie-wiles-trumps-stabschefin-macht-indiskrete-aussagen-zur-us-regierung-ld.1916926)
 
-> Relevance score: [3] - US military adjustments in the Caribbean are a regional security move with minimal direct effect on Switzerland or global structures.
+> Relevance score: [3] - Interne US‑Politik‑Aussagen geben Einblick in die Regierungsführung, betreffen jedoch vorwiegend US‑Innenpolitische Dynamiken ohne unmittelbare Weiterwirkungen für die Schweiz.
 
-## Donald Trump reicht Milliardenklage gegen BBC ein: Streit um manipulierte Rede
+## Name Twitter: Elon Musk ficht Rechtsstreit mit Start-up aus
 
-[20 Minuten](https://www.20min.ch/story/trotz-entschuldigung-trump-reicht-milliardenklage-gegen-bbc-ein-103470643) • _Dienstag, 16. Dezember 2025, 05:19 Uhr_
+[Watson](https://www.watson.ch/international/x-twitter/713959130-name-twitter-elon-musk-ficht-rechtsstreit-mit-start-up-aus) • _Mittwoch, 17. Dezember 2025, 05:47 Uhr_
 
-Donald Trump verklagt die BBC auf Milliarden, nachdem eine Sendung seine Rede manipuliert zeigte. Die BBC entschuldigte sich, lehnte aber eine Entschädigung ab.
+Ein Start-up will sich den abgelegten Namen Twitter und das bekannte Logo mit dem blauen Vogel sichern. Elon Musks Online-Plattform X klagt dagegen.
 
-US-Präsident Donald Trump hat seine Drohung gegen die BBC nach übereinstimmenden Berichten wahr gemacht und eine Milliardenklage gegen den britischen Sender eingereicht. Mehrere US-Medien meldeten, dass die Klageschrift bei einem Gericht im US-Bundes... [weiterlesen](https://www.20min.ch/story/trotz-entschuldigung-trump-reicht-milliardenklage-gegen-bbc-ein-103470643)
+Er wollte den Namen «Twitter» ausradieren – nun streitet sich Elon Musk darum
+Ein Start-up will sich den abgelegten Namen Twitter und das bekannte Logo mit dem blauen Vogel sichern. Elon Musks Online-Plattform X hat dagegen Klage eingereicht.
+X habe ... [weiterlesen](https://www.watson.ch/international/x-twitter/713959130-name-twitter-elon-musk-ficht-rechtsstreit-mit-start-up-aus)
 
-> Relevance score: [2] - A high‑profile legal dispute between a US president and a British broadcaster is largely political drama with limited structural consequences for Switzerland or the world.
+> Relevance score: [2] - Der Rechtsstreit um das Markenrecht von „Twitter“ ist ein reiner Unternehmens‑ und Marken‑konflikt ohne breitere gesellschaftliche, wirtschaftliche oder politische Bedeutung.
 
-## RAM-Preise: Speicherkrise könnte AM4 und DDR4 reanimieren
+## Der Sohn von Rob Reiner wird wegen Mordes angeklagt
 
-[PCGH](https://www.pcgameshardware.de/RAM-Hardware-154108/News/Speicherkrise-kann-AM4-und-DDR4-wiederbeleben-1489094/) • _Montag, 15. Dezember 2025, 23:15 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/er-soll-seine-eltern-erstochen-haben-der-sohn-von-rob-reiner-wird-wegen-mordes-angeklagt-ld.1916929) • _Mittwoch, 17. Dezember 2025, 02:03 Uhr_
 
-Die Rekordpreise für DDR5-Speicherkits könnten die Lebenszeit der altehrwürdigen AM4-Plattform und von DDR4-Arbeitsspeicher noch weiter verlängern.
+Der gewaltsame Tod des „Harry und Sally“-Regisseurs Rob Reiner und seiner Frau Michele schockt nicht nur die Filmwelt. Nick Reiner, der Sohn des Paares, ist in Haft und soll wegen Mordes angeklagt werden.
 
-Wie ein kurzer Blick in den PCGH-Preisvergleich von Geizhals offenbart, werden die Speicherchips ("ICs") von Samsung, Micron und SK Hynix für DDR5-Arbeitsspeicher so exorbitant hoch nachgefragt, dass sich die durchschnittlichen Verkaufspreise für vie... [weiterlesen](https://www.pcgameshardware.de/RAM-Hardware-154108/News/Speicherkrise-kann-AM4-und-DDR4-wiederbeleben-1489094/)
+(dpa) Nach dem gewaltsamen Tod von „Harry und Sally“-Regisseur Rob Reiner und seiner Ehefrau Michele soll der Sohn des Paares, Nick Reiner, wegen zweifachen Mordes angeklagt werden. Das gab die Staatsanwaltschaft in Los Angeles bekannt. Der 32-Jährig... [weiterlesen](https://www.nzz.ch/feuilleton/er-soll-seine-eltern-erstochen-haben-der-sohn-von-rob-reiner-wird-wegen-mordes-angeklagt-ld.1916929)
 
-> Relevance score: [2] - A consumer‑tech price trend; interesting for enthusiasts but not structurally important for the broader public.
+> Relevance score: [1] - Ein prominenter Kriminalfall aus den USA hat kaum Auswirkung auf Gesellschaft, Wirtschaft oder Politik in der Schweiz oder global im größeren Maßstab.
 
 
 </details>

@@ -2,404 +2,272 @@
 
 ---
 
-_Updated: Tuesday, 16 December 2025, 18:27_
+_Updated: Wednesday, December 17, 2025, 18:27 CET_
 
-## "No 10‑Million‑Switzerland!" – Parliament Recommends Rejecting the SVP Immigration Initiative
+## US Military in the Caribbean – Trump demands the return of Venezuelan oil and threatens with military action
 
-[Swiss Radio and Television](https://www.srf.ch/news/schweiz/keine-10-millionen-schweiz-parlament-empfiehlt-svp-zuwanderungsinitiative-zur-ablehnung) • _Monday, 15 December 2025, 21:09_
+[Swiss Radio and Television (SRF)](https://www.srf.ch/news/international/usa/us-militaer-in-der-karibik-trump-fordert-von-venezuela-rueckgabe-von-oel-und-droht-mit-militaer) • _Wednesday, December 17, 2025, 04:23 CET_
 
-After the National Council, the Council of States also votes “No” on the initiative. No counter‑proposal will be presented.
+Trump demands the return of Venezuelan oil and steps up pressure with a blockade and military presence.
 
-### Initiative and Objective
-- The popular initiative **“No 10‑Million‑Switzerland”** of the **[Swiss People's Party (SVP)](https://en.wikipedia.org/wiki/Swiss_People%27s_Party)** aims to cap population growth at a maximum of ten million people by 2050.  
-- If Switzerland reaches this threshold, the **[Free‑Movement of People Agreement](https://en.wikipedia.org/wiki/Free_movement_of_people_(EU))** with the **[European Union (EU)](https://en.wikipedia.org/wiki/European_Union)** would be terminated.  
-- The goal is to ensure “sustainable development” and to preserve prosperity and international legal obligations.
+### Trump’s demands and sanctions
+- On **[Truth Social](https://en.wikipedia.org/wiki/Truth_Social)**, **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** calls for the “**immediate**” return of Venezuelan oil and asset holdings that he claims were stolen by the United States.  
+- Background: Nationalisations of oil fields in the early 2000s that also affected U.S. companies.  
+- Trump labels the government of **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)** as a **“foreign terrorist organisation.”**  
+- He orders a **“total and complete blockade of all sanctioned [oil tankers](https://en.wikipedia.org/wiki/Oil_tanker)”** that sail to or from Venezuela.  
+  - An oil tanker had already been seized off the Venezuelan coast beforehand.  
 
-### Parliamentary Statements
-- **[Federal Council](https://en.wikipedia.org/wiki/Federal_Council_(Switzerland))**: rejects the initiative without a counter‑proposal, but plans accompanying measures (e.g., stricter asylum checks).  
-- **[National Council](https://en.wikipedia.org/wiki/National_Council_(Switzerland))**: also rejects it without a counter‑proposal after an intensive autumn debate.  
-- **[Council of States](https://en.wikipedia.org/wiki/Council_of_States_(Switzerland))**: votes 29 to 9 (6 abstentions) in favour of recommending a “No” to the people; the formal final vote will follow at the end of the winter session.  
+### Military threats
+- Trump threatens an expanding U.S. military presence:  
+  - **“The largest fleet ever assembled in South America.”**  
+  – Deployment of a **[aircraft carrier](https://en.wikipedia.org/wiki/Aircraft_carrier)**, the world’s biggest warship, to the Caribbean.  
+- He hints at possible **ground operations** in the region.  
+- Confirmation that **[CIA](https://en.wikipedia.org/wiki/Central_Intelligence_Agency)** operations in Venezuela have been authorised.  
 
-### Arguments of the Opponents
-- **Risk to Bilateral Relations**  
-  - Termination of the free‑movement agreement would jeopardise the **[bilateral pathway](https://en.wikipedia.org/wiki/Bilateral_relations_of_Switzerland_and_the_EU)** with the EU and thus threaten access to the European single market.  
-- **Economic Risks**  
-  - Loss of jobs and prosperity from restricted access to labour and specialised‑skill pools.  
-  - Example: **[Tiana Angelina Moser](https://en.wikipedia.org/wiki/Tiana_Angelina_Moser)** (GLP) points out that roughly 45 % of doctors working in Swiss hospitals hold foreign diplomas – such a loss would be unbearable.  
-- **Security and Migration Consequences**  
-  - Danger of being excluded from the **[Schengen and Dublin system](https://en.wikipedia.org/wiki/Schengen_Agreement)**, which could lead to increased irregular migration and higher asylum numbers.  
+### Venezuela’s reaction
+- The Venezuelan government calls Trump’s announcements **“grotesque”** and a **violation of international law**.  
+- Caracas emphasises:  
+  - Sovereignty over all resources and the right to free navigation and trade.  
+  - Action in line with the **[UN Charter](https://en.wikipedia.org/wiki/Charter_of_the_United_Nations)**.  
+  - Defence of the state territory by the population, military and police through peaceful means.  
+- Maduro accuses the United States of escalating the conflict **“primarily because of oil”** and trying to force a **regime change** in Caracas.  
 
-### Arguments of the Proponents
-- **Limiting Massive Immigration**  
-  - **[Esther Friedli](https://en.wikipedia.org/wiki/Esther_Friedli)** (SG) calls for new instruments and renegotiation of existing agreements to “attack immigration at its root”.  
-- **Sustainability and Population Growth**  
-  - The initiative is intended to prevent the resident population from exceeding the capacity limit of ten million before 2050 (also referred to as the *nine‑and‑a‑half‑million* threshold).  
-
-### Voting Results and Further Developments
-- **Council of States**: 29 yes, 9 no, 6 abstentions for the recommendation that the people reject the initiative.  
-- **No Counter‑Initiative**: Three possible counter‑drafts (protective clause, immigration levy, separate termination vote) were dismissed by both chambers.  
-- **Historical Context**: Compared with the 2014 SVP initiative “Against Mass Immigration”, which at the time strained relations with the EU.  
-- **Statement by Federal Councillor Beat Jans**: The initiative solves no problems but creates new ones; the issue must be tackled through concrete planning in spatial development and housing.  
-
-### Outlook
-- Parliament has clearly signalled that the **“No 10‑Million‑Switzerland”** initiative should be rejected by the people.  
-- Formal final votes are still pending at the end of the winter session before the referendum is finally decided.
-
-> Relevance score: [8] – Parliamentary rejection of a high‑profile immigration initiative directly influences Swiss immigration policy and reflects major political currents.
-
----
-
-## Initiative Rejected Without Counter‑Proposal
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/10-millionen-schweiz-das-parlament-geht-aufs-ganze-und-lehnt-die-svp-initiative-ohne-gegenvorschlag-ab-ld.1916584) • _Monday, 15 December 2025, 20:08_
-
-All preliminary decisions on immigration have been taken. The people can vote in June 2026 without a counter‑proposal on the SVP’s latest attack on free movement.
-
-### Council of States Decision
-- The **Council of States** rejected all counter‑proposals to the **“No 10‑Million‑Switzerland”** initiative on 9 December 2025.  
-- This aligns it with the **National Council**, allowing the initiative to go to the ballot without a counter‑proposal.  
-- The referendum is expected on **14 June 2026**; polls give the initiative realistic chances.  
-- Council of States vote: **29 yes vs 9 no**, 6 abstentions.  
-  - Yes votes came mainly from SVP deputies, but also from some centre‑right members (e.g., **Heidi Z’graggen**, **Daniel Fässler**).  
-  - All **SP** and **FDP** councilors unanimously voted against the initiative.  
-
-### Content of the Initiative
-- Goal: Enshrine an **upper limit of 10 million residents** for the permanent population **before 2050**.  
-- The Confederation shall **ensure** that this ceiling is not exceeded.  
-- In plain language, the initiative demands the **termination of the free‑movement agreement** with the **EU**.  
-- If the limit is reached, the initiative stipulates that Switzerland must **automatically** end free movement.  
-
-### Political Reactions & Statements
-- **SVP** (e.g., **Esther Friedli**) criticises the **pace** of immigration, speaking of “**density stress**” and a “**immigration spiral**”.  
-- Representatives of the **centre** (e.g., **Benedikt Würth**) warn of **wealth loss**, especially in rural areas.  
-- **SP** councilors (**Pierre‑Yves Maillard**, **Daniel Jositsch**) defend **free movement**, likening the initiative to a **pressure‑cooker** whose lid does not solve the problem.  
-- **FDP** councilors (**Benjamin Mühlemann**, **Petra Gössi**) reject the initiative; Gössi nevertheless calls for a counter‑proposal with **stricter asylum measures** and clearer **protective clauses**.  
-- **GLP** deputy (**Tiana Moser**) smiles slightly at the notion of a “too‑small Switzerland”.  
-- **Migration Minister Beat Jans** warns that the initiative threatens **security and human‑rights partnerships** with the EU and could heavily burden the economy and infrastructure.  
-
-### Counter‑Proposals and Why They Were Rejected
-- **Petra Gössi (FDP)**:  
-  - Tighten **asylum policy**.  
-  - Provide precise rules for the **protective clause** of free movement.  
-- **Heidi Z’graggen (centre)**:  
-  – Introduce an **immigration levy** (only for third‑country nationals).  
-- **Daniel Fässler (centre)**:  
-  – Clarify the **termination process**: allow a **second vote** or parliamentary decision to avoid an automatic termination.  
-- All three proposals were **rejected** by the Council of States because they were either not ambitious enough, did not address the core SVP demand, or were deemed too controversial.  
-
-### Outlook for the Popular Vote
-- Without a counter‑proposal, the initiative will appear **“bare”** on the ballot in June 2026.  
-- Federal authorities (e.g., the **Federal Statistical Office**) estimate that the **10‑million mark** could be reached as early as **2041**, heightening the urgency of the debate.  
-- Critics stress the risk of an **automatic termination** of free movement as **problematic**, noting that Parliament and the Federal Council could theoretically amend the constitution to block this step – although doing so would require considerable political effort.  
-- The debate remains a **central issue** in Swiss migration and European‑policy discourse, reflecting the persistent **divide** between the **SVP wing** and the **centrist parties**.  
-
-> Relevance score: [8] – Final parliamentary decision on the SVP immigration initiative determines a key national referendum, a significant civic event.
-
----
-
-## EU Will Turn Off the Money Tap to Russia’s Economy
-
-[Merkur](https://www.merkur.de/wirtschaft/abdrehen-moskau-veruebt-vergeltung-eu-will-russlands-wirtschaft-den-geldhahn-zr-94081052.html) • _Tuesday, 16 December 2025, 05:19_
-
-The majority of EU states want to freeze Russian assets in order to support Ukraine. The Russian central bank has now filed a lawsuit.
-
-### EU Plan to Use Frozen Russian Assets
-- The **[European Commission](https://en.wikipedia.org/wiki/European_Commission)** plans to freeze Russian assets that are permanently located in the EU and use them to fund Ukraine.  
-- The aim is a “reconstruction” loan for Ukraine; the retransmission of the funds back to Russia would be prohibited for an indefinite period.  
-- The total amount involved is about **€210 billion**; the bulk (≈ €185 billion) is held by the Belgian depository **[Euroclear](https://en.wikipedia.org/wiki/Euroclear)**.  
-
-### Reaction of the Russian Central Bank
-- The **[Bank of Russia](https://en.wikipedia.org/wiki/Bank_of_Russia)** has filed a lawsuit against **Euroclear**.  
-- It accuses the company of “illegal actions” and demands damages, arguing that the EU decision hampers the management of its cash reserves and securities.  
-- The lawsuit is seen as the first retaliation step against the EU decision.  
-
-### Belgium’s Involvement and Other EU Countries  
-- **Belgium** is pivotal because Euroclear is based there. The Belgian government (led by **[Bart De Wever](https://en.wikipedia.org/wiki/Bart_De_Wever)**) demands:  
-  - Guarantees of comprehensive risk‑ and liquidity protection for affected citizens and businesses.  
-  - A joint risk fund financed by all participating EU states.  
-- Other EU states with frozen Russian central‑bank assets include:  
-  - **[Germany](https://en.wikipedia.org/wiki/Germany)**  
-  - **[France](https://en.wikipedia.org/wiki/France)**  
-  - **[Sweden](https://en.wikipedia.org/wiki/Sweden)**  
-  - **[Cyprus](https://en.wikipedia.org/wiki/Cyprus)**  
-- Belgium’s refusal complicates implementation, as most of the assets are managed there.  
-
-### Outlook and Political Situation  
-- **[Friedrich Merz](https://en.wikipedia.org/wiki/Friedrich_Merz)** and other supporters hope to persuade De Wever before the upcoming **EU summit**.  
-- Belgium remains cautious, fearing legal and financial risks, including possible Russian retaliation against European private persons and firms.  
-- The situation continues to be followed by outlets such as the **[The Moscow Times](https://en.wikipedia.org/wiki/The_Moscow_Times)** and **[dpa](https://en.wikipedia.org/wiki/DPA_(news_agency))**.  
-
-> Relevance score: [7] – EU sanctions on Russian state assets represent a major economic weapon in the Ukraine conflict, influencing global finance and geopolitics. Significant but still EU‑centric.
-
----
-
-## Switzerland: New Laws and Regulations Taking Effect in 2026
-
-[20 Minutes](https://www.20min.ch/story/neue-gesetze-diese-aenderungen-treten-2026-in-der-schweiz-in-kraft-103469081) • _Tuesday, 16 December 2025, 04:26_
-
-2026 brings major changes in Switzerland, including new road‑traffic and health‑care laws.
-
-### Transport  
-
-- **Digitalisation of Vehicle Registration** (from 1 January 2026)  
-  - Electronic EU‑type‑approval certificates (**eCoC**) will be automatically retrieved from European databases.  
-  - Vehicle data will be stored in the **Vehicle Registration Information System** and made electronically available to all authorities and automotive‑industry actors.  
-
-- **CO₂ Sanctions Linked to Registration**  
-  - Vehicle licences and control plates will only be issued if outstanding CO₂ sanctions are settled or the vehicle is assigned to a new‑car fleet.  
-
-- **Autonomous Driving**  
-  - On motorways, approved systems may temporarily take over driving, but the driver must remain ready to intervene at any time (no systems are approved yet).  
-  - In designated parking garages and lots, automated parking without a present driver is permitted.  
-
-- **Working‑ and Rest‑Time Regulation (ARV 1)** (from 1 July 2026)  
-  - For cross‑border road transport with vehicles/combinations > 2.5 t, ARV applies if driving time exceeds half of working time.  
-  – Domestic transport remains unchanged.  
-
-### Health & Health Insurance  
-
-- **Premium Increase 2026**  
-  - Average basic monthly premium: about **CHF 393** (≈ + 4.4 % on average).  
-  – Strong cantonal differences (e.g., Ticino + > 7 %, Zug – significant reduction due to cantonal subsidies).  
-
-- **Franchise‑Free Vaccinations**  
-  - Standard vaccinations against **diphtheria**, **tetanus**, and **meningococci** will be exempt from the annual deductible.  
-
-### Pensions, AHV & Taxes  
-
-- **13th AHV Pension**  
-  - First payment in **December 2026** as an additional benefit alongside the regular pension (details pending).  
-
-- **Retrospective Pillar 3a Contributions**  
-  - Persons who made no or only partial contributions in certain years can, from tax year 2026 onward, make retroactive **purchases** for 2025.  
-
-### Criminal Law  
-
-- **Stalking as an Independent Offence** (from 1 January 2026)  
-  - Anyone who repeatedly follows a person can be punished with **up to three years’ imprisonment** or a fine.  
-  - Prosecution can be initiated at the victim’s request; the aim is stronger protection of personal liberty and victims.  
-
-### Additional Societal Regulations  
-
-- **Law on Processing Flight‑Passenger Data** (from 1 January 2026)  
-  – Regulates the transmission of passenger data by air carriers to the national authority for counter‑terrorism and serious crime purposes.  
-
-- **Voluntary Chip‑Enabled e‑ID** (roll‑out by end 2026)  
-  – Digital identity proof for online government services, orders (e.g., electronic driver’s licence) and age verification.  
-  – Free additional offering, but funding remains unsecured after Parliament cut the planned ~CHF 2 million budget.  
-
-- **Extension of Civil‑Protection Duty** (from 1 January 2026)  
-  – Conscripts remain in civil protection until age 40 (the earlier reduction to 36 years is lifted).  
-
-- **Canton Switch for Moutier** (from 1 January 2026)  
-  – The municipality of roughly 7 500 inhabitants moves from the canton of **Bern** to the canton of **Jura**; 55 % of voters approved the change in March 2021.  
+### U.S. military activities in the Caribbean
+- Consolidation of forces, including the aircraft carrier, in the region.  
+- **“Dead” attacks** on boats suspected of drug smuggling:  
+  - The U.S. government calls this a fight against **“drug terrorists.”**  
+  - Critics view it as a **breach of international law**.  
 
 ---  
+*All persons, organisations and concepts mentioned are linked to the appropriate Wikipedia entries.*
 
-*Note: All links point to the corresponding Wikipedia entries for further information.*
+> Relevance score: [8] – An escalating conflict between the United States and Venezuela has geopolitical ramifications, potential impacts on energy markets and regional security. While Switzerland is not directly involved, the development has global relevance.
 
-> Relevance score: [7] – A set of nationwide legal reforms in traffic, health and insurance will directly change everyday life for Swiss citizens and alter regulatory frameworks.
+## Graubünden fights for cost‑sharing from Italy for the 2026 Winter Olympics
 
----
+[20 Minutes](https://www.20min.ch/story/graubuenden-olympia-kostet-graubuenden-millionen-italien-reagiert-nicht-103471012) • _Tuesday, December 16, 2025, 20:42 CET_
 
-## Week: New Fault Lines Over Ukraine
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/entscheidende-eu-woche-neue-bruchlinien-bei-ukraine-finanzierung-ld.1916513) • _Tuesday, 16 December 2025, 05:30_
-
-Billion‑euro loan from frozen Russian state assets, EU accession, ammunition deliveries – the problems for Brussels do not get smaller before the EU summit showdown on Ukraine.
-
-### Key Events of the Week  
-- **Peace summit in Berlin**: negotiations on cease‑fire conditions in Ukraine.  
-- **EU summit in Brussels (Thursday–Sunday)**: 27 heads of state and government decide on financial support for Kyiv for the next two years and examine a possible fast‑track EU accession for Ukraine.  
-
-### Financial Support for Ukraine and New Conflict Lines  
-- **Proposed €90 billion loan**  
-  - To be sourced from Russian state assets frozen at **Euroclear** ([https://en.wikipedia.org/wiki/Euroclear](https://en.wikipedia.org/wiki/Euroclear)).  
-  - The European Commission does not call the action a seizure, as the assets could be released to Russia after sufficient reparations.  
-- **Resistance from Member States**  
-  - **Belgium** (home of Euroclear) initially rejects the plan.  
-  - **Italy**, **Bulgaria** and **Malta** join in a joint statement demanding “alternative options consistent with EU and international law”.  
-- **Proposed Alternative: Joint Debt**  
-  - Similar to the **COVID‑19 pandemic** response.  
-  - Problems:  
-    - High debt levels in countries like **Italy** and **Belgium** threaten their credit ratings.  
-    - Introducing joint debt requires unanimity of all member states – currently not foreseeable.  
-- **Further Opposition**  
-  - **Hungary** and **Slovakia** reject any form of Ukrainian support outright.  
-  - **Germany** and **the Netherlands** do not want a repeat of a “fiscal dam‑burst” after the pandemic crisis.  
-  - German European Affairs Minister **Gunther Krichbaum** stresses that objectors must present concrete alternatives – none have yet been convincing.  
-- **Qualified Majority**  
-  - The planned reparations loan only needs a qualified majority (55 % of states representing at least 65 % of the EU population).  
-  - Nevertheless, overruling **Belgium** would be politically difficult because its consent remains diplomatically crucial.  
-
-### Practical Hurdles in Releasing the Russian Funds  
-- **Regulation by Belgium**: the Belgian finance ministry alone can issue instructions for the release of the frozen assets.  
-- **Euroclear Management**: **Valérie Urbain** ([https://en.wikipedia.org/wiki/Val%C3%A9rie_Urbain](https://en.wikipedia.org/wiki/Val%C3%A9rie_Urbain)), head of Euroclear, reports that she is under constant watch due to Russian threats and that actual implementation remains uncertain.  
-
-### Diplomatic Tug‑of‑War  
-- **EU Foreign Minister Kaja Kallas** ([https://en.wikipedia.org/wiki/Kaja_Kallas](https://en.wikipedia.org/wiki/Kaja_Kallas)) describes the situation as “increasingly difficult”, but notes that a few days still remain.  
-- **Council President António Costa** ([https://en.wikipedia.org/wiki/Ant%C3%B3nio_Costa](https://en.wikipedia.org/wiki/Ant%C3%B3nio_Costa)) signals that negotiations will only end once a consensus is reached; the heads of state are allowed up to three extra days to decide.  
-
-### Debate on EU Accession for Ukraine  
-- **Accession Requirement**: unanimity of all member states.  
-- **Opposing Votes**:  
-  - **Hungary**, **Slovakia** and now **Czech Republic** ([https://en.wikipedia.org/wiki/Czech_Republic](https://en.wikipedia.org/wiki/Czech_Republic)).  
-  - Large agricultural countries fear the burden on the so‑called **“European grain basket”**.  
-- **Influence of the Mercosur Agreement**  
-  - **France** wants to postpone the vote on the **Mercosur free‑trade agreement** ([https://en.wikipedia.org/wiki/Mercosur](https://en.wikipedia.org/wiki/Mercosur)).  
-  - Without a reform of the **Common Agricultural Policy (CAP)**, EU membership for Ukraine is hardly imaginable, as CAP reform is tightly linked to the trade deal.  
-
-### Withdrawal of the Czech Ammunition Initiative  
-- **Prime Minister Andrej Babiš** ([https://en.wikipedia.org/wiki/Andrej_Babi%C5%A1](https://en.wikipedia.org/wiki/Andrej_Babi%C5%A1)) announces that **Czech Republic** is leaving the ammunition initiative he launched.  
-  - Almost two million large‑calibre rounds were supplied to Kyiv in 2024.  
-  - Babiš justifies the step with empty coffers and the need to direct every available financial resource to his own citizens.  
-  - The withdrawal has both financial and symbolic impact, as the initiative was created by the Czech Republic in 2024.  
-
-> Relevance score: [6] – EU‑wide decisions on financing Ukraine with frozen Russian assets affect European security and economics. Important geopolitically, yet the direct impact on Swiss society is indirect.
-
----
-
-## EU Sanctions Swiss Former Colonel Jacques Baud – Defends “Sacred European Values” While Simultaneously Silencing Unwelcome Opinions from Switzerland
-
-[Die Weltwoche](https://weltwoche.ch/daily/straffmassnahmen-gegen-jacques-baud-die-eu-will-die-heiligen-europaeischen-werte-verteidigen-und-sanktioniert-im-gleichen-atemzug-unliebsame-meinungen-aus-der-schweiz/) • _Tuesday, 16 December 2025, 04:11_
-
-The EU sanctions Swiss Colonel Jacques Baud for dissenting views on the Ukraine war, raising questions about free speech and EU values.
+The high costs of the 2026 Winter Olympics in Italy raise questions. Graubünden is urgently seeking solutions.
 
 ### Background  
-- The **European Union (EU)** plans to impose punitive measures on former Swiss officer **[Jacques Baud](https://en.wikipedia.org/wiki/Swiss_Armed_Forces)** because he deviated from the official narrative of the **[Ukraine conflict](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)** in an interview with **[Die Weltwoche](https://de.wikipedia.org/wiki/Die_Weltwoche)**.  
-- Baud criticises the mainstream narrative of European elites regarding the causes and course of the conflict and is therefore labelled an “unwelcome opinion” by Brussels.  
+- The **[2026 Winter Olympics](https://en.wikipedia.org/wiki/2026_Winter_Olympics)** will take place from 6 to 22 February 2026 in northern Italy, close to the Swiss border.  
+- The canton of **[Graubünden](https://en.wikipedia.org/wiki/Graub%C3%BCnden)** has developed a transport and security concept for the event and has already invested **CHF 5.5 million**.
 
-### EU’s Approach  
-- The threatened sanctions would treat Baud similarly to terrorists or close Kremlin allies – e.g., entry bans or economic restrictions.  
-- This signals that even a neutral neighbour like **[Switzerland](https://en.wikipedia.org/wiki/Switzerland)** is not protected from criticism and divergent viewpoints.  
+### Financial aspects  
+- Graubünden wants to cover part of the costs through **parking fees**; a daily parking spot costs **CHF 70**.  
+- The canton is providing **over 2 000 additional parking spaces** (locations: Zernez, Müstair, Landquart).  
+- So far, **[Italy](https://en.wikipedia.org/wiki/Italy)**, or rather the responsible region **[Lombardy](https://en.wikipedia.org/wiki/Lombardy)**, has not pledged any cost‑sharing.  
+- The Graubünden government, represented by centrist councillor **Carmelia Maissen**, has already asked Lombardy to resume negotiations, but has received no response.
 
-### Criticism of EU Policy  
-- The article accuses the EU of showing **self‑doubt** and **fear**, reacting to a seemingly harmless yet critical opinion.  
-- It argues that the EU mirrors the **totalitarian tactics** it condemns elsewhere, thereby undermining its proclaimed values – freedom, pluralism and rule of law.  
+### Infrastructure and transport  
+- **[Livigno](https://en.wikipedia.org/wiki/Livigno)** and **[Bormio](https://en.wikipedia.org/wiki/Bormio)**, Olympic venues, lie only a few dozen kilometres south of the border.  
+- Visitors from Zernez or Müstair can continue to the Italian venues by **shuttle bus** or train.  
+- The **[Munt la Schera Tunnel](https://en.wikipedia.org/wiki/Munt_la_Schera_Tunnel)**, a key crossing to Livigno, will be **closed** during the Games; only vehicles with special permits, cross‑border commuters and residents may use it.  
+- Traffic will be deliberately channelled to designated **park‑and‑ride locations** in Graubünden to keep the roads usable for residents and local businesses.  
+  - Residents receive **transit permits** for trips in the **[Engadin](https://en.wikipedia.org/wiki/Engadin)** and **[Val Müstair](https://en.wikipedia.org/wiki/Val_M%C3%BCstair)**.  
 
-### Context and Implications  
-- The move reflects a growing trend to **criminalise dissenting voices** in geopolitical debates, especially concerning the Ukraine war.  
-- The threatened measures could strain EU‑Swiss relations and call into question Europe’s image as a guardian of liberal values.  
+### Security measures  
+- The **Graubünden cantonal police** will have **30 additional officers** on duty around the clock, patrolling the **Engadin**, **Val Müstair**, **[Bergell](https://en.wikipedia.org/wiki/Bergell)** and **[Puschlav](https://en.wikipedia.org/wiki/Puschlav)** regions.  
 
-> Relevance score: [6] – The EU sanction of a Swiss former army officer touches on free‑speech and EU‑Swiss relations, a noteworthy political development for Switzerland.
+### Negotiations with Italy  
+- Graubünden estimates that on peak days **3 000–4 000** visitors will travel through Switzerland to the Games; Lombardy assumes lower numbers.  
+- The lack of cost‑sharing is described by Graubünden as “**hard to understand and irritating**.”  
+- Further talks with Lombardy are planned to achieve a fair split of the additional expenses.  
 
----
+> Relevance score: [8] – The dispute over cost‑sharing directly affects the canton of Graubünden and therefore Swiss fiscal and tax matters. It is a clear case of national relevance with potential financial consequences.
 
-## EU Places Former Swiss Colonel on Sanctions List
+## Combustion‑engine ban eased: EU helps stalled German automakers
 
-[blue News](https://www.bluewin.ch/de/news/international/ehemaliger-oberst-der-schweizer-armee-steht-auf-eu-sanktionsliste-3010764.html) • _Monday, 15 December 2025, 21:46_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/die-deutschen-autobauer-kaempfen-mit-dem-markt-und-ihrer-eigenen-starrheit-ld.1916772) • _Wednesday, December 17, 2025, 05:30 CET_
 
-The EU has added a former Swiss army officer to its sanctions list. Ex‑Colonel Jacques Baud spreads pro‑Russian propaganda and conspiracy theories that undermine Ukraine’s stability.
+The easing of the EU’s combustion‑engine ban is intended to help a struggling automotive industry. German manufacturers committed early to electric cars and consequently lost the flexibility that once was their strength.
 
-### Background of the Sanction
-- **Jacques Baud**, a 70‑year‑old former colonel of the **[Swiss Army](https://en.wikipedia.org/wiki/Swiss_Armed_Forces)**, has been disseminating pro‑Russian propaganda and conspiracy theories about the **[Ukraine war](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)**.  
-- He regularly appears as a guest on Russia‑aligned TV and radio programmes, accusing Ukraine of provoking the invasion to join **[NATO](https://en.wikipedia.org/wiki/NATO)**.  
-- The EU judged his activity to be deliberate **information manipulation** aimed at undermining Ukraine’s stability.  
+### Background and new EU regulation
+- The EU Commission softens the planned **combustion‑engine ban**: from 2035 new‑car fleets must cut CO₂ emissions by only **90 %** (instead of 100 %).  
+- Proposed by **Germany**, **Poland** and **Italy**.  
+- Goal: give German automakers more leeway while preserving long‑term decarbonisation.  
 
-### EU Measures
-- The **Council of the European Union**, based on a proposal from the **[European External Action Service](https://en.wikipedia.org/wiki/European_External_Action_Service)**, placed Baud on the **sanctions list**.  
-- **Asset freeze**: EU citizens and companies are prohibited from providing Baud with financial resources or economic assets.  
-- **Travel ban**: Baud may neither enter nor transit through the EU.  
+### Difficulties facing the German auto industry
+- **Herbert Diess** (former CEO of **Volkswagen**) called for a pure focus on **e‑mobility** in 2019 and rejected technological openness.  
+- After the **energy transition** under **Angela Merkel**, the EU banned new‑car registrations of combustion engines from 2035.  
+- Reality:  
+  - In 2024, registrations of **electric cars** in Germany fell **27.4 %** compared with 2023.  
+  - Overall vehicle registrations dropped **1 %**.  
+  **Causes**  
+  - The **environmental bonus** expired in December 2023, making EV purchases more expensive.  
+  - Economic uncertainty caused by the **pandemic**, **war** and **energy crisis**.  
 
-### Reaction in Switzerland
-- The **State Secretariat for Economic Affairs (SECO)** in Bern is aware of the EU decision but does **not** adopt the sanction.  
-- Reason: Switzerland has not joined the **sanctions regime against Russian hybrid threats** adopted by the EU in October 2023, although it already respects the broader February 2022 sanctions against Russia.  
+### Market development and consumer attitudes
+- According to a study by the **Nuremberg Institute for Market Decisions** (2024):  
+  - **Government subsidies** are the most common reason for buying EVs, followed by **climate protection**.  
+  - **28 %** bought an EV out of concern that combustion cars would become more expensive or legally restricted in the future.  
+- Despite a weak 2024, EV registrations rise again in 2025: in November 2025, **56 000** EVs were newly registered, versus **29 000** diesel and **61 000** gasoline vehicles.  
 
-### Additional Sanctions
-- On the same day, **eleven other individuals**, a **Russian Armed Forces unit** and a **propaganda group** were sanctioned for destabilising activities.  
-- In total, the regulation lists **59 persons** and **17 organisations** deemed responsible for “destabilising activities of Russia”.  
+### Technological openness: BMW as an example
+- **BMW** has long pursued a more open strategy: alongside **electric** powertrains it continues to develop **hydrogen** propulsion.  
+- Results for Q3 2024:  
+  - Profit **€5.7 bn**, well above **Mercedes** (**€3.9 bn**) and **Volkswagen** (**€3.4 bn**).  
+  - In 2024 BMW sold more EVs than **Mercedes**, **Audi** and **Porsche** combined.  
 
-### War Context
-- The military operation launched by **[Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)**, described by him as a “special operation”, has now lasted four years and has not achieved Russian objectives in Ukraine despite material superiority.  
+### Outlook
+- The EU adjustment reduces immediate pressure on German manufacturers.  
+- Flexibility and technological openness — as shown by **BMW** — could be decisive for securing future market share.  
+- Additional factors: a possible return of the **environmental bonus** under Chancellor **Friedrich Merz**, and growing competition from **Chinese** brands (about 3 % market share in Germany).  
 
-> Relevance score: [6] – Similar to the earlier article about Jacques Baud, this sanction highlights tension between Swiss individuals and EU policy, affecting diplomatic relations.  
+> Relevance score: [7] – A change to the EU combustion‑engine ban has direct consequences for the European automotive industry, especially Germany, and indirect implications for Switzerland, which is closely linked to the sector. It represents a significant regulatory shift.
 
----  
+## The current humanitarian situation in Sudan
+
+[Watson](https://www.watson.ch/international/sudan/331896323-das-ist-die-aktuelle-humanitaere-lage-im-sudan) • _Tuesday, December 16, 2025, 21:26 CET_
+
+A humanitarian tragedy is unfolding in Sudan. Aid organisations warn of catastrophic conditions.
+
+### Background of the conflict
+- Since April 2023 the Sudanese government has been fighting the militia **Rapid Support Forces (RSF)** for control of the country.  
+- In October 2023 the strategically important city **Al‑Fashir** in **North Darfur** fell into the hands of RSF rebels, bringing the violence back into the international spotlight.  
+
+### Humanitarian situation in Al‑Fashir
+- Researchers at the **Humanitarian Research Lab** of **Yale University** analyse satellite imagery and document:  
+  - Within 7‑10 days of the capture, **over 140 bodies** were visible on piles.  
+  - Ongoing burning and relocation of the corpses – they describe the scene as a “**slaughterhouse**.”  
+- The city suffers from an acute food and water crisis; aid organisations have no access.  
+- Observations show:  
+  - No civilians at water points or markets.  
+  - Only movements and looting by RSF troops.  
+
+### Situation in Tawila and internally displaced‑person (IDP) camps
+- **Tawila**, about 70 km from Al‑Fashir, shelters tens of thousands of IDPs.  
+- According to **Veronicah Mbogo** (child‑protection expert, *Plan International*), there is a lack of:  
+  - Staple food and hygiene supplies.  
+  - Adequate shelter; many are erecting makeshift dwellings from **millet stalks** or receiving only plastic tarps.  
+- RSF checkpoints rob refugees, worsening the humanitarian emergency.  
+
+### Sexual violence and social stigma
+- The **RSF** has used sexualised violence as a war weapon since the genocide in Darfur 20 years ago; the practice continues today.  
+- The women’s network **Siha** released a report on widespread sexual assaults that:  
+  - Intentionally suppress and humiliate communities.  
+  - Have a high “dark figure” because victims are stigmatized.  
+- Affected women often remain silent out of fear:  
+  - Violation of family honour and possible **honour‑killing** by relatives.  
+  - Loss of marriage prospects and social exclusion.  
+
+### Flight to Chad and eyewitness testimonies
+- In neighbouring **Chad**, aid organisations encounter refugees from Darfur who recount harrowing stories:  
+  - Women describe seeing their brothers killed before their eyes; some survivors were severely injured and had to be hospitalised.  
+- These accounts are passed on by **Action Against Hunger**, highlighting the scale of violence and suffering.  
+
+> Relevance score: [7] – The ongoing civil war and humanitarian disaster in Sudan have far‑reaching effects on international security and humanitarian aid. The situation is of global significance and demands worldwide attention.
+
+## Trump imposes travel ban on five more countries
+
+[Blick](https://www.blick.ch/ausland/nach-angriff-auf-nationalgarde-trump-verhaengt-einreiseverbot-fuer-fuenf-weitere-laender-id21520773.html) • _Tuesday, December 16, 2025, 21:38 CET_
+
+The Trump administration imposed a travel ban on five additional countries on Tuesday. More nations can expect new restrictions. The tightening follows the November‑end attack on two members of the U.S. National Guard.
+
+### Background
+- The tightening of the U.S. travel ban comes after the arrest of an Afghan national accused of shooting two members of the **[U.S. National Guard](https://en.wikipedia.org/wiki/National_Guard_(United_States))** over the Thanksgiving weekend.  
+- According to **[The Washington Post](https://en.wikipedia.org/wiki/The_Washington_Post)**, the new ban is a reaction to that incident.
+
+### Expansion of the travel ban
+- President **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** had already announced in June a total ban on citizens from twelve countries and restrictions on seven additional countries.  
+- On Tuesday the blacklist was expanded by five more states:  
+  - **[Burkina Faso](https://en.wikipedia.org/wiki/Burkina_Faso)**  
+  - **[Mali](https://en.wikipedia.org/wiki/Mali)**  
+  - **[Niger](https://en.wikipedia.org/wiki/Niger)**  
+  - **[South Sudan](https://en.wikipedia.org/wiki/South_Sudan)**  
+  - **[Syria](https://en.wikipedia.org/wiki/Syria)**  
+- In addition, entry for holders of travel documents issued by the **[Palestinian National Authority](https://en.wikipedia.org/wiki/Palestinian_National_Authority)** is completely prohibited.
+
+### Partial restrictions for other countries
+- Fifteen countries now face limited entry conditions, including:  
+  - Angola, Antigua and Barbuda, Benin, Côte d’Ivoire, Dominica, Gabon, Gambia, Malawi, Mauritania, Nigeria, Senegal, Tanzania, Tonga, Zambia, Zimbabwe.  
+
+These nations can expect further possible restrictions in the future.
+
+> Relevance score: [6] – U.S. travel restrictions can affect Swiss travelers and businesses and illustrate U.S. foreign‑policy trends. The impact is noticeable but limited to the affected countries.
 
 <details><summary markdown="span">Show less important events</summary>
 
-## Krawall‑demo Bern: “Risk of hypothermia” – Amnesty criticises police
+## How hate slogans fuel violence against Jews
 
-[20 Minutes](https://www.20min.ch/story/krawalldemo-bern-risiko-fuer-unterkuehlungen-amnesty-kritisiert-polizeieinsatz-103470519) • _Tuesday, 16 December 2025, 06:04_
+[Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/sidney-anschlag-terrorismus-antisemitsmus-intifada-gaza-hamas-israel-bern-frankreich-duesseldorf-synagoge-gerhard-schroeder-mamdani-new-york-ld.1916652) • _Wednesday, December 17, 2025, 05:30 CET_
 
-After severe unrest at an unauthorised pro‑Palestine demonstration in Bern, Amnesty International levels serious accusations against the police.
+The Sydney terror attack is just the latest example of antisemitism that has been suppressed for years.
 
-On 11 October, massive unrest erupted during an unauthorised pro‑Palestine demonstration in Bern. Police also opened a probe into possible arson. Eyewitnesses told *20 Minutes* … [read more](https://www.20min.ch/story/krawalldemo-bern-risiko-fuer-unterkuehlungen-amnesty-kritisiert-polizeieinsatz-103470519)
+A few days after the October 7, 2023 massacre, when the full scale of the terror was not yet known, demonstrations in Sydney were held – not against antisemitism but against Israel and against Jews. “**Fuck the J…**” [read more](https://www.nzz.ch/feuilleton/sidney-anschlag-terrorismus-antisemitsmus-intifada-gaza-hamas-israel-bern-frankreich-duesseldorf-synagoge-gerhard-schroeder-mamdani-new-york-ld.1916652)
 
-> Relevance score: [5] – The protest and Amnesty’s criticism raise questions about police conduct and civil liberties in Switzerland. It is a national‑level civic issue but does not alter laws or institutions.
+> Relevance score: [5] – The piece analyses antisemitism after the Sydney attack and contributes to understanding hate‑driven violence. The topic has international relevance but is primarily a societal debate with no immediate structural consequences.
 
-## UBS loses its technology chief
+## Terror in Sydney: Attacker to be interrogated
 
-[finews.ch](https://www.finews.ch/news/banken/70576-ubs-swiss-banking-executive-board-zurich-swiss-finance-place-n26) • _Monday, 15 December 2025, 18:59_
+[20 Minutes](https://www.20min.ch/story/terror-in-sydney-9-oppfer-in-kritischem-zustand-attentaeter-soll-verhoert-werden-103471387) • _Wednesday, December 17, 2025, 03:06 CET_
 
-UBS reshuffles its corporate board. The technology chief of the merged large bank steps down unexpectedly. A temporary solution is already in place.
+Three days after the terror attack at a Jewish event in Sydney, 22 injured are still being treated in hospital. Nine are in critical condition.
 
-UBS makes a major change to its corporate board shortly before year‑end. Mike Dargan, Group Chief Operations and Technology Officer, will leave at the end of December and pursue new opportunities outside the bank. … [read more](https://www.finews.ch/news/banken/70576-ubs-swiss-banking-executive-board-zurich-swiss-finance-place-n26)
+Three days after the terror attack on a Jewish celebration in Sydney, 22 injured remain in hospital. Nine of them are in critical condition as of Wednesday morning local time, six of them are stable, … [read more](https://www.20min.ch/story/terror-in-sydney-9-oppfer-in-kritischem-zustand-attentaeter-soll-verhoert-werden-103471387)
 
-> Relevance score: [5] – Leadership change at Switzerland’s largest bank may affect corporate strategy and the financial sector, but it is a routine executive turnover.
+> Relevance score: [5] – The Sydney terror attack is a serious humanitarian event that draws worldwide attention. Relevant for understanding terrorism, but without direct structural effects for Switzerland.
 
-## Formic acid in focus: Efficient conversion of formate to formaldehyde
+## Trump’s economic narrative crumbles – figures are alarming
 
-[Analytik NEWS](https://analytik.news/presse/2025/746.html) • _Tuesday, 16 December 2025, 00:04_
+[Swiss Radio and Television (SRF)](https://www.srf.ch/news/wirtschaft/usa-unter-trump-trumps-wirtschaftserzaehlung-broeckelt-zahlen-sind-alarmierend) • _Tuesday, December 16, 2025, 22:02 CET_
 
-For a carbon‑neutral bio‑economy, processes are needed that bind CO₂ efficiently and turn it into valuable products. Formic acid ...
+The unemployment rate has risen to 4.6 %. Since October more jobs have been lost than created.
 
-For a carbon‑neutral bio‑economy, processes are needed that bind CO₂ efficiently and turn it into valuable products. Formic acid or its salt formate is a promising candidate … [read more](https://analytik.news/presse/2025/746.html)
+The newest labour‑market figures do not match President Trump’s success story, who talks about a booming economy. The US economy is noticeably cooling, even though the private sector remains robust. Moreover, the shutdown, the government‑style… [read more](https://www.srf.ch/news/wirtschaft/usa-unter-trump-trumps-wirtschaftserzaehlung-broeckelt-zahlen-sind-alarmierend)
 
-> Relevance score: [4] – Research on carbon‑neutral chemical processes is scientifically valuable, but its immediate societal impact is niche and medium‑term.
+> Relevance score: [5] – Current US labour‑market data affect global economic conditions. The information is important for analysts but has only moderate direct effects on the Swiss economy.
 
-## Microbiome manipulation: New approaches to treat multiple sclerosis
+## Because Musk overpromises: Tesla faces sales halt in California
 
-[it boltwise](https://www.it-boltwise.de/mikrobiom-manipulation-neue-ansaetze-zur-behandlung-von-multipler-sklerose.html) • _Monday, 15 December 2025, 20:04_
+[Watson](https://www.watson.ch/international/usa/965765200-weil-musk-zu-viel-verspricht-tesla-droht-verkaufsstopp-in-kalifornien) • _Wednesday, December 17, 2025, 05:57 CET_
 
-New research shows that gut bacteria resembling myelin can confuse the immune system and accelerate MS; non‑inflammatory bacteria offer hope.
+Tesla faces a 30‑day sales halt in the high‑selling US state of California.
 
-BASEL / LONDON (IT BOLTWISE) – New research shows that gut bacteria resembling myelin can confuse the immune system and accelerate multiple sclerosis … [read more](https://www.it-boltwise.de/mikrobiom-manipulation-neue-ansaetze-zur-behandlung-von-multipler-sklerose.html)
+Tesla faces a 30‑day sales halt in the high‑selling US state of California. The trigger is a court’s assessment that the company exaggerated the capabilities of its driver‑assist system “Autopilot”… [read more](https://www.watson.ch/international/usa/965765200-weil-musk-zu-viel-verspricht-tesla-droht-verkaufsstopp-in-kalifornien)
 
-> Relevance score: [4] – Breakthroughs in MS treatment could have long‑term health benefits, yet the news is still early‑stage research with limited immediate impact.
+> Relevance score: [4] – A 30‑day sales halt for Tesla in California affects an important US market, but the impact is limited and temporary. Influence on the global EV industry is modest with little direct consequence for Switzerland.
 
-## Ford partially halts U.S. EV production
+## AI language models compared: ChatGPT only lands in the middle
 
-[Watson](https://www.watson.ch/international/elektroauto/461370703-ford-stellt-e-auto-produktion-in-usa-teils-ein) • _Tuesday, 16 December 2025, 04:20_
+[Swiss Radio and Television (SRF)](https://www.srf.ch/sendungen/kassensturz-espresso/tests/gadgets-elektronik/ki-sprachmodelle-im-vergleich-chatbot-duell-chatgpt-landet-nur-im-mittelfeld) • _Tuesday, December 16, 2025, 19:34 CET_
 
-U.S. automaker Ford will partially wind down its loss‑making EV business, accepting a massive write‑down.
+Many AI chatbots stumble over Swiss questions and hallucinate. Even the market leader ChatGPT cannot convince.
 
-Ford partially halts EV production – and takes a massive write‑down  
-U.S. automaker Ford wants to turn around its loss‑making EV business and will take a huge write‑down to do so.  
-It will … [read more](https://www.watson.ch/international/elektroauto/461370703-ford-stellt-e-auto-produktion-in-usa-teils-ein)
+What do you get in a Swiss restaurant when you order a “Stange”? Two of the tested AI chatbots claim a “Stange” is fresh, long bread that you can top as you like – instead of a beer.  
+These invented answers … [read more](https://www.srf.ch/sendungen/kassensturz-espresso/tests/gadgets-elektronik/ki-sprachmodelle-im-vergleich-chatbot-duell-chatgpt-landet-nur-im-mittelfeld)
 
-> Relevance score: [3] – The production cut is a corporate restructuring affecting the U.S. auto sector and the global EV market; relevance to Swiss readers is limited.
+> Relevance score: [4] – The comparison of AI chatbots is of interest for technological development and user interaction, but currently has limited deep impact on Swiss society or economy.
 
-## USA strengthens military presence – Trinidad and Tobago supports
+## Trump’s chief of staff makes indiscreet remarks about the US government
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/usa/us-militaer-in-der-karibik-trinidad-und-tobago-oeffnet-flughaefen-fuer-us-militaerflugzeuge) • _Tuesday, 16 December 2025, 04:18_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/susie-wiles-trumps-stabschefin-macht-indiskrete-aussagen-zur-us-regierung-ld.1916926) • _Wednesday, December 17, 2025, 01:08 CET_
 
-Trinidad and Tobago allows U.S. aircraft logistical use – Washington ups its presence in the Caribbean.
+In interviews with a publicist, Susie Wiles admits tactical errors and comments openly on Trump’s administration staff. The president still backs her.
 
-Trinidad and Tobago allows U.S. aircraft logistical use of its airports.
-Washington steps up its military presence in the Caribbean with aircraft, warships and soldiers.
-The USA justifies its move as part of the fight against drugs … [read more](https://www.srf.ch/news/international/usa/us-militaer-in-der-karibik-trinidad-und-tobago-oeffnet-flughaefen-fuer-us-militaerflugzeuge)
+Susie Wiles is chief of staff and confidante to President Donald Trump. A predecessor warned her against speaking with the American publicist Chris Whipple. He has specialised in juicy stories about the personal… [read more](https://www.nzz.ch/international/susie-wiles-trumps-stabschefin-macht-indiskrete-aussagen-zur-us-regierung-ld.1916926)
 
-> Relevance score: [3] – U.S. military adjustments in the Caribbean are a regional security move with minimal direct effect on Switzerland or global structures.
+> Relevance score: [3] – Internal US‑political statements provide insight into government workings but mainly affect US domestic dynamics with little immediate spill‑over for Switzerland.
 
-## Donald Trump files billion‑dollar lawsuit against BBC: Dispute over edited speech
+## Name “Twitter”: Elon Musk fights legal battle with start‑up
 
-[20 Minutes](https://www.20min.ch/story/trotz-entschuldigung-trump-reicht-milliardenklage-gegen-bbc-ein-103470643) • _Tuesday, 16 December 2025, 05:19_
+[Watson](https://www.watson.ch/international/x-twitter/713959130-name-twitter-elon-musk-ficht-rechtsstreit-mit-start-up-aus) • _Wednesday, December 17, 2025, 05:47 CET_
 
-Donald Trump sues the BBC for billions after a programme showed his speech edited. The BBC apologised but refused compensation.
+A start‑up wants to secure the retired name “Twitter” and its famous blue‑bird logo. Elon Musk’s platform X sues.
 
-US President Donald Trump has followed through on his threat after consistent reports, filing a multi‑billion lawsuit against the British broadcaster. Several US media reported that the filing was made in a US court … [read more](https://www.20min.ch/story/trotz-entschuldigung-trump-reicht-milliardenklage-gegen-bbc-ein-103470643)
+He wanted to erase the name “Twitter” – now Musk fights a legal battle over it. A start‑up seeks to secure the retired name Twitter and its iconic blue‑bird logo. Elon Musk’s platform X has filed a lawsuit.  
+X … [read more](https://www.watson.ch/international/x-twitter/713959130-name-twitter-elon-musk-ficht-rechtsstreit-mit-start-up-aus)
 
-> Relevance score: [2] – A high‑profile legal dispute between a US president and a British broadcaster is largely political drama with limited structural consequences for Switzerland or the world.
+> Relevance score: [2] – The trademark dispute over “Twitter” is a pure corporate‑law conflict with little broader societal, economic or political significance.
 
-## RAM prices: Memory crisis could resurrect AM4 and DDR4
+## Rob Reiner’s son charged with murder
 
-[PCGH](https://www.pcgameshardware.de/RAM-Hardware-154108/News/Speicherkrise-kann-AM4-und-DDR4-wiederbeleben-1489094/) • _Monday, 15 December 2025, 23:15_
+[Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/er-soll-seine-eltern-erstochen-haben-der-sohn-von-rob-reiner-wird-wegen-mordes-angeklagt-ld.1916929) • _Wednesday, December 17, 2025, 02:03 CET_
 
-Record prices for DDR5 kits could extend the life of the venerable AM4 platform and DDR4 RAM even further.
+The violent death of “Harry and Sally” director Rob Reiner and his wife Michele shocks the film world. Nick Reiner, the couple’s son, is in custody and charged with murder.
 
-How a quick look at the PCGH price comparison of Geizhals shows that memory chips (“ICs”) from Samsung, Micron and SK Hynix for DDR5 are so exorbitantly demanded that average selling prices for many … [read more](https://www.pcgameshardware.de/RAM-Hardware-154108/News/Speicherkrise-kann-AM4-und-DDR4-wiederbeleben-1489094/)
+(dpa) After the violent deaths of “Harry and Sally” director Rob Reiner and his wife Michele, the son Nick Reiner has been charged with double murder. The Los Angeles prosecutor announced this. The 32‑year‑old… [read more](https://www.nzz.ch/feuilleton/er-soll-seine-eltern-erstochen-haben-der-sohn-von-rob-reiner-wird-wegen-mordes-angeklagt-ld.1916929)
 
-> Relevance score: [2] – A consumer‑tech price trend; interesting for enthusiasts but not structurally important for the broader public.
+> Relevance score: [1] – A high‑profile criminal case in the United States has little impact on Swiss society, economy or global politics.
 
 </details>
