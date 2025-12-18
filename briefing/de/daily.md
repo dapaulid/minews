@@ -2,290 +2,454 @@
 
 ---
 
-_Aktualisiert: Mittwoch, 17. Dezember 2025, 18:27 Uhr_
+_Aktualisiert: Donnerstag, 18. Dezember 2025, 06:29 Uhr_
 
-## US-Militär in der Karibik - Trump fordert von Venezuela Rückgabe von Öl und droht mit Militär
+## Ukraine greift erstmals mit Unterwasserdrohne russisches U
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/usa/us-militaer-in-der-karibik-trump-fordert-von-venezuela-rueckgabe-von-oel-und-droht-mit-militaer) • _Mittwoch, 17. Dezember 2025, 04:23 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/die-ukraine-greift-erstmals-mit-einer-unterwasserdrohne-an-ziel-ist-ein-u-boot-ld.1917008) • _Mittwoch, 17. Dezember 2025, 16:58 Uhr_
 
-Trump fordert venezolanisches Öl zurück und verschärft den Druck mit Blockade und Militärpräsenz.
-
-### Trumps Forderungen und Sanktionen
-- Auf **[Truth Social](https://en.wikipedia.org/wiki/Truth_Social)** fordert **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** die „sofortige“ Rückgabe venezolanischer Öl‑ und Vermögenswerte, die seiner Ansicht nach von den USA gestohlen wurden.  
-- Der Hintergrund: Verstaatlichungen von Ölfeldern in den frühen 2000er‑Jahren, bei denen auch US‑Unternehmen betroffen waren.  
-- Trump stuft die Regierung von **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)** als **„ausländische terroristische Organisation“** ein.  
-- Er ordnet eine **„totale und vollständige Blockade aller sanktionierten [Öltanker](https://en.wikipedia.org/wiki/Oil_tanker)“** an, die Venezuela anlaufen oder verlassen.  
-  - Bereits zuvor wurde ein Öltanker vor der venezolanischen Küste beschlagnahmt.  
-
-### Militärische Drohungen
-- Trump droht mit einer wachsenden US‑Militärapräsenz:  
-  - **„Größte Flotte, die je in Südamerika zusammengestellt wurde.“**  
-  - Verlegung eines **[Flugzeugträgers](https://en.wikipedia.org/wiki/Aircraft_carrier)**, des größten Kriegsschiffs der Welt, in die Karibik.  
-- Hinweis auf mögliche **Bodeneinsätze** in der Region.  
-- Bestätigung, dass **[CIA](https://en.wikipedia.org/wiki/Central_Intelligence_Agency)**‑Operationen in Venezuela genehmigt wurden.  
-
-### Reaktion Venezuelas
-- Die venezolanische Regierung bezeichnet Trumps Ankündigungen als **„groteske“** und als **Verstoß gegen das Völkerrecht**.  
-- Caracas betont:  
-  - Souveränität über alle Ressourcen und das Recht auf freie Schifffahrt und Handel.  
-  - Handeln im Einklang mit der **[UN‑Charta](https://en.wikipedia.org/wiki/Charter_of_the_United_Nations)**.  
-  - Verteidigung des Staatsgebiets durch Bevölkerung, Militär und Polizei auf friedlichem Wege.  
-- Maduro wirft den USA vor, den Konflikt **vor allem wegen des Öls** zu eskalieren und einen **Machtwechsel** in Caracas zu erzwingen.  
-
-### US‑Militärische Aktivitäten in der Karibik
-- Zusammenziehen von Kräften, u. a. des Flugzeugträgers, in die Region.  
-- **Tote Angriffe** auf Boote, die angeblich Drogen schmuggeln sollen:  
-  - US‑Regierung bezeichnet dies als Kampf gegen **„Drogenterroristen“**.  
-  - Kritiker sehen darin einen **Verstoß gegen das Völkerrecht**.  
-
----  
-*Alle genannten Personen, Organisationen und Konzepte sind mit den entsprechenden Wikipedia‑Einträgen verlinkt.*
-
-> Relevance score: [8] - Ein eskalierender Konflikt zwischen den USA und Venezuela hat geopolitische Tragweite, potenzielle Auswirkungen auf Energiemärkte und die regionale Sicherheit. Auch wenn die Schweiz nicht unmittelbar beteiligt ist, hat das Geschehen globale Relevanz.
-
-## Graubünden kämpft um Kostenbeteiligung von Italien für Olympia 2026
-
-[20 Minuten](https://www.20min.ch/story/graubuenden-olympia-kostet-graubuenden-millionen-italien-reagiert-nicht-103471012) • _Dienstag, 16. Dezember 2025, 20:42 Uhr_
-
-Die hohen Kosten für die Olympischen Winterspiele 2026 in Italien werfen Fragen auf. Graubünden sucht dringend nach Lösungen.
+Ungehindert konnte ein ukrainisches Gefährt in den abgesperrten Hafen Noworossisk eindringen. Peinlich für das russische Militär ist auch, dass die Ukrainer ihre Aktion sogar filmen konnten.
 
 ### Hintergrund  
-- Die **[Olympischen Winterspiele 2026](https://de.wikipedia.org/wiki/Olympische_Spiele_2026)** finden vom 6. bis 22. Februar 2026 in Norditalien statt, nahe der Schweizer Grenze.  
-- Der Kanton **[Graubünden](https://de.wikipedia.org/wiki/Graub%C3%BCnden)** hat für die Veranstaltung ein Verkehrs‑ und Sicherheitskonzept entwickelt und bereits **5,5 Millionen CHF** investiert.
+- Die Ukraine nutzt seit Monaten auffällige Militäraktionen, um zu zeigen, dass sie trotz laufender Friedensverhandlungen nicht entscheidend geschwächt ist.  
+  - Beispiele: Rückeroberung von [​Kupjansk​](https://de.wikipedia.org/wiki/Kupjansk) (2025), Abschuss von vier Öltankern der russischen Schattenflotte und Beschädigung einer russischen Bohrplattform im Kaspischen Meer.  
+- Der Schwarzmeerhafen [​Noworossisk​](https://de.wikipedia.org/wiki/Noworossisk) ist der wichtigste Stützpunkt der russischen [​Schwarzmeerflotte​](https://de.wikipedia.org/wiki/Schwarzmeerflotte) seit dem Rückzug vieler Kriegsschiffe aus Sewastopol.
 
-### Finanzielle Aspekte  
-- Graubünden will einen Teil der Kosten über **Parkgebühren** decken; ein Tagesparkplatz kostet **70 CHF**.  
-- Der Kanton stellt **über 2 000 zusätzliche Parkplätze** bereit (Standorte: Zernez, Müstair, Landquart).  
-- Bisher hat **[Italien](https://de.wikipedia.org/wiki/Italien)**, bzw. die zuständige Region **[Lombardei](https://de.wikipedia.org/wiki/Lombardei)**, keine Kostenbeteiligung zugesagt.  
-- Die Graubündner Regierung, vertreten durch die Mitte‑Kantonsrätin **Carmelia Maissen**, hat die Lombardei bereits zur Fortsetzung der Verhandlungen aufgefordert, bisher jedoch ohne Rückmeldung.
+### Angriff mit Unterwasserdrohne  
+- Kiew meldete den ersten Einsatz einer Unterwasserdrohne vom Typ **Sub Sea Baby** gegen ein russisches U‑Boot im Hafen Noworossisk.  
+  - Das vom ukrainischen Geheimdienst **SBU** veröffentlichte Video zeigt eine heftige Explosion am Kai in unmittelbarer Nähe des hinteren Teils eines vertäuten U‑Boots.  
+- Private Satellitenbilder von **Vantor** (ehemals Maxar) bestätigen erhebliche Beschädigungen des Kaies im Vergleich zur Vorwoche.  
+- **Russische Seite:**  
+  - Die Schwarzmeerflotte behauptet, kein Kriegsschiff sei beschädigt worden und veröffentlichte ein Video des betroffenen U‑Boots (Klasse *Warschawjanka*), das jedoch nicht das gesamte Boot zeigt.  
+  - Zwei andere in Noworossisk stationierte U‑Boote wurden nach dem Vorfall abgezogen, das angeblich angegriffene Boot blieb jedoch vor Ort.  
 
-### Infrastruktur und Verkehr  
-- **[Livigno](https://de.wikipedia.org/wiki/Livigno)** und **[Bormio](https://de.wikipedia.org/wiki/Bormio)**, Austragungsorte der Spiele, liegen nur wenige Dutzend Kilometer südlich der Grenze.  
-- Besucher aus Zernez oder Müstair können per **Shuttlebus** oder Zug zu den italienischen Veranstaltungsorten weiterreisen.  
-- Der **[Tunnel Munt la Schera](https://de.wikipedia.org/wiki/Tunnel_Munt_la_Schera)**, ein wichtiges Durchgangsgebäude nach Livigno, wird während der Spiele **gesperrt**; nur Fahrzeuge mit Spezialbewilligung, Grenzgänger und Pendler dürfen ihn benutzen.  
-- Der Verkehr wird gezielt zu den definierten **Park‑and‑Ride‑Standorten** in Graubünden geleitet, um die Straßen für Anwohner und lokales Gewerbe funktionstüchtig zu halten.  
-  - Anwohner erhalten **Transitvignetten** für Fahrten im **[Engadin](https://de.wikipedia.org/wiki/Engadin)** und **[Val Müstair](https://de.wikipedia.org/wiki/Val_M%C3%BCstair)**.  
+### Bewertung des Schadens  
+- Experten von *Naval News* gehen davon aus, dass die Explosion nahe am **Steuerruder**, **Propeller** und **Antriebswelle** des U‑Boots erfolgte und wahrscheinlich genug Schaden verursachte, um das Boot langfristig außer Gefecht zu setzen.  
+- Sollte das Boot tatsächlich beschädigt sein, würde das die Fähigkeit Russlands reduzieren, von diesen Plattformen aus Marschflugkörper auf ukrainische Ziele zu starten.  
 
-### Sicherheitsmaßnahmen  
-- Die **Kantonspolizei Graubünden** stellt rund um die Uhr **30 zusätzliche Polizisten** bereit, die in den Regionen **Engadin**, **Val Müstair**, **[Bergell](https://de.wikipedia.org/wiki/Bergell)** und **[Puschlav](https://de.wikipedia.org/wiki/Puschlav)** patrouillieren.  
+### Bedeutung und Folgen  
+- **Technologische Innovation:** Der Einsatz von Sub‑Sea‑Baby‑Unterwasserdrohnen beweist, dass die Ukraine ihr *Marinedrohnen‑Programm* erfolgreich weiterentwickelt hat.  
+  - Unterwasserdrohnen sind schwerer zu erkennen und abzuwehren als herkömmliche Oberflächendrohnen und könnten zukünftig das Bedrohungsprofil für andere Marine‑Staaten (z. B. die **USA**) verändern.  
+- **Sicherheitslücke im Hafen:** Die oberflächliche Blockade des Hafenzugangs hielt nur Oberflächendrohnen ab; die Unterwasserdrohne gelang es, die Blockade zu durchdringen und das Ziel präzise zu steuern.  
+- **Propaganda‑Effekt:** Die Ukraine veröffentlichte Videoaufnahmen, die offenbar von einer Überwachungskamera des Hafenhauptquartiers stammten.  
+  - Dies deutet auf ein mögliches Hacken der russischen Überwachungsanlage hin und liefert der Ukraine detaillierte Informationen über die Vorgänge im Hafen.  
 
-### Verhandlungen mit Italien  
-- Graubünden schätzt, dass an Spitzentagen **3 000–4 000** Besucher über die Schweiz zu den Spielen reisen werden; die Lombardei geht von niedrigeren Zahlen aus.  
-- Die ausbleibende Kostenbeteiligung wird von Graubünden als „schwer nachvollziehbar und irritierend“ bezeichnet.  
-- Weitere Gespräche mit der Lombardei sind geplant, um eine faire Aufteilung der Mehrkosten zu erreichen.  
+### Gesamtbewertung  
+- Der Vorfall stellt eine **demütigende Niederlage** für das russische Militär dar und zeigt zugleich die wachsende Fähigkeit der Ukraine, innovative, schwer abzuwehrende Waffensysteme einzusetzen.  
+- Unabhängig vom tatsächlichen Ausmaß des Schadens am U‑Boot hat die Aktion strategische Bedeutung: Sie verdeutlicht die Verwundbarkeit wichtiger russischer Marinestützpunkte und könnte zukünftige maritime Sicherheitskonzepte beeinflussen.
 
-> Relevance score: [8] - Der Streit um Kostenbeteiligungen betrifft direkt den Kanton Graubünden und damit die schweizerische Steuer- und Finanzlage. Es ist ein klarer Fall von national relevanter, lokaler Bedeutung mit potenziellen finanziellen Konsequenzen.
+> Relevance score: [8] - First use of an underwater drone in the Russia‑Ukraine war marks a notable escalation and could influence future military tactics, affecting global security dynamics.
 
-## Verbrennerverbot gelockert: Die EU hilft den festgefahrenen deutschen Autobauern
+## Russland offen für Gespräche über ausländische Truppen in Ukraine
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/die-deutschen-autobauer-kaempfen-mit-dem-markt-und-ihrer-eigenen-starrheit-ld.1916772) • _Mittwoch, 17. Dezember 2025, 05:30 Uhr_
+[Blick](https://www.blick.ch/ausland/putin-zeigt-verhandlungswillen-russland-signalisiert-ploetzlich-in-einem-punkt-gespraechsbereitschaft-id21526299.html) • _Mittwoch, 17. Dezember 2025, 12:39 Uhr_
 
-Die Lockerung des EU-Verbrennerverbots soll einer angeschlagenen Autoindustrie helfen. Die Deutschen haben sich früh auf das E-Auto festgelegt und so die Flexibilität eingebüsst, die einst ihre Stärke war.
+Russland zeigt sich erstmals offen für Verhandlungen über die Stationierung ausländischer Truppen in der Ukraine. Moskau hatte dies bisher strikt abgelehnt, doch Gespräche in Berlin bringen das Thema jetzt erneut auf den Tisch.
 
-### Hintergrund und neue EU‑Regelung
-- Die EU‑Kommission lockert das geplante **Verbrennerverbot**: ab 2035 müssen Neuwagenflotten nur noch **90 %** weniger CO₂ ausstoßen (statt 100 %).  
-- Vorgeschlagen von **Deutschland**, **Polen** und **Italien**.  
-- Ziel: den deutschen Autobauern mehr Spielraum zu geben, während die langfristige Dekarbonisierung erhalten bleibt.  
+### Hintergrund  
+- Der **Kreml** hat bislang jede Stationierung ausländischer Truppen in der **Ukraine** abgelehnt und sieht den Konflikt als Gegenmaßnahme gegen einen möglichen **NATO‑Beitritt** der Ukraine.  
+- **Wladimir Putin** begründete den Krieg damit, eine Anwesenheit von NATO‑Soldaten an der Grenze Russlands zu verhindern.  
 
-### Schwierigkeiten der deutschen Autoindustrie
-- **Herbert Diess** (ehem. Vorstand von **Volkswagen**) forderte 2019 ein reines Setzen auf **E‑Mobilität** und lehnte technologische Offenheit ab.  
-- Nach der **Energiewende** unter **Angela Merkel** folgte ein EU‑Verbot für Verbrenner-Neuzulassungen ab 2035.  
-- Die Realität:  
-  - 2024 sank die Zulassung von **Elektroautos** in Deutschland um **27,4 %** gegenüber 2023.  
-  - Insgesamt gingen die Fahrzeugzulassungen um **1 %** zurück.  
-  **Ursachen**  
-  - Wegfall des **Umweltbonus** im Dezember 2023, was E‑Auto‑Käufe verteuerte.  
-  - Wirtschaftliche Unsicherheit durch **Pandemie**, **Krieg** und **Energiekrise**.  
+### Neue Verhandlungsbereitschaft  
+- **Dmitri Peskow** (Kremlsprecher) erklärte, dass Russland nun „Verhandlungsbereitschaft“ bezüglich einer solchen Truppenstationierung zeige, betonte jedoch, dass das Thema noch „Verhandlungssache“ sei.  
+- Diese Position kam in den jüngsten Gesprächen in **Berlin** zwischen Vertretern der **USA**, Europas und der Ukraine wieder auf.  
 
-### Marktentwicklung und Verbrauchermeinungen
-- Laut Studie des **Nürnberg‑Instituts für Marktentscheidungen** (2024):  
-  - **Staatliche Förderung** ist der häufigste Kaufgrund für E‑Autos, gefolgt von **Klimaschutz**.  
-  - **28 %** kauften aus Sorge, dass Verbrenner künftig teurer oder gesetzlich eingeschränkt werden könnten.  
-- Trotz Schwäche im Jahr 2024 steigt die E‑Auto‑Zulassung 2025 wieder: im November 2025 wurden **56 000** E‑Autos neu zugelassen, gegenüber **29 000** Diesel‑ und **61 000** Benzinfahrzeugen.  
+### Vorgeschlagene multinationale Truppe  
+- Ziel wäre die Aufstellung einer multinationalen Friedens‑ bzw. Beobachtungstruppe nach Abschluss eines **Waffenstillstands** in der Ukraine.  
+- Die Truppe soll die Einhaltung des Waffenstillstands überwachen und **Sicherheitsgarantien** für Kiew bieten, um einem erneuten russischen Angriff vorzubeugen.  
 
-### Technologieoffenheit: BMW als Beispiel
-- **BMW** verfolgt seit langem eine offenere Strategie: neben **Elektro‑** auch **Wasserstoffantriebe** weiterentwickelt.  
-- Ergebnis im 3. Quartal 2024:  
-  - Gewinn **5,7 Mrd. €**, deutlich über **Mercedes** (3,9 Mrd. €) und **Volkswagen** (3,4 Mrd. €).  
-  - 2024 mehr verkaufte E‑Autos als **Mercedes**, **Audi** und **Porsche** zusammen.  
+### Früherer russischer Widerstand  
+- Der russische Außenminister **Sergej Lawrow** drohte, dass solche „Friedens‑Truppen“ sofort zu „legalen Zielen“ für russische Angriffe werden könnten.  
+- Damit bleibt die russische Position gegenüber internationalen Friedensmissionen in der Ukraine weiterhin kritisch, obwohl jetzt Gespräche über mögliche Kompromisse stattfinden.  
 
-### Ausblick
-- Die EU‑Anpassung reduziert den unmittelbaren Druck auf die deutschen Hersteller.  
-- Flexibilität und Technologieoffenheit – wie bei **BMW** – könnten entscheidend sein, um zukünftige Marktanteile zu sichern.  
-- Weitere Faktoren: mögliche Rückkehr des **Umweltbonus** unter Kanzler **Friedrich Merz**, sowie die wachsende Konkurrenz durch **chinesische** Marken (ca. 3 % Marktanteil in Deutschland).  
+> Relevance score: [8] - Russia signalling willingness to discuss foreign troop presence is a potentially pivotal diplomatic development for ending the Ukraine war, carrying high global significance.
 
-> Relevance score: [7] - Eine Anpassung des EU‑Verbrennerverbots hat direkte Konsequenzen für die europäische Automobilindustrie, insbesondere Deutschland, und indirekt für die Schweiz, die stark mit der Automobilbranche verbunden ist. Es handelt sich um eine bedeutende regulatorische Änderung.
+## Sparpaket 2027: Ständerat kippt höhere Rentengeldbesteuerung
 
-## Das ist die aktuelle humanitäre Lage im Sudan
+[Blick](https://www.blick.ch/politik/sparpaket-wird-kleiner-staenderat-kippt-hoehere-rentengeldbesteuerung-id21527508.html) • _Mittwoch, 17. Dezember 2025, 18:11 Uhr_
 
-[Watson](https://www.watson.ch/international/sudan/331896323-das-ist-die-aktuelle-humanitaere-lage-im-sudan) • _Dienstag, 16. Dezember 2025, 21:26 Uhr_
+Der Ständerat hat erste Entscheide zum Entlastungspaket 27 gefällt und dabei milliardenschwere Sparmassnahmen beschlossen, zugleich aber mehrere Kürzungen des Bundesrats abgeschwächt oder abgelehnt. Blick zeigt die Beschlüsse der kleinen Kammer.
 
-Im Sudan entfaltet sich eine humanitäre Tragödie. Hilfsorganisationen warnen vor katastrophalen Zuständen.
+### 1. Zentrale Einsparungen im **Entlastungspaket 27**  
+- **Migration** – Reduktion der Unterstützungsdauer für Asylbewerbende und Schutzsuchende von 7 auf 5 Jahre → **€1,07 Mrd.** Einsparung (2027‑2029).  
+- **Straßenbau** – Kürzung der Subventionen aus der Mineralölsteuer → **€88,8 Mio.** Einsparung.  
+- **Hochschulen** – Streichung projektbezogener Bundesbeiträge → **€87,1 Mio.** Einsparung.  
+- **Pilot‑ und Demonstrationsanlagen (Energie)** – Wegfall der Fördermittel → **€66,4 Mio.** Einsparung.  
+- **Berufsbildung** – Deckungsquote von maximal 50 % (Ausnahme 80 %) → **€30 Mio.** Einsparung.  
 
-### Hintergrund des Konflikts
-- Seit April 2023 kämpft die sudanesische Regierung gegen die Miliz **Rapid Support Forces (RSF)** um die Kontrolle des Landes.  
-- Im Oktober 2023 fiel die strategisch wichtige Stadt **Al‑Fashir** in der Region **Nord‑Darfur** in die Hände der RSF‑Rebellen, was die Gewalt erneut in den Fokus der internationalen Medien rückte.  
+### 2. Weitere Kürzungen mit geringeren Beträgen  
+- **Zivildienst‑Entschädigung** → **€10,2 Mio.**  
+- **Digitalisierung** – Wegfall von Anlauffinanzierungen → **€6 Mio.**  
+- **Automatisiertes Fahren** – Wegfall der Bundesförderungen → **€6 Mio.**  
+- **Französisch‑sprachige Schulen (Bern)** → **€4,2 Mio.**  
+- **Medien‑Weiterbildung** → **€3 Mio.**  
+- **Strafvollzug** – Beitragssenkung auf 50 % → **€2,4 Mio.**  
 
-### Humanitäre Lage in Al‑Fashir
-- Forschende des **Humanitarian Research Lab** der **Yale University** analysieren Satellitenbilder und dokumentieren:
-  - Innerhalb von 7‑10 Tagen nach der Einnahme über **140 Lestapel** sichtbar.  
-  - Fortlaufendes Verbrennen und Verlegen der Leichen – sie bezeichnen das Geschehen als ein „Schlachthaus“.  
-- Die Stadt leidet an akuter Nahrungs- und Wasserversorgungskrise; Hilfsorganisationen haben keinen Zugang.  
-- Beobachtungen zeigen:
-  - Keine Zivilisten an Wasserstellen oder Märkten.  
-  - Nur Bewegungen und Plünderungen der RSF‑Truppen.  
+### 3. Abgelehnte oder abgeschwächte Maßnahmen des Bundesrates  
+| Bereich | Vorgeschlagene Kürzung des Bundesrates | Ergebnis Ständerat | Gesparte Mittel (2027‑2029) |
+|---|---|---|---|
+| **Gebäudeprogramm (Heizungsmodernisierung)** | Vollständige Streichung | Abgelehnt (31‑13) – Alternativvorschlag | **€613,2 Mio.** (nur **€65,2 Mio.** statt **€613,2 Mio.**) |
+| **Bahn‑Infrastrukturfonds** | Kürzung um 200 Mio./Jahr | Teilweise abgelehnt (29‑15) | **€200 Mio.** (statt **€400 Mio.**) |
+| **Landwirtschaft – Importkontingente** | Erhöhte Versteigerung → Mehreinnahmen | Abgelehnt (29‑13) | **€381 Mio.** nicht realisiert |
+| **Kapitalsteuern (2. / 3. Säule)** | Höhere Besteuerung → Mehreinnahmen | Abgelehnt (34‑10) | **€380 Mio.** entfallen |
+| **Finanzausgleich (soziodemografischer Lastenausgleich)** | Kürzungen geplant | Abgelehnt (39‑5) → Null‑Einsparung | **€201 Mio.** nicht gespart |
+| **Studiengebühren** – Obergrenzen beibehalten | Reduktion des Bundesanteils | Zugestimmt (32‑12) → **€180 Mio.** Einsparung (weniger als vorgeschlagen) |
+| **Entsorgung tierischer Nebenprodukte (Landwirtschaft)** | Vollständige Streichung | Abgelehnt (26‑16) → Keine Einsparung | **€145,7 Mio.** nicht realisiert |
+| **Alternative Antriebssysteme (Bus/Schiff)** | Kürzung der Förderungen | Zugestimmt (34‑9) → **€138,9 Mio.** Einsparung (geringer als geplant) |
+| **Landschaftsqualitätsbeiträge** | Halbierung | Abgelehnt (38‑5) → Keine Einsparung | **€130 Mio.** nicht realisiert |
+| **Regionalflughäfen (Sicherungsdienste)** | Vollständige Streichung | Abgelehnt (23‑16) → Keine Einsparung | **€75 Mio.** nicht realisiert |
+| **Fonds für Regionalentwicklung** | Vollständiger Verzicht | Nur Teilkürzung (22‑21 + Stichentscheid) → **€13,2 Mio.** Einsparung (statt **€65,8 Mio.**) |
+| **Presseförderung (Tageszustellung)** | Streichung | Abgelehnt (33‑4) → Keine Einsparung | **€60 Mio.** nicht realisiert |
+| **SRG‑Auslandsangebot** | Streichung | Abgelehnt (22‑19) → Keine Einsparung | **€57 Mio.** nicht realisiert |
+| **Innosuisse (Innovationsförderung)** | Kürzung um 10 % → 5 % | Zugestimmt (24‑19) → **€49,2 Mio.** Einsparung (statt **€98,4 Mio.**) |
+| **Weiterbildung für gering Qualifizierte** | Vollständige Streichung | Halbierung (27‑15) → **€28,6 Mio.** Einsparung (statt **€57,2 Mio.**) |
+| **Fonds Landschaft Schweiz** | Vollständiger Verzicht | Abgelehnt (28‑16) → Keine Einsparung | **€15 Mio.** nicht realisiert |
+| **Beihilfen Viehwirtschaft** | Vollständiger Verzicht | Abgelehnt (31‑12) → Keine Einsparung | **€14,7 Mio.** nicht realisiert |
+| **Gewässerschutz‑Pilotanlagen** | Vollständige Streichung | Kürzung, nicht Streichung (32‑10) → **€12 Mio.** Einsparung (statt **€20,2 Mio.**) |
+| **Umwelt‑ und Landwirtschafts‑Weiterbildung** | Streichung | Kürzung um ≈ 50 % (33‑11) → **€9 Mio.** Einsparung (statt **€16,7 Mio.**) |
+| **Obstverwertung‑Beihilfen** | Vollständiger Verzicht | Abgelehnt (31‑11) → Keine Einsparung | **€7,2 Mio.** nicht realisiert |
+| **Grenzüberschreitender Personenfernverkehr (Bahn)** | Streichung | Zugestimmt (28‑12) → **€88,8 Mio.** Einsparung (etwa 30 Mio. mehr als vorgeschlagen) |
 
-### Situation in Tawila und Binnenflüchtlingslagern
-- **Tawila**, etwa 70 km von Al‑Fashir entfernt, beherbergt Zehntausende Binnenflüchtlinge.  
-- Laut **Veronicah Mbogo** (Kinderschutzexpertin, *Plan International*) fehlt:
-  - Grundnahrungsmittel und Hygienematerialien.  
-  - Ausreichende Unterkünfte; viele bauen provisorische Behausungen aus **Hirsehalmen** oder erhalten nur Plastikplanen.  
-- RSF‑Kontrollpunkte rauben Flüchtlinge aus, was die humanitäre Notlage weiter verschärft.  
+### 4. Gesamtausblick  
+- Das **Ständerat** hat trotz einiger milliardenschwerer Kürzungen das Sparpaket deutlich milder gestaltet als vom **Bundesrat** vorgelegt.  
+- Die größten Einsparungen resultieren aus **Migrations‑** und **Bau‑/Infrastruktur‑**maßnahmen sowie dem **Gebäudeprogramm**.  
+- Viele geplante Kürzungen in Bereichen wie **Landwirtschaft**, **Finanzausgleich**, **Kapitalbesteuerung** und **Presseförderung** wurden abgelehnt, wodurch die geplanten Mehreinnahmen entfallen.  
+- Insgesamt wird das **Entlastungspaket 27** voraussichtlich weniger stark belastend für den Bundeshaushalt sein, aber dennoch mehrere Milliarden Franken an jährlichen Ausgaben reduzieren.  
 
-### Sexuelle Gewalt und gesellschaftliche Stigmatisierung
-- Die **RSF** setze seit dem Völkermord in Darfur vor 20 Jahren sexualisierte Gewalt als Kriegswaffe ein; diese Praxis halte bis heute an.  
-- Das Frauennetzwerk **Siha** veröffentlichte einen Bericht über weit verbreitete sexuelle Übergriffe, die:
-  - Zielgerichtet Gemeinschaften unterdrücken und demütigen.  
-  - Mit einer hohen Dunkelziffer behaftet sind, weil Opfer stigmatisiert werden.  
-- Betroffene schweigen häufig aus Angst:
-  - Verstoß gegen die Familienehre und mögliche **Ehrensäuberungs‑Morde** durch Verwandte.  
-  - Verlust von Heiratschancen und sozialer Ausgrenzung.  
+*Hinweis: Alle Beträge beziehen sich auf den Zeitraum 2027‑2029.*
 
-### Flucht nach Tschad und Zeugenaussagen
-- In benachbarten **Tschad** treffen Hilfsorganisationen auf Flüchtlinge aus Darfur, die erschütternde Schicksale schildern:  
-  - Frauen berichten von Beobachtungen, wie ihre Brüder vor ihren Augen getötet wurden; einzelne Überlebende wurden schwer verletzt und mussten ins Krankenhaus.  
-- Diese Berichte werden von **Aktion gegen den Hunger** (*Action Against Hunger*) weitergegeben und verdeutlichen das Ausmaß von Gewalt und Leid.  
+> Relevance score: [7] - Swiss Senate’s decisions on a multi‑billion relief package affect national finances, migration policy and taxation – a substantial structural change for Switzerland.
 
-> Relevance score: [7] - Der anhaltende Bürgerkrieg und die humanitäre Katastrophe im Sudan haben erhebliche Auswirkungen auf internationale Sicherheit und humanitäre Hilfe. Die Lage ist von globaler Bedeutung und erfordert internationale Aufmerksamkeit.
+## SBB beauftragt Hitachi Rail mit Milliardenprojekt zur Digitalisierung
 
-## Trump verhängt Einreiseverbot für fünf weitere Länder
+[20 Minuten](https://www.20min.ch/story/hitachi-rail-sbb-milliardenauftrag-geht-erneut-ins-ausland-103471599) • _Mittwoch, 17. Dezember 2025, 11:44 Uhr_
 
-[Blick](https://www.blick.ch/ausland/nach-angriff-auf-nationalgarde-trump-verhaengt-einreiseverbot-fuer-fuenf-weitere-laender-id21520773.html) • _Dienstag, 16. Dezember 2025, 21:38 Uhr_
-
-Die Trump-Regierung hat am Dienstag ein Einreiseverbot für fünf weitere Länder verhängt. Weitere Länder haben mit neuen Beschränkungen zu rechnen. Die Einreiseverschärfungen folgen auf den Angriff auf zwei Mitglieder der US-Nationalgarde Ende November.
+Mit einem 1,5 Milliarden Euro schweren Auftrag modernisiert die SBB ihre Stellwerke durch Hitachi Rail.
 
 ### Hintergrund
-- Die Verschärfung des US‑Einreiseverbots erfolgt nach der Festnahme eines afghanischen Staatsangehörigen, dem vorgeworfen wird, am Thanksgiving‑Wochenende zwei Mitglieder der **[US‑Nationalgarde](https://en.wikipedia.org/wiki/National_Guard_(United_States))** angeschossen zu haben.  
-- Laut **[The Washington Post](https://en.wikipedia.org/wiki/The_Washington_Post)** ist das neue Verbot eine Reaktion auf diesen Vorfall.
+- Die **[Schweizerischen Bundesbahnen (SBB)](https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen)** starten ein Digitalisierungs‑ und Modernisierungsprogramm für ihr Stellwerk‑Netz.
+- Ziel: In den nächsten 20 Jahren etwa 80 % der veralteten Stellwerke zu erneuern; Gesamtvolumen des Projekts rund **1,4 Milliarden CHF**.
 
-### Erweiterung des Einreiseverbots
-- Präsident **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** hatte im Juni bereits angekündigt, die Einreise für Bürger aus zwölf Ländern komplett zu sperren und für sieben weitere Länder Beschränkungen zu verhängen.  
-- Am Dienstag wurde die Sperrliste um fünf weitere Staaten erweitert:
-  - **[Burkina Faso](https://en.wikipedia.org/wiki/Burkina_Faso)**
-  - **[Mali](https://en.wikipedia.org/wiki/Mali)**
-  - **[Niger](https://en.wikipedia.org/wiki/Niger)**
-  - **[Südsudan](https://en.wikipedia.org/wiki/South_Sudan)**
-  - **[Syrien](https://en.wikipedia.org/wiki/Syria)**
-- Zusätzlich wird die Einreise für Inhaber von Reisedokumenten der **[Palästinensischen Autonomiebehörde](https://en.wikipedia.org/wiki/Palestinian_National_Authority)** vollständig untersagt.
+### Auftragsstruktur
+- Die Ausschreibung ist in zwei Lose unterteilt:  
+  1. **Los 1** – Gesamtsysteme (Hardware + Software) für neue Stellwerke.  
+  2. **Los 2** – Elektronische Komponenten für Weichen‑ und Signalsteuerung sowie Gleisabschnitts‑Überwachung.  
+- Die Vergabe erfolgt schrittweise bis etwa 2045, wenn die meisten alten Stellwerke ersetzt sind.
 
-### Teilweise Beschränkungen für weitere Länder
-- Für 15 Länder gelten nun eingeschränkte Einreisebedingungen, darunter:
-  - **Angola**
-  - **Antigua und Barbuda**
-  - **Benin**
-  - **Côte d’Ivoire**
-  - **Dominica**
-  - **Gabun**
-  - **Gambia**
-  - **Malawi**
-  - **Mauretanien**
-  - **Nigeria**
-  - **Senegal**
-  - **Tansania**
-  - **Tonga**
-  - **Sambia**
-  - **Simbabwe**  
+### Beteiligte Unternehmen
+- **[Hitachi Rail](https://de.wikipedia.org/wiki/Hitachi_Rail)** (Japan) – aktiv in beiden Losen; betreibt ein Engineering‑Zentrum in **[Zürich](https://de.wikipedia.org/wiki/Z%C3%BCrich)**.  
+- **[Siemens](https://de.wikipedia.org/wiki/Siemens)** (Deutschland) – konkurriert mit Hitachi um Los 1 und kann ebenfalls für Los 2 bieten.  
+- **[Stadler Rail](https://de.wikipedia.org/wiki/Stadler_Rail)** (Schweiz) – ursprünglich für Los 2 vorgesehen; nach Korrigendum ebenfalls von Siemens und Hitachi ansprechbar.  
 
-Diese Länder müssen künftig mit weiteren möglichen Beschränkungen rechnen.
+*Alle drei Hersteller sollen einen Großteil der Arbeiten in der Schweiz durchführen.*
 
-> Relevance score: [6] - Reisebeschränkungen der USA können Schweizer Reisende und Unternehmen betreffen und zeigen US‑Außenpolitische Tendenzen. Der Effekt ist spürbar, allerdings begrenzt auf betroffene Länder.
+### Aktueller Status & Kritik
+- **Keine endgültige Vergabe:** SBB‑Sprecher **Reto Schärli** betont, dass bislang noch kein Auftrag erteilt wurde und die Aufteilung der Mittel unklar bleibt.  
+- **Medienberichte korrigiert:** Frühere Meldungen, wonach Hitachi den Großteil erhalten würde, wurden von der SBB korrigiert.  
+- **Stadler‑Chef Peter Spuhler** kritisiert die Vergabe neuer S‑Bahn‑Züge an Siemens statt an die einheimische Firma und erwägt rechtliche Schritte gegen die rund **2 Milliarden CHF** schwere Auftragsvergabe.  
+
+### Ausblick
+- Die einzelnen Teilaufträge für die Stellwerksmodernisierung werden fortlaufend ausgeschrieben.  
+- Die endgültige Aufteilung zwischen Hitachi, Siemens und Stadler bleibt bis zur finalen Vergabe offen.
+
+> Relevance score: [7] - A €1.5 billion digitalisation contract for the Swiss rail network is a major infrastructure investment with long‑term economic and mobility implications for Switzerland.
+
+## Trump plant Militäreinsatz
+
+[Neue Zürcher Zeitung](https://www.nzz.ch/pro/venezuela-konflikt-trump-plant-militaereinsatz-ld.1916971) • _Mittwoch, 17. Dezember 2025, 16:09 Uhr_
+
+Die USA können Venezuela vom Meer her abriegeln und die Lufthoheit übernehmen. Auch eine punktuelle Invasion ist nicht auszuschliessen. Ein weiterer Flugzeugträger steht als Reserve bereit.
+
+### Aktuelle Drohungen und Maßnahmen  
+- **Präsident [Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump)** veröffentlicht auf *Truth Social* die klare Warnung, dass *Venezuela* von der „größten Armada“ der Geschichte Südamerikas umzingelt sei.  
+- Er bezeichnet das Regime von **[Nicolás Maduro](https://de.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)** als „ausländische Terrororganisation“ und fordert die Rückgabe von *Öl*, das seiner Ansicht nach den USA gestohlen wurde.  
+- Als Sofortmaßnahme ordnet Trump eine **Blockade aller Tanker** an, die von bzw. nach *Venezuela* verkehren.  
+
+### Militärische Kräfte im Einsatz  
+- **Süd‑Kommando** der US‑Streitkräfte hat im Spätsommer amphibische Flottenverbände wie **[Iwo Jima‑Klasse](https://de.wikipedia.org/wiki/Iwo_Jima_(Amphibien-Transportboot))** vor die venezolanische Küste verlegt.  
+- Im November kam die **[Carrier‑Strike‑Group „Gerald Ford“](https://de.wikipedia.org/wiki/USS_Gerald_Ford_(CVN-78))** hinzu, um die Militärpräsenz von Nahost/Europa in die westliche Hemisphäre zu verlagern.  
+- Ein zweiter Flugzeugträger, **[USS George H. W. Bush](https://de.wikipedia.org/wiki/USS_George_H._W._Bush_(CVN-77))**, steht als Reserve bereit.  
+- **[Puerto Rico](https://de.wikipedia.org/wiki/Puerto_Rico)** dient als logistisches Drehkreuz für Verstärkungen, u. a. Marineinfanterie aus **[Fort Lejeune](https://de.wikipedia.org/wiki/Fort_Lejeune)** oder Teile einer Luftlandedivision.  
+
+### Mögliche Operationsoptionen  
+- **Seeblockade**  
+  - Kriegsschiffe und Hubschrauber können den Außenhandel Venezuelas stark einschränken.  
+  - Bereits ein von der Küstenwache und dem **[FBI](https://de.wikipedia.org/wiki/Federal_Bureau_of_Investigation)** georteter Tanker mit sanktioniertem Öl wurde festgehalten.  
+- **Lufthoheit**  
+  - Kampfjets und Zerstörer der *Gerald Ford* könnten in wenigen Stunden die venezolanische Luftverteidigung, Führungs‑ und Kommunikationsnetzwerke neutralisieren.  
+- **Landoperationen**  
+  - Die amphibischen Fähigkeiten der *Iwo Jima* reichen aus, um einen Hafen oder kritische Infrastruktur zu besetzen.  
+  - Durch Verstärkung aus Puerto Rico könnten Marineinfanteristen sogar **Caracas** umzingeln.  
+  - Offizielle Quellen geben bislang keine konkreten Pläne für eine Bodeninvasion im Rahmen von **Operation “Southern Spear”** (vgl. **[Southern Spear](https://de.wikipedia.org/wiki/Southern_Spear)**) an.  
+
+### Politischer Kontext und Kontroversen  
+- Die Drohung knüpft an frühere Spannungen, u. a. **[Hugo Chávez](https://de.wikipedia.org/wiki/Hugo_Ch%C3%A1vez)**' Enteignung amerikanischer Konzerne *Exxon* und *Chevron* (2008) und langjährige Rechtsstreitigkeiten.  
+- Das US‑Verteidigungsministerium, vertreten durch **[Pete Hegseth](https://de.wikipedia.org/wiki/Pete_Hegseth)**, kündigte am 14. Nov. den Beginn von **“Southern Spear”** an – offiziell zur Bekämpfung von Drogenkartellen, dabei aber keine Angriffe auf *Venezuela* versprochen.  
+- Innenpolitisch ist das Vorgehen stark umstritten: Kritiker, darunter Teile der **„Maga‑Bewegung“**, lehnen Interventionismus ab, während andere die Maßnahme als Umsetzung der kürzlich veröffentlichten **[National‑Security‑Strategie](https://de.wikipedia.org/wiki/Nationale_Sicherheitsstrategie_der_Vereinigten_Staaten)** sehen, die eine dominante US‑Präsenz in der westlichen Hemisphäre fordert.  
+
+### Strategische Hintergründe  
+- Die USA verschieben den Schwerpunkt ihrer militärischen Abschreckung von der *Mittelmeer‑/Nahost‑Region* in die **westliche Hemisphäre**.  
+- In **Panama** trainieren die Marines gemeinsam mit der lokalen Armee Dschungelkampf‑taktiken, um auf mögliche Einsätze in *Venezuela* vorbereitet zu sein.  
+- Das militärische Aufgebot wird als Druckmittel gesehen, um das Regime Maduros zur Aufgabe zu zwingen oder zumindest seine Öleinnahmen zu ersticken.  
+
+> Relevance score: [6] - A potential US military move against Venezuela would alter regional geopolitics and oil markets, bearing global relevance though the immediate likelihood is uncertain.
+
+## Öl-Tanker vor Venezuela blockiert
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/us-blockade-was-die-usa-wirklich-von-venezuela-wollen) • _Mittwoch, 17. Dezember 2025, 16:00 Uhr_
+
+Die USA erhöhen den Druck auf Venezuela. Das Land habe den USA Öl und Geld gestohlen. Um was geht es beim Konflikt?
+
+### US‑Blockade und Drohungen
+- Präsident **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** ordnet eine „totale und vollständige Blockade aller sanktionierten **[Öltanker](https://en.wikipedia.org/wiki/Oil_tanker)**“ an, die **[Venezuela](https://en.wikipedia.org/wiki/Venezuela)** anlaufen oder verlassen.  
+- Er droht zudem mit einem militärischen Schlag; die US‑Flotte umkreist das Land.  
+- **[Teresa Delgado](https://www.srf.ch/tag/teresa-delgado)** (SRF‑Südamerika‑Korrespondentin) bezeichnet dies als deutliche Eskalation.  
+
+### Öl als Druckmittel
+- Mehr als **90 %** der venezolanischen Exporte bestehen aus Öl – das ist der zentrale Hebel für die USA.  
+- Ein Blockieren oder Beschlagnahmen von Tankern würde dem Staat sofort Einnahmen entziehen.  
+
+### Reaktion Venezuelas und Auswirkungen auf die Bevölkerung
+- Der staatliche Ölkonzern **[PDVSA](https://en.wikipedia.org/wiki/Petr%C3%B3leos_de_Venezuela,_S.A.)** erklärt, dass seine Tanker weiterhin „legitim im Recht auf freie Schifffahrt und freien Handel“ fahren.  
+- **Soziale Folgen:**  
+  - Über **80 %** der Haushalte leben in Armut, mehr als die Hälfte in extremer Armut.  
+  - Wegfallende Öleinnahmen bedrohen Lebensmittelprogramme, Gesundheitsversorgung sowie Strom‑ und Wassersubventionen.  
+
+### Historischer Kontext & Vorwürfe
+- **2007** wurden unter Präsident **[Hugo Chávez](https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez)** US‑Erdölprojekte verstaatlicht; US‑Konzernen wurden die Anlagen enteignet.  
+- Trump spricht von „Diebstahl“, doch Delgado sieht rechtlich eher einen ungelösten Investitionskonflikt.  
+- Präsident **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)** bezeichnet die jüngste Beschlagnahmung eines venezolanischen Öltankers durch die USA als „Piraterie“.  
+
+### Hintergründe der US‑Strategie
+- Journalist **Tobias Lambert** meint, Drohnen‑ und Öldiebstahl‑Argumente seien vorgeschobene Vorwände.  
+- Der aktuelle **Außenminister [Marco Rubio](https://en.wikipedia.org/wiki/Marco_Rubio)** (aus einer exilkubanischen Familie) treibe die Strategie, Maduro zu stürzen und gleichzeitig in Kuba Regierungswechsel zu forcieren.  
+- Frühere US‑Versuche, Maduro durch äußeren Druck zu entfernen, scheiterten; die aktuelle Linie ist deutlich härter.  
+
+### Venezuelas Verwundbarkeit
+- Sinkende Ölexporte reduzieren Maduros Handlungsspielraum.  
+- Maduro versucht, den Druck als antiimperialistischen Kampf zu rahmen, um seine Basis zu erhalten.  
+- Gleichzeitig gerät die Position des Präsidenten ins Wanken, wenn selbst Soldatenlöhne unsicher werden.  
+
+### Geopolitische Dimensionen
+- **[China](https://en.wikipedia.org/wiki/China)** ist größter Abnehmer venezolanischen Öls; **[Russland](https://en.wikipedia.org/wiki/Russia)** liefert Technologie, Kredite und militärische Unterstützung.  
+- Seit November sind russische Soldaten als militärische Berater in Venezuela präsent – ein sicherheitspolitisch heikles Element.  
+- Ein möglicher US‑Bodenangriff könnte zu einer direkten Konfrontation zwischen US‑ und russischen Streitkräften führen.  
+- Der Konflikt ist damit nicht nur bilateral, sondern Teil des größeren geopolitischen Wettbewerbs zwischen **Washington**, **Moskau** und **Peking**.  
+
+> Relevance score: [6] - US‑ordered blockade of oil tankers raises tensions with Venezuela and can affect global oil supply and sanctions regimes.
+
+## Schweizer Armee wählt SIG Sauer P320: Schützen äussern Bedenken zur Sicherheit
+
+[20 Minuten](https://www.20min.ch/story/sig-sauer-p320-kritik-reisst-nicht-ab-schuetzen-vertrauen-dieser-waffe-nicht-103470385) • _Mittwoch, 17. Dezember 2025, 07:11 Uhr_
+
+Die Entscheidung für die SIG Sauer P320 als neue Dienstpistole trifft auf Widerstand. Schützen fordern Anpassungen für mehr Sicherheit.
+
+### Entscheidung zur Beschaffung
+- Das Bundesamt für Rüstung **armasuisse** hat beschlossen, die neue Armeepistole aus der Schweiz zu beziehen.  
+- Vorgeschlagen wird die **[SIG Sauer P320](https://de.wikipedia.org/wiki/SIG_Sauer_P320)**, die künftig komplett in der Schweiz gefertigt werden soll.  
+
+### Bedenken aus der Schützen‑Community
+- **Oberleutnant Pascal Brodbeck**, Chef Ausbildung bei der **Offiziersgesellschaft beider Basel**, äußert kritische Zweifel:
+  - Viele Schützen haben nach Vorfällen in den USA das Vertrauen in die P320 verloren.  
+  - Obwohl keine technischen Sicherheitsmängel nachgewiesen wurden, fühle sich die Schützen‑Community unsicher, solange die „Geschichte“ der Waffe nicht berücksichtigt wird.  
+  - Brodbeck fordert eine mechanische Abzugssicherung als Nachweis für die Sicherheit der Militärversion.  
+
+### Sicherheit und Testergebnisse von armasuisse
+- **armasuisse** hat standardisierte Tests durchgeführt:  
+  - Keine ungewollte Schussabgabe konnte reproduziert werden.  
+  - Es wurden keine sicherheitsrelevanten Mängel festgestellt.  
+- Geplante Nachbesserungen beschränken sich laut armasuisse auf **Ergonomie** und **Robustheit**; sicherheitskritische Änderungen sind nicht vorgesehen.  
+
+### Wirtschaftliche und rüstungspolitische Gründe
+- **Produktionsort**: Fast vollständige Fertigung in der Schweiz erhöht die Versorgungssicherheit.  
+- **Kosten**: Über eine Nutzungsdauer von 30 Jahren entstehen die geringsten Gesamtkosten; das Angebot ist etwa 20 % günstiger als die nächstbeste Alternative.  
+
+### Reaktionen in den sozialen Medien
+- Nach Bekanntgabe der Typenwahl kursieren spöttische Kommentare („Schweizer Handgranate“, „Selbstschiessanlage“).  
+- Diskussionen drehen sich um mögliche rechtliche Folgen in den USA und die Gefahr, dass Anpassungen in der Schweiz als Eingeständnis von Sicherheitsmängeln gewertet werden.  
+
+### Ausblick und Forderungen
+- **SIG Sauer** hält derzeit zu den Vorwürfen keine öffentliche Stellungnahme.  
+- Brodbeck betont, dass Transparenz und kritische Begleitung des Beschaffungsprozesses nötig sind, damit die Sicherheit der Soldaten nicht hinter wirtschaftlichen Interessen zurücktritt.  
+- Soll die P320 nach erfolgreichem Test und lokaler Produktion die Basis für weitere Aufträge (z. B. Sturmgewehr, Drohnen) von **SIG Sauer** an die **[Schweizer Armee](https://de.wikipedia.org/wiki/Schweizer_Armee)** bilden, muss das Vertrauen der Schützen zurückgewonnen werden.  
+
+> Relevance score: [6] - National defence procurement decision with safety concerns touches on soldier safety and domestic weapons industry – moderately significant for Switzerland.
+
+## Bildungsabschlüsse in der Schweiz zeigen Stadt-Land-Graben
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/bildungsstand-regional-hier-wohnen-die-gutgebildeten-der-schweiz) • _Mittwoch, 17. Dezember 2025, 07:05 Uhr_
+
+Besonders viele hohe Bildungsabschlüsse finden sich in urbanen Gebieten wie in Zürich oder rund um den Genfersee.
+
+### Hauptergebnisse
+- Das Bundesamt für Statistik ([BFS](https://de.wikipedia.org/wiki/Bundesamt_für_Statistik)) hat Karten zum Bildungsniveau pro Hektar erstellt, die zeigen, dass **kleinräumige Unterschiede** teilweise größer sind als kantonale oder kommunale Unterschiede.  
+- **Städtische Zentren** besitzen überdurchschnittlich viele Hochschulabsolventen:  
+  - Schweiz‑weit: rund **ein Drittel** besitzt einen höheren Bildungsabschluss.  
+  - **[Zürich](https://de.wikipedia.org/wiki/Zürich)**: 64 %; im Quartier **Fluntern** sogar 85 % mit einem **Tertiärabschluss**.  
+  - Ähnliche Konzentrationen gibt es in **[Bern](https://de.wikipedia.org/wiki/Bern_(Stadt))**, **[Basel‑Stadt](https://de.wikipedia.org/wiki/Basel-Stadt)** und rund um den **[Genfersee](https://de.wikipedia.org/wiki/Genfersee)**.  
+- Ursache: In Städten gibt es viele **Dienstleistungsunternehmen, Verwaltungen und Universitäten**, die höherqualifizierte Arbeitskräfte anziehen.
+
+### Ausnahmen vom Stadt‑Land‑Graben
+- **[Crans‑Montana](https://de.wikipedia.org/wiki/Crans-Montana)** (Kanton Wallis, VS) weist mit 41 % fast dieselbe Quote an Hochschulabsolventen auf wie die Stadt **[St. Gallen](https://de.wikipedia.org/wiki/St._Gallen_(Stadt))** (42 %).  
+- Erklärung von Jacques Babel (BFS): Attraktive Gemeinden locken Gutgebildete, **unabhängig davon, ob sie städtisch oder ländlich liegen**.  
+- Auch in anderen Ländern gibt es ländliche Regionen, die durch **Homeoffice** und Lebensqualität für Fachkräfte interessant werden.
+
+### Einflussfaktor „Stadtteil“
+- Innerhalb einer Stadt können die Bildungsquoten stark schwanken:  
+  - **[Lausanne](https://de.wikipedia.org/wiki/Lausanne)** hat 52 % mit höherem Abschluss, während die angrenzende Agglomerationsgemeinde **Renens** nur 30 % aufweist.  
+  - Faktoren: **Lärm**, **Alter der Gebäude**, **Wohnungspreise** und damit verknüpfte Sozialstrukturen bestimmen die Wohnpräferenzen von Hochqualifizierten.
+
+### Zeitliche Entwicklung (1990‑2023)
+- Die BFS‑Geodaten erlauben die Analyse von Bildungsentwicklungen über mehr als drei Jahrzehnte:  
+  - In **[La Chaux‑de‑Fonds](https://de.wikipedia.org/wiki/La_Chaux-de-Fonds)** ist das Niveau nahe großer Straßen nach wie vor niedrig; manche Viertel haben seit 30 Jahren kaum Fortschritt gemacht.  
+  - Im Gegensatz dazu sind die Bildungsquoten in **Zürich** und **Lausanne** im gleichen Zeitraum um **ca. 30 %** gestiegen.  
+  - Die ehemals berühmte Uhrenmetropole **La Chaux‑de‑Fonds** gehört heute zu den ärmeren Schweizer Städten, was sich in den Bildungsdaten widerspiegelt.  
+
+### Schlussfolgerungen
+- Der **Bildungs‑Graben zwischen Stadt und Land** ist klar erkennbar, wird jedoch durch attraktive ländliche Gemeinden, lokale Sozialstrukturen und Infrastruktur (z. B. Hauptverkehrsachsen) modifiziert.  
+- Kleine räumliche Analysen (Hektar‑Genauigkeit) enthüllen Muster, die auf kantonaler Ebene verborgen bleiben und wichtige Hinweise für **Raumplanung** und **Wohnungs‑ sowie Bildungspolitik** liefern.
+
+> Relevance score: [6] - Statistical reveal of urban‑rural education gaps provides evidence for policy making; directly relevant to Swiss social equality debates.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Wie Hassparolen Gewalt gegen Juden schüren
+## Deutsche Automobilindustrie übt Kritik an der EU
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/sidney-anschlag-terrorismus-antisemitsmus-intifada-gaza-hamas-israel-bern-frankreich-duesseldorf-synagoge-gerhard-schroeder-mamdani-new-york-ld.1916652) • _Mittwoch, 17. Dezember 2025, 05:30 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/verbrenner-aus-deutsche-automobilindustrie-uebt-kritik-an-der-eu-ld.1916970) • _Mittwoch, 17. Dezember 2025, 16:48 Uhr_
 
-Der Terroranschlag von Sydney ist nur das jüngste Beispiel für einen Antisemitismus, der seit Jahren verdrängt wird.
+Die von der EU-Kommission am Dienstag angekündigte Lockerung der Regulierung sei ein blosses Lippenbekenntnis, sagt die VDA-Präsidentin Hildegard Müller. Der einflussreiche Verband widerspricht damit auch Bundeskanzler Friedrich Merz.
 
-Wenige Tage nach dem Massaker des 7. Oktober 2023, als das Ausmass des Terrors noch nicht vollständig bekannt ist, wird in der australischen Stadt Sydney demonstriert. Nicht gegen Antisemitismus, sondern gegen Israel. Und gegen die Juden. «Fuck the J... [weiterlesen](https://www.nzz.ch/feuilleton/sidney-anschlag-terrorismus-antisemitsmus-intifada-gaza-hamas-israel-bern-frankreich-duesseldorf-synagoge-gerhard-schroeder-mamdani-new-york-ld.1916652)
+Für kein anderes Land der EU spielt die Diskussion um das faktische Verbrenner-Aus ab dem Jahr 2035 eine wichtigere Rolle als für Deutschland. Bundeskanzler Friedrich Merz setzt sich seit längerem für eine Aufweichung dieser Regelung ein. Am Dienstag... [weiterlesen](https://www.nzz.ch/wirtschaft/verbrenner-aus-deutsche-automobilindustrie-uebt-kritik-an-der-eu-ld.1916970)
 
-> Relevance score: [5] - Der Beitrag analysiert Antisemitismus nach dem Sydney‑Terroranschlag und trägt zum Verständnis von Hass‑ und Gewaltmechanismen bei. Das Thema hat internationale Bedeutung, ist aber vorwiegend ein gesellschaftlicher Diskurs ohne sofortige strukturelle Folgen.
+> Relevance score: [5] - German industry lobbying against EU emission rules is relevant for European climate policy and the automotive sector, but its direct impact on Swiss society is limited.
 
-## Terror in Sydney: Angreifer soll verhört werden
+## Deutsche Regierung beschliesst Ende des Bürgergelds
 
-[20 Minuten](https://www.20min.ch/story/terror-in-sydney-9-opfer-in-kritischem-zustand-attentaeter-soll-verhoert-werden-103471387) • _Mittwoch, 17. Dezember 2025, 03:06 Uhr_
+[Watson](https://www.watson.ch/international/deutschland/174722988-deutsche-regierung-beschliesst-ende-des-buergergelds) • _Mittwoch, 17. Dezember 2025, 12:50 Uhr_
 
-Drei Tage nach dem Terroranschlag auf ein jüdisches Fest in Sydney werden noch 22 Verletzte im Spital behandelt. Neun sind in kritischem Zustand.
+Die deutsche Regierung hat das Ende der Bürgergeld genannten Grundsicherung für Erwerbsfähige in heutiger Form beschlossen.
 
-Drei Tage nach dem Terrorangriff auf ein jüdisches Fest in Sydney werden weiterhin 22 Verletzte im Krankenhaus behandelt. Neun von ihnen befinden sich mit Stand Mittwochmorgen Ortszeit in kritischem Zustand, sechs davon sind stabil, wie die Gesundhei... [weiterlesen](https://www.20min.ch/story/terror-in-sydney-9-opfer-in-kritischem-zustand-attentaeter-soll-verhoert-werden-103471387)
+Die deutsche Regierung hat das Ende der Bürgergeld genannten Grundsicherung für Erwerbsfähige in heutiger Form beschlossen.
+Das Kabinett von Kanzler Friedrich Merz gab grünes Licht für einen Gesetzentwurf der sozialdemokratischen Arbeitsministerin Bä... [weiterlesen](https://www.watson.ch/international/deutschland/174722988-deutsche-regierung-beschliesst-ende-des-buergergelds)
 
-> Relevance score: [5] - Der Terroranschlag in Sydney ist ein schweres humanitäres Ereignis, das weltweite Aufmerksamkeit erhält. Relevanz für das Verständnis von Terrorismus, jedoch ohne direkte strukturelle Folgen für die Schweiz.
+> Relevance score: [5] - Germany’s decision to end the Bürgergeld affects its social‑security system and could have knock‑on effects for the broader EU economy, but is not a structural shock.
 
-## Trumps Wirtschaftserzählung bröckelt – Zahlen sind alarmierend
+## Vorhersage v. Resistenzen: Studie zur Zuverlässigkeit v. KI-Modellen
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/usa-unter-trump-trumps-wirtschaftserzaehlung-broeckelt-zahlen-sind-alarmierend) • _Dienstag, 16. Dezember 2025, 22:02 Uhr_
+[Helmholtz-Zentrum für Infektionsforschung](https://www.helmholtz-hzi.de/media-center/newsroom/news-detailseite/vorhersage-von-antibiotikaresistenz-datenverzerrung-verringert-zuverlaessigkeit-von-ki-modellen/) • _Mittwoch, 17. Dezember 2025, 10:29 Uhr_
 
-Die Arbeitslosenquote ist auf 4.6% gestiegen. Seit Oktober sind mehr Jobs verloren gegangen als neu geschaffen wurden.
+HIRI-Forschungsteam macht auf Überoptimismus gängiger Ansätze aufmerksam und schlägt erweiterte Modelle vor | Aktuelle Studie in PLOS Biology
 
-Die neusten Arbeitsmarktzahlen passen nicht zur Erfolgserzählung von Präsident Trump, der von einer boomenden Wirtschaft spricht. Die US-Konjunktur kühlt spürbar ab, auch wenn der Privatsektor noch robust ist. Zudem hat der Shutdown, der Behördenstil... [weiterlesen](https://www.srf.ch/news/wirtschaft/usa-unter-trump-trumps-wirtschaftserzaehlung-broeckelt-zahlen-sind-alarmierend)
+Antibiotikaresistente Infektionen stellen eine immer größer werdende Bedrohung dar. Anstatt Bakterien klassisch zu kultivieren und ihre Reaktion auf Antibiotika zu testen, analysieren Labore zunehmend das bakterielle Erbgut, um frühzeitig Resistenzen... [weiterlesen](https://www.helmholtz-hzi.de/media-center/newsroom/news-detailseite/vorhersage-von-antibiotikaresistenz-datenverzerrung-verringert-zuverlaessigkeit-von-ki-modellen/)
 
-> Relevance score: [5] - Aktuelle US‑Arbeitsmarktdaten beeinflussen globale Wirtschaftsbedingungen. Die Informationen sind für Analysten wichtig, haben aber nur mittelgroße direkte Effekte auf die Schweizer Wirtschaft.
+> Relevance score: [5] - Research on AI‑based antibiotic‑resistance prediction could influence future medical practice worldwide; moderately important but still early‑stage.
 
-## Weil Musk zu viel verspricht: Tesla droht Verkaufsstopp in Kalifornien
+## ADHS-Diagnose-Anstieg: Warum Ritalin zu schnell verschrieben wird
 
-[Watson](https://www.watson.ch/international/usa/965765200-weil-musk-zu-viel-verspricht-tesla-droht-verkaufsstopp-in-kalifornien) • _Mittwoch, 17. Dezember 2025, 05:57 Uhr_
+[Beobachter](https://www.beobachter.ch/gesundheit/medizin-krankheit/unruhe-bei-kindern-wird-heute-chemisch-beruhigt-891845) • _Mittwoch, 17. Dezember 2025, 10:25 Uhr_
 
-Dem Elektroauto-Hersteller Tesla droht ein 30-tägiger Verkaufsstopp im absatzstarken US-Bundesstaat Kalifornien.
+Der Soziologe Pascal Rudin kritisiert den massiven Anstieg von ADHS-Diagnosen und den hohen Konsum von Psychostimulanzien bei Kindern in der Schweiz. Er hält
 
-Dem Elektroauto-Hersteller Tesla droht ein 30-tägiger Verkaufsstopp im absatzstarken US-Bundesstaat Kalifornien.
-Auslöser ist die Einschätzung eines Gerichts, dass die Firma die Fähigkeiten ihres Assistenzsystems «Autopilot» übertrieben dargestellt h... [weiterlesen](https://www.watson.ch/international/usa/965765200-weil-musk-zu-viel-verspricht-tesla-droht-verkaufsstopp-in-kalifornien)
+Der Konsum von ADHS-Medikamenten nimmt in der Schweiz laut dem Gesundheitsobservatorium Obsan stark zu. Fachärztinnen und -ärzte betonen, alles verlaufe geordnet, doch die Zahlen werfen Fragen auf. Zwar werden heute mehr Mädchen und Erwachsene diagno... [weiterlesen](https://www.beobachter.ch/gesundheit/medizin-krankheit/unruhe-bei-kindern-wird-heute-chemisch-beruhigt-891845)
 
-> Relevance score: [4] - Ein 30‑tägiger Verkaufsstopp von Tesla in Kalifornien betrifft einen wichtigen US‑Markt, aber die Wirkung ist begrenzt und vorübergehend. Einfluss auf die globale EV‑Industrie ist gering und hat kaum direkte Konsequenzen für die Schweiz.
+> Relevance score: [5] - Rising ADHD diagnoses and prescription rates in Switzerland raise public‑health policy questions, affecting a sizable segment of the population.
 
-## KI-Sprachmodelle im Vergleich: ChatGPT landet nur im Mittelfeld
+## Fatale Verwechslung: Wie bestimmte Darmbakterien Multiple Sklerose antreiben
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/sendungen/kassensturz-espresso/tests/gadgets-elektronik/ki-sprachmodelle-im-vergleich-chatbot-duell-chatgpt-landet-nur-im-mittelfeld) • _Dienstag, 16. Dezember 2025, 19:34 Uhr_
+[Moneycab](https://www.moneycab.com/dossiers/fatale-verwechslung-wie-bestimmte-darmbakterien-multiple-sklerose-antreiben/) • _Mittwoch, 17. Dezember 2025, 07:10 Uhr_
 
-Viele KI-Chatbots stolpern über Schweizer Fragen und halluzinieren. Sogar der Platzhirsch ChatGPT kann nicht überzeugen.
+Wenn Darmbakterien der Schutzschicht von Nerven zu sehr ähneln, können sie das Immunsystem fehlleiten und es zum Angriff auf das eigene Nervensystem treiben.
 
-Was bekommt man in einem Schweizer Restaurant, wenn man eine «Stange» bestellt? Zwei der getesteten KI-Chatbots behaupten, eine Stange sei ein frisches, langes Brot, das man nach Belieben belegen kann – statt eines Biers.
-Solche erfundenen Antworten ... [weiterlesen](https://www.srf.ch/sendungen/kassensturz-espresso/tests/gadgets-elektronik/ki-sprachmodelle-im-vergleich-chatbot-duell-chatgpt-landet-nur-im-mittelfeld)
+Basel – Wenn Darmbakterien der Schutzschicht von Nerven zu sehr ähneln, können sie das Immunsystem fehlleiten und es zum Angriff auf das eigene Nervensystem treiben. Dieser Mechanismus kann den Verlauf von Multipler Sklerose beschleunigen, wie Forsch... [weiterlesen](https://www.moneycab.com/dossiers/fatale-verwechslung-wie-bestimmte-darmbakterien-multiple-sklerose-antreiben/)
 
-> Relevance score: [4] - Der Vergleich von KI‑Chatbots ist für die technologische Entwicklung und Nutzerinteraktion von Interesse, hat jedoch derzeit nur begrenzte tiefgreifende Auswirkungen auf Gesellschaft oder Wirtschaft in der Schweiz.
+> Relevance score: [5] - New insight into MS pathology could eventually affect treatment strategies; important for health research but not an immediate large‑scale impact.
 
-## Trumps Stabschefin macht indiskrete Aussagen zur US-Regierung
+## Mit künstlichen Organen Krebstherapie verbessern
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/susie-wiles-trumps-stabschefin-macht-indiskrete-aussagen-zur-us-regierung-ld.1916926) • _Mittwoch, 17. Dezember 2025, 01:08 Uhr_
+[Universitätsklinikum Ulm](https://www.uniklinik-ulm.de/aktuelles/detailansicht/mit-kuenstlichen-organen-krebstherapie-verbessern.html) • _Mittwoch, 17. Dezember 2025, 14:47 Uhr_
 
-In Interviews mit einem Publizisten gibt Susie Wiles taktische Fehler zu und kommentiert offenherzig das Personal von Trumps Regierung. Der Präsident stützt sie dennoch.
+DFG fördert Graduiertenkolleg „Org-BOOST“ mit rund neun Millionen Euro
 
-Susie Wiles ist Stabschefin und Vertraute von Präsident Donald Trump. Ein Vorgänger riet ihr davon ab, mit dem amerikanischen Publizisten Chris Whipple zu sprechen. Schliesslich hat dieser sich darauf spezialisiert, süffige Geschichten über das Perso... [weiterlesen](https://www.nzz.ch/international/susie-wiles-trumps-stabschefin-macht-indiskrete-aussagen-zur-us-regierung-ld.1916926)
+Tumorgewebe im Labor möglichst realitätsnah nachbilden und neue Ansätze für eine personalisierte Krebsmedizin entwickeln:
+Daran werden ab Frühjahr 2026 insgesamt 20 Promovierende in den Lebenswissenschaften sowie zehn Medizinerinnen und Mediziner im ... [weiterlesen](https://www.uniklinik-ulm.de/aktuelles/detailansicht/mit-kuenstlichen-organen-krebstherapie-verbessern.html)
 
-> Relevance score: [3] - Interne US‑Politik‑Aussagen geben Einblick in die Regierungsführung, betreffen jedoch vorwiegend US‑Innenpolitische Dynamiken ohne unmittelbare Weiterwirkungen für die Schweiz.
+> Relevance score: [4] - German research funding for organ‑oid cancer models is scientifically important but its societal impact will be medium‑term and not immediately broad.
 
-## Name Twitter: Elon Musk ficht Rechtsstreit mit Start-up aus
+## Microsoft sperrt Exchange Online für ältere Mobilgeräte
 
-[Watson](https://www.watson.ch/international/x-twitter/713959130-name-twitter-elon-musk-ficht-rechtsstreit-mit-start-up-aus) • _Mittwoch, 17. Dezember 2025, 05:47 Uhr_
+[Swiss IT Magazine](https://www.itmagazine.ch/artikel/86218/Microsoft_sperrt_Exchange_Online_fuer_aeltere_Mobilgeraete.html) • _Mittwoch, 17. Dezember 2025, 08:12 Uhr_
 
-Ein Start-up will sich den abgelegten Namen Twitter und das bekannte Logo mit dem blauen Vogel sichern. Elon Musks Online-Plattform X klagt dagegen.
+Ab März 2026 kappt Microsoft die Verbindung von Exchange ActiveSync-Versionen unter 16.1. Ältere mobile Endgeräte können dann keine Mails, Kalenderdaten oder Kontaktdaten mehr synchronisieren.
 
-Er wollte den Namen «Twitter» ausradieren – nun streitet sich Elon Musk darum
-Ein Start-up will sich den abgelegten Namen Twitter und das bekannte Logo mit dem blauen Vogel sichern. Elon Musks Online-Plattform X hat dagegen Klage eingereicht.
-X habe ... [weiterlesen](https://www.watson.ch/international/x-twitter/713959130-name-twitter-elon-musk-ficht-rechtsstreit-mit-start-up-aus)
+Ab März 2026 kappt Microsoft die Verbindung von Exchange ActiveSync-Versionen unter 16.1. Ältere mobile Endgeräte können dann keine Mails, Kalenderdaten oder Kontaktdaten mehr synchronisieren.
+17. Dezember 2025
+Der 1. März 2026 ist der Stichtag: Micr... [weiterlesen](https://www.itmagazine.ch/artikel/86218/Microsoft_sperrt_Exchange_Online_fuer_aeltere_Mobilgeraete.html)
 
-> Relevance score: [2] - Der Rechtsstreit um das Markenrecht von „Twitter“ ist ein reiner Unternehmens‑ und Marken‑konflikt ohne breitere gesellschaftliche, wirtschaftliche oder politische Bedeutung.
+> Relevance score: [4] - Technical change that will affect users of older devices worldwide; noteworthy for IT users but limited societal impact.
 
-## Der Sohn von Rob Reiner wird wegen Mordes angeklagt
+## Hoher Ex-US-Beamter Josh Paul lobbyiert für Wandel in Israel-Politik
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/er-soll-seine-eltern-erstochen-haben-der-sohn-von-rob-reiner-wird-wegen-mordes-angeklagt-ld.1916929) • _Mittwoch, 17. Dezember 2025, 02:03 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/kritik-an-us-nahostpolitik-hoher-us-ex-beamter-lobbyiert-fuer-wandel-in-der-israel-politik) • _Mittwoch, 17. Dezember 2025, 06:50 Uhr_
 
-Der gewaltsame Tod des „Harry und Sally“-Regisseurs Rob Reiner und seiner Frau Michele schockt nicht nur die Filmwelt. Nick Reiner, der Sohn des Paares, ist in Haft und soll wegen Mordes angeklagt werden.
+Der frühere Beamte und Waffenexperte im US-Aussenministerium, Josh Paul, geht mit Trump und Biden hart ins Gericht.
 
-(dpa) Nach dem gewaltsamen Tod von „Harry und Sally“-Regisseur Rob Reiner und seiner Ehefrau Michele soll der Sohn des Paares, Nick Reiner, wegen zweifachen Mordes angeklagt werden. Das gab die Staatsanwaltschaft in Los Angeles bekannt. Der 32-Jährig... [weiterlesen](https://www.nzz.ch/feuilleton/er-soll-seine-eltern-erstochen-haben-der-sohn-von-rob-reiner-wird-wegen-mordes-angeklagt-ld.1916929)
+Josh Paul überwachte als Direktor beim Büro Political-Military Affairs im US-Aussenministerium fast elf Jahre lang internationale Waffenexporte, unter anderem an Israel. Nur wenige Tage nach Ausbruch des Gaza-Kriegs trat er von seinem Amt zurück. Heu... [weiterlesen](https://www.srf.ch/news/international/kritik-an-us-nahostpolitik-hoher-us-ex-beamter-lobbyiert-fuer-wandel-in-der-israel-politik)
 
-> Relevance score: [1] - Ein prominenter Kriminalfall aus den USA hat kaum Auswirkung auf Gesellschaft, Wirtschaft oder Politik in der Schweiz oder global im größeren Maßstab.
+> Relevance score: [4] - US lobbying activity concerning Israeli policy is part of broader foreign‑policy discourse but has limited direct effect on Swiss or global structures.
+
+## Dinosaurierspuren in den italienischen Alpen entdeckt
+
+[Blick](https://www.blick.ch/ausland/sensationsfund-in-den-alpen-tausende-dinosaurierspuren-auf-felswand-entdeckt-id21525443.html) • _Mittwoch, 17. Dezember 2025, 10:54 Uhr_
+
+Sensationeller Fund in den italienischen Alpen. Ein Naturfotograf entdeckt auf Hunderten Metern Dinosaurierspuren. Sie sollen zu den umfangreichsten Funden ihrer Art gehören.
+
+Die umfangreichsten Dinosaurierspuren in ganz Europa nennt der Präsident der Region Lombardei in Norditalien die Entdeckung. Im Stelvio-Nationalpark, wo nächstes Jahr die Olympischen Winterspiele stattfinden sollen, machte ein Naturfotograf den Sensa... [weiterlesen](https://www.blick.ch/ausland/sensationsfund-in-den-alpen-tausende-dinosaurierspuren-auf-felswand-entdeckt-id21525443.html)
+
+> Relevance score: [3] - A significant paleontological find is of scientific interest but does not affect societal or economic conditions in the near term.
+
+## Solothurner Kantonsrat will Kosten fürs Bistum Basel prüfen
+
+[Blick](https://www.blick.ch/schweiz/auch-wer-ausgetreten-ist-zahlt-solothurner-kantonsrat-will-umstrittene-bischofsloehne-pruefen-id21525699.html) • _Mittwoch, 17. Dezember 2025, 13:20 Uhr_
+
+540'000 Franken bezahlt der Kanton aus allgemeinen Steuermitteln. Am Mittwoch wurde einen entsprechender Vorstoss dagegen an die Regierung überwiesen.
+
+Keystone-SDADie Schweizer Nachrichtenagentur
+Ein fraktionsübergreifender Auftrag hatte ursprünglich verlangt, dass der Kanton Solothurn seine Zahlungen an das Bistum Basel stoppt und das sogenannte Bistumskonkordat kündigt.
+Dieses Abkommen aus dem Ja... [weiterlesen](https://www.blick.ch/schweiz/auch-wer-ausgetreten-ist-zahlt-solothurner-kantonsrat-will-umstrittene-bischofsloehne-pruefen-id21525699.html)
+
+> Relevance score: [2] - A cantonal budget dispute over 540 kCHF is a local fiscal matter with very limited relevance beyond the canton.
+
+## Pöschwies: Gefängnis darf 2'300 Quadratmeter Wald für Sicherheit roden
+
+[20 Minuten](https://www.20min.ch/story/regensdorf-zh-wegen-schmuggels-poeschwies-darf-2300-quadratmeter-wald-roden-103471534) • _Mittwoch, 17. Dezember 2025, 12:22 Uhr_
+
+Die Gemeinde Regensdorf genehmigt die Rodung eines Waldstücks für den Sicherheitszaun der JVA Pöschwies, trotz Protesten der Anwohner.
+
+Handys, Waffen oder Drogen: Immer wieder wird versucht, Schmuggelware in Schweizer Justizvollzugsanstalten (JVA) zu bringen. Sei das mit Einwürfen über den Zaun oder mit Drohnen. Mehrere Gefängnisse rüsteten in den letzten Jahren gegen Drohnen auf un... [weiterlesen](https://www.20min.ch/story/regensdorf-zh-wegen-schmuggels-poeschwies-darf-2300-quadratmeter-wald-roden-103471534)
+
+> Relevance score: [2] - Local environmental decision for a prison security fence impacts a small community; limited broader relevance.
+
+## Heftige Kritik Trumps Schwiegersohn zieht sich aus Warner-Bieterkampf zurück
+
+[blue News](https://www.bluewin.ch/de/news/international/trumps-schwiegersohn-zieht-sich-aus-warner-bieterkampf-zurueck-3013570.html) • _Mittwoch, 17. Dezember 2025, 10:23 Uhr_
+
+Jared Kushner, Schwiegersohn von US-Präsident Donald Trump, steigt aus dem Bieterrennen um Warner Bros. aus. Seine Beteiligung an einem Paramount-Angebot hatte zuvor für Kritik gesorgt.
+
+Jared Kushner, Schwiegersohn von US-Präsident Donald Trump, steigt aus dem Bieterrennen um Warner Bros. aus. Seine Beteiligung an einem Paramount-Angebot hatte zuvor für Kritik gesorgt.
+Jared Kushner, Schwiegersohn von US-Präsident Donald Trump, stei... [weiterlesen](https://www.bluewin.ch/de/news/international/trumps-schwiegersohn-zieht-sich-aus-warner-bieterkampf-zurueck-3013570.html)
+
+> Relevance score: [2] - A US political figure withdrawing from a media acquisition is primarily entertainment/business news with negligible civic impact.
+
+## Trump lobt Stabschefin Susie Wiles nach umstrittener Alkoholiker-Aussage
+
+[20 Minuten](https://www.20min.ch/story/susanne-wiles-nach-alkoholiker-aussage-trump-nennt-stabschefin-fantastisch-103471439) • _Mittwoch, 17. Dezember 2025, 08:24 Uhr_
+
+Nach ihrer umstrittenen Äusserung über Trumps «Alkoholiker-Persönlichkeit» erhält Susie Wiles Rückendeckung vom Präsidenten.
+
+Die Stabschefin im Weissen Haus, Susie Wiles, hat mit ungeschönten Äusserungen über US-Präsident Donald Trump in Washington für Aufruhr gesorgt. Trump habe «die Persönlichkeit eines Alkoholikers», zitierte die Zeitschrift «Vanity Fair» die 68-Jährige... [weiterlesen](https://www.20min.ch/story/susanne-wiles-nach-alkoholiker-aussage-trump-nennt-stabschefin-fantastisch-103471439)
+
+> Relevance score: [2] - US internal political controversy; limited relevance beyond US media cycles.
 
 
 </details>

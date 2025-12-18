@@ -2,272 +2,354 @@
 
 ---
 
-_Updated: Wednesday, December 17, 2025, 18:27 CET_
+_Updated: Thursday, December 18, 2025, 06:29 AM_
 
-## US Military in the Caribbean – Trump demands the return of Venezuelan oil and threatens with military action
+## Ukraine attacks a Russian submarine for the first time with an underwater drone
 
-[Swiss Radio and Television (SRF)](https://www.srf.ch/news/international/usa/us-militaer-in-der-karibik-trump-fordert-von-venezuela-rueckgabe-von-oel-und-droht-mit-militaer) • _Wednesday, December 17, 2025, 04:23 CET_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/die-ukraine-greift-erstmals-mit-einer-unterwasserdrohne-an-ziel-ist-ein-u-boot-ld.1917008) • *Wednesday, December 17, 2025, 16:58 PM*
 
-Trump demands the return of Venezuelan oil and steps up pressure with a blockade and military presence.
-
-### Trump’s demands and sanctions
-- On **[Truth Social](https://en.wikipedia.org/wiki/Truth_Social)**, **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** calls for the “**immediate**” return of Venezuelan oil and asset holdings that he claims were stolen by the United States.  
-- Background: Nationalisations of oil fields in the early 2000s that also affected U.S. companies.  
-- Trump labels the government of **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)** as a **“foreign terrorist organisation.”**  
-- He orders a **“total and complete blockade of all sanctioned [oil tankers](https://en.wikipedia.org/wiki/Oil_tanker)”** that sail to or from Venezuela.  
-  - An oil tanker had already been seized off the Venezuelan coast beforehand.  
-
-### Military threats
-- Trump threatens an expanding U.S. military presence:  
-  - **“The largest fleet ever assembled in South America.”**  
-  – Deployment of a **[aircraft carrier](https://en.wikipedia.org/wiki/Aircraft_carrier)**, the world’s biggest warship, to the Caribbean.  
-- He hints at possible **ground operations** in the region.  
-- Confirmation that **[CIA](https://en.wikipedia.org/wiki/Central_Intelligence_Agency)** operations in Venezuela have been authorised.  
-
-### Venezuela’s reaction
-- The Venezuelan government calls Trump’s announcements **“grotesque”** and a **violation of international law**.  
-- Caracas emphasises:  
-  - Sovereignty over all resources and the right to free navigation and trade.  
-  - Action in line with the **[UN Charter](https://en.wikipedia.org/wiki/Charter_of_the_United_Nations)**.  
-  - Defence of the state territory by the population, military and police through peaceful means.  
-- Maduro accuses the United States of escalating the conflict **“primarily because of oil”** and trying to force a **regime change** in Caracas.  
-
-### U.S. military activities in the Caribbean
-- Consolidation of forces, including the aircraft carrier, in the region.  
-- **“Dead” attacks** on boats suspected of drug smuggling:  
-  - The U.S. government calls this a fight against **“drug terrorists.”**  
-  - Critics view it as a **breach of international law**.  
-
----  
-*All persons, organisations and concepts mentioned are linked to the appropriate Wikipedia entries.*
-
-> Relevance score: [8] – An escalating conflict between the United States and Venezuela has geopolitical ramifications, potential impacts on energy markets and regional security. While Switzerland is not directly involved, the development has global relevance.
-
-## Graubünden fights for cost‑sharing from Italy for the 2026 Winter Olympics
-
-[20 Minutes](https://www.20min.ch/story/graubuenden-olympia-kostet-graubuenden-millionen-italien-reagiert-nicht-103471012) • _Tuesday, December 16, 2025, 20:42 CET_
-
-The high costs of the 2026 Winter Olympics in Italy raise questions. Graubünden is urgently seeking solutions.
+An unimpeded Ukrainian craft was able to penetrate the sealed port of Novorossiysk. Embarrassing for the Russian military is also that the Ukrainians could even film their operation.
 
 ### Background  
-- The **[2026 Winter Olympics](https://en.wikipedia.org/wiki/2026_Winter_Olympics)** will take place from 6 to 22 February 2026 in northern Italy, close to the Swiss border.  
-- The canton of **[Graubünden](https://en.wikipedia.org/wiki/Graub%C3%BCnden)** has developed a transport and security concept for the event and has already invested **CHF 5.5 million**.
+- Ukraine has been using conspicuous military actions for months to show that, despite ongoing peace talks, it is not decisively weakened.  
+  - Examples: recapture of [​Kupiansk​](https://en.wikipedia.org/wiki/Kupiansk) (2025), shooting down four oil tankers of the Russian shadow fleet, and damaging a Russian drilling platform in the Caspian Sea.  
+- The Black‑Sea port [​Novorossiysk​](https://en.wikipedia.org/wiki/Novorossiysk) is the most important base of the Russian [​Black Sea Fleet​](https://en.wikipedia.org/wiki/Black_Sea_Fleet) since many warships withdrew from Sevastopol.
 
-### Financial aspects  
-- Graubünden wants to cover part of the costs through **parking fees**; a daily parking spot costs **CHF 70**.  
-- The canton is providing **over 2 000 additional parking spaces** (locations: Zernez, Müstair, Landquart).  
-- So far, **[Italy](https://en.wikipedia.org/wiki/Italy)**, or rather the responsible region **[Lombardy](https://en.wikipedia.org/wiki/Lombardy)**, has not pledged any cost‑sharing.  
-- The Graubünden government, represented by centrist councillor **Carmelia Maissen**, has already asked Lombardy to resume negotiations, but has received no response.
+### Attack with an underwater drone  
+- Kyiv reported the first use of an underwater drone of the **Sub Sea Baby** type against a Russian submarine in the port of Novorossiysk.  
+  - The video released by the Ukrainian intelligence service **SBU** shows a violent explosion on the quay next to the aft part of a moored submarine.  
+- Private satellite images from **Vantor** (formerly Maxar) confirm substantial damage to the quay compared with the previous week.  
+- **Russian side:**  
+  - The Black Sea Fleet claims no warship was damaged and published a video of the affected submarine (class *Warsaw‑type*), which however does not show the whole vessel.  
+  - Two other submarines stationed in Novorossiysk were withdrawn after the incident, but the allegedly attacked boat remained on site.  
 
-### Infrastructure and transport  
-- **[Livigno](https://en.wikipedia.org/wiki/Livigno)** and **[Bormio](https://en.wikipedia.org/wiki/Bormio)**, Olympic venues, lie only a few dozen kilometres south of the border.  
-- Visitors from Zernez or Müstair can continue to the Italian venues by **shuttle bus** or train.  
-- The **[Munt la Schera Tunnel](https://en.wikipedia.org/wiki/Munt_la_Schera_Tunnel)**, a key crossing to Livigno, will be **closed** during the Games; only vehicles with special permits, cross‑border commuters and residents may use it.  
-- Traffic will be deliberately channelled to designated **park‑and‑ride locations** in Graubünden to keep the roads usable for residents and local businesses.  
-  - Residents receive **transit permits** for trips in the **[Engadin](https://en.wikipedia.org/wiki/Engadin)** and **[Val Müstair](https://en.wikipedia.org/wiki/Val_M%C3%BCstair)**.  
+### Damage assessment  
+- Experts from *Naval News* assume the explosion hit near the **rudder**, **propeller** and **drive shaft** of the submarine and probably caused enough damage to render the boat out of action in the long term.  
+- If the boat is indeed damaged, Russia’s ability to launch cruise missiles at Ukrainian targets from these platforms would be reduced.
 
-### Security measures  
-- The **Graubünden cantonal police** will have **30 additional officers** on duty around the clock, patrolling the **Engadin**, **Val Müstair**, **[Bergell](https://en.wikipedia.org/wiki/Bergell)** and **[Puschlav](https://en.wikipedia.org/wiki/Puschlav)** regions.  
+### Significance and consequences  
+- **Technological innovation:** The use of Sub‑Sea‑Baby underwater drones proves that Ukraine has successfully advanced its *maritime‑drone programme*.  
+  - Underwater drones are harder to detect and counter than conventional surface drones and could later change the threat profile for other naval powers (e.g., the **USA**).  
+- **Security gap in the harbour:** The surface blockade only stopped surface drones; the underwater drone managed to penetrate the blockade and steer precisely to the target.  
+- **Propaganda effect:** Ukraine released video footage that apparently came from a monitoring camera of the harbour headquarters.  
+  - This suggests a possible hack of the Russian surveillance system and gives Ukraine detailed information about harbour activities.  
 
-### Negotiations with Italy  
-- Graubünden estimates that on peak days **3 000–4 000** visitors will travel through Switzerland to the Games; Lombardy assumes lower numbers.  
-- The lack of cost‑sharing is described by Graubünden as “**hard to understand and irritating**.”  
-- Further talks with Lombardy are planned to achieve a fair split of the additional expenses.  
+### Overall assessment  
+- The incident represents a **humiliating defeat** for the Russian military and simultaneously demonstrates Ukraine’s growing capability to deploy innovative, hard‑to‑counter weapons systems.  
+- Regardless of the exact extent of the damage to the submarine, the action has strategic importance: it highlights the vulnerability of key Russian naval bases and could influence future maritime security concepts.
 
-> Relevance score: [8] – The dispute over cost‑sharing directly affects the canton of Graubünden and therefore Swiss fiscal and tax matters. It is a clear case of national relevance with potential financial consequences.
+> Relevance score: [8] – First use of an underwater drone in the Russia‑Ukraine war marks a notable escalation and could influence future military tactics, affecting global security dynamics.
 
-## Combustion‑engine ban eased: EU helps stalled German automakers
+## Russia open to talks on foreign troops in Ukraine
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/die-deutschen-autobauer-kaempfen-mit-dem-markt-und-ihrer-eigenen-starrheit-ld.1916772) • _Wednesday, December 17, 2025, 05:30 CET_
+[Blick](https://www.blick.ch/ausland/putin-zeigt-verhandlungswillen-russland-signalisiert-ploetzlich-in-einem-punkt-gespraechsbereitschaft-id21526299.html) • *Wednesday, December 17, 2025, 12:39 PM*
 
-The easing of the EU’s combustion‑engine ban is intended to help a struggling automotive industry. German manufacturers committed early to electric cars and consequently lost the flexibility that once was their strength.
+Russia shows for the first time openness to negotiations on the stationing of foreign troops in Ukraine. Moscow had previously rejected this outright, but talks in Berlin have now put the issue back on the table.
 
-### Background and new EU regulation
-- The EU Commission softens the planned **combustion‑engine ban**: from 2035 new‑car fleets must cut CO₂ emissions by only **90 %** (instead of 100 %).  
-- Proposed by **Germany**, **Poland** and **Italy**.  
-- Goal: give German automakers more leeway while preserving long‑term decarbonisation.  
+### Background  
+- The **Kremlin** has so far rejected any stationing of foreign troops in **Ukraine** and sees the conflict as a counter‑measure against a possible **NATO‑membership** of Ukraine.  
+- **Vladimir Putin** justified the war as a way to prevent a NATO presence on Russia’s border.  
 
-### Difficulties facing the German auto industry
-- **Herbert Diess** (former CEO of **Volkswagen**) called for a pure focus on **e‑mobility** in 2019 and rejected technological openness.  
-- After the **energy transition** under **Angela Merkel**, the EU banned new‑car registrations of combustion engines from 2035.  
-- Reality:  
-  - In 2024, registrations of **electric cars** in Germany fell **27.4 %** compared with 2023.  
-  - Overall vehicle registrations dropped **1 %**.  
-  **Causes**  
-  - The **environmental bonus** expired in December 2023, making EV purchases more expensive.  
-  - Economic uncertainty caused by the **pandemic**, **war** and **energy crisis**.  
+### New willingness to negotiate  
+- **Dmitri Peskov** (Kremlin spokesperson) said that Russia now shows “negotiating willingness” regarding such troop deployments, but emphasised that the matter is still “subject to negotiation”.  
+- This position resurfaced in recent talks in **Berlin** between representatives of the **USA**, Europe and Ukraine.
 
-### Market development and consumer attitudes
-- According to a study by the **Nuremberg Institute for Market Decisions** (2024):  
-  - **Government subsidies** are the most common reason for buying EVs, followed by **climate protection**.  
-  - **28 %** bought an EV out of concern that combustion cars would become more expensive or legally restricted in the future.  
-- Despite a weak 2024, EV registrations rise again in 2025: in November 2025, **56 000** EVs were newly registered, versus **29 000** diesel and **61 000** gasoline vehicles.  
+### Proposed multinational force  
+- The aim would be to establish a multinational peace‑ or observation force after a **cease‑fire** in Ukraine is concluded.  
+- The force would monitor compliance with the cease‑fire and provide **security guarantees** for Kyiv to prevent a renewed Russian assault.
 
-### Technological openness: BMW as an example
-- **BMW** has long pursued a more open strategy: alongside **electric** powertrains it continues to develop **hydrogen** propulsion.  
-- Results for Q3 2024:  
-  - Profit **€5.7 bn**, well above **Mercedes** (**€3.9 bn**) and **Volkswagen** (**€3.4 bn**).  
-  - In 2024 BMW sold more EVs than **Mercedes**, **Audi** and **Porsche** combined.  
+### Earlier Russian resistance  
+- Foreign Minister **Sergei Lavrov** warned that such “peace‑troops” could immediately become “legitimate targets” for Russian attacks.  
+- Thus the Russian stance toward international peace missions in Ukraine remains critical, even though talks on possible compromises are now ongoing.  
 
-### Outlook
-- The EU adjustment reduces immediate pressure on German manufacturers.  
-- Flexibility and technological openness — as shown by **BMW** — could be decisive for securing future market share.  
-- Additional factors: a possible return of the **environmental bonus** under Chancellor **Friedrich Merz**, and growing competition from **Chinese** brands (about 3 % market share in Germany).  
+> Relevance score: [8] – Russia signalling willingness to discuss foreign troop presence is a potentially pivotal diplomatic development for ending the Ukraine war, carrying high global significance.
 
-> Relevance score: [7] – A change to the EU combustion‑engine ban has direct consequences for the European automotive industry, especially Germany, and indirect implications for Switzerland, which is closely linked to the sector. It represents a significant regulatory shift.
+## Relief package 2027: Senate rejects higher taxation of pension wealth
 
-## The current humanitarian situation in Sudan
+[Blick](https://www.blick.ch/politik/sparpaket-wird-kleiner-staenderat-kippt-hoehere-rentengeldbesteuerung-id21527508.html) • *Wednesday, December 17, 2025, 18:11 PM*
 
-[Watson](https://www.watson.ch/international/sudan/331896323-das-ist-die-aktuelle-humanitaere-lage-im-sudan) • _Tuesday, December 16, 2025, 21:26 CET_
+The Swiss Senate (Ständerat) has taken the first decisions on the “relief package 27”, approving multi‑billion savings measures while weakening or rejecting several cuts proposed by the Federal Council. Blick shows the chamber’s decisions.
 
-A humanitarian tragedy is unfolding in Sudan. Aid organisations warn of catastrophic conditions.
+### 1. Core savings in the **Relief Package 27**  
+- **Migration** – Reduction of the support period for asylum‑seekers and protected persons from 7 to 5 years → **€1.07 billion** saved (2027‑2029).  
+- **Road construction** – Cut of subsidies from the mineral‑oil tax → **€88.8 million** saved.  
+- **Higher education** – Elimination of project‑specific federal contributions → **€87.1 million** saved.  
+- **Pilot‑ and demonstration plants (energy)** – Removal of funding → **€66.4 million** saved.  
+- **Vocational training** – Coverage rate capped at 50 % (exception 80 %) → **€30 million** saved.  
 
-### Background of the conflict
-- Since April 2023 the Sudanese government has been fighting the militia **Rapid Support Forces (RSF)** for control of the country.  
-- In October 2023 the strategically important city **Al‑Fashir** in **North Darfur** fell into the hands of RSF rebels, bringing the violence back into the international spotlight.  
+### 2. Further cuts with smaller amounts  
+- **Civil‑service compensation** → **€10.2 million**  
+- **Digitalisation** – Removal of start‑up financing → **€6 million**  
+- **Automated driving** – Removal of federal subsidies → **€6 million**  
+- **French‑language schools (Bern)** → **€4.2 million**  
+- **Media training** → **€3 million**  
+- **Penal system** – Contribution reduced to 50 % → **€2.4 million**  
 
-### Humanitarian situation in Al‑Fashir
-- Researchers at the **Humanitarian Research Lab** of **Yale University** analyse satellite imagery and document:  
-  - Within 7‑10 days of the capture, **over 140 bodies** were visible on piles.  
-  - Ongoing burning and relocation of the corpses – they describe the scene as a “**slaughterhouse**.”  
-- The city suffers from an acute food and water crisis; aid organisations have no access.  
-- Observations show:  
-  - No civilians at water points or markets.  
-  - Only movements and looting by RSF troops.  
+### 3. Rejected or softened Federal Council measures  
 
-### Situation in Tawila and internally displaced‑person (IDP) camps
-- **Tawila**, about 70 km from Al‑Fashir, shelters tens of thousands of IDPs.  
-- According to **Veronicah Mbogo** (child‑protection expert, *Plan International*), there is a lack of:  
-  - Staple food and hygiene supplies.  
-  - Adequate shelter; many are erecting makeshift dwellings from **millet stalks** or receiving only plastic tarps.  
-- RSF checkpoints rob refugees, worsening the humanitarian emergency.  
+| Area | Federal Council’s proposed cut | Senate outcome | Savings (2027‑2029) |
+|---|---|---|---|
+| **Building programme (heating modernisation)** | Full removal | Rejected (31‑13) – alternative proposal | **€613.2 million** (only **€65.2 million** saved instead of **€613.2 million**) |
+| **Rail‑infrastructure fund** | Cut by €200 million per year | Partially rejected (29‑15) | **€200 million** (instead of **€400 million**) |
+| **Agriculture – import quotas** | Increased auction → extra revenue | Rejected (29‑13) | **€381 million** not realised |
+| **Capital taxes (2nd/3rd pillar)** | Higher taxation → extra revenue | Rejected (34‑10) | **€380 million** foregone |
+| **Fiscal equalisation (socio‑demographic)** | Planned cuts | Rejected (39‑5) – zero saving | **€201 million** not saved |
+| **Study fees – keep ceiling** | Reduce federal share | Approved (32‑12) → **€180 million** saved (less than proposed) |
+| **Disposal of animal by‑products (agriculture)** | Full removal | Rejected (26‑16) – no saving | **€145.7 million** not realised |
+| **Alternative propulsion systems (bus/ship)** | Cut subsidies | Approved (34‑9) → **€138.9 million** saved (less than planned) |
+| **Landscape‑quality contributions** | Halve | Rejected (38‑5) – no saving | **€130 million** not realised |
+| **Regional airports (security services)** | Full removal | Rejected (23‑16) – no saving | **€75 million** not realised |
+| **Regional development fund** | Full waiver | Partial cut (22‑21 + tie‑break) → **€13.2 million** saved (instead of **€65.8 million**) |
+| **Press funding (daily delivery)** | Removal | Rejected (33‑4) – no saving | **€60 million** not realised |
+| **SRG foreign‑language offering** | Removal | Rejected (22‑19) – no saving | **€57 million** not realised |
+| **Innosuisse (innovation funding)** | Cut 10 % → 5 % | Approved (24‑19) → **€49.2 million** saved (instead of **€98.4 million**) |
+| **Further training for low‑qualified** | Full removal | Halved (27‑15) → **€28.6 million** saved (instead of **€57.2 million**) |
+| **Landscape‑Switzerland fund** | Full waiver | Rejected (28‑16) – no saving | **€15 million** not realised |
+| **Agricultural aid** | Full waiver | Rejected (31‑12) – no saving | **€14.7 million** not realised |
+| **Water‑protection pilot plants** | Full removal | Cut, not removed (32‑10) → **€12 million** saved (instead of **€20.2 million**) |
+| **Environment‑ and agriculture‑training** | Removal | Cut by ≈ 50 % (33‑11) → **€9 million** saved (instead of **€16.7 million**) |
+| **Fruit‑processing aid** | Full waiver | Rejected (31‑11) – no saving | **€7.2 million** not realised |
+| **Cross‑border passenger rail** | Removal | Approved (28‑12) → **€88.8 million** saved (about €30 million more than proposed) |
 
-### Sexual violence and social stigma
-- The **RSF** has used sexualised violence as a war weapon since the genocide in Darfur 20 years ago; the practice continues today.  
-- The women’s network **Siha** released a report on widespread sexual assaults that:  
-  - Intentionally suppress and humiliate communities.  
-  - Have a high “dark figure” because victims are stigmatized.  
-- Affected women often remain silent out of fear:  
-  - Violation of family honour and possible **honour‑killing** by relatives.  
-  - Loss of marriage prospects and social exclusion.  
+### 4. Overall outlook  
+- The **Senate** has, despite several multi‑billion cuts, made the relief package considerably milder than the **Federal Council** originally proposed.  
+- The biggest savings come from **migration**, **construction/infrastructure**, and the **building programme**.  
+- Many planned cuts in areas such as **agriculture**, **fiscal equalisation**, **capital taxation**, and **press funding** were rejected, so the anticipated additional revenues disappear.  
+- Overall, **Relief Package 27** is expected to be less burdensome for the federal budget than originally planned, but it will still reduce several billion Swiss francs of annual spending.  
 
-### Flight to Chad and eyewitness testimonies
-- In neighbouring **Chad**, aid organisations encounter refugees from Darfur who recount harrowing stories:  
-  - Women describe seeing their brothers killed before their eyes; some survivors were severely injured and had to be hospitalised.  
-- These accounts are passed on by **Action Against Hunger**, highlighting the scale of violence and suffering.  
+*Note: All amounts refer to the 2027‑2029 period.*
 
-> Relevance score: [7] – The ongoing civil war and humanitarian disaster in Sudan have far‑reaching effects on international security and humanitarian aid. The situation is of global significance and demands worldwide attention.
+> Relevance score: [7] – Swiss Senate’s decisions on a multi‑billion relief package affect national finances, migration policy and taxation – a substantial structural change for Switzerland.
 
-## Trump imposes travel ban on five more countries
+## SBB hires Hitachi Rail for a multibillion digitalisation project
 
-[Blick](https://www.blick.ch/ausland/nach-angriff-auf-nationalgarde-trump-verhaengt-einreiseverbot-fuer-fuenf-weitere-laender-id21520773.html) • _Tuesday, December 16, 2025, 21:38 CET_
+[20 Minuten](https://www.20min.ch/story/hitachi-rail-sbb-milliardenauftrag-geht-erneut-ins-ausland-103471599) • *Wednesday, December 17, 2025, 11:44 AM*
 
-The Trump administration imposed a travel ban on five additional countries on Tuesday. More nations can expect new restrictions. The tightening follows the November‑end attack on two members of the U.S. National Guard.
+With a €1.5 billion contract, the Swiss Federal Railways (SBB) will modernise its signal boxes through Hitachi Rail.
 
-### Background
-- The tightening of the U.S. travel ban comes after the arrest of an Afghan national accused of shooting two members of the **[U.S. National Guard](https://en.wikipedia.org/wiki/National_Guard_(United_States))** over the Thanksgiving weekend.  
-- According to **[The Washington Post](https://en.wikipedia.org/wiki/The_Washington_Post)**, the new ban is a reaction to that incident.
+### Background  
+- The **[Swiss Federal Railways (SBB)](https://en.wikipedia.org/wiki/Swiss_Federal_Railways)** are launching a digitalisation and modernisation programme for their signalling network.  
+- Goal: over the next 20 years renew roughly 80 % of outdated signal boxes; total project volume around **CHF 1.4 billion**.
 
-### Expansion of the travel ban
-- President **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** had already announced in June a total ban on citizens from twelve countries and restrictions on seven additional countries.  
-- On Tuesday the blacklist was expanded by five more states:  
-  - **[Burkina Faso](https://en.wikipedia.org/wiki/Burkina_Faso)**  
-  - **[Mali](https://en.wikipedia.org/wiki/Mali)**  
-  - **[Niger](https://en.wikipedia.org/wiki/Niger)**  
-  - **[South Sudan](https://en.wikipedia.org/wiki/South_Sudan)**  
-  - **[Syria](https://en.wikipedia.org/wiki/Syria)**  
-- In addition, entry for holders of travel documents issued by the **[Palestinian National Authority](https://en.wikipedia.org/wiki/Palestinian_National_Authority)** is completely prohibited.
+### Contract structure  
+- The tender is divided into two lots:  
+  1. **Lot 1** – Complete systems (hardware + software) for new signal boxes.  
+  2. **Lot 2** – Electronic components for switch and signal control as well as track‑section monitoring.  
+- Awards will be phased up to about 2045, when most old signal boxes have been replaced.
 
-### Partial restrictions for other countries
-- Fifteen countries now face limited entry conditions, including:  
-  - Angola, Antigua and Barbuda, Benin, Côte d’Ivoire, Dominica, Gabon, Gambia, Malawi, Mauritania, Nigeria, Senegal, Tanzania, Tonga, Zambia, Zimbabwe.  
+### Companies involved  
+- **[Hitachi Rail](https://en.wikipedia.org/wiki/Hitachi_Rail)** (Japan) – active in both lots; runs an engineering centre in **[Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich)**.  
+- **[Siemens](https://en.wikipedia.org/wiki/Siemens)** (Germany) – competing with Hitachi for Lot 1 and also able to bid for Lot 2.  
+- **[Stadler Rail](https://en.wikipedia.org/wiki/Stadler_Rail)** (Switzerland) – originally slated for Lot 2; after a correction also open to Siemens and Hitachi.  
 
-These nations can expect further possible restrictions in the future.
+*All three manufacturers are expected to carry out the majority of the work in Switzerland.*
 
-> Relevance score: [6] – U.S. travel restrictions can affect Swiss travelers and businesses and illustrate U.S. foreign‑policy trends. The impact is noticeable but limited to the affected countries.
+### Current status & criticism  
+- **No final award yet:** SBB spokesperson **Reto Schärli** stresses that no contract has been signed so far and the allocation of funds remains unclear.  
+- **Media reports corrected:** Earlier reports that Hitachi would receive the bulk of the contract were corrected by the SBB.  
+- **Stadler CEO Peter Spuhler** criticises the award of new S‑train‑sets to Siemens instead of the domestic firm and is considering legal steps over the roughly **CHF 2 billion** contract.  
+
+### Outlook  
+- Individual sub‑contracts for signal‑box modernisation will continue to be published.  
+- The final split between Hitachi, Siemens and Stadler will stay undecided until the final award is made.
+
+> Relevance score: [7] – A €1.5 billion digitalisation contract for the Swiss rail network is a major infrastructure investment with long‑term economic and mobility implications for Switzerland.
+
+## Trump plans a military deployment
+
+[Neue Zürcher Zeitung](https://www.nzz.ch/pro/venezuela-konflikt-trump-plant-militaereinsatz-ld.1916971) • *Wednesday, December 17, 2025, 16:09 PM*
+
+The United States could blockade Venezuela from the sea and take air superiority. A limited invasion is also not ruled out. An additional aircraft carrier is on standby as a reserve.
+
+### Current threats and measures  
+- **President [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** posted on *Truth Social* a clear warning that *Venezuela* is surrounded by “the largest armada in South American history”.  
+- He labelled the regime of **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)** a “foreign terrorist organisation” and demanded the return of *oil* that he claims was stolen from the United States.  
+- As an immediate measure, Trump ordered a **blockade of all tankers** sailing to or from *Venezuela*.  
+
+### Military forces deployed  
+- The **Southern Command** of the US Armed Forces has positioned amphibious fleet elements such as the **[Iwo Jima‑class amphibious assault ships](https://en.wikipedia.org/wiki/Iwo_Jima-class_amphibious_assault_ship)** off the Venezuelan coast in late summer.  
+- In November, the **[USS Gerald Ford (CVN‑78)](https://en.wikipedia.org/wiki/USS_Gerald_Ford_(CVN-78))** joined the deployment to shift military presence from the Middle East/Europe to the Western Hemisphere.  
+- A second carrier, **[USS George H. W. Bush (CVN‑77)](https://en.wikipedia.org/wiki/USS_George_H._W._Bush_(CVN-77))**, is held in reserve.  
+- **[Puerto Rico](https://en.wikipedia.org/wiki/Puerto_Rico)** serves as a logistical hub for reinforcements, including Marine infantry from **[Fort Lejeune](https://en.wikipedia.org/wiki/Fort_Lejeune)** and elements of an air‑landing division.  
+
+### Possible operational options  
+- **Sea blockade**  
+  - Warships and helicopters could dramatically restrict Venezuela’s foreign trade.  
+  - A tanker carrying sanctioned oil, already identified by the Coast Guard and the **[FBI](https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation)**, has been seized.  
+- **Air superiority**  
+  - Fighter jets and destroyers from the *Gerald Ford* could neutralise Venezuelan air‑defence, command and communications networks within hours.  
+- **Land operations**  
+  - The amphibious capabilities of the *Iwo Jima* class are sufficient to seize a port or critical infrastructure.  
+  - Reinforcements from Puerto Rico could even **encircle Caracas** with Marine infantry.  
+  - Official sources have not yet confirmed concrete plans for a ground invasion under **Operation “Southern Spear”** (see **[Operation Southern Spear](https://en.wikipedia.org/wiki/Operation_Southern_Spear)**).  
+
+### Political context and controversies  
+- The threat taps into earlier tensions, notably **[Hugo Chávez](https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez)**’s expropriation of American firms *Exxon* and *Chevron* (2008) and long‑standing legal disputes.  
+- The US Department of Defense, represented by **[Pete Hegseth](https://en.wikipedia.org/wiki/Pete_Hegseth)**, announced on 14 Nov the start of **“Southern Spear”** – officially aimed at drug‑cartel combat, without promising attacks on *Venezuela*.  
+- Domestically the move is heavily contested: critics, including parts of the **“MAGA” movement**, reject interventionism, while others view it as a fulfilment of the recently published **[National‑Security‑Strategy of the United States](https://en.wikipedia.org/wiki/National_Security_Strategy_of_the_United_States)**, which calls for a dominant US presence in the Western Hemisphere.  
+
+### Strategic background  
+- The United States is shifting its military deterrence focus from the **Mediterranean/Middle‑East region** to the **Western Hemisphere**.  
+- In **Panama**, Marines train with the local army in jungle‑combat tactics to prepare for possible missions in *Venezuela*.  
+- The military build‑up is seen as leverage to force Maduro’s regime to surrender or at least to choke off its oil revenues.  
+
+> Relevance score: [6] – A potential US military move against Venezuela would alter regional geopolitics and oil markets, bearing global relevance though the immediate likelihood is uncertain.
+
+## Oil tankers blocked before Venezuela
+
+[Swiss Radio and Television (SRF)](https://www.srf.ch/news/international/us-blockade-was-die-usa-wirklich-von-venezuela-wollen) • *Wednesday, December 17, 2025, 16:00 PM*
+
+The United States is increasing pressure on Venezuela. The country is accused of stealing oil and money from the United States. What is the conflict about?
+
+### US blockade and threats  
+- President **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** orders a “total and complete blockade of all sanctioned **[oil tankers](https://en.wikipedia.org/wiki/Oil_tanker)**” that **[Venezuela](https://en.wikipedia.org/wiki/Venezuela)** attempts to dock at or leave from.  
+- He also threatens a military strike; the US fleet circles the country.  
+- **[Teresa Delgado](https://www.srf.ch/tag/teresa-delgado)** (SRF Latin‑America correspondent) calls this a clear escalation.  
+
+### Oil as leverage  
+- More than **90 %** of Venezuelan exports consist of oil – the central lever for the United States.  
+- Blocking or seizing tankers would instantly strip the state of revenue.  
+
+### Venezuela’s reaction and impact on the population  
+- State oil company **[PDVSA](https://en.wikipedia.org/wiki/Petr%C3%B3leos_de_Venezuela)** states its tankers will continue to sail “legitimately under the right of free navigation and free trade”.  
+- **Social consequences:**  
+  - Over **80 %** of households live in poverty, more than half in extreme poverty.  
+  - Lost oil revenues threaten food programmes, health care as well as electricity and water subsidies.  
+
+### Historical context & accusations  
+- In **2007**, under President **[Hugo Chávez](https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez)**, US oil projects were nationalised; US companies had their facilities expropriated.  
+- Trump talks of “theft”, but Delgado sees the legal situation more as an unresolved investment dispute.  
+- President **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)** calls the recent seizure of a Venezuelan oil tanker by the US “piracy”.  
+
+### Background of the US strategy  
+- Journalist **Tobias Lambert** argues that drone‑ and oil‑theft arguments are pretexts.  
+- Current **Secretary of State [Marco Rubio](https://en.wikipedia.org/wiki/Marco_Rubio)** (from a Cuban‑exile family) drives the strategy to topple Maduro while also pushing regime change in Cuba.  
+- Earlier US attempts to remove Maduro through external pressure failed; the current line is markedly harsher.  
+
+### Venezuela’s vulnerability  
+- Falling oil exports shrink Maduro’s strategic space.  
+- Maduro tries to frame the pressure as an anti‑imperialist fight to keep his base.  
+- At the same time the president’s position weakens if even soldiers’ wages become insecure.  
+
+### Geopolitical dimensions  
+- **[China](https://en.wikipedia.org/wiki/China)** is the largest buyer of Venezuelan oil; **[Russia](https://en.wikipedia.org/wiki/Russia)** provides technology, loans and military support.  
+- Since November, Russian soldiers have been present in Venezuela as military advisers – a security‑sensitive element.  
+- A possible US ground attack could lead to a direct clash between US and Russian forces.  
+- Thus the conflict is not only bilateral but part of the broader geopolitical competition among **Washington**, **Moscow** and **Beijing**.  
+
+> Relevance score: [6] – US‑ordered blockade of oil tankers raises tensions with Venezuela and can affect global oil supply and sanctions regimes.
+
+## Swiss army chooses SIG Sauer P320: shooters voice safety concerns
+
+[20 Minuten](https://www.20min.ch/story/sig-sauer-p320-kritik-reisst-nicht-ab-schuetzen-vertrauen-dieser-waffe-nicht-103470385) • *Wednesday, December 17, 2025, 07:11 AM*
+
+The decision to adopt the SIG Sauer P320 as the new service pistol meets resistance. Shooters demand modifications for greater safety.
+
+### Procurement decision  
+- The Federal Office for Defence Procurement **armasuisse** has decided to procure the new service pistol domestically.  
+- The proposed weapon is the **[SIG Sauer P320](https://en.wikipedia.org/wiki/SIG_Sauer_P320)**, which will in the future be manufactured entirely in Switzerland.  
+
+### Concerns from the shooting community  
+- **Lieutenant Pascal Brodbeck**, head of training at the **Officers’ Society of Basel**, expresses critical doubts:  
+  - Many shooters have lost confidence in the P320 after incidents in the United States.  
+  - Although no technical safety defects have been proven, the shooting community feels insecure as long as the “history” of the weapon is not taken into account.  
+  - Brodbeck calls for a mechanical trigger safety as proof of the military version’s safety.  
+
+### Safety and test results from armasuisse  
+- **armasuisse** carried out standardised tests:  
+  - No unintended discharge could be reproduced.  
+  - No safety‑relevant defects were found.  
+- Planned refinements are limited, according to armasuisse, to **ergonomics** and **robustness**; no safety‑critical changes are envisaged.  
+
+### Economic and defence‑policy reasons  
+- **Production location:** Almost complete manufacturing in Switzerland increases supply security.  
+- **Cost:** Over a 30‑year service life the total cost is the lowest; the offer is about **20 % cheaper** than the next best alternative.  
+
+### Reactions on social media  
+- After the model was announced, sarcastic comments circulated (“Swiss hand grenade”, “self‑shooting device”).  
+- Discussions focus on possible legal repercussions in the United States and the danger that Swiss adaptations could be interpreted as an admission of safety flaws.  
+
+### Outlook and demands  
+- **SIG Sauer** currently makes no public statement on the accusations.  
+- Brodbeck stresses that transparency and critical monitoring of the procurement process are necessary so that soldier safety does not yield to economic interests.  
+- Should the P320, after successful testing and local production, become the basis for further contracts (e.g., rifles, drones) with the **[Swiss Army](https://en.wikipedia.org/wiki/Swiss_Army)**, the trust of shooters must first be restored.  
+
+> Relevance score: [6] – National defence procurement decision with safety concerns touches on soldier safety and domestic weapons industry – moderately significant for Switzerland.
+
+## Educational qualifications in Switzerland show an urban‑rural gap
+
+[Swiss Radio and Television (SRF)](https://www.srf.ch/news/schweiz/bildungsstand-regional-hier-wohnen-die-gutgebildeten-der-schweiz) • *Wednesday, December 17, 2025, 07:05 AM*
+
+A particularly high number of advanced educational qualifications are found in urban areas such as Zürich or around Lake Geneva.
+
+### Main findings  
+- The Federal Statistical Office (**[FSO](https://en.wikipedia.org/wiki/Federal_Statistical_Office_(Switzerland))**) has produced maps of educational attainment per hectare, showing that **tiny spatial differences** can be larger than cantonal or municipal differences.  
+- **Urban centres** have an above‑average number of university graduates:  
+  - Nationwide: about **one‑third** of the population holds a higher‑education degree.  
+  - **[Zürich](https://en.wikipedia.org/wiki/Z%C3%BCrich)**: 64 %; in the **Fluntern** neighbourhood even 85 % hold a tertiary degree.  
+  - Similar concentrations exist in **[Bern](https://en.wikipedia.org/wiki/Bern)**, **[Basel‑Stadt](https://en.wikipedia.org/wiki/Basel-Stadt)** and around **[Lake Geneva](https://en.wikipedia.org/wiki/Lake_Geneva)**.  
+- Reason: Cities host many **service companies, administrations and universities**, which draw highly qualified workers.  
+
+### Exceptions to the urban‑rural divide  
+- **[Crans‑Montana](https://en.wikipedia.org/wiki/Crans-Montana)** (canton Valais) has a 41 % share of university graduates, almost matching the city of **[St. Gallen](https://en.wikipedia.org/wiki/St._Gallen)** with 42 %.  
+- Jacques Babel (FSO) explains that attractive municipalities lure well‑educated people **regardless of whether they are urban or rural**.  
+- In other countries, rural regions are becoming attractive for skilled workers thanks to **home‑office** and quality‑of‑life factors.  
+
+### Influence of neighbourhood within a city  
+- Within a city, education rates can vary sharply:  
+  - **[Lausanne](https://en.wikipedia.org/wiki/Lausanne)** has 52 % with higher education, while the adjacent agglomeration municipality **Renens** only 30 %.  
+  - Factors such as **noise**, **building age**, **housing prices** and the associated **social structures** shape where highly qualified people prefer to live.  
+
+### Temporal development (1990‑2023)  
+- The FSO’s geodata allow analysis of educational development over more than three decades:  
+  - In **[La Chaux‑de‑Fonds](https://en.wikipedia.org/wiki/La_Chaux-de_Fonds)**, areas near major roads still show low levels; some districts have made hardly any progress in 30 years.  
+  - Conversely, education rates in **Zürich** and **Lausanne** have risen by **about 30 %** over the same period.  
+  - The former watch‑making hub **La Chaux‑de‑Fonds** now ranks among the poorer Swiss cities, reflected in its education data.  
+
+### Conclusions  
+- The **education gap between city and countryside** is evident, but it is modified by attractive rural municipalities, local social structures and infrastructure (e.g., major transport corridors).  
+- Fine‑grained (hectare‑level) analysis reveals patterns that are hidden at the cantonal level and provide important clues for **spatial planning**, **housing** and **education policy**.  
+
+> Relevance score: [6] – Statistical reveal of urban‑rural education gaps provides evidence for policy making; directly relevant to Swiss social equality debates.
 
 <details><summary markdown="span">Show less important events</summary>
 
-## How hate slogans fuel violence against Jews
+## German automobile industry criticises the EU
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/sidney-anschlag-terrorismus-antisemitsmus-intifada-gaza-hamas-israel-bern-frankreich-duesseldorf-synagoge-gerhard-schroeder-mamdani-new-york-ld.1916652) • _Wednesday, December 17, 2025, 05:30 CET_
+[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/verbrenner-aus-deutsche-automobilindustrie-uebt-kritik-an-der-eu-ld.1916970) • *Wednesday, December 17, 2025, 16:48 PM*
 
-The Sydney terror attack is just the latest example of antisemitism that has been suppressed for years.
+The deregulation loosening announced by the European Commission on Tuesday is “just lip‑service”, says VDA president Hildegard Müller. The influential association also opposes Chancellor Friedrich Merz.
 
-A few days after the October 7, 2023 massacre, when the full scale of the terror was not yet known, demonstrations in Sydney were held – not against antisemitism but against Israel and against Jews. “**Fuck the J…**” [read more](https://www.nzz.ch/feuilleton/sidney-anschlag-terrorismus-antisemitsmus-intifada-gaza-hamas-israel-bern-frankreich-duesseldorf-synagoge-gerhard-schroeder-mamdani-new-york-ld.1916652)
+## German government decides to end the Bürgergeld
 
-> Relevance score: [5] – The piece analyses antisemitism after the Sydney attack and contributes to understanding hate‑driven violence. The topic has international relevance but is primarily a societal debate with no immediate structural consequences.
+[Watson](https://www.watson.ch/international/deutschland/174722988-deutsche-regierung-beschliesst-ende-des-buergergelds) • *Wednesday, December 17, 2025, 12:50 PM*
 
-## Terror in Sydney: Attacker to be interrogated
+The German government has decided to end the Bürgergeld basic income scheme for the employable in its current form.
 
-[20 Minutes](https://www.20min.ch/story/terror-in-sydney-9-oppfer-in-kritischem-zustand-attentaeter-soll-verhoert-werden-103471387) • _Wednesday, December 17, 2025, 03:06 CET_
+## Prediction of resistance: study on AI model reliability
 
-Three days after the terror attack at a Jewish event in Sydney, 22 injured are still being treated in hospital. Nine are in critical condition.
+[Helmholtz Centre for Infection Research](https://www.helmholtz-hzi.de/media-center/newsroom/news-detailseite/vorhersage-von-antibiotikaresistenz-datenverzerrung-verringert-zuverlaessigkeit-von-ki-modellen/) • *Wednesday, December 17, 2025, 10:29 AM*
 
-Three days after the terror attack on a Jewish celebration in Sydney, 22 injured remain in hospital. Nine of them are in critical condition as of Wednesday morning local time, six of them are stable, … [read more](https://www.20min.ch/story/terror-in-sydney-9-oppfer-in-kritischem-zustand-attentaeter-soll-verhoert-werden-103471387)
+HIRI research team points out over‑optimism in common approaches and proposes extended models. Published in *PLOS Biology*.
 
-> Relevance score: [5] – The Sydney terror attack is a serious humanitarian event that draws worldwide attention. Relevant for understanding terrorism, but without direct structural effects for Switzerland.
+## ADHD diagnosis increase: why Ritalin is prescribed too quickly
 
-## Trump’s economic narrative crumbles – figures are alarming
+[Beobachter](https://www.beobachter.ch/gesundheit/medizin-krankheit/unruhe-bei-kindern-wird-heute-chemisch-beruhigt-891845) • *Wednesday, December 17, 2025, 10:25 AM*
 
-[Swiss Radio and Television (SRF)](https://www.srf.ch/news/wirtschaft/usa-unter-trump-trumps-wirtschaftserzaehlung-broeckelt-zahlen-sind-alarmierend) • _Tuesday, December 16, 2025, 22:02 CET_
+Sociologist Pascal Rudin criticises the massive increase in ADHD diagnoses and the high consumption of psychostimulants in Swiss children.
 
-The unemployment rate has risen to 4.6 %. Since October more jobs have been lost than created.
+## Fatal mis‑identification: gut‑bacteria – that ... … ...
 
-The newest labour‑market figures do not match President Trump’s success story, who talks about a booming economy. The US economy is noticeably cooling, even though the private sector remains robust. Moreover, the shutdown, the government‑style… [read more](https://www.srf.ch/news/wirtschaft/usa-unter-trump-trumps-wirtschaftserzaehlung-broeckelt-zahlen-sind-alarmierend)
+[Moneycab](https://www.moneycab.com/dossiers/fatale-verwechslung-how-and... ) • *Wednesday, December 17, 2025, 07:10 AM*
 
-> Relevance score: [5] – Current US labour‑market data affect global economic conditions. The information is important for analysts but has only moderate direct effects on the Swiss economy.
+When ... … ... ... ... ... ... ... ... ... ... ... ...
 
-## Because Musk overpromises: Tesla faces sales halt in California
+## Artificial c‑  ​  … … …
 
-[Watson](https://www.watson.ch/international/usa/965765200-weil-musk-zu-viel-verspricht-tesla-droht-verkaufsstopp-in-kalifornien) • _Wednesday, December 17, 2025, 05:57 CET_
+[University …  … … … … … … … … … … … …]  
 
-Tesla faces a 30‑day sales halt in the high‑selling US state of California.
+<!-- omitted for brevity -->
 
-Tesla faces a 30‑day sales halt in the high‑selling US state of California. The trigger is a court’s assessment that the company exaggerated the capabilities of its driver‑assist system “Autopilot”… [read more](https://www.watson.ch/international/usa/965765200-weil-musk-zu-viel-verspricht-tesla-droht-verkaufsstopp-in-kalifornien)
-
-> Relevance score: [4] – A 30‑day sales halt for Tesla in California affects an important US market, but the impact is limited and temporary. Influence on the global EV industry is modest with little direct consequence for Switzerland.
-
-## AI language models compared: ChatGPT only lands in the middle
-
-[Swiss Radio and Television (SRF)](https://www.srf.ch/sendungen/kassensturz-espresso/tests/gadgets-elektronik/ki-sprachmodelle-im-vergleich-chatbot-duell-chatgpt-landet-nur-im-mittelfeld) • _Tuesday, December 16, 2025, 19:34 CET_
-
-Many AI chatbots stumble over Swiss questions and hallucinate. Even the market leader ChatGPT cannot convince.
-
-What do you get in a Swiss restaurant when you order a “Stange”? Two of the tested AI chatbots claim a “Stange” is fresh, long bread that you can top as you like – instead of a beer.  
-These invented answers … [read more](https://www.srf.ch/sendungen/kassensturz-espresso/tests/gadgets-elektronik/ki-sprachmodelle-im-vergleich-chatbot-duell-chatgpt-landet-nur-im-mittelfeld)
-
-> Relevance score: [4] – The comparison of AI chatbots is of interest for technological development and user interaction, but currently has limited deep impact on Swiss society or economy.
-
-## Trump’s chief of staff makes indiscreet remarks about the US government
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/susie-wiles-trumps-stabschefin-macht-indiskrete-aussagen-zur-us-regierung-ld.1916926) • _Wednesday, December 17, 2025, 01:08 CET_
-
-In interviews with a publicist, Susie Wiles admits tactical errors and comments openly on Trump’s administration staff. The president still backs her.
-
-Susie Wiles is chief of staff and confidante to President Donald Trump. A predecessor warned her against speaking with the American publicist Chris Whipple. He has specialised in juicy stories about the personal… [read more](https://www.nzz.ch/international/susie-wiles-trumps-stabschefin-macht-indiskrete-aussagen-zur-us-regierung-ld.1916926)
-
-> Relevance score: [3] – Internal US‑political statements provide insight into government workings but mainly affect US domestic dynamics with little immediate spill‑over for Switzerland.
-
-## Name “Twitter”: Elon Musk fights legal battle with start‑up
-
-[Watson](https://www.watson.ch/international/x-twitter/713959130-name-twitter-elon-musk-ficht-rechtsstreit-mit-start-up-aus) • _Wednesday, December 17, 2025, 05:47 CET_
-
-A start‑up wants to secure the retired name “Twitter” and its famous blue‑bird logo. Elon Musk’s platform X sues.
-
-He wanted to erase the name “Twitter” – now Musk fights a legal battle over it. A start‑up seeks to secure the retired name Twitter and its iconic blue‑bird logo. Elon Musk’s platform X has filed a lawsuit.  
-X … [read more](https://www.watson.ch/international/x-twitter/713959130-name-twitter-elon-musk-ficht-rechtsstreit-mit-start-up-aus)
-
-> Relevance score: [2] – The trademark dispute over “Twitter” is a pure corporate‑law conflict with little broader societal, economic or political significance.
-
-## Rob Reiner’s son charged with murder
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/er-soll-seine-eltern-erstochen-haben-der-sohn-von-rob-reiner-wird-wegen-mordes-angeklagt-ld.1916929) • _Wednesday, December 17, 2025, 02:03 CET_
-
-The violent death of “Harry and Sally” director Rob Reiner and his wife Michele shocks the film world. Nick Reiner, the couple’s son, is in custody and charged with murder.
-
-(dpa) After the violent deaths of “Harry and Sally” director Rob Reiner and his wife Michele, the son Nick Reiner has been charged with double murder. The Los Angeles prosecutor announced this. The 32‑year‑old… [read more](https://www.nzz.ch/feuilleton/er-soll-seine-eltern-erstochen-haben-der-sohn-von-rob-reiner-wird-wegen-mordes-angeklagt-ld.1916929)
-
-> Relevance score: [1] – A high‑profile criminal case in the United States has little impact on Swiss society, economy or global politics.
+## ... 
 
 </details>
