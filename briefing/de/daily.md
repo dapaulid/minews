@@ -2,454 +2,281 @@
 
 ---
 
-_Aktualisiert: Donnerstag, 18. Dezember 2025, 06:29 Uhr_
+_Aktualisiert: Freitag, 19. Dezember 2025, 18:21 Uhr_
 
-## Ukraine greift erstmals mit Unterwasserdrohne russisches U
+## Budget 2026 des Bundes unter Dach
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/die-ukraine-greift-erstmals-mit-einer-unterwasserdrohne-an-ziel-ist-ein-u-boot-ld.1917008) • _Mittwoch, 17. Dezember 2025, 16:58 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/linke-enttaeuscht-einigung-beim-budget-2026-aber-schatten-ueber-kommenden-jahren) • _Donnerstag, 18. Dezember 2025, 20:05 Uhr_
 
-Ungehindert konnte ein ukrainisches Gefährt in den abgesperrten Hafen Noworossisk eindringen. Peinlich für das russische Militär ist auch, dass die Ukrainer ihre Aktion sogar filmen konnten.
+Das bürgerliche Parlament hat entschieden. «Nicht unser Budget», heisst es logischerweise von den enttäuschten Linken.
+
+### Einigung über das Budget 2026  
+- Nach drei gescheiterten Beratungsrunden in **[Nationalrat](https://en.wikipedia.org/wiki/Federal_Assembly_(Switzerland)#National_Council)** und **[Ständerat](https://en.wikipedia.org/wiki/Federal_Assembly_(Switzerland)#Council_of_States)** trafen sich die Finanzpolitiker beider Räte zu einer knappen, aber erfolgreichen Einigungskonferenz.  
+- Das Ergebnis steht nun für die Schlussabstimmung bereit.  
+
+### Kernpunkte des Budgets  
+- **Internationaler Bereich**  
+  - 6 Mio. CHF Kürzung, dafür 10 Mio. CHF vom Außen- ins Wirtschaftsdepartement verlagert → Fokus auf Wirtschaftshilfe statt Entwicklungs‑/Humanitärausgaben.  
+- **Schweiz Tourismus**  
+  - Keine Einsparungen, wie vom Ständerat gefordert.  
+- **Landwirtschaft & Armee**  
+  - Finanzielle Aufstockungen, insbesondere für die Armee.  
+- **Personal & Entwicklungszusammenarbeit**  
+  - Kürzungen; Kritiker bezeichnen dies als „Bluten“ dieser Bereiche.  
+
+### Reaktionen der Parteien  
+- **Sozialdemokraten (SP)** – *Sarah Wyss*  
+  - „Bürgerliches Budget – nicht unser Budget.“  
+  - Hinweis auf erhöhte Ausgaben für Landwirtschaft und Armee, während Personal und Entwicklungszusammenarbeit gekürzt wurden.  
+- **Schweizerische Volkspartei (SVP)** – *Jakob Stark*  
+  - Betont die Logik eines bürgerlichen Parlaments, jedoch bleibt Entwicklungs‑ und Minderheitenförderung erhalten.  
+- **Mitte‑Fraktion** – *Yvonne Bürgin*  
+  - Ergänzt, dass die linke Seite ebenfalls erhalten hat (Familienorganisationen, Kindesschutz, Tox‑Info, Gewalt‑gegen‑Frauen‑Prävention).  
+
+### „Schatz“ aus Genf – Verwendung der zusätzlichen Einnahmen  
+- **Genfer Einnahmen**: rund 300 Mio. CHF (einmaliger „Geldsegen“).  
+- **SP‑Standpunkt (Sarah Wyss)**  
+  - Ohne diese Einnahmen wären die Kürzungen in der Entwicklungszusammenarbeit nicht nötig gewesen (Handlungsspielraum von > 80 Mio. CHF).  
+- **Mitte‑Fraktion (Yvonne Bürgin)**  
+  - Warnt vor unüberlegtem „Verprassen“ der außerordentlichen Einnahmen, da künftige Haushalte knapp werden könnten.  
+
+### Ausblick: Finanzielle Herausforderungen ab 2027  
+- Das **Entlastungspaket** für 2027‑2030 belastet die Voranschläge 27 und 28 zusätzlich um ca. **1 Mrd. CHF**, die noch gefunden werden muss.  
+- **SVP‑Ständerat Jakob Stark** warnt, dass diese fehlende Milliarde das Budget weiter belasten wird.  
+- **FDP‑Nationalrat Peter Schilliger** sieht das Entlastungspaket als das größte Hindernis für künftige Voranschlagsdiskussionen.  
+- Sollte das Bundesbudget in die roten Zahlen rutschen, wird Ende 2026 ein noch härteres Ringen um Budgetposten erwartet.  
+
+> Relevance score: [8] - Federal budget negotiations are core to Swiss fiscal policy, affecting public services, taxation and the national economy.
+
+## Schweizer Industrie hat Probleme mit USA, Deutschland, Franken
+
+[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/trotz-zoll-deal-schweizer-industrie-hat-probleme-mit-usa-deutschland-franken-ld.1916879) • _Freitag, 19. Dezember 2025, 05:30 Uhr_
+
+Industriefirmen stehen beim Export vor grossen Problemen. Das zeigt das Schicksal von drei Unternehmen, für die es jetzt noch schlechter kommt als gedacht.
+
+### Handel und politische Unsicherheit
+- Die Schweiz hat mit den [USA](https://en.wikipedia.org/wiki/United_States) einen Zoll‑Deal erzielt, der den Strafzoll von **39 %** auf **15 %** senkt – ein entscheidender Schritt für die exportabhängige Industrie.  
+- Trotz des Deals bleibt die Zukunft unsicher, weil die US‑Zollpolitik unter Präsident [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) weiterhin unberechenbar ist.  
+- Laut **Jean‑Philippe Kohl** vom Branchenverband **[Swissmem](https://en.wikipedia.org/wiki/Swissmem)** wird die schwierige Lage der Schweizer Industrie bis **2026** anhalten.
+
+### Unternehmens‑bezogene Gewinnwarnungen
+- **Schweiter Technologies** (Steinhausen)  
+  - Erwartet für das Geschäftsjahr 2025 einen Umsatzrückgang von **11 %** auf **CHF 900 Mio**.  
+  - Schwäche bei Kunden aus der US‑Automobilindustrie; Nachfragerückgang in den USA bei geringem Wachstum und hoher Inflation.  
+  - Vorherige Vorratseinkäufe wegen hoher Zölle fallen nun weg; ein Zoll von 15 % bleibt weiterhin belastend.  
+
+- **Huber + Suhner** (Herisau)  
+  - Korrigiert 2025‑Umsatzerwartungen um **–3 %** auf **CHF 870 Mio**.  
+  - Hauptgrund: starker **[Schweizer Franken](https://en.wikipedia.org/wiki/Swiss_franc)** verringert Erlöse aus dem Ausland.  
+  - UBS prognostiziert eine leichte Schwächung des Frankens gegenüber dem Dollar, aber der Franken bleibt ein „sicherer Hafen“.  
+
+- **Cicor** (Bronschhofen)  
+  - Senkt 2025‑Umsatz von bis zu **CHF 650 Mio** auf **max. CHF 620 Mio**.  
+  - Ursache: geringere Nachfrage aus der deutschen Industrie und Medizintechnik.  
+
+### Währungs‑ und Export‑Perspektiven
+- **US‑Dollar**: UBS erwartet leichte Abwertung gegenüber dem Franken (≈ 0,79 CHF pro $).  
+- **Euro**: Prognostizierte Aufwertung auf **0,95 CHF** pro €, unterstützt durch steigende Staatsinvestitionen in **[Deutschland](https://en.wikipedia.org/wiki/Germany)** und die **Euro‑Zone**.  
+- Die **Euro‑Zone** gilt als wichtigstes Exportziel der Schweizer Industrie; ein stärkerer Euro könnte die Wettbewerbsfähigkeit verbessern.  
+
+### Konjunktur‑ und Arbeitsmarktlage
+- Das verarbeitende Gewerbe (ausgenommen Chemie/Pharma) stagniert im 2. Halbjahr 2025, doch **KOF** (ETH Zürich) erwartet eine deutliche Wertschöpfungssteigerung im 1. Halbjahr 2026 dank US‑Impulsen und europäischer Konjunktur.  
+- Der **UBS‑/procure.ch‑Indikator** lag im November bei **49,7 Punkten**, knapp unter der Expansionsschwelle von 50.  
+- **KMU** in der **MEM‑Branche** (Maschinen, Elektro, Metall) sind besonders belastet:  
+  - 3 von 4 Unternehmen sehen die Lage als ungünstig.  
+  - 40 % erwarten geringere Aufträge, Umsätze und Margen im laufenden Quartal.  
+- Arbeitsmarkt:  
+  - Im 3. Quartal fehlten fast **11 000** Vollzeitstellen gegenüber Vorjahr (–1,7 %).  
+  - Kurzarbeit bleibt verbreitet, insbesondere bei **MEM‑KMU** (21 % nutzen Kurzarbeit, Aufstieg von 19 % zu Jahresbeginn).  
+
+### Gesamtbewertung
+- Der Zoll‑Deal öffnet Chancen, doch anhaltende politische Unsicherheit in den USA, ein starker Franken und schwächelnde Nachfrage aus Schlüssel­märkten (USA, Deutschland) belasten die Schweizer Industrie.  
+- Verbesserungen werden wahrscheinlich erst 2026 spürbar, wobei die Branche vor allem von einer Wiederbelebung der deutschen Wirtschaft und einer moderaten Abschwächung des Frankens profitiert.
+
+> Relevance score: [7] - Examines export difficulties for Swiss manufacturers and the effect of a new US‑Swiss tariff agreement, directly influencing the national economy and employment.
+
+## Milliardenhilfe und Trump drängt auf Lösung
+
+[Blick](https://www.blick.ch/ausland/heute-grosser-auftritt-von-putin-eu-schliesst-kompromiss-zu-ukraine-finanzierung-id21532129.html) • _Freitag, 19. Dezember 2025, 04:36 Uhr_
+
+Mit einem Kompromiss stellt die EU der Ukraine für zwei Jahre 90 Milliarden Euro bereit. «Dieses Signal ist entscheidend», sagt der deutsche Kanzler Merz. Putin, der heute einen grossen Auftritt hat, werde erst einlenken, wenn sich der Krieg «nicht mehr lohnt».
+
+### EU‑Paket für die Ukraine
+- Die **[Europäische Union](https://en.wikipedia.org/wiki/European_Union)** hat sich auf ein zweijähriges Finanzpaket in Höhe von **90 Milliarden Euro** zur Unterstützung der **[Ukraine](https://en.wikipedia.org/wiki/Ukraine)** geeinigt.  
+- Das Geld soll zinsfrei bereitgestellt werden und sowohl den militärischen Bedarf als auch den Staatshaushalt der Ukraine decken.  
+- **[Friedrich Merz](https://en.wikipedia.org/wiki/Friedrich_Merz)** bezeichnete das Signal als entscheidend, um den Krieg zu beenden, und betonte, dass Präsident **[Wladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)** erst nachsehe, wenn ihm der Krieg „nicht mehr lohnt“.  
+- Der Kompromiss verwirft Merz’ ursprünglichen Vorschlag, eingefrorenes russisches Staatsvermögen direkt als Darlehen zu nutzen; diese Vermögenswerte bleiben bis zu einer Entschädigungszahlung Russlands eingefroren.  
+- Merz lobte das Ergebnis als „großen Erfolg“ und sah darin eine Demonstration europäischer Souveränität nach rund 18 Stunden Verhandlungen in Brüssel.  
+
+### Putins Jahres‑Pressekonferenz
+- Präsident **[Wladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)** hielt am Freitag seine traditionell vom Kreml streng kontrollierte Jahrespressekonferenz ab.  
+- Die landesweit im Fernsehen übertragene Veranstaltung dient der Rechtfertigung des **Ukraine‑Krieg** vor der russischen Bevölkerung und wird voraussichtlich Putins Position umfassend darlegen.  
+
+### US‑Druck unter Trump
+- **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** forderte die ukrainische Regierung zu schnellen Zugeständnissen in den Friedensgesprächen auf.  
+  - Er betonte, dass die Verhandlungen bereits einer Lösung nahe seien, die Ukraine jedoch „sich schnell bewegen“ müsse.  
+  - Sollte die Ukraine zu viel Zeit benötigen, könne Moskau seine Haltung ändern.  
+- Putin lobte Trump mehrfach für seine Bemühungen um ein Kriegsende und das „zunehmende Verständnis“ der US‑Verhandlungsführer für die russische Sicht.  
+
+### Verhandlungsstand und Ausblick
+- Weitere Gespräche zwischen Vertretern der **USA**, **Russlands** und der **Ukraine** sind für das kommende Wochenende in **Miami** geplant.  
+- Präsident **[Wolodymyr Selenskyj](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy)** kündigte an, dass sein Team am Freitag und Samstag in den USA sein wird, um die Verhandlungen zu unterstützen.  
+
+> Relevance score: [6] - EU’s €90 billion package for Ukraine is a major geopolitical development that shapes European security and EU‑Swiss relations, though the link to Switzerland is indirect.
+
+## ESA beauftragt ClearSpace: Schweiz räumt Weltraumschrott bis 2029 auf
+
+[20 Minuten](https://www.20min.ch/story/clearspace-1-mission-die-esa-verpflichtet-schweizer-firma-das-all-aufzuraeumen-103468098) • _Freitag, 19. Dezember 2025, 03:07 Uhr_
+
+Die ClearSpace-1-Mission soll 2029 den ESA-Satelliten Proba-1 vom Weltraum-Müll befreien und neue Standards setzen.
 
 ### Hintergrund  
-- Die Ukraine nutzt seit Monaten auffällige Militäraktionen, um zu zeigen, dass sie trotz laufender Friedensverhandlungen nicht entscheidend geschwächt ist.  
-  - Beispiele: Rückeroberung von [​Kupjansk​](https://de.wikipedia.org/wiki/Kupjansk) (2025), Abschuss von vier Öltankern der russischen Schattenflotte und Beschädigung einer russischen Bohrplattform im Kaspischen Meer.  
-- Der Schwarzmeerhafen [​Noworossisk​](https://de.wikipedia.org/wiki/Noworossisk) ist der wichtigste Stützpunkt der russischen [​Schwarzmeerflotte​](https://de.wikipedia.org/wiki/Schwarzmeerflotte) seit dem Rückzug vieler Kriegsschiffe aus Sewastopol.
-
-### Angriff mit Unterwasserdrohne  
-- Kiew meldete den ersten Einsatz einer Unterwasserdrohne vom Typ **Sub Sea Baby** gegen ein russisches U‑Boot im Hafen Noworossisk.  
-  - Das vom ukrainischen Geheimdienst **SBU** veröffentlichte Video zeigt eine heftige Explosion am Kai in unmittelbarer Nähe des hinteren Teils eines vertäuten U‑Boots.  
-- Private Satellitenbilder von **Vantor** (ehemals Maxar) bestätigen erhebliche Beschädigungen des Kaies im Vergleich zur Vorwoche.  
-- **Russische Seite:**  
-  - Die Schwarzmeerflotte behauptet, kein Kriegsschiff sei beschädigt worden und veröffentlichte ein Video des betroffenen U‑Boots (Klasse *Warschawjanka*), das jedoch nicht das gesamte Boot zeigt.  
-  - Zwei andere in Noworossisk stationierte U‑Boote wurden nach dem Vorfall abgezogen, das angeblich angegriffene Boot blieb jedoch vor Ort.  
-
-### Bewertung des Schadens  
-- Experten von *Naval News* gehen davon aus, dass die Explosion nahe am **Steuerruder**, **Propeller** und **Antriebswelle** des U‑Boots erfolgte und wahrscheinlich genug Schaden verursachte, um das Boot langfristig außer Gefecht zu setzen.  
-- Sollte das Boot tatsächlich beschädigt sein, würde das die Fähigkeit Russlands reduzieren, von diesen Plattformen aus Marschflugkörper auf ukrainische Ziele zu starten.  
-
-### Bedeutung und Folgen  
-- **Technologische Innovation:** Der Einsatz von Sub‑Sea‑Baby‑Unterwasserdrohnen beweist, dass die Ukraine ihr *Marinedrohnen‑Programm* erfolgreich weiterentwickelt hat.  
-  - Unterwasserdrohnen sind schwerer zu erkennen und abzuwehren als herkömmliche Oberflächendrohnen und könnten zukünftig das Bedrohungsprofil für andere Marine‑Staaten (z. B. die **USA**) verändern.  
-- **Sicherheitslücke im Hafen:** Die oberflächliche Blockade des Hafenzugangs hielt nur Oberflächendrohnen ab; die Unterwasserdrohne gelang es, die Blockade zu durchdringen und das Ziel präzise zu steuern.  
-- **Propaganda‑Effekt:** Die Ukraine veröffentlichte Videoaufnahmen, die offenbar von einer Überwachungskamera des Hafenhauptquartiers stammten.  
-  - Dies deutet auf ein mögliches Hacken der russischen Überwachungsanlage hin und liefert der Ukraine detaillierte Informationen über die Vorgänge im Hafen.  
-
-### Gesamtbewertung  
-- Der Vorfall stellt eine **demütigende Niederlage** für das russische Militär dar und zeigt zugleich die wachsende Fähigkeit der Ukraine, innovative, schwer abzuwehrende Waffensysteme einzusetzen.  
-- Unabhängig vom tatsächlichen Ausmaß des Schadens am U‑Boot hat die Aktion strategische Bedeutung: Sie verdeutlicht die Verwundbarkeit wichtiger russischer Marinestützpunkte und könnte zukünftige maritime Sicherheitskonzepte beeinflussen.
-
-> Relevance score: [8] - First use of an underwater drone in the Russia‑Ukraine war marks a notable escalation and could influence future military tactics, affecting global security dynamics.
-
-## Russland offen für Gespräche über ausländische Truppen in Ukraine
-
-[Blick](https://www.blick.ch/ausland/putin-zeigt-verhandlungswillen-russland-signalisiert-ploetzlich-in-einem-punkt-gespraechsbereitschaft-id21526299.html) • _Mittwoch, 17. Dezember 2025, 12:39 Uhr_
-
-Russland zeigt sich erstmals offen für Verhandlungen über die Stationierung ausländischer Truppen in der Ukraine. Moskau hatte dies bisher strikt abgelehnt, doch Gespräche in Berlin bringen das Thema jetzt erneut auf den Tisch.
-
-### Hintergrund  
-- Der **Kreml** hat bislang jede Stationierung ausländischer Truppen in der **Ukraine** abgelehnt und sieht den Konflikt als Gegenmaßnahme gegen einen möglichen **NATO‑Beitritt** der Ukraine.  
-- **Wladimir Putin** begründete den Krieg damit, eine Anwesenheit von NATO‑Soldaten an der Grenze Russlands zu verhindern.  
-
-### Neue Verhandlungsbereitschaft  
-- **Dmitri Peskow** (Kremlsprecher) erklärte, dass Russland nun „Verhandlungsbereitschaft“ bezüglich einer solchen Truppenstationierung zeige, betonte jedoch, dass das Thema noch „Verhandlungssache“ sei.  
-- Diese Position kam in den jüngsten Gesprächen in **Berlin** zwischen Vertretern der **USA**, Europas und der Ukraine wieder auf.  
-
-### Vorgeschlagene multinationale Truppe  
-- Ziel wäre die Aufstellung einer multinationalen Friedens‑ bzw. Beobachtungstruppe nach Abschluss eines **Waffenstillstands** in der Ukraine.  
-- Die Truppe soll die Einhaltung des Waffenstillstands überwachen und **Sicherheitsgarantien** für Kiew bieten, um einem erneuten russischen Angriff vorzubeugen.  
-
-### Früherer russischer Widerstand  
-- Der russische Außenminister **Sergej Lawrow** drohte, dass solche „Friedens‑Truppen“ sofort zu „legalen Zielen“ für russische Angriffe werden könnten.  
-- Damit bleibt die russische Position gegenüber internationalen Friedensmissionen in der Ukraine weiterhin kritisch, obwohl jetzt Gespräche über mögliche Kompromisse stattfinden.  
-
-> Relevance score: [8] - Russia signalling willingness to discuss foreign troop presence is a potentially pivotal diplomatic development for ending the Ukraine war, carrying high global significance.
-
-## Sparpaket 2027: Ständerat kippt höhere Rentengeldbesteuerung
-
-[Blick](https://www.blick.ch/politik/sparpaket-wird-kleiner-staenderat-kippt-hoehere-rentengeldbesteuerung-id21527508.html) • _Mittwoch, 17. Dezember 2025, 18:11 Uhr_
-
-Der Ständerat hat erste Entscheide zum Entlastungspaket 27 gefällt und dabei milliardenschwere Sparmassnahmen beschlossen, zugleich aber mehrere Kürzungen des Bundesrats abgeschwächt oder abgelehnt. Blick zeigt die Beschlüsse der kleinen Kammer.
-
-### 1. Zentrale Einsparungen im **Entlastungspaket 27**  
-- **Migration** – Reduktion der Unterstützungsdauer für Asylbewerbende und Schutzsuchende von 7 auf 5 Jahre → **€1,07 Mrd.** Einsparung (2027‑2029).  
-- **Straßenbau** – Kürzung der Subventionen aus der Mineralölsteuer → **€88,8 Mio.** Einsparung.  
-- **Hochschulen** – Streichung projektbezogener Bundesbeiträge → **€87,1 Mio.** Einsparung.  
-- **Pilot‑ und Demonstrationsanlagen (Energie)** – Wegfall der Fördermittel → **€66,4 Mio.** Einsparung.  
-- **Berufsbildung** – Deckungsquote von maximal 50 % (Ausnahme 80 %) → **€30 Mio.** Einsparung.  
-
-### 2. Weitere Kürzungen mit geringeren Beträgen  
-- **Zivildienst‑Entschädigung** → **€10,2 Mio.**  
-- **Digitalisierung** – Wegfall von Anlauffinanzierungen → **€6 Mio.**  
-- **Automatisiertes Fahren** – Wegfall der Bundesförderungen → **€6 Mio.**  
-- **Französisch‑sprachige Schulen (Bern)** → **€4,2 Mio.**  
-- **Medien‑Weiterbildung** → **€3 Mio.**  
-- **Strafvollzug** – Beitragssenkung auf 50 % → **€2,4 Mio.**  
-
-### 3. Abgelehnte oder abgeschwächte Maßnahmen des Bundesrates  
-| Bereich | Vorgeschlagene Kürzung des Bundesrates | Ergebnis Ständerat | Gesparte Mittel (2027‑2029) |
-|---|---|---|---|
-| **Gebäudeprogramm (Heizungsmodernisierung)** | Vollständige Streichung | Abgelehnt (31‑13) – Alternativvorschlag | **€613,2 Mio.** (nur **€65,2 Mio.** statt **€613,2 Mio.**) |
-| **Bahn‑Infrastrukturfonds** | Kürzung um 200 Mio./Jahr | Teilweise abgelehnt (29‑15) | **€200 Mio.** (statt **€400 Mio.**) |
-| **Landwirtschaft – Importkontingente** | Erhöhte Versteigerung → Mehreinnahmen | Abgelehnt (29‑13) | **€381 Mio.** nicht realisiert |
-| **Kapitalsteuern (2. / 3. Säule)** | Höhere Besteuerung → Mehreinnahmen | Abgelehnt (34‑10) | **€380 Mio.** entfallen |
-| **Finanzausgleich (soziodemografischer Lastenausgleich)** | Kürzungen geplant | Abgelehnt (39‑5) → Null‑Einsparung | **€201 Mio.** nicht gespart |
-| **Studiengebühren** – Obergrenzen beibehalten | Reduktion des Bundesanteils | Zugestimmt (32‑12) → **€180 Mio.** Einsparung (weniger als vorgeschlagen) |
-| **Entsorgung tierischer Nebenprodukte (Landwirtschaft)** | Vollständige Streichung | Abgelehnt (26‑16) → Keine Einsparung | **€145,7 Mio.** nicht realisiert |
-| **Alternative Antriebssysteme (Bus/Schiff)** | Kürzung der Förderungen | Zugestimmt (34‑9) → **€138,9 Mio.** Einsparung (geringer als geplant) |
-| **Landschaftsqualitätsbeiträge** | Halbierung | Abgelehnt (38‑5) → Keine Einsparung | **€130 Mio.** nicht realisiert |
-| **Regionalflughäfen (Sicherungsdienste)** | Vollständige Streichung | Abgelehnt (23‑16) → Keine Einsparung | **€75 Mio.** nicht realisiert |
-| **Fonds für Regionalentwicklung** | Vollständiger Verzicht | Nur Teilkürzung (22‑21 + Stichentscheid) → **€13,2 Mio.** Einsparung (statt **€65,8 Mio.**) |
-| **Presseförderung (Tageszustellung)** | Streichung | Abgelehnt (33‑4) → Keine Einsparung | **€60 Mio.** nicht realisiert |
-| **SRG‑Auslandsangebot** | Streichung | Abgelehnt (22‑19) → Keine Einsparung | **€57 Mio.** nicht realisiert |
-| **Innosuisse (Innovationsförderung)** | Kürzung um 10 % → 5 % | Zugestimmt (24‑19) → **€49,2 Mio.** Einsparung (statt **€98,4 Mio.**) |
-| **Weiterbildung für gering Qualifizierte** | Vollständige Streichung | Halbierung (27‑15) → **€28,6 Mio.** Einsparung (statt **€57,2 Mio.**) |
-| **Fonds Landschaft Schweiz** | Vollständiger Verzicht | Abgelehnt (28‑16) → Keine Einsparung | **€15 Mio.** nicht realisiert |
-| **Beihilfen Viehwirtschaft** | Vollständiger Verzicht | Abgelehnt (31‑12) → Keine Einsparung | **€14,7 Mio.** nicht realisiert |
-| **Gewässerschutz‑Pilotanlagen** | Vollständige Streichung | Kürzung, nicht Streichung (32‑10) → **€12 Mio.** Einsparung (statt **€20,2 Mio.**) |
-| **Umwelt‑ und Landwirtschafts‑Weiterbildung** | Streichung | Kürzung um ≈ 50 % (33‑11) → **€9 Mio.** Einsparung (statt **€16,7 Mio.**) |
-| **Obstverwertung‑Beihilfen** | Vollständiger Verzicht | Abgelehnt (31‑11) → Keine Einsparung | **€7,2 Mio.** nicht realisiert |
-| **Grenzüberschreitender Personenfernverkehr (Bahn)** | Streichung | Zugestimmt (28‑12) → **€88,8 Mio.** Einsparung (etwa 30 Mio. mehr als vorgeschlagen) |
-
-### 4. Gesamtausblick  
-- Das **Ständerat** hat trotz einiger milliardenschwerer Kürzungen das Sparpaket deutlich milder gestaltet als vom **Bundesrat** vorgelegt.  
-- Die größten Einsparungen resultieren aus **Migrations‑** und **Bau‑/Infrastruktur‑**maßnahmen sowie dem **Gebäudeprogramm**.  
-- Viele geplante Kürzungen in Bereichen wie **Landwirtschaft**, **Finanzausgleich**, **Kapitalbesteuerung** und **Presseförderung** wurden abgelehnt, wodurch die geplanten Mehreinnahmen entfallen.  
-- Insgesamt wird das **Entlastungspaket 27** voraussichtlich weniger stark belastend für den Bundeshaushalt sein, aber dennoch mehrere Milliarden Franken an jährlichen Ausgaben reduzieren.  
-
-*Hinweis: Alle Beträge beziehen sich auf den Zeitraum 2027‑2029.*
-
-> Relevance score: [7] - Swiss Senate’s decisions on a multi‑billion relief package affect national finances, migration policy and taxation – a substantial structural change for Switzerland.
-
-## SBB beauftragt Hitachi Rail mit Milliardenprojekt zur Digitalisierung
-
-[20 Minuten](https://www.20min.ch/story/hitachi-rail-sbb-milliardenauftrag-geht-erneut-ins-ausland-103471599) • _Mittwoch, 17. Dezember 2025, 11:44 Uhr_
-
-Mit einem 1,5 Milliarden Euro schweren Auftrag modernisiert die SBB ihre Stellwerke durch Hitachi Rail.
-
-### Hintergrund
-- Die **[Schweizerischen Bundesbahnen (SBB)](https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen)** starten ein Digitalisierungs‑ und Modernisierungsprogramm für ihr Stellwerk‑Netz.
-- Ziel: In den nächsten 20 Jahren etwa 80 % der veralteten Stellwerke zu erneuern; Gesamtvolumen des Projekts rund **1,4 Milliarden CHF**.
-
-### Auftragsstruktur
-- Die Ausschreibung ist in zwei Lose unterteilt:  
-  1. **Los 1** – Gesamtsysteme (Hardware + Software) für neue Stellwerke.  
-  2. **Los 2** – Elektronische Komponenten für Weichen‑ und Signalsteuerung sowie Gleisabschnitts‑Überwachung.  
-- Die Vergabe erfolgt schrittweise bis etwa 2045, wenn die meisten alten Stellwerke ersetzt sind.
-
-### Beteiligte Unternehmen
-- **[Hitachi Rail](https://de.wikipedia.org/wiki/Hitachi_Rail)** (Japan) – aktiv in beiden Losen; betreibt ein Engineering‑Zentrum in **[Zürich](https://de.wikipedia.org/wiki/Z%C3%BCrich)**.  
-- **[Siemens](https://de.wikipedia.org/wiki/Siemens)** (Deutschland) – konkurriert mit Hitachi um Los 1 und kann ebenfalls für Los 2 bieten.  
-- **[Stadler Rail](https://de.wikipedia.org/wiki/Stadler_Rail)** (Schweiz) – ursprünglich für Los 2 vorgesehen; nach Korrigendum ebenfalls von Siemens und Hitachi ansprechbar.  
-
-*Alle drei Hersteller sollen einen Großteil der Arbeiten in der Schweiz durchführen.*
-
-### Aktueller Status & Kritik
-- **Keine endgültige Vergabe:** SBB‑Sprecher **Reto Schärli** betont, dass bislang noch kein Auftrag erteilt wurde und die Aufteilung der Mittel unklar bleibt.  
-- **Medienberichte korrigiert:** Frühere Meldungen, wonach Hitachi den Großteil erhalten würde, wurden von der SBB korrigiert.  
-- **Stadler‑Chef Peter Spuhler** kritisiert die Vergabe neuer S‑Bahn‑Züge an Siemens statt an die einheimische Firma und erwägt rechtliche Schritte gegen die rund **2 Milliarden CHF** schwere Auftragsvergabe.  
-
-### Ausblick
-- Die einzelnen Teilaufträge für die Stellwerksmodernisierung werden fortlaufend ausgeschrieben.  
-- Die endgültige Aufteilung zwischen Hitachi, Siemens und Stadler bleibt bis zur finalen Vergabe offen.
-
-> Relevance score: [7] - A €1.5 billion digitalisation contract for the Swiss rail network is a major infrastructure investment with long‑term economic and mobility implications for Switzerland.
-
-## Trump plant Militäreinsatz
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/pro/venezuela-konflikt-trump-plant-militaereinsatz-ld.1916971) • _Mittwoch, 17. Dezember 2025, 16:09 Uhr_
-
-Die USA können Venezuela vom Meer her abriegeln und die Lufthoheit übernehmen. Auch eine punktuelle Invasion ist nicht auszuschliessen. Ein weiterer Flugzeugträger steht als Reserve bereit.
-
-### Aktuelle Drohungen und Maßnahmen  
-- **Präsident [Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump)** veröffentlicht auf *Truth Social* die klare Warnung, dass *Venezuela* von der „größten Armada“ der Geschichte Südamerikas umzingelt sei.  
-- Er bezeichnet das Regime von **[Nicolás Maduro](https://de.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)** als „ausländische Terrororganisation“ und fordert die Rückgabe von *Öl*, das seiner Ansicht nach den USA gestohlen wurde.  
-- Als Sofortmaßnahme ordnet Trump eine **Blockade aller Tanker** an, die von bzw. nach *Venezuela* verkehren.  
-
-### Militärische Kräfte im Einsatz  
-- **Süd‑Kommando** der US‑Streitkräfte hat im Spätsommer amphibische Flottenverbände wie **[Iwo Jima‑Klasse](https://de.wikipedia.org/wiki/Iwo_Jima_(Amphibien-Transportboot))** vor die venezolanische Küste verlegt.  
-- Im November kam die **[Carrier‑Strike‑Group „Gerald Ford“](https://de.wikipedia.org/wiki/USS_Gerald_Ford_(CVN-78))** hinzu, um die Militärpräsenz von Nahost/Europa in die westliche Hemisphäre zu verlagern.  
-- Ein zweiter Flugzeugträger, **[USS George H. W. Bush](https://de.wikipedia.org/wiki/USS_George_H._W._Bush_(CVN-77))**, steht als Reserve bereit.  
-- **[Puerto Rico](https://de.wikipedia.org/wiki/Puerto_Rico)** dient als logistisches Drehkreuz für Verstärkungen, u. a. Marineinfanterie aus **[Fort Lejeune](https://de.wikipedia.org/wiki/Fort_Lejeune)** oder Teile einer Luftlandedivision.  
-
-### Mögliche Operationsoptionen  
-- **Seeblockade**  
-  - Kriegsschiffe und Hubschrauber können den Außenhandel Venezuelas stark einschränken.  
-  - Bereits ein von der Küstenwache und dem **[FBI](https://de.wikipedia.org/wiki/Federal_Bureau_of_Investigation)** georteter Tanker mit sanktioniertem Öl wurde festgehalten.  
-- **Lufthoheit**  
-  - Kampfjets und Zerstörer der *Gerald Ford* könnten in wenigen Stunden die venezolanische Luftverteidigung, Führungs‑ und Kommunikationsnetzwerke neutralisieren.  
-- **Landoperationen**  
-  - Die amphibischen Fähigkeiten der *Iwo Jima* reichen aus, um einen Hafen oder kritische Infrastruktur zu besetzen.  
-  - Durch Verstärkung aus Puerto Rico könnten Marineinfanteristen sogar **Caracas** umzingeln.  
-  - Offizielle Quellen geben bislang keine konkreten Pläne für eine Bodeninvasion im Rahmen von **Operation “Southern Spear”** (vgl. **[Southern Spear](https://de.wikipedia.org/wiki/Southern_Spear)**) an.  
-
-### Politischer Kontext und Kontroversen  
-- Die Drohung knüpft an frühere Spannungen, u. a. **[Hugo Chávez](https://de.wikipedia.org/wiki/Hugo_Ch%C3%A1vez)**' Enteignung amerikanischer Konzerne *Exxon* und *Chevron* (2008) und langjährige Rechtsstreitigkeiten.  
-- Das US‑Verteidigungsministerium, vertreten durch **[Pete Hegseth](https://de.wikipedia.org/wiki/Pete_Hegseth)**, kündigte am 14. Nov. den Beginn von **“Southern Spear”** an – offiziell zur Bekämpfung von Drogenkartellen, dabei aber keine Angriffe auf *Venezuela* versprochen.  
-- Innenpolitisch ist das Vorgehen stark umstritten: Kritiker, darunter Teile der **„Maga‑Bewegung“**, lehnen Interventionismus ab, während andere die Maßnahme als Umsetzung der kürzlich veröffentlichten **[National‑Security‑Strategie](https://de.wikipedia.org/wiki/Nationale_Sicherheitsstrategie_der_Vereinigten_Staaten)** sehen, die eine dominante US‑Präsenz in der westlichen Hemisphäre fordert.  
-
-### Strategische Hintergründe  
-- Die USA verschieben den Schwerpunkt ihrer militärischen Abschreckung von der *Mittelmeer‑/Nahost‑Region* in die **westliche Hemisphäre**.  
-- In **Panama** trainieren die Marines gemeinsam mit der lokalen Armee Dschungelkampf‑taktiken, um auf mögliche Einsätze in *Venezuela* vorbereitet zu sein.  
-- Das militärische Aufgebot wird als Druckmittel gesehen, um das Regime Maduros zur Aufgabe zu zwingen oder zumindest seine Öleinnahmen zu ersticken.  
-
-> Relevance score: [6] - A potential US military move against Venezuela would alter regional geopolitics and oil markets, bearing global relevance though the immediate likelihood is uncertain.
-
-## Öl-Tanker vor Venezuela blockiert
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/us-blockade-was-die-usa-wirklich-von-venezuela-wollen) • _Mittwoch, 17. Dezember 2025, 16:00 Uhr_
-
-Die USA erhöhen den Druck auf Venezuela. Das Land habe den USA Öl und Geld gestohlen. Um was geht es beim Konflikt?
-
-### US‑Blockade und Drohungen
-- Präsident **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** ordnet eine „totale und vollständige Blockade aller sanktionierten **[Öltanker](https://en.wikipedia.org/wiki/Oil_tanker)**“ an, die **[Venezuela](https://en.wikipedia.org/wiki/Venezuela)** anlaufen oder verlassen.  
-- Er droht zudem mit einem militärischen Schlag; die US‑Flotte umkreist das Land.  
-- **[Teresa Delgado](https://www.srf.ch/tag/teresa-delgado)** (SRF‑Südamerika‑Korrespondentin) bezeichnet dies als deutliche Eskalation.  
-
-### Öl als Druckmittel
-- Mehr als **90 %** der venezolanischen Exporte bestehen aus Öl – das ist der zentrale Hebel für die USA.  
-- Ein Blockieren oder Beschlagnahmen von Tankern würde dem Staat sofort Einnahmen entziehen.  
-
-### Reaktion Venezuelas und Auswirkungen auf die Bevölkerung
-- Der staatliche Ölkonzern **[PDVSA](https://en.wikipedia.org/wiki/Petr%C3%B3leos_de_Venezuela,_S.A.)** erklärt, dass seine Tanker weiterhin „legitim im Recht auf freie Schifffahrt und freien Handel“ fahren.  
-- **Soziale Folgen:**  
-  - Über **80 %** der Haushalte leben in Armut, mehr als die Hälfte in extremer Armut.  
-  - Wegfallende Öleinnahmen bedrohen Lebensmittelprogramme, Gesundheitsversorgung sowie Strom‑ und Wassersubventionen.  
-
-### Historischer Kontext & Vorwürfe
-- **2007** wurden unter Präsident **[Hugo Chávez](https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez)** US‑Erdölprojekte verstaatlicht; US‑Konzernen wurden die Anlagen enteignet.  
-- Trump spricht von „Diebstahl“, doch Delgado sieht rechtlich eher einen ungelösten Investitionskonflikt.  
-- Präsident **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)** bezeichnet die jüngste Beschlagnahmung eines venezolanischen Öltankers durch die USA als „Piraterie“.  
-
-### Hintergründe der US‑Strategie
-- Journalist **Tobias Lambert** meint, Drohnen‑ und Öldiebstahl‑Argumente seien vorgeschobene Vorwände.  
-- Der aktuelle **Außenminister [Marco Rubio](https://en.wikipedia.org/wiki/Marco_Rubio)** (aus einer exilkubanischen Familie) treibe die Strategie, Maduro zu stürzen und gleichzeitig in Kuba Regierungswechsel zu forcieren.  
-- Frühere US‑Versuche, Maduro durch äußeren Druck zu entfernen, scheiterten; die aktuelle Linie ist deutlich härter.  
-
-### Venezuelas Verwundbarkeit
-- Sinkende Ölexporte reduzieren Maduros Handlungsspielraum.  
-- Maduro versucht, den Druck als antiimperialistischen Kampf zu rahmen, um seine Basis zu erhalten.  
-- Gleichzeitig gerät die Position des Präsidenten ins Wanken, wenn selbst Soldatenlöhne unsicher werden.  
-
-### Geopolitische Dimensionen
-- **[China](https://en.wikipedia.org/wiki/China)** ist größter Abnehmer venezolanischen Öls; **[Russland](https://en.wikipedia.org/wiki/Russia)** liefert Technologie, Kredite und militärische Unterstützung.  
-- Seit November sind russische Soldaten als militärische Berater in Venezuela präsent – ein sicherheitspolitisch heikles Element.  
-- Ein möglicher US‑Bodenangriff könnte zu einer direkten Konfrontation zwischen US‑ und russischen Streitkräften führen.  
-- Der Konflikt ist damit nicht nur bilateral, sondern Teil des größeren geopolitischen Wettbewerbs zwischen **Washington**, **Moskau** und **Peking**.  
-
-> Relevance score: [6] - US‑ordered blockade of oil tankers raises tensions with Venezuela and can affect global oil supply and sanctions regimes.
-
-## Schweizer Armee wählt SIG Sauer P320: Schützen äussern Bedenken zur Sicherheit
-
-[20 Minuten](https://www.20min.ch/story/sig-sauer-p320-kritik-reisst-nicht-ab-schuetzen-vertrauen-dieser-waffe-nicht-103470385) • _Mittwoch, 17. Dezember 2025, 07:11 Uhr_
-
-Die Entscheidung für die SIG Sauer P320 als neue Dienstpistole trifft auf Widerstand. Schützen fordern Anpassungen für mehr Sicherheit.
-
-### Entscheidung zur Beschaffung
-- Das Bundesamt für Rüstung **armasuisse** hat beschlossen, die neue Armeepistole aus der Schweiz zu beziehen.  
-- Vorgeschlagen wird die **[SIG Sauer P320](https://de.wikipedia.org/wiki/SIG_Sauer_P320)**, die künftig komplett in der Schweiz gefertigt werden soll.  
-
-### Bedenken aus der Schützen‑Community
-- **Oberleutnant Pascal Brodbeck**, Chef Ausbildung bei der **Offiziersgesellschaft beider Basel**, äußert kritische Zweifel:
-  - Viele Schützen haben nach Vorfällen in den USA das Vertrauen in die P320 verloren.  
-  - Obwohl keine technischen Sicherheitsmängel nachgewiesen wurden, fühle sich die Schützen‑Community unsicher, solange die „Geschichte“ der Waffe nicht berücksichtigt wird.  
-  - Brodbeck fordert eine mechanische Abzugssicherung als Nachweis für die Sicherheit der Militärversion.  
-
-### Sicherheit und Testergebnisse von armasuisse
-- **armasuisse** hat standardisierte Tests durchgeführt:  
-  - Keine ungewollte Schussabgabe konnte reproduziert werden.  
-  - Es wurden keine sicherheitsrelevanten Mängel festgestellt.  
-- Geplante Nachbesserungen beschränken sich laut armasuisse auf **Ergonomie** und **Robustheit**; sicherheitskritische Änderungen sind nicht vorgesehen.  
-
-### Wirtschaftliche und rüstungspolitische Gründe
-- **Produktionsort**: Fast vollständige Fertigung in der Schweiz erhöht die Versorgungssicherheit.  
-- **Kosten**: Über eine Nutzungsdauer von 30 Jahren entstehen die geringsten Gesamtkosten; das Angebot ist etwa 20 % günstiger als die nächstbeste Alternative.  
-
-### Reaktionen in den sozialen Medien
-- Nach Bekanntgabe der Typenwahl kursieren spöttische Kommentare („Schweizer Handgranate“, „Selbstschiessanlage“).  
-- Diskussionen drehen sich um mögliche rechtliche Folgen in den USA und die Gefahr, dass Anpassungen in der Schweiz als Eingeständnis von Sicherheitsmängeln gewertet werden.  
-
-### Ausblick und Forderungen
-- **SIG Sauer** hält derzeit zu den Vorwürfen keine öffentliche Stellungnahme.  
-- Brodbeck betont, dass Transparenz und kritische Begleitung des Beschaffungsprozesses nötig sind, damit die Sicherheit der Soldaten nicht hinter wirtschaftlichen Interessen zurücktritt.  
-- Soll die P320 nach erfolgreichem Test und lokaler Produktion die Basis für weitere Aufträge (z. B. Sturmgewehr, Drohnen) von **SIG Sauer** an die **[Schweizer Armee](https://de.wikipedia.org/wiki/Schweizer_Armee)** bilden, muss das Vertrauen der Schützen zurückgewonnen werden.  
-
-> Relevance score: [6] - National defence procurement decision with safety concerns touches on soldier safety and domestic weapons industry – moderately significant for Switzerland.
-
-## Bildungsabschlüsse in der Schweiz zeigen Stadt-Land-Graben
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/bildungsstand-regional-hier-wohnen-die-gutgebildeten-der-schweiz) • _Mittwoch, 17. Dezember 2025, 07:05 Uhr_
-
-Besonders viele hohe Bildungsabschlüsse finden sich in urbanen Gebieten wie in Zürich oder rund um den Genfersee.
-
-### Hauptergebnisse
-- Das Bundesamt für Statistik ([BFS](https://de.wikipedia.org/wiki/Bundesamt_für_Statistik)) hat Karten zum Bildungsniveau pro Hektar erstellt, die zeigen, dass **kleinräumige Unterschiede** teilweise größer sind als kantonale oder kommunale Unterschiede.  
-- **Städtische Zentren** besitzen überdurchschnittlich viele Hochschulabsolventen:  
-  - Schweiz‑weit: rund **ein Drittel** besitzt einen höheren Bildungsabschluss.  
-  - **[Zürich](https://de.wikipedia.org/wiki/Zürich)**: 64 %; im Quartier **Fluntern** sogar 85 % mit einem **Tertiärabschluss**.  
-  - Ähnliche Konzentrationen gibt es in **[Bern](https://de.wikipedia.org/wiki/Bern_(Stadt))**, **[Basel‑Stadt](https://de.wikipedia.org/wiki/Basel-Stadt)** und rund um den **[Genfersee](https://de.wikipedia.org/wiki/Genfersee)**.  
-- Ursache: In Städten gibt es viele **Dienstleistungsunternehmen, Verwaltungen und Universitäten**, die höherqualifizierte Arbeitskräfte anziehen.
-
-### Ausnahmen vom Stadt‑Land‑Graben
-- **[Crans‑Montana](https://de.wikipedia.org/wiki/Crans-Montana)** (Kanton Wallis, VS) weist mit 41 % fast dieselbe Quote an Hochschulabsolventen auf wie die Stadt **[St. Gallen](https://de.wikipedia.org/wiki/St._Gallen_(Stadt))** (42 %).  
-- Erklärung von Jacques Babel (BFS): Attraktive Gemeinden locken Gutgebildete, **unabhängig davon, ob sie städtisch oder ländlich liegen**.  
-- Auch in anderen Ländern gibt es ländliche Regionen, die durch **Homeoffice** und Lebensqualität für Fachkräfte interessant werden.
-
-### Einflussfaktor „Stadtteil“
-- Innerhalb einer Stadt können die Bildungsquoten stark schwanken:  
-  - **[Lausanne](https://de.wikipedia.org/wiki/Lausanne)** hat 52 % mit höherem Abschluss, während die angrenzende Agglomerationsgemeinde **Renens** nur 30 % aufweist.  
-  - Faktoren: **Lärm**, **Alter der Gebäude**, **Wohnungspreise** und damit verknüpfte Sozialstrukturen bestimmen die Wohnpräferenzen von Hochqualifizierten.
-
-### Zeitliche Entwicklung (1990‑2023)
-- Die BFS‑Geodaten erlauben die Analyse von Bildungsentwicklungen über mehr als drei Jahrzehnte:  
-  - In **[La Chaux‑de‑Fonds](https://de.wikipedia.org/wiki/La_Chaux-de-Fonds)** ist das Niveau nahe großer Straßen nach wie vor niedrig; manche Viertel haben seit 30 Jahren kaum Fortschritt gemacht.  
-  - Im Gegensatz dazu sind die Bildungsquoten in **Zürich** und **Lausanne** im gleichen Zeitraum um **ca. 30 %** gestiegen.  
-  - Die ehemals berühmte Uhrenmetropole **La Chaux‑de‑Fonds** gehört heute zu den ärmeren Schweizer Städten, was sich in den Bildungsdaten widerspiegelt.  
-
-### Schlussfolgerungen
-- Der **Bildungs‑Graben zwischen Stadt und Land** ist klar erkennbar, wird jedoch durch attraktive ländliche Gemeinden, lokale Sozialstrukturen und Infrastruktur (z. B. Hauptverkehrsachsen) modifiziert.  
-- Kleine räumliche Analysen (Hektar‑Genauigkeit) enthüllen Muster, die auf kantonaler Ebene verborgen bleiben und wichtige Hinweise für **Raumplanung** und **Wohnungs‑ sowie Bildungspolitik** liefern.
-
-> Relevance score: [6] - Statistical reveal of urban‑rural education gaps provides evidence for policy making; directly relevant to Swiss social equality debates.
+- Die Schweiz will mit eigenen Satelliten unabhängiger werden, doch **Weltraumschrott** gefährdet diese Pläne.  
+- Der **Weltraum** ist heute Teil kritischer Infrastruktur (Telekommunikation, Navigation, Wetter) – ein Ausfall hätte gravierende Folgen, wie die Schweizer Armee warnt.  
+
+### Schweizer Raumfahrtstrategie  
+- Ab 1. Januar 2026 gründet die Armee ein **Kompetenzzentrum Weltraum**, um militärische Fähigkeiten im All aufzubauen.  
+- Langfristiges Ziel: Eigenständiger Betrieb von **Satelliten** für sicherheitsrelevante Dienste.  
+
+### Problem Weltraumschrott  
+- Im Erdorbit befinden sich (Stand Dez. 2025) etwa 32 350 menschengemachte Objekte + Millionen kleiner Trümmer.  
+- Laut ESA‑Weltraumschrottbüro (Holger Krag) würden ohne Gegenmaßnahmen in 200 Jahren bis zu fünf große Kollisionen pro Jahr erwartet.  
+- Die Armee betont die Notwendigkeit eines genauen Lagebildes, internationaler Zusammenarbeit und innovativer Technologien.  
+
+### ClearSpace‑1 Mission  
+- **ClearSpace** (Spin‑off der EPFL, Renens, Kanton Waadt) erhielt 2019 den Auftrag der **ESA**, 2029 die erste reale Aufräummission durchzuführen.  
+- Ursprünglicher Zielobjekt (ein Teil einer **Vega‑Rakete**) wurde 2023 selbst durch ein Trümmerteil beschädigt und musste ausgetauscht werden.  
+- Neuer Zielobjekt: der ESA‑Erdbeobachtungssatellit **Proba‑1** (seit 2001 aktiv).  
+  - Der Raumschlepper **ClearSpace‑1** greift mit vier Armen an, zieht Proba‑1 in eine niedrigere Umlaufbahn und lässt beide nach 3–4 Jahren in der Atmosphäre verglühen.  
+- Zusammenarbeit mit dem deutschen Raumfahrt‑ und Technologiekonzern **OHB**.  
+
+### Bedeutung und Ausblick  
+- Laut **Luisa Innocenti**, Leiterin des Clean Space Office bei der ESA, ist dies der erste komplette Test aller entwickelten Konzepte; das Ergebnis entscheidet, ob Müllentfernung praktisch umsetzbar ist.  
+- **Tim Maclay**, Chief Strategy Officer bei ClearSpace, sieht in der Mission die Basis für künftige Dienstleistungen im Orbit.  
+- Erfolgreiche Demonstration könnte den Weg für weitere internationale Aufräummissionen und die langfristige Sicherheit der wachsenden Satelliteninfrastruktur ebnen.  
+
+> Relevance score: [6] - Swiss‑led space‑debris removal mission contributes to global satellite safety and showcases Swiss technological capability, with both international and national significance.
+
+## Finanzierung der Ukraine und russisches Staatsvermögen
+
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/der-eu-gipfel-muss-in-die-verlaengerung-die-debatte-konzentriert-sich-aufs-russische-staatsvermoegen-ld.1917259) • _Donnerstag, 18. Dezember 2025, 19:34 Uhr_
+
+Die Ukraine braucht dringend frisches Geld – und die EU-Länder haben sich dazu verpflichtet, dieses bereitzustellen. Die Staats- und Regierungschefs bereiten sich auf eine Nachtschicht vor.
+
+### Kernfrage: Finanzierung der Ukraine 2026‑2027  
+- Das EU‑Gipfeltreffen in Brüssel (18 Dez 2025) fokussiert sich auf die Deckung des Finanzbedarfs der Ukraine für die Jahre 2026 und 2027.  
+- Der Internationale Währungsfonds (IWF) schätzt den Bedarf auf **135 Mrd. €**; die EU‑Staaten (außer Ungarn) wollen mindestens **zwei Drittel** (~90 Mrd. €) bereitstellen.  
+- Bisher gibt es noch keine Einigung; die Diskussionen begannen erst am Abend des Gipfels.
+
+### Vorgeschlagene Finanzierungsoptionen  
+1. **Gemeinsame Schuldenaufnahme**  
+   - Die EU‑Kommission hatte ein Modell präsentiert, bei dem die EU am Kapitalmarkt Geld aufnimmt und als Darlehen an die Ukraine weiterleitet – ein Schritt, der bereits während der Covid‑Pandemie als Ausnahme zugelassen wurde.  
+   - Diese Variante erfordert einstimmige Zustimmung aller Mitgliedstaaten und gilt als politisch wenig realistisch.  
+2. **Nutzung eingefrorener russischer Staatsvermögen bei Euroclear**  
+   - Das im Besitz von **[Euroclear](https://de.wikipedia.org/wiki/Euroclear)** befindliche, seit dem Russland‑Einmarsch eingefrorene Vermögen könnte als „Reparationskredit“ für die Ukraine verwendet werden.  
+   - Russland könnte das Geld zurückerhalten, sobald es in entsprechender Höhe Reparationszahlungen leistet; die EU sieht das nicht als **Konfiszierung**.  
+   - Risiken: komplexe rechtliche und währungspolitische Fragen sowie potenzielle Gegenklagen.  
+
+### Nationale Positionen und Verhandlungen  
+- **[Donald Tusk](https://de.wikipedia.org/wiki/Donald_Tusk)** (Polen) warnte: „Entweder heute Geld oder morgen Blut – und das gilt für die Ukraine und ganz Europa.“  
+- **[Friedrich Merz](https://de.wikipedia.org/wiki/Friedrich_Merz)** (Deutschland) bezeichnete die Nutzung des russischen Vermögens als «keine bessere Option».  
+- **[Bart De Wever](https://de.wikipedia.org/wiki/Bart_De_Wever)** (Belgien) – Gastgeber von Euroclear – fordert:  
+  - Eine offene **Liquiditätsgarantie**, damit Euroclear das Vermögen bei eventuellen gerichtlichen Entscheidungen zurückzahlen kann.  
+  - Eine Begrenzung der Haftung, da ein „unbegrenzter Blankocheck“ von nationalen Parlamenten schwer zu genehmigen ist.  
+- **[Wolodymyr Selenskyj](https://de.wikipedia.org/wiki/Volodymyr_Selenskyj)** (Ukraine) betonte, dass die rechtlichen Bedenken angesichts der anhaltenden russischen Aggression nicht überwiegen und die Ukraine ein legitimes Anrecht auf das Vermögen habe.  
+
+### Geopolitische Dimension  
+- Die Debatte ist Teil des Bestrebens Europas, als eigenständiger **geopolitischer Akteur** in den von den USA geführten Friedensverhandlungen stärker mitzuwirken.  
+- Die USA haben signalisiert, dass sie von den europäischen Partnern erwarten, die finanziellen Bedürfnisse Kiews zu decken, um im Gegenzug Sicherheitsgarantien zu erhalten.  
+- Dringlichkeit: Die Ukraine soll spätestens im **zweiten Quartal 2026** ohne weitere Mittel auskommen; eine Entscheidung muss daher am Gipfel oder sogar in einer nächtlichen Zusatzsitzung getroffen werden.  
+
+> Relevance score: [6] - EU decisions on Ukraine aid and use of frozen Russian assets have major geopolitical weight and indirect implications for Swiss foreign‑policy and financial regulations.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Deutsche Automobilindustrie übt Kritik an der EU
+## BP reduziert Öko-Projekte und holt Frau aus den USA an die Spitze
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/verbrenner-aus-deutsche-automobilindustrie-uebt-kritik-an-der-eu-ld.1916970) • _Mittwoch, 17. Dezember 2025, 16:48 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/machtwechsel-bei-oelkonzern-frau-aus-den-usa-soll-bp-retten-abkehr-von-erneuerbarer-energie) • _Freitag, 19. Dezember 2025, 06:01 Uhr_
 
-Die von der EU-Kommission am Dienstag angekündigte Lockerung der Regulierung sei ein blosses Lippenbekenntnis, sagt die VDA-Präsidentin Hildegard Müller. Der einflussreiche Verband widerspricht damit auch Bundeskanzler Friedrich Merz.
+Der Wandel zu erneuerbaren Energien ist bei BP gescheitert. Nun vollzieht der Konzern eine Wende mit einer neuen Chefin.
 
-Für kein anderes Land der EU spielt die Diskussion um das faktische Verbrenner-Aus ab dem Jahr 2035 eine wichtigere Rolle als für Deutschland. Bundeskanzler Friedrich Merz setzt sich seit längerem für eine Aufweichung dieser Regelung ein. Am Dienstag... [weiterlesen](https://www.nzz.ch/wirtschaft/verbrenner-aus-deutsche-automobilindustrie-uebt-kritik-an-der-eu-ld.1916970)
+Chefin von 100'000 Angestellten: In mehrfacher Hinsicht ist der Wechsel an der Spitze des Ölkonzerns spektakulär: Zum ersten Mal in der über 100-jährigen Firmengeschichte kommt eine Frau an die Spitze von BP. Und es ist das erste Mal, dass die Führun... [weiterlesen](https://www.srf.ch/news/wirtschaft/machtwechsel-bei-oelkonzern-frau-aus-den-usa-soll-bp-retten-abkehr-von-erneuerbarer-energie)
 
-> Relevance score: [5] - German industry lobbying against EU emission rules is relevant for European climate policy and the automotive sector, but its direct impact on Swiss society is limited.
+> Relevance score: [5] - Leadership change at a major global oil company and reduction of its green projects affect the energy transition debate worldwide, but the direct impact on Swiss society is limited. Moderate structural relevance.
 
-## Deutsche Regierung beschliesst Ende des Bürgergelds
+## Wenn Kontrolle gefährlich wird: Veterinärdienste unter Beschuss
 
-[Watson](https://www.watson.ch/international/deutschland/174722988-deutsche-regierung-beschliesst-ende-des-buergergelds) • _Mittwoch, 17. Dezember 2025, 12:50 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/zwischen-tierwohl-und-wut-wenn-kontrolle-gefaehrlich-wird-veterinaerdienste-unter-beschuss) • _Freitag, 19. Dezember 2025, 05:46 Uhr_
 
-Die deutsche Regierung hat das Ende der Bürgergeld genannten Grundsicherung für Erwerbsfähige in heutiger Form beschlossen.
+Der Fall Ramiswil zeigt: Tierschutzkontrollen sind riskant. Für Veterinärdienste gehören Anfeindungen oft zum Alltag.
 
-Die deutsche Regierung hat das Ende der Bürgergeld genannten Grundsicherung für Erwerbsfähige in heutiger Form beschlossen.
-Das Kabinett von Kanzler Friedrich Merz gab grünes Licht für einen Gesetzentwurf der sozialdemokratischen Arbeitsministerin Bä... [weiterlesen](https://www.watson.ch/international/deutschland/174722988-deutsche-regierung-beschliesst-ende-des-buergergelds)
+Unterwegs im Knonaueramt im Kanton Zürich: Sarah Wyss vom Veterinärdienst fährt zu einer Tierschutzkontrolle. Sie ist angespannt. «Ich will einen korrekten Job machen. Dafür muss ich 100 Prozent geben und 100 Prozent parat sein.» Sie weiss: Das Thema... [weiterlesen](https://www.srf.ch/news/schweiz/zwischen-tierwohl-und-wut-wenn-kontrolle-gefaehrlich-wird-veterinaerdienste-unter-beschuss)
 
-> Relevance score: [5] - Germany’s decision to end the Bürgergeld affects its social‑security system and could have knock‑on effects for the broader EU economy, but is not a structural shock.
+> Relevance score: [4] - Highlights safety risks for Swiss veterinary inspectors and raises concerns about enforcement of animal‑welfare law. Important for a specific professional group, but limited broader societal impact.
 
-## Vorhersage v. Resistenzen: Studie zur Zuverlässigkeit v. KI-Modellen
+## Medien: Vertrag über neue US-Firma für Tiktok unterzeichnet
 
-[Helmholtz-Zentrum für Infektionsforschung](https://www.helmholtz-hzi.de/media-center/newsroom/news-detailseite/vorhersage-von-antibiotikaresistenz-datenverzerrung-verringert-zuverlaessigkeit-von-ki-modellen/) • _Mittwoch, 17. Dezember 2025, 10:29 Uhr_
+[20 Minuten](https://www.20min.ch/story/tiktok-usa-vertrag-mit-neuer-firma-oracle-silver-lake-mgx-unterzeichnet-103472584) • _Freitag, 19. Dezember 2025, 02:51 Uhr_
 
-HIRI-Forschungsteam macht auf Überoptimismus gängiger Ansätze aufmerksam und schlägt erweiterte Modelle vor | Aktuelle Studie in PLOS Biology
+Die Zukunft von Tiktok in den USA hing monatelang in der Schwebe. Jetzt wurde Medienberichten zufolge die Übergabe des US-Geschäfts an neue Besitzer besiegelt.
 
-Antibiotikaresistente Infektionen stellen eine immer größer werdende Bedrohung dar. Anstatt Bakterien klassisch zu kultivieren und ihre Reaktion auf Antibiotika zu testen, analysieren Labore zunehmend das bakterielle Erbgut, um frühzeitig Resistenzen... [weiterlesen](https://www.helmholtz-hzi.de/media-center/newsroom/news-detailseite/vorhersage-von-antibiotikaresistenz-datenverzerrung-verringert-zuverlaessigkeit-von-ki-modellen/)
+Tiktok steht nach monatelanger Hängepartie kurz davor, sein Überleben in den USA zu sichern. Der Vertrag über eine neue Firma für das US-Geschäft der populären Video-App Tiktok ist Medienberichten zufolge unterzeichnet worden.
+Tiktok-Chef Shou Chew h... [weiterlesen](https://www.20min.ch/story/tiktok-usa-vertrag-mit-neuer-firma-oracle-silver-lake-mgx-unterzeichnet-103472584)
 
-> Relevance score: [5] - Research on AI‑based antibiotic‑resistance prediction could influence future medical practice worldwide; moderately important but still early‑stage.
+> Relevance score: [4] - US‑centric corporate development of a social‑media platform; limited direct impact on Swiss society or economy.
 
-## ADHS-Diagnose-Anstieg: Warum Ritalin zu schnell verschrieben wird
+## Abstimmung: Bauern demonstrieren gegen Handelsabkommen
 
-[Beobachter](https://www.beobachter.ch/gesundheit/medizin-krankheit/unruhe-bei-kindern-wird-heute-chemisch-beruhigt-891845) • _Mittwoch, 17. Dezember 2025, 10:25 Uhr_
+[20 Minuten](https://www.20min.ch/story/von-der-leyen-7300-bauern-demonstrierten-eu-verschiebt-mercosur-abstimmung-103472511) • _Donnerstag, 18. Dezember 2025, 21:39 Uhr_
 
-Der Soziologe Pascal Rudin kritisiert den massiven Anstieg von ADHS-Diagnosen und den hohen Konsum von Psychostimulanzien bei Kindern in der Schweiz. Er hält
+Die EU hat die Unterzeichnung des Mercosur-Abkommens verschoben, nachdem 7'300 Bauern in Brüssel protestierten.
 
-Der Konsum von ADHS-Medikamenten nimmt in der Schweiz laut dem Gesundheitsobservatorium Obsan stark zu. Fachärztinnen und -ärzte betonen, alles verlaufe geordnet, doch die Zahlen werfen Fragen auf. Zwar werden heute mehr Mädchen und Erwachsene diagno... [weiterlesen](https://www.beobachter.ch/gesundheit/medizin-krankheit/unruhe-bei-kindern-wird-heute-chemisch-beruhigt-891845)
+EU-Kommissionspräsidentin Ursula von der Leyen verschiebt ihre Pläne für eine Unterzeichnung des Handelsabkommens mit den südamerikanischen Mercosur-Staaten auf Januar. Das sagte von der Leyen den EU-Staats- und Regierungschefs am Donnerstag beim Gip... [weiterlesen](https://www.20min.ch/story/von-der-leyen-7300-bauern-demonstrierten-eu-verschiebt-mercosur-abstimmung-103472511)
 
-> Relevance score: [5] - Rising ADHD diagnoses and prescription rates in Switzerland raise public‑health policy questions, affecting a sizable segment of the population.
+> Relevance score: [4] - EU farmer protest influencing the timing of the Mercosur trade deal; indirect implications for Swiss agriculture but no direct policy effect.
 
-## Fatale Verwechslung: Wie bestimmte Darmbakterien Multiple Sklerose antreiben
+## Attentat am Bondi Beach - Australien kündigt nach Attentat Waffen-Rückkaufprogramm an
 
-[Moneycab](https://www.moneycab.com/dossiers/fatale-verwechslung-wie-bestimmte-darmbakterien-multiple-sklerose-antreiben/) • _Mittwoch, 17. Dezember 2025, 07:10 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/attentat-am-bondi-beach-australien-kuendigt-nach-attentat-waffen-rueckkaufprogramm-an) • _Freitag, 19. Dezember 2025, 03:10 Uhr_
 
-Wenn Darmbakterien der Schutzschicht von Nerven zu sehr ähneln, können sie das Immunsystem fehlleiten und es zum Angriff auf das eigene Nervensystem treiben.
+Die australische Regierung hat nach dem Anschlag in Sydney ein Rückkauf-Programm für Schusswaffen angekündigt.
 
-Basel – Wenn Darmbakterien der Schutzschicht von Nerven zu sehr ähneln, können sie das Immunsystem fehlleiten und es zum Angriff auf das eigene Nervensystem treiben. Dieser Mechanismus kann den Verlauf von Multipler Sklerose beschleunigen, wie Forsch... [weiterlesen](https://www.moneycab.com/dossiers/fatale-verwechslung-wie-bestimmte-darmbakterien-multiple-sklerose-antreiben/)
+Die australische Regierung hat nach dem Anschlag in Sydney ein Rückkauf-Programm für Schusswaffen angekündigt.
+Das gab der australische Premierminister Anthony Albanese an einer Medienkonferenz bekannt.
+Weiter hat er für den kommenden Sonntag einen n... [weiterlesen](https://www.srf.ch/news/international/attentat-am-bondi-beach-australien-kuendigt-nach-attentat-waffen-rueckkaufprogramm-an)
 
-> Relevance score: [5] - New insight into MS pathology could eventually affect treatment strategies; important for health research but not an immediate large‑scale impact.
+> Relevance score: [3] - Australian response to a local terror incident; limited relevance for Swiss public policy or global structures beyond general disarmament discourse.
 
-## Mit künstlichen Organen Krebstherapie verbessern
+## Europäischer Gerichtshof rügt dänisches "Ghetto-Gesetz"
 
-[Universitätsklinikum Ulm](https://www.uniklinik-ulm.de/aktuelles/detailansicht/mit-kuenstlichen-organen-krebstherapie-verbessern.html) • _Mittwoch, 17. Dezember 2025, 14:47 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/auslaenderpolitik-in-daenemark-daenemark-mit-diskriminierendem-ghetto-gesetz-im-abseits) • _Donnerstag, 18. Dezember 2025, 20:39 Uhr_
 
-DFG fördert Graduiertenkolleg „Org-BOOST“ mit rund neun Millionen Euro
+Der Europäische Gerichtshof rügt die Diskriminierung von Quartieren mit Menschen mehrheitlich nicht-westlicher Herkunft.
 
-Tumorgewebe im Labor möglichst realitätsnah nachbilden und neue Ansätze für eine personalisierte Krebsmedizin entwickeln:
-Daran werden ab Frühjahr 2026 insgesamt 20 Promovierende in den Lebenswissenschaften sowie zehn Medizinerinnen und Mediziner im ... [weiterlesen](https://www.uniklinik-ulm.de/aktuelles/detailansicht/mit-kuenstlichen-organen-krebstherapie-verbessern.html)
+Seit 2019 gilt in Dänemark das sogenannte «Ghetto-Gesetz», das bestimmte Wohnviertel mit mehr als 1000 Einwohnerinnen und Einwohnern als «Ghetto» definiert. Quartiere, die dabei mindestens zur Hälfte mit Menschen «nicht-westlichen Ursprungs» bewohnt ... [weiterlesen](https://www.srf.ch/news/international/auslaenderpolitik-in-daenemark-daenemark-mit-diskriminierendem-ghetto-gesetz-im-abseits)
 
-> Relevance score: [4] - German research funding for organ‑oid cancer models is scientifically important but its societal impact will be medium‑term and not immediately broad.
+> Relevance score: [3] - ECJ ruling on Danish law deals with discrimination issues within the EU; relevance to Switzerland is peripheral.
 
-## Microsoft sperrt Exchange Online für ältere Mobilgeräte
+## "Energie bei 5 Prozent": Warum wir gerade so nah am Wasser sind
 
-[Swiss IT Magazine](https://www.itmagazine.ch/artikel/86218/Microsoft_sperrt_Exchange_Online_fuer_aeltere_Mobilgeraete.html) • _Mittwoch, 17. Dezember 2025, 08:12 Uhr_
+[20 Minuten](https://www.20min.ch/story/energie-bei-5-prozent-warum-wir-gerade-so-nah-am-wasser-sind-103470856) • _Freitag, 19. Dezember 2025, 05:08 Uhr_
 
-Ab März 2026 kappt Microsoft die Verbindung von Exchange ActiveSync-Versionen unter 16.1. Ältere mobile Endgeräte können dann keine Mails, Kalenderdaten oder Kontaktdaten mehr synchronisieren.
+Müdigkeit, Weltschmerz und Jahresenddruck: Eine Expertin erklärt, warum viele derzeit emotional besonders fragil sind.
 
-Ab März 2026 kappt Microsoft die Verbindung von Exchange ActiveSync-Versionen unter 16.1. Ältere mobile Endgeräte können dann keine Mails, Kalenderdaten oder Kontaktdaten mehr synchronisieren.
-17. Dezember 2025
-Der 1. März 2026 ist der Stichtag: Micr... [weiterlesen](https://www.itmagazine.ch/artikel/86218/Microsoft_sperrt_Exchange_Online_fuer_aeltere_Mobilgeraete.html)
+Die Welt geht vor die Hunde. So viel scheint für manche festzustehen: Kriege, Konflikte, Machtkämpfe – die politische Lage ist düster. Gleichzeitig gesellen sich persönliche Probleme hinzu, die den Alltag für viele zum Drahtseilakt machen. Insbesonde... [weiterlesen](https://www.20min.ch/story/energie-bei-5-prozent-warum-wir-gerade-so-nah-am-wasser-sind-103470856)
 
-> Relevance score: [4] - Technical change that will affect users of older devices worldwide; noteworthy for IT users but limited societal impact.
+> Relevance score: [2] - A psychological commentary on personal well‑being and energy metaphors; lacks concrete policy or structural implications for Switzerland or the world.
 
-## Hoher Ex-US-Beamter Josh Paul lobbyiert für Wandel in Israel-Politik
+## Demokraten veröffentlichen neue Fotos aus dem Nachlass von Jeffrey Epstein
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/kritik-an-us-nahostpolitik-hoher-us-ex-beamter-lobbyiert-fuer-wandel-in-der-israel-politik) • _Mittwoch, 17. Dezember 2025, 06:50 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/missbrauchs-skandal-neue-fotos-aus-dem-nachlass-von-jeffrey-epstein-veroeffentlicht) • _Donnerstag, 18. Dezember 2025, 22:10 Uhr_
 
-Der frühere Beamte und Waffenexperte im US-Aussenministerium, Josh Paul, geht mit Trump und Biden hart ins Gericht.
+Demokraten im US-Kongress haben erneut Fotos aus dem Archiv des toten Sexualstraftäters veröffentlicht.
 
-Josh Paul überwachte als Direktor beim Büro Political-Military Affairs im US-Aussenministerium fast elf Jahre lang internationale Waffenexporte, unter anderem an Israel. Nur wenige Tage nach Ausbruch des Gaza-Kriegs trat er von seinem Amt zurück. Heu... [weiterlesen](https://www.srf.ch/news/international/kritik-an-us-nahostpolitik-hoher-us-ex-beamter-lobbyiert-fuer-wandel-in-der-israel-politik)
+Mitglieder der Demokratischen Partei im Kongress haben neue Fotos aus dem Nachlass des verstorbenen Sexualstraftäters Jeffrey Epstein veröffentlicht. Dies erfolgte einen Tag vor Ablauf der Frist für das US-Justizministerium (19.12.2025), alle Akten i... [weiterlesen](https://www.srf.ch/news/international/missbrauchs-skandal-neue-fotos-aus-dem-nachlass-von-jeffrey-epstein-veroeffentlicht)
 
-> Relevance score: [4] - US lobbying activity concerning Israeli policy is part of broader foreign‑policy discourse but has limited direct effect on Swiss or global structures.
-
-## Dinosaurierspuren in den italienischen Alpen entdeckt
-
-[Blick](https://www.blick.ch/ausland/sensationsfund-in-den-alpen-tausende-dinosaurierspuren-auf-felswand-entdeckt-id21525443.html) • _Mittwoch, 17. Dezember 2025, 10:54 Uhr_
-
-Sensationeller Fund in den italienischen Alpen. Ein Naturfotograf entdeckt auf Hunderten Metern Dinosaurierspuren. Sie sollen zu den umfangreichsten Funden ihrer Art gehören.
-
-Die umfangreichsten Dinosaurierspuren in ganz Europa nennt der Präsident der Region Lombardei in Norditalien die Entdeckung. Im Stelvio-Nationalpark, wo nächstes Jahr die Olympischen Winterspiele stattfinden sollen, machte ein Naturfotograf den Sensa... [weiterlesen](https://www.blick.ch/ausland/sensationsfund-in-den-alpen-tausende-dinosaurierspuren-auf-felswand-entdeckt-id21525443.html)
-
-> Relevance score: [3] - A significant paleontological find is of scientific interest but does not affect societal or economic conditions in the near term.
-
-## Solothurner Kantonsrat will Kosten fürs Bistum Basel prüfen
-
-[Blick](https://www.blick.ch/schweiz/auch-wer-ausgetreten-ist-zahlt-solothurner-kantonsrat-will-umstrittene-bischofsloehne-pruefen-id21525699.html) • _Mittwoch, 17. Dezember 2025, 13:20 Uhr_
-
-540'000 Franken bezahlt der Kanton aus allgemeinen Steuermitteln. Am Mittwoch wurde einen entsprechender Vorstoss dagegen an die Regierung überwiesen.
-
-Keystone-SDADie Schweizer Nachrichtenagentur
-Ein fraktionsübergreifender Auftrag hatte ursprünglich verlangt, dass der Kanton Solothurn seine Zahlungen an das Bistum Basel stoppt und das sogenannte Bistumskonkordat kündigt.
-Dieses Abkommen aus dem Ja... [weiterlesen](https://www.blick.ch/schweiz/auch-wer-ausgetreten-ist-zahlt-solothurner-kantonsrat-will-umstrittene-bischofsloehne-pruefen-id21525699.html)
-
-> Relevance score: [2] - A cantonal budget dispute over 540 kCHF is a local fiscal matter with very limited relevance beyond the canton.
-
-## Pöschwies: Gefängnis darf 2'300 Quadratmeter Wald für Sicherheit roden
-
-[20 Minuten](https://www.20min.ch/story/regensdorf-zh-wegen-schmuggels-poeschwies-darf-2300-quadratmeter-wald-roden-103471534) • _Mittwoch, 17. Dezember 2025, 12:22 Uhr_
-
-Die Gemeinde Regensdorf genehmigt die Rodung eines Waldstücks für den Sicherheitszaun der JVA Pöschwies, trotz Protesten der Anwohner.
-
-Handys, Waffen oder Drogen: Immer wieder wird versucht, Schmuggelware in Schweizer Justizvollzugsanstalten (JVA) zu bringen. Sei das mit Einwürfen über den Zaun oder mit Drohnen. Mehrere Gefängnisse rüsteten in den letzten Jahren gegen Drohnen auf un... [weiterlesen](https://www.20min.ch/story/regensdorf-zh-wegen-schmuggels-poeschwies-darf-2300-quadratmeter-wald-roden-103471534)
-
-> Relevance score: [2] - Local environmental decision for a prison security fence impacts a small community; limited broader relevance.
-
-## Heftige Kritik Trumps Schwiegersohn zieht sich aus Warner-Bieterkampf zurück
-
-[blue News](https://www.bluewin.ch/de/news/international/trumps-schwiegersohn-zieht-sich-aus-warner-bieterkampf-zurueck-3013570.html) • _Mittwoch, 17. Dezember 2025, 10:23 Uhr_
-
-Jared Kushner, Schwiegersohn von US-Präsident Donald Trump, steigt aus dem Bieterrennen um Warner Bros. aus. Seine Beteiligung an einem Paramount-Angebot hatte zuvor für Kritik gesorgt.
-
-Jared Kushner, Schwiegersohn von US-Präsident Donald Trump, steigt aus dem Bieterrennen um Warner Bros. aus. Seine Beteiligung an einem Paramount-Angebot hatte zuvor für Kritik gesorgt.
-Jared Kushner, Schwiegersohn von US-Präsident Donald Trump, stei... [weiterlesen](https://www.bluewin.ch/de/news/international/trumps-schwiegersohn-zieht-sich-aus-warner-bieterkampf-zurueck-3013570.html)
-
-> Relevance score: [2] - A US political figure withdrawing from a media acquisition is primarily entertainment/business news with negligible civic impact.
-
-## Trump lobt Stabschefin Susie Wiles nach umstrittener Alkoholiker-Aussage
-
-[20 Minuten](https://www.20min.ch/story/susanne-wiles-nach-alkoholiker-aussage-trump-nennt-stabschefin-fantastisch-103471439) • _Mittwoch, 17. Dezember 2025, 08:24 Uhr_
-
-Nach ihrer umstrittenen Äusserung über Trumps «Alkoholiker-Persönlichkeit» erhält Susie Wiles Rückendeckung vom Präsidenten.
-
-Die Stabschefin im Weissen Haus, Susie Wiles, hat mit ungeschönten Äusserungen über US-Präsident Donald Trump in Washington für Aufruhr gesorgt. Trump habe «die Persönlichkeit eines Alkoholikers», zitierte die Zeitschrift «Vanity Fair» die 68-Jährige... [weiterlesen](https://www.20min.ch/story/susanne-wiles-nach-alkoholiker-aussage-trump-nennt-stabschefin-fantastisch-103471439)
-
-> Relevance score: [2] - US internal political controversy; limited relevance beyond US media cycles.
+> Relevance score: [2] - US political controversy with minor relevance for Swiss public discourse; primarily entertainment‑type news.
 
 
 </details>
