@@ -2,203 +2,157 @@
 
 ---
 
-_Updated: Sunday, December 21, 2025, 06:24 AM_
+_Updated: Sunday, 21 December 2025, 18:20_
 
-No significant events in the last 12 hours.
+## Selensky: US wants Kyiv and Moscow at the same table
 
-<details><summary markdown="span">Show minor events</summary>
+[Blick](https://www.blick.ch/ausland/selenski-ueber-miami-treffen-usa-wollen-ukraine-und-russland-an-einen-tisch-bringen-id21537406.html) • *Saturday, 20 December 2025, 20:08*
 
-## Train drivers raise serious accusations against Aare Seeland Mobil
+According to Ukrainian President Volodymyr Zelensky, the talks in Miami could lead to a trilateral meeting between Ukraine, Russia and the United States, possibly with European participation.
 
-[Blick](https://www.blick.ch/wirtschaft/wir-haben-manchmal-sekundenschlaf-schweizer-lokfuehrer-sind-psychisch-am-anschlag-und-haessig-id21535204.html) • _Saturday, December 20 2025, 5:14 PM_
+### Background of the talks  
+- In **Miami**, negotiations are taking place about ending the **Ukraine war** (2022 Russian invasion of Ukraine).  
+- The **US** proposes a **trilaterial meeting** of the national security advisers of the **US**, **Ukraine** and **Russia**, possibly with **European participation**.  
 
-Severe accusations are being leveled against Aare Seeland Mobil. Train drivers report excessively long shifts and too short rest periods – even “psychological terror”. Many have left the Bern public‑transport operator. Or have been forced out. The company is defending itself.
+### Involved actors  
+- **[Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy)** (President of Ukraine) announces the possible meeting.  
+- **[Rustem Umerov](https://en.wikipedia.org/wiki/Rustem_Umerov)** represents Ukraine as chief negotiator in the US.  
+- **[Marco Rubio](https://en.wikipedia.org/wiki/Marco_Rubio)** (US Secretary of State in the cabinet of **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)**) would represent the United States.  
+- For Russia it is still unclear which security adviser would attend; the usual contacts are:  
+  - **[Nikolai Patrushev](https://en.wikipedia.org/wiki/Nikolai_Patrushev)** (former head of the National Security Council) – since last year adviser on shipping.  
+  - **[Yuri Usachyov](https://en.wikipedia.org/wiki/Yuri_Usachyov)** (long‑time foreign policy adviser to Putin).  
+  - **[Vladimir Medin](https://en.wikipedia.org/wiki/Vladimir_Medin)** (responsible for cultural and historical affairs, led earlier talks in Istanbul).  
+  - **[Kirill Dmitriev](https://en.wikipedia.org/wiki/Kirill_Dmitriev)** (Russia’s special envoy to the US).  
 
-**Michael Hotz, Business Editor**  
-Behind the scenes at the public‑transport operator Aare Seeland Mobil (ASM) things are really grinding to a halt. Train drivers are currently on strike. They are dissatisfied with the working conditions and the management style of the executive board. “It is e... [read more](https://www.blick.ch/wirtschaft/wir-haben-manchmal-sekundenschlaf-schweizer-lokfuehrer-sind-psychisch-am-anschlag-und-haessig-id21535204.html)
+### Previous talks and current situation  
+- In the **summer**, Ukrainian and Russian negotiators met in **Turkey** (Istanbul); according to Zelensky the outcome was not very convincing, although a **prisoner exchange** was viewed positively.  
+- A trilateral meeting would only take place after visible progress in the ongoing talks.  
+- The possibility of involving **European representatives** (e.g., from the **EU**) is considered logical by Zelensky, but remains dependent on how the negotiations develop.  
 
-> Relevance score: [5] - Serious labour complaints at a Swiss regional railway operator could affect transport safety and trigger regulatory or union actions, making it moderately relevant for the national audience.
+> Relevance score: [7] – Potential US‑mediated talks between Ukraine and Russia touch on a major international security conflict; outcomes could influence European stability, including Switzerland’s neutral stance.
 
-## Allseeds Group: Bombing in Ukraine results in a fatality
+## Trump’s pharma deal puts pressure on drug prices in Switzerland
 
-[20 Min](https://www.20min.ch/story/ukraine-genfer-unternehmen-zum-achten-mal-bombardiert-ein-toter-103473423) • _Saturday, December 20 2025, 4:57 PM_
+[Swiss Radio and Television](https://www.srf.ch/news/schweiz/preisvereinbarungen-mit-trump-das-pharma-abkommen-mit-den-usa-hat-auswirkungen-auf-die-schweiz) • *Saturday, 20 December 2025, 21:11*
 
-The Geneva‑based company Allseeds Group was bombed again, resulting in a death and significant losses.
+Politicians believe the deal with Novartis and Roche will increase pressure on drug prices in Switzerland.
 
-According to its director, the sunflower‑oil stocks of Allseeds Group were bombed by Russia near Odessa. The attack caused one death and two injuries.  
-“**Our facilities at the port of Piwdennyj, 50 km …** [read more](https://www.20min.ch/story/ukraine-genfer-unternehmen-zum-achten-mal-bombardiert-ein-toter-103473423)
+### Background of the pharma deal  
+- The US government has concluded an agreement with **nine international pharma giants** that aims to **drastically lower drug prices in the United States**.  
+- Signatories include Swiss pharma giants **[Novartis](https://en.wikipedia.org/wiki/Novartis)** and **[Roche](https://en.wikipedia.org/wiki/Roche_(company))** (subsidiary **[Genentech](https://en.wikipedia.org/wiki/Genentech)**).  
+- In return, the companies receive **three years of tariff exemption** for imported medicines that will thereafter be offered **directly online**.  
 
-> Relevance score: [5] - A Swiss company’s assets were hit in the Ukraine war, causing a casualty and highlighting risks to Swiss businesses abroad; it has moderate geopolitical and economic relevance.
+### Expected impact on Switzerland  
+- **[Andri Silberschmidt](https://en.wikipedia.org/wiki/Andri_Silberschmidt)** (FDP member of the National Council) expects **higher prices** for **new, innovative medicines** in Switzerland, because the current **US research subsidy** could disappear.  
+- He argues that Switzerland must **invest more in research and development** to guarantee access to highly innovative medicine.  
 
-## USA mediate between Kyiv and Moscow – with obstacles
+### Reactions from the Swiss Parliament  
+- **[Sarah Wyss](https://en.wikipedia.org/wiki/Sarah_Wyss)** (SP member of the National Council) foresees **increasing price pressure**, but stresses that price formation lies in the **regulated Swiss market** and cannot be influenced by **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)**.  
+- **[Elisabeth Baume‑Schneider](https://en.wikipedia.org/wiki/Elisabeth_Baume-Schneider)** (Federal Councillor, Health Minister) points out that the current situation in the US **has no direct price impact** on Switzerland and emphasizes that **price hikes must not be financed by premium payers**.  
 
-[blue News](https://www.bluewin.ch/de/news/international/ukraine-gespraeche-gehen-in-die-naechste-runde-3017477.html) • _Saturday, December 20 2025, 12:23 PM_
+### Official stance of the federal authorities  
+- The **[Federal Office of Public Health (FOPH)](https://en.wikipedia.org/wiki/Federal_Office_of_Public_Health_(Switzerland))** states that the agreement is a **private arrangement** between companies and the US, **without involvement of the federal government**, and therefore **has no direct impact** on Swiss drug prices.  
 
-In Miami, representatives of the USA, Russia and European states meet to negotiate a peace solution to the Ukraine war. While progress is being made on security guarantees, the territorial issue remains highly contested.
+---  
 
-The negotiations ... [read more](https://www.bluewin.ch/de/news/international/ukraine-gespraeche-gehen-in-die-naechste-runde-3017477.html)
+*In summary, the US‑pharma agreement with **Novartis**, **Roche** and others could lead to price increases for innovative medicines in Switzerland, while political actors stress market regulation and the federal authorities confirm a limited influence.*  
 
-> Relevance score: [5] - US‑mediated talks on the Ukraine war are a major diplomatic effort with global security implications and indirect relevance for Swiss foreign‑policy stances.
+> Relevance score: [6] – A US‑Swiss pharmaceutical agreement that could raise drug‑price pressure directly affects Swiss patients and health‑care budgeting.
 
-## Trump and pharma companies: What does the deal mean for drug prices in Switzerland?
+<details><summary markdown="span">Show less important events</summary>
 
-[20 Min](https://www.20min.ch/story/pharmafirmen-werden-nach-trump-deal-jetzt-medikamente-in-der-schweiz-teurer-103473286) • _Saturday, December 20 2025, 11:06 AM_
+## Trump’s Venezuela blockade: It’s about China
 
-While the USA benefits from falling drug prices, Switzerland remains untouched for now. But for how long?
+[Inside Paradeplatz](https://insideparadeplatz.ch/2025/12/20/trumps-venezuela-blockade-es-geht-um-china/) • *Saturday, 20 December 2025, 23:54*
 
-It is a victory for US President Donald Trump: 14 pharmaceutical giants are lowering their drug prices in the United States, as the Republican announced at a conference with various CEOs of those companies. Novartis and Roche subsidiary Genentech … [read more](https://www.20min.ch/story/pharmafirmen-werden-nach-trump-deal-jetzt-medikamente-in-der-schweiz-teurer-103473286)
+Geopolitical chess move to secure cheap oil for Asian markets. Is China pushing back by revaluing the renminbi?
 
-> Relevance score: [5] - A US drug‑price agreement could influence price expectations and market dynamics for Swiss pharma companies, giving it moderate national relevance.
+The “total and complete” blockade of sanctioned Venezuelan oil tankers announced by Donald Trump on 16 December 2025 represents a clear escalation.  
+The aim is to put maximum pressure on Venezuelan President Nicolás Maduro… [read more](https://insideparadeplatz.ch/2025/12/20/trumps-venezuela-blockade-es-geht-um-china/)
 
-## Schinznach‑Dorf: Canton removes illegal cameras from school premises
+> Relevance score: [5] – A US‑initiated oil blockade on Venezuela could affect global oil markets and thereby Swiss energy prices, while also illustrating geopolitical tension with China.
 
-[20 Min](https://www.20min.ch/story/schinznach-dorf-ag-16-jahre-lang-illegal-kinder-gefilmt-kanton-greift-durch-103473220) • _Saturday, December 20 2025, 8:17 AM_
+## NASA loses contact with Mars probe
 
-After years of monitoring without legal basis, the cameras were dismantled on the order of the canton.
+[blue News](https://www.bluewin.ch/de/news/wissen-technik/nasa-verliert-kontakt-zu-mars-sonde-3017454.html) • *Saturday, 20 December 2025, 22:25*
 
-At the primary school in Schinznach‑Dorf, for 16 years without permission, several surveillance cameras operated. They filmed the school entrances, the playground and the yard around the clock. The Aargau data‑protection officer Kat … [read more](https://www.20min.ch/story/schinznach-dorf-ag-16-jahre-lang-illegal-kinder-gefilmt-kanton-greift-durch-103473220)
+For about ten years the probe **Maven** has been orbiting Mars and delivering important data. Recently, however, it has gone silent.
 
-> Relevance score: [5] - The removal of unauthorized surveillance cameras at a school raises privacy and data‑protection issues, setting a precedent for Swiss cantonal oversight.
+The US space agency NASA has lost contact with the Mars probe **Maven**. Work is under way to restore the link… [read more](https://www.bluewin.ch/de/news/wissen-technik/nasa-verliert-kontakt-zu-mars-sonde-3017454.html)
 
-## Federal government drops EU‑sanctioned ex‑intelligence officer
+> Relevance score: [5] – Loss of contact with a decade‑old Mars mission is a notable scientific setback of international interest but has no direct societal impact in Switzerland.
 
-[Inside Paradeplatz](https://insideparadeplatz.ch/2025/12/20/bund-laesst-eu-sanktionierten-ex-geheimdienstler-fallen/) • _Saturday, December 20 2025, 7:58 AM_
+## Migros cuts promotions from 4,000 to 400 per year
 
-Bern intervenes only formally in Brussels, instead of denouncing the punishment of Swiss Jacques Baud. Private support action from Japan.
+[Blick](https://www.blick.ch/sonntagsblick/das-steckt-hinter-der-grossen-rabattrevolution-bei-der-migros-gibts-statt-4000-aktionen-nur-noch-40-id21536872.html) • *Sunday, 21 December 2025, 06:00*
 
-“The EU sanctioning was like ‘a bolt from a clear sky,’ says Jacques Baud to the Berliner Zeitung.”  
-“The accusations against me are simply false,” says the former Swiss intelligence officer to the newspaper. “I never … [read more](https://insideparadeplatz.ch/2025/12/20/bund-laesst-eu-sanktionierten-ex-geheimdienstler-fallen/)
+Because the Migros headquarters has stripped the ten regional cooperatives of power, the number of promotions has shrunk from 4,000 to 400 per year. The company claims this is good news for customers’ wallets.
 
-> Relevance score: [5] - Switzerland’s handling of an EU‑sanctioned former intelligence officer touches on diplomatic relations and legal alignment with EU measures, giving it moderate importance.
+*Beat Schmid, business editor*  
+Migros is undergoing a permanent overhaul, which also affects the weekly promotions meant to attract shoppers. This week, for example, there were Delizio coffee capsules… [read more](https://www.blick.ch/sonntagsblick/das-steckt-hinter-der-grossen-rabattrevolution-bei-der-migros-gibts-statt-4000-aktionen-nur-noch-40-id21536872.html)
 
-## After the landslide in Blatten, tourism seeks new paths
+> Relevance score: [4] – A major Swiss retailer cuts the number of promotional events ten‑fold, affecting price signalling for many consumers but not creating a structural shift in the economy.
 
-[Swiss Radio and Television](https://www.srf.ch/news/nach-bergsturz-im-loetschental-blatten-tourismus-in-truemmern-und-neuanfang) • _Saturday, December 20 2025, 7:38 AM_
+## Operation “Northern Lights”: 43 children rescued from human trafficking
 
-Surviving unscathed and fighting for a fresh start after destruction: an insight into Lötschental tourism.
+[20 Min](https://www.20min.ch/story/aktion-northern-lights-43-kinder-aus-den-faengen-von-menschenhaendlern-befreit-103473488) • *Saturday, 20 December 2025, 19:41*
 
-In summer 2025 tourism in Lötschental was at a low point. The landslide caused the valley to lose almost half of its summer overnight stays. Hotels in Blatten were destroyed; the Fafleralp hotel and its campsite are inaccessible. The one in K … [read more](https://www.srf.ch/news/nach-bergsturz-im-loetschental-blatten-tourismus-in-truemmern-und-neuanfang)
+In a large‑scale operation US authorities rescued 43 children from the clutches of human traffickers.
 
-> Relevance score: [5] - The landslide’s devastation of a key tourist area in the Lötschental has significant economic repercussions for the region and may influence national tourism strategies.
+The “Northern Lights” operation was a full success: in the past two weeks security forces in the US liberated 43 children from traffickers, including an 18‑month‑old baby. … [read more](https://www.20min.ch/story/aktion-northern-lights-43-kinder-aus-den-faengen-von-menschenhaendlern-befreit-103473488)
 
-## New Epstein files released: The most explosive in overview
+> Relevance score: [4] – Large‑scale US anti‑trafficking operation highlights a serious human‑rights issue; relevance to a Swiss audience is moderate, mainly as a global humanitarian concern.
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/skandal-um-missbrauchsring-die-wichtigsten-fragen-und-antworten-zu-den-epstein-akten) • _Saturday, December 20 2025, 5:23 PM_
+## Migros: Dismissed employees no longer receive Christmas gifts
 
-Parts of the explosive Epstein files have been released. SRF correspondent Barbara Colpi provides the key answers.
+[20 Min](https://www.20min.ch/story/nach-entlassungsjahr-wer-bei-der-migros-entlassen-wurde-bekommt-kein-geschenk-mehr-103473422) • *Saturday, 20 December 2025, 18:40*
 
-The US government has released hundreds of documents with photos, flight logs and witness statements. The convicted multimillionaire Jeffrey Epstein ran a long‑standing abuse ring, involving dozens … [read more](https://www.srf.ch/news/international/skandal-um-missbrauchsring-die-wichtigsten-fragen-und-antworten-zu-den-epstein-akten)
+For the 100‑year anniversary of Migros there are gift cards, but dismissed staff get nothing. The decision has sparked criticism.
 
-> Relevance score: [4] - The release of parts of the Epstein files is a high‑profile US scandal that informs public understanding of elite abuse, but it does not create structural change for Switzerland or the world at large.
+Sales from subsidiaries such as Mibelle and waves of layoffs have caused unrest: for Migros employees the past period has not been easy. Shortly before Christmas another dispute arises: those who have been terminated … [read more](https://www.20min.ch/story/nach-entlassungsjahr-wer-bei-der-migros-entlassen-wurde-bekommt-kein-geschenk-mehr-103473422)
 
-## Flu wave hits Switzerland early: many Swiss struggle with persistent symptoms
+> Relevance score: [4] – Corporate decision affecting former Migros employees sparks debate on labour rights and corporate responsibility within Switzerland.
 
-[20 Min](https://www.20min.ch/story/influenza-alle-sind-krank-die-grippe-trifft-die-schweiz-frueh-und-hart-103473390) • _Saturday, December 20 2025, 5:03 PM_
+## What the US plans for the Gaza Strip
 
-The flu wave in Switzerland is starting earlier than usual and is causing numerous cases. Experts warn of a strong season.
+[Nau.ch](https://www.nau.ch/news/ausland/das-planen-die-usa-mit-dem-gazastreifen-67078630) • *Sunday, 21 December 2025, 03:14*
 
-“I don’t know when I was last this sick,” says a TikTok user. Videos like hers are currently flooding the platform. Dozens are reporting flu symptoms, sore throat, runny nose, fever and headache … [read more](https://www.20min.ch/story/influenza-alle-sind-krank-die-grippe-trifft-die-schweiz-frueh-und-hart-103473390)
+The US wants to transform the Gaza Strip for €100 billion. Rafah is to become the new capital of the planned luxury destination.
 
-> Relevance score: [4] - An early, severe flu season strains the Swiss health system and causes widespread illness, but seasonal flu outbreaks are routine and have limited long‑term impact.
+*Etienne Sticher* – USA, 21.12.2025 – 03:14  
+The US plans to redevelop the Gaza Strip for €100 billion. Rafah is slated to become the new capital of the luxury destination. The main points… [read more](https://www.nau.ch/news/ausland/das-planen-die-usa-mit-dem-gazastreifen-67078630)
 
-## Lula warns against US military intervention in Venezuela
+> Relevance score: [3] – Claims about a US‑led €100 bn luxury redevelopment of Gaza are largely speculative and, even if true, concern a distant region with limited immediate relevance for Switzerland.
 
-[Watson](https://www.watson.ch/international/usa/709178016-lula-warnt-vor-us-militaereinsatz-in-venezuela) • _Saturday, December 20 2025, 4:00 PM_
+## Is the Jacques Baud case about deterrence?
 
-The US military has assembled a task force of warships, combat aircraft and soldiers off the coast of Venezuela.
+[Inside Paradeplatz](https://insideparadeplatz.ch/2025/12/20/gehts-im-fall-jacques-baud-um-abschreckung/) • *Saturday, 20 December 2025, 23:43*
 
-Amid the escalating conflict between the United States and Venezuela, Brazilian President Luiz Inácio Lula da Silva warned of a US military intervention in the South American country. “An armed intervention in Ven… [read more](https://www.watson.ch/international/usa/709178016-lula-warnt-vor-us-militaereinsatz-in-venezuela)
+EU sanctions former Swiss officer without indictment, trial or procedure. Baud’s case is limited in public attention but big in insider circles.
 
-> Relevance score: [4] - Brazilian President Lula’s warning about a possible US intervention in Venezuela is geopolitically relevant, yet it has only indirect implications for Swiss foreign policy.
+Jacques Baud served many years as a colonel in the Swiss army’s General Staff and worked in the 1980s for the military intelligence service. Later he held international positions at the UN and NATO. As an author he published numerous … [read more](https://insideparadeplatz.ch/2025/12/20/gehts-im-fall-jacques-baud-um-abschreckung/)
 
-## For those in poverty: free tickets for FC Basel football matches
+> Relevance score: [3] – EU sanctions on a former Swiss army officer are a niche security/legal story with limited consequence for the broader Swiss population.
 
-[Swiss Radio and Television](https://www.srf.ch/news/schweiz/verein-hilft-armutsbetroffenen-gratis-tickets-fuer-fussballspiele-vom-fc-basel) • _Saturday, December 20 2025, 8:00 AM_
+## Switzerland inflation 2025: These 89 products are cheaper than 2024
 
-FCB season‑ticket holders can donate their tickets if they are unable to attend – thanks to a new online platform.
+[Blick](https://www.blick.ch/wirtschaft/nicht-ueberall-steigen-die-preise-all-diese-produkte-sind-guenstiger-als-im-vorjahr-id21533325.html) • *Saturday, 20 December 2025, 19:45*
 
-It is a premiere for Alessandro and his three children on a mid‑December Sunday: for the first time they can attend a home game of FC Basel together – and for free. Alessandro received four tickets from season‑ticket owners who … [read more](https://www.srf.ch/news/schweiz/verein-hilft-armutsbetroffenen-gratis-tickets-fuer-fussballspiele-vom-fc-basel)
+Two food items have dropped by more than 10 % this year. Meat and bread are also significantly cheaper, thanks to price wars triggered by Aldi. Blick shows the full list of 89 products that are now cheaper than in 2024.
 
-> Relevance score: [4] - A social initiative that gives free football tickets to low‑income families addresses local inequality and community cohesion, offering moderate relevance.
+*Michael Hotz, business editor*  
+There is a pervasive feeling that everything keeps getting more expensive, especially rising health‑insurance premiums and rents, which strain many Swiss households’ budgets. At the same time, inflation … [read more](https://www.blick.ch/wirtschaft/nicht-ueberall-steigen-die-preise-all-diese-produkte-sind-guenstiger-als-im-vorjahr-id21533325.html)
 
-## Osaka: human organs found in market
+> Relevance score: [3] – A list of cheaper consumer goods is useful for shoppers but does not reflect a broader economic or structural development.
 
-[Watson](https://www.watson.ch/international/japan/752394977-osaka-menschliche-organe-in-markt-gefunden) • _Saturday, December 20 2025, 4:44 PM_
+## Forbes: Elon Musk now has a net worth of over $700 billion
 
-Numerous bottles containing human organs were found at the central fish and vegetable market in Osaka, Japan.
+[20 Min](https://www.20min.ch/story/forbes-elon-musk-netto-vermoegen-erhoeht-103473831) • *Sunday, 21 December 2025, 04:29*
 
-The Japanese daily Asahi Shimbun reported on Friday evening that “numerous” bottles with human organs were discovered at the market. The find actually occurred in September, … [read more](https://www.watson.ch/international/japan/752394977-osaka-menschliche-organe-in-markt-gefunden)
+Earlier this week he passed the $600 billion mark on the famous “Forbes” billionaire list. After a US court ruling, the Tesla CEO has become significantly richer again.
 
-> Relevance score: [3] - The discovery of human organs on a Japanese market is a disturbing crime story with limited implications for Swiss readers and no structural significance.
+According to calculations by **Forbes**, following a US court decision Elon Musk now has a net worth of roughly **$749 billion**. This figure appears in the magazine’s online billionaire list, which … [read more](https://www.20min.ch/story/forbes-elon-musk-netto-vermoegen-erhoeht-103473831)
 
-## Snow problem ahead of Olympics – Eliasch raises alarm: “Delays are inexplicable”
-
-[Swiss Radio and Television](https://www.srf.ch/sport/milano-cortina-2026/schneeproblem-vor-olympia-eliasch-schlaegt-alarm-verzoegerungen-sind-unerklaerlich) • _Saturday, December 20 2025, 4:23 PM_
-
-FIS President Johan Eliasch expressed his discontent about snow conditions 1.5 months before the Olympic Games.
-
-“The delays in the preparations are ‘inexplicable,’” said FIS boss Johan Eliasch on the sidelines of the women’s Alpine World Cup in Val d’Isère, France. “Not everything is ready yet,” the Swedish‑British official added. … [read more](https://www.srf.ch/sport/milano-cortina-2026/schneeproblem-vor-olympia-eliasch-schlaegt-alarm-verzoegerungen-sind-unerklaerlich)
-
-> Relevance score: [3] - A warning about snow conditions ahead of the Winter Olympics concerns the sport world but does not affect Swiss society or policy in any substantial way.
-
-## ChatGPT saves life: parents take son with brain tumor to hospital
-
-[20 min.ch](https://www.20min.ch/story/belgien-bub-wirkt-veraendert-eltern-hoeren-auf-ihr-gefuehl-und-retten-ihn-103473233) • _Saturday, December 20 2025, 9:27 AM_
-
-A Belgian boy survived thanks to ChatGPT’s advice. His parents acted quickly on unusual symptoms.
-
-A six‑year‑old Belgian boy survived thanks to the advice of ChatGPT. His parents had become worried about unusual symptoms in their son and consulted the AI tool. It recommended that they take the child to the hospital immediately. … [read more](https://www.20min.ch/story/belgien-bub-wirkt-veraendert-eltern-hoeren-auf-ihr-gefuehl-und-retten-ihn-103473233)
-
-> Relevance score: [3] - A Belgian family’s use of ChatGPT for medical advice illustrates AI’s potential health impact; it is interesting but has limited direct effect on Swiss society.
-
-## Samsung Galaxy S26 (Ultra) delayed – current status
-
-[vybe.ch](https://www.vybe.ch/samsung-galaxy-s26-ultra-verzogert-sich-das-ist-der-aktuelle-stand/) • _Saturday, December 20 2025, 4:17 PM_
-
-Galaxy S26 (Ultra) is likely to arrive later: a Korean report cites this date as the presentation deadline for Samsung’s new flagships.
-
-Yesterday Samsung officially unveiled the new Exynos‑2600 chipset, which will be used in selected models of the Galaxy S26 line. The discussion concerns the Galaxy S26 and Galaxy S26+, while the top‑end Galaxy S26 Ultra will be launched worldwide … [read more](https://www.vybe.ch/samsung-galaxy-s26-ultra-verzogert-sich-das-ist-der-aktuelle-stand/)
-
-> Relevance score: [2] - A product launch delay for a Korean smartphone is a consumer‑tech news item with no broader civic or structural impact for Switzerland.
-
-## Passengers forced to jump from Boeing 737 because no stairs were available
-
-[aeroTELEGRAPH](https://www.aerotelegraph.com/sicherheit/passagiere-muessen-aus-boeing-737-springen-weil-keine-treppe-vorhanden-ist/m5gz2z7) • _Saturday, December 20 2025, 1:27 PM_
-
-The Boeing 737 arrived, but no one thought about the stairs. At Kindu Airport in the Democratic Republic of Congo, Air Congo passengers had to exit their Boeing 737 in a risky way – by jumping from the cabin door onto the tarmac.
-
-Even in Europe it sometimes happens that an aircraft lands and parks on the apron, but no stairs are provided. Consequently, passengers may have to remain on board for several minutes even after the flight … [read more](https://www.aerotelegraph.com/sicherheit/passagiere-muessen-aus-boeing-737-springen-weil-keine-treppe-vorhanden-ist/m5gz2z7)
-
-> Relevance score: [2] - A safety mishap at a Congolese airport is a dramatic incident but does not affect Swiss aviation safety or public interest significantly.
-
-## Tesla crashes into stationary police car on A1
-
-[Swiss Radio and Television](https://www.srf.ch/news/schweiz/bei-muenchwilen-tg-tesla-kracht-auf-a1-in-stehendes-polizeiauto) • _Saturday, December 20 2025, 1:17 PM_
-
-The 58‑year‑old driver overlooked a stationary police car with blue lights at an exit on the A1 highway.
-
-A 58‑year‑old Tesla driver failed to notice a parked police vehicle with blue lights at the Münchwilen TG exit on the A1. The collision caused significant material damage. No injuries were reported … [read more](https://www.srf.ch/news/schweiz/bei-muenchwilen-tg-tesla-kracht-auf-a1-in-stehendes-polizeiauto)
-
-> Relevance score: [2] - A traffic collision involving a Tesla and a police vehicle on a Swiss highway is a local incident with limited broader relevance.
-
-## Japan aims to preserve unprofitable routes with coordinated flight schedules
-
-[aeroTELEGRAPH](https://www.aerotelegraph.com/airlines/japan-will-mit-abgestimmten-flugplaenen-unwirtschaftliche-strecken-erhalten/66k22h8) • _Saturday, December 20 2025, 8:08 AM_
-
-Japan’s domestic flights are often unprofitable. To keep important routes, the Japanese tourism ministry is intervening in the market with regulation.
-
-If airlines want to operate domestic routes such as Berlin–Frankfurt, the biggest obstacle is often obtaining suitable take‑off and landing slots. Major German airports coordinate slots, so allocation follows … [read more](https://www.aerotelegraph.com/airlines/japan-will-mit-abgestimmten-flugplaenen-unwirtschaftliche-strecken-erhalten/66k22h8)
-
-> Relevance score: [2] - Japanese domestic aviation policy has little direct impact on Swiss travelers or the national transport sector.
-
-## Joshua wins boxing bout against Paul by KO
-
-[Blick](https://www.blick.ch/sport/boxen/k-o-sieg-in-der-6-runde-box-star-joshua-schickt-youtuber-paul-auf-die-bretter-id21535732.html) • _Saturday, December 20 2025, 8:30 AM_
-
-In the mega‑fight in Miami, the winner was decided in the sixth round: Anthony Joshua knocks out Jake Paul.
-
-At the Kaseya Center in Miami many fighters entered the ring. The highlight of the evening? The duel between Jake Paul (28), famous from Vine and YouTube, and Anthony Joshua (36), former world champion and Olympic gold‑medalist … [read more](https://www.blick.ch/sport/boxen/k-o-sieg-in-der-6-runde-box-star-joshua-schickt-youtuber-paul-auf-die-bretter-id21535732.html)
-
-> Relevance score: [1] - A boxing match between two high‑profile personalities is entertainment‑focused and lacks civic or structural significance.
+> Relevance score: [2] – Net‑worth of a single billionaire has little direct impact on Swiss society or the global economy beyond media interest.
 
 </details>
