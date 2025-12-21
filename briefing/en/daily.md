@@ -2,279 +2,203 @@
 
 ---
 
-_Updated: Friday, December 19, 2025, 18:21 CET_
-
-## 2026 Federal Budget Under One Roof
-
-[Swiss Radio and Television](https://www.srf.ch/news/schweiz/linke-enttaeuscht-einigung-beim-budget-2026-aber-schatten-ueber-kommenden-jahren) • _Thursday, December 18, 2025, 20:05 CET_
-
-The centre‑right parliament has decided. “Not our budget,” logically chimes in the disappointed left.
-
-### Agreement on the 2026 Budget  
-- After three failed consultation rounds in the **[National Council](https://en.wikipedia.org/wiki/Federal_Assembly_(Switzerland)#National_Council)** and **[Council of States](https://en.wikipedia.org/wiki/Federal_Assembly_(Switzerland)#Council_of_States)**, financial politicians from both chambers met for a brief but successful convergence conference.  
-- The result is now ready for the final vote.  
-
-### Core Points of the Budget  
-- **International Sector**  
-  - CHF 6 million cut, with CHF 10 million transferred from the Foreign to the Economic Department → focus on economic aid rather than development/humanitarian spending.  
-- **Swiss Tourism**  
-  - No cuts, as demanded by the Council of States.  
-- **Agriculture & Army**  
-  - Financial increases, especially for the army.  
-- **Personnel & Development Cooperation**  
-  - Cuts; critics call this “bleeding” of these areas.  
-
-### Party Reactions  
-- **Social Democratic Party (SP)** – *Sarah Wyss*  
-  - “Centre‑right budget – not our budget.”  
-  - Points out the increased spending for agriculture and the army while personnel and development cooperation were cut.  
-- **Swiss People’s Party (SVP)** – *Jakob Stark*  
-  - Highlights the logic of a centre‑right parliament, but notes that development and minority support remain.  
-- **Middle‑Party** – *Yvonne Bürgin*  
-  - Adds that the left‑wing also kept some items (family organisations, child protection, toxic‑info, violence‑against‑women prevention).  
-
-### “Treasure” from Geneva – Use of the Extra Revenue  
-- **Geneva revenues**: roughly CHF 300 million (a one‑off “financial blessing”).  
-- **SP stance (Sarah Wyss)**  
-  - Without these revenues the cuts in development cooperation would not have been necessary (room for action > CHF 80 million).  
-- **Middle‑Party (Yvonne Bürgin)**  
-  - Warns against reckless “squandering” of the extraordinary income, as future budgets could become tight.  
-
-### Outlook: Financial Challenges from 2027  
-- The **relief package** for 2027‑2030 adds about **CHF 1 billion** to the 2027 and 2028 drafts, which still has to be found.  
-- **SVP Council of States member Jakob Stark** warns that this missing billion will further burden the budget.  
-- **FDP National Council member Peter Schilliger** sees the relief package as the biggest obstacle for future budget discussions.  
-- If the federal budget slips into the red, a harsher fight over budget lines is expected at the end of 2026.  
-
-> Relevance score: [8] – Federal budget negotiations are core to Swiss fiscal policy, affecting public services, taxation and the national economy.
-
-## Swiss Industry Faces Problems with the USA, Germany, Franc
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/trotz-zoll-deal-schweizer-industrie-hat-probleme-mit-usa-deutschland-franken-ld.1916879) • _Friday, December 19, 2025, 05:30 CET_
-
-Industrial firms face serious export problems. The fate of three companies shows that the situation is now worse than expected.
-
-### Trade and Political Uncertainty  
-- Switzerland has struck a tariff deal with the **[USA](https://en.wikipedia.org/wiki/United_States)** that reduces the punitive tariff from **39 %** to **15 %** – a decisive step for the export‑dependent industry.  
-- Despite the deal, the future remains uncertain because US customs policy under President **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** stays unpredictable.  
-- According to **Jean‑Philippe Kohl** of the industry association **[Swissmem](https://en.wikipedia.org/wiki/Swissmem)**, the difficult situation for Swiss industry will continue until **2026**.  
-
-### Company‑Specific Earnings Warnings  
-- **Schweiter Technologies** (Steinhausen)  
-  - Projects a **11 %** revenue decline for FY 2025 to **CHF 900 million**.  
-  - Weakness among customers in the US automotive sector; demand drop in the US amid low growth and high inflation.  
-  - Previous inventory purchases made because of high tariffs disappear; a 15 % tariff remains burdensome.  
+_Updated: Sunday, December 21, 2025, 06:24 AM_
 
-- **Huber + Suhner** (Herisau)  
-  - Revises 2025 revenue expectations down **–3 %** to **CHF 870 million**.  
-  - Main reason: a strong **[Swiss franc](https://en.wikipedia.org/wiki/Swiss_franc)** reduces earnings from abroad.  
-  - UBS forecasts a slight weakening of the franc against the dollar, but the franc remains a “safe haven.”  
+No significant events in the last 12 hours.
 
-- **Cicor** (Bronschhofen)  
-  - Lowers 2025 revenue from up to **CHF 650 million** to a maximum of **CHF 620 million**.  
-  - Cause: weaker demand from German industry and medical technology.  
-
-### Currency and Export Outlook  
-- **US dollar**: UBS expects a modest depreciation against the franc (≈ CHF 0.79 per $).  
-- **Euro**: Forecasted appreciation to **CHF 0.95** per €, supported by rising public investment in **[Germany](https://en.wikipedia.org/wiki/Germany)** and the **Euro‑zone**.  
-- The **Euro‑zone** is the most important export market for Swiss industry; a stronger euro could improve competitiveness.  
-
-### Business Cycle and Labour Market Situation  
-- The manufacturing sector (excluding chemicals/pharma) stagnated in H2 2025, but **KOF** (ETH Zürich) expects a clear value‑added increase in H1 2026 thanks to US stimulus and European growth.  
-- The **UBS/procure.ch indicator** was **49.7 points** in November, just below the expansion threshold of 50.  
-- **SMEs** in the **MEM sector** (machines, electronics, metal) are especially strained:  
-  - 3 out of 4 companies see the situation as unfavorable.  
-  - 40 % expect lower orders, revenues and margins in the current quarter.  
-- Labour market:  
-  - In Q3, almost **11 000** full‑time positions were missing compared with the previous year (‑1.7 %).  
-  - Short‑time work remains common, especially among **MEM‑SMEs** (21 % use it, up from 19 % at the start of the year).  
-
-### Overall Assessment  
-- The tariff deal opens opportunities, but continued political uncertainty in the USA, a strong franc and weakening demand from key markets (USA, Germany) weigh on Swiss industry.  
-- Improvements are likely only noticeable in 2026, with the sector depending mainly on a revival of the German economy and a modest weakening of the franc.  
-
-> Relevance score: [7] – Examines export difficulties for Swiss manufacturers and the effect of a new US‑Swiss tariff agreement, directly influencing the national economy and employment.
-
-## Billion‑Euro Aid and Trump Pushes for a Solution
-
-[Blick](https://www.blick.ch/ausland/heute-grosser-auftritt-von-putin-eu-schliesst-kompromiss-zu-ukraine-finanzierung-id21532129.html) • _Friday, December 19, 2025, 04:36 CET_
+<details><summary markdown="span">Show minor events</summary>
 
-With a compromise, the EU provides Ukraine with €90 billion for two years. “This signal is decisive,” says German Chancellor Merz. Putin, who today makes a major appearance, will only concede when the war “is no longer worthwhile.”
+## Train drivers raise serious accusations against Aare Seeland Mobil
 
-### EU Package for Ukraine  
-- The **[European Union](https://en.wikipedia.org/wiki/European_Union)** has agreed on a two‑year financial package of **€90 billion** to support **[Ukraine](https://en.wikipedia.org/wiki/Ukraine)**.  
-- The money will be provided interest‑free and is intended to cover both Ukraine’s military needs and its state budget.  
-- **[Friedrich Merz](https://en.wikipedia.org/wiki/Friedrich_Merz)** called the signal decisive for ending the war and emphasized that President **[Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)** will only back down when the war “is no longer worthwhile.”  
-- The compromise discards Merz’s original proposal to use frozen Russian state assets directly as a loan; those assets remain frozen until Russia makes reparations.  
-- Merz praised the result as a “great success” and saw it as a demonstration of European sovereignty after roughly 18 hours of negotiations in Brussels.  
+[Blick](https://www.blick.ch/wirtschaft/wir-haben-manchmal-sekundenschlaf-schweizer-lokfuehrer-sind-psychisch-am-anschlag-und-haessig-id21535204.html) • _Saturday, December 20 2025, 5:14 PM_
 
-### Putin’s Annual Press Conference  
-- President **[Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)** held his traditionally Kremlin‑controlled annual press conference on Friday.  
-- The nationwide televised event serves to justify the **Ukraine war** to the Russian public and is expected to lay out Putin’s position comprehensively.  
+Severe accusations are being leveled against Aare Seeland Mobil. Train drivers report excessively long shifts and too short rest periods – even “psychological terror”. Many have left the Bern public‑transport operator. Or have been forced out. The company is defending itself.
 
-### US Pressure under Trump  
-- **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** urged the Ukrainian government to make rapid concessions in peace talks.  
-  - He stressed that negotiations were already close to a solution, but Ukraine must “move quickly.”  
-  - If Ukraine takes too much time, Moscow could change its stance.  
-- Putin praised Trump repeatedly for his efforts toward a war end and the “growing understanding” of US negotiators for the Russian view.  
+**Michael Hotz, Business Editor**  
+Behind the scenes at the public‑transport operator Aare Seeland Mobil (ASM) things are really grinding to a halt. Train drivers are currently on strike. They are dissatisfied with the working conditions and the management style of the executive board. “It is e... [read more](https://www.blick.ch/wirtschaft/wir-haben-manchmal-sekundenschlaf-schweizer-lokfuehrer-sind-psychisch-am-anschlag-und-haessig-id21535204.html)
 
-### Negotiation Status and Outlook  
-- Further talks between representatives of the **USA**, **Russia**, and **Ukraine** are planned for the upcoming weekend in **Miami**.  
-- President **[Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy)** announced that his team will be in the US on Friday and Saturday to support the negotiations.  
+> Relevance score: [5] - Serious labour complaints at a Swiss regional railway operator could affect transport safety and trigger regulatory or union actions, making it moderately relevant for the national audience.
 
-> Relevance score: [6] – EU’s €90 billion package for Ukraine is a major geopolitical development that shapes European security and EU‑Swiss relations, though the link to Switzerland is indirect.
+## Allseeds Group: Bombing in Ukraine results in a fatality
 
-## ESA Contracts ClearSpace: Switzerland to Clear Space Debris by 2029
+[20 Min](https://www.20min.ch/story/ukraine-genfer-unternehmen-zum-achten-mal-bombardiert-ein-toter-103473423) • _Saturday, December 20 2025, 4:57 PM_
 
-[20 Minutes](https://www.20min.ch/story/clearspace-1-mission-die-esa-verpflichtet-schweizer-firma-das-all-aufzuraeumen-103468098) • _Friday, December 19, 2025, 03:07 CET_
+The Geneva‑based company Allseeds Group was bombed again, resulting in a death and significant losses.
 
-The ClearSpace‑1 mission will free the ESA satellite Proba‑1 from space junk in 2029 and set new standards.
+According to its director, the sunflower‑oil stocks of Allseeds Group were bombed by Russia near Odessa. The attack caused one death and two injuries.  
+“**Our facilities at the port of Piwdennyj, 50 km …** [read more](https://www.20min.ch/story/ukraine-genfer-unternehmen-zum-achten-mal-bombardiert-ein-toter-103473423)
 
-### Background  
-- Switzerland wants to become more independent with its own satellites, but **space debris** threatens those plans.  
-- Space is now part of critical infrastructure (telecommunications, navigation, weather) – a failure would have grave consequences, as warned by the Swiss army.  
+> Relevance score: [5] - A Swiss company’s assets were hit in the Ukraine war, causing a casualty and highlighting risks to Swiss businesses abroad; it has moderate geopolitical and economic relevance.
 
-### Swiss Space Strategy  
-- From 1 January 2026 the army will establish a **Space Competence Centre** to build military capabilities in orbit.  
-- Long‑term goal: autonomous operation of **satellites** for security‑relevant services.  
+## USA mediate between Kyiv and Moscow – with obstacles
 
-### The Space‑Debris Problem  
-- In Earth orbit there are (as of Dec 2025) about **32 350** human‑made objects + millions of smaller fragments.  
-- According to the ESA debris office (Holger Krag) without counter‑measures we could see up to **five large collisions per year** in 200 years.  
-- The army stresses the need for accurate situational awareness, international cooperation and innovative technologies.  
+[blue News](https://www.bluewin.ch/de/news/international/ukraine-gespraeche-gehen-in-die-naechste-runde-3017477.html) • _Saturday, December 20 2025, 12:23 PM_
 
-### ClearSpace‑1 Mission  
-- **ClearSpace** (a spin‑off of EPFL, Renens, Canton Vaud) received the **ESA** contract in 2019 to carry out the first real clean‑up mission in 2029.  
-- The original target object (a piece of a **Vega** rocket) was damaged in 2023 by a debris fragment and had to be replaced.  
-- New target: the ESA Earth‑observation satellite **Proba‑1** (active since 2001).  
-  - The space‑tug **ClearSpace‑1** will grasp the satellite with four arms, lower it to a lower orbit and let both re‑enter the atmosphere after 3–4 years.  
-- Collaboration with the German aerospace and technology group **OHB**.  
+In Miami, representatives of the USA, Russia and European states meet to negotiate a peace solution to the Ukraine war. While progress is being made on security guarantees, the territorial issue remains highly contested.
 
-### Significance and Outlook  
-- According to **Luisa Innocenti**, head of the Clean Space Office at ESA, this is the first full‑scale test of all developed concepts; the outcome will decide whether debris removal is practically feasible.  
-- **Tim Maclay**, Chief Strategy Officer at ClearSpace, sees the mission as the basis for future orbit‑services.  
-- A successful demonstration could pave the way for further international clean‑up missions and ensure the long‑term safety of the growing satellite infrastructure.  
+The negotiations ... [read more](https://www.bluewin.ch/de/news/international/ukraine-gespraeche-gehen-in-die-naechste-runde-3017477.html)
 
-> Relevance score: [6] – Swiss‑led space‑debris removal mission contributes to global satellite safety and showcases Swiss technological capability, with both international and national significance.
+> Relevance score: [5] - US‑mediated talks on the Ukraine war are a major diplomatic effort with global security implications and indirect relevance for Swiss foreign‑policy stances.
 
-## Financing Ukraine and Russian State Assets
+## Trump and pharma companies: What does the deal mean for drug prices in Switzerland?
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/der-eu-gipfel-muss-in-die-verlaengerung-die-debatte-konzentriert-sich-aufs-russische-staatsvermoegen-ld.1917259) • _Thursday, December 18, 2025, 19:34 CET_
+[20 Min](https://www.20min.ch/story/pharmafirmen-werden-nach-trump-deal-jetzt-medikamente-in-der-schweiz-teurer-103473286) • _Saturday, December 20 2025, 11:06 AM_
 
-Ukraine urgently needs fresh money – and EU countries have pledged to provide it. Heads of state and government are preparing for an overnight session.
+While the USA benefits from falling drug prices, Switzerland remains untouched for now. But for how long?
 
-### Core Question: Financing Ukraine 2026‑2027  
-- The EU summit in Brussels (18 Dec 2025) focuses on covering Ukraine’s financial needs for 2026 and 2027.  
-- The International Monetary Fund (IMF) estimates the need at **€135 billion**; EU members (except Hungary) want to provide at least **two‑thirds** (~€90 billion).  
-- No agreement yet; discussions only started on the evening of the summit.  
+It is a victory for US President Donald Trump: 14 pharmaceutical giants are lowering their drug prices in the United States, as the Republican announced at a conference with various CEOs of those companies. Novartis and Roche subsidiary Genentech … [read more](https://www.20min.ch/story/pharmafirmen-werden-nach-trump-deal-jetzt-medikamente-in-der-schweiz-teurer-103473286)
 
-### Proposed Financing Options  
-1. **Joint Borrowing**  
-   - The European Commission presented a model where the EU raises money on capital markets and passes it on as a loan to Ukraine – a step already allowed as an exception during the Covid‑19 pandemic.  
-   - This variant requires unanimous consent of all member states and is seen as politically unrealistic.  
-2. **Use of Frozen Russian State Assets held by Euroclear**  
-   - The assets frozen since the Russian invasion, held by **[Euroclear](https://en.wikipedia.org/wiki/Euroclear)**, could be used as a “reparations credit” for Ukraine.  
-   - Russia could retrieve the money once it makes reparations of comparable size; the EU does not view this as **confiscation**.  
-   - Risks: complex legal and currency‑policy questions, plus possible counter‑claims.  
+> Relevance score: [5] - A US drug‑price agreement could influence price expectations and market dynamics for Swiss pharma companies, giving it moderate national relevance.
 
-### National Positions and Negotiations  
-- **[Donald Tusk](https://en.wikipedia.org/wiki/Donald_Tusk)** (Poland) warned: “Either money today or blood tomorrow – and that applies to Ukraine and all of Europe.”  
-- **[Friedrich Merz](https://en.wikipedia.org/wiki/Friedrich_Merz)** (Germany) called the use of Russian assets “no better option.”  
-- **[Bart De Wever](https://en.wikipedia.org/wiki/Bart_De_Wever)** (Belgium) – host of Euroclear – demands:  
-  - An open **liquidity guarantee** so Euroclear can return the assets if a court decision requires it.  
-  - A cap on liability, because an “unlimited blank‑check” would be hard for national parliaments to approve.  
-- **[Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy)** (Ukraine) emphasised that legal concerns do not outweigh the ongoing Russian aggression and that Ukraine has a legitimate claim to the assets.  
+## Schinznach‑Dorf: Canton removes illegal cameras from school premises
 
-### Geopolitical Dimension  
-- The debate is part of Europe’s effort to act as an independent **geopolitical actor** in US‑led peace negotiations.  
-- The USA has signalled that it expects European partners to cover Kyiv’s financial needs in return for security guarantees.  
-- Urgency: Ukraine must be able to survive without further aid by the **second quarter of 2026**; a decision therefore has to be taken at the summit or even in an overnight supplemental session.  
+[20 Min](https://www.20min.ch/story/schinznach-dorf-ag-16-jahre-lang-illegal-kinder-gefilmt-kanton-greift-durch-103473220) • _Saturday, December 20 2025, 8:17 AM_
 
-> Relevance score: [6] – EU decisions on Ukraine aid and use of frozen Russian assets have major geopolitical weight and indirect implications for Swiss foreign‑policy and financial regulations.
+After years of monitoring without legal basis, the cameras were dismantled on the order of the canton.
 
-<details><summary markdown="span">Show less important events</summary>
+At the primary school in Schinznach‑Dorf, for 16 years without permission, several surveillance cameras operated. They filmed the school entrances, the playground and the yard around the clock. The Aargau data‑protection officer Kat … [read more](https://www.20min.ch/story/schinznach-dorf-ag-16-jahre-lang-illegal-kinder-gefilmt-kanton-greift-durch-103473220)
 
-## BP cuts eco‑projects and brings a US woman to the top
+> Relevance score: [5] - The removal of unauthorized surveillance cameras at a school raises privacy and data‑protection issues, setting a precedent for Swiss cantonal oversight.
 
-[Swiss Radio and Television](https://www.srf.ch/news/wirtschaft/machtwechsel-bei-oelkonzern-frau-aus-den-usa-soll-bp-retten-abkehr-von-erneuerbarer-energie) • _Friday, December 19, 2025, 06:01 CET_
+## Federal government drops EU‑sanctioned ex‑intelligence officer
 
-The shift to renewable energy has failed at BP. The company now makes a turnaround with a new chief executive.
+[Inside Paradeplatz](https://insideparadeplatz.ch/2025/12/20/bund-laesst-eu-sanktionierten-ex-geheimdienstler-fallen/) • _Saturday, December 20 2025, 7:58 AM_
 
-Chief of 100,000 employees: In several ways the change at the oil giant is spectacular: for the first time in the more‑than‑100‑year history of the firm a woman takes the helm of BP. And it is the first time that the leadership… [read more](https://www.srf.ch/news/wirtschaft/machtwechsel-bei-oelkonzern-frau-aus-den-usa-soll-bp-retten-abkehr-von-erneuerbarer-energie)
+Bern intervenes only formally in Brussels, instead of denouncing the punishment of Swiss Jacques Baud. Private support action from Japan.
 
-> Relevance score: [5] – Leadership change at a major global oil company and reduction of its green projects affect the energy transition debate worldwide, but the direct impact on Swiss society is limited. Moderate structural relevance.
+“The EU sanctioning was like ‘a bolt from a clear sky,’ says Jacques Baud to the Berliner Zeitung.”  
+“The accusations against me are simply false,” says the former Swiss intelligence officer to the newspaper. “I never … [read more](https://insideparadeplatz.ch/2025/12/20/bund-laesst-eu-sanktionierten-ex-geheimdienstler-fallen/)
 
-## When control becomes dangerous: Veterinary services under fire
+> Relevance score: [5] - Switzerland’s handling of an EU‑sanctioned former intelligence officer touches on diplomatic relations and legal alignment with EU measures, giving it moderate importance.
 
-[Swiss Radio and Television](https://www.srf.ch/news/schweiz/zwischen-tierwohl-und-wut-wenn-kontrolle-gefaehrlich-wird-veterinaerdienste-unter-beschuss) • _Friday, December 19, 2025, 05:46 CET_
+## After the landslide in Blatten, tourism seeks new paths
 
-The Ramiswil case shows: animal‑welfare controls are risky. Veterinary services often face hostility.
+[Swiss Radio and Television](https://www.srf.ch/news/nach-bergsturz-im-loetschental-blatten-tourismus-in-truemmern-und-neuanfang) • _Saturday, December 20 2025, 7:38 AM_
 
-On the road in the Knonau district of the canton of Zurich: Sarah Wyss from the veterinary service drives to an animal‑welfare inspection. She is tense. “I want to do a correct job. For that I have to give 100 percent and be ready 100 percent.” She knows the topic… [read more](https://www.srf.ch/news/schweiz/zwischen-tierwohl-und-wut-wenn-kontrolle-gefaehrlich-wird-veterinaerdienste-unter-beschuss)
+Surviving unscathed and fighting for a fresh start after destruction: an insight into Lötschental tourism.
 
-> Relevance score: [4] – Highlights safety risks for Swiss veterinary inspectors and raises concerns about enforcement of animal‑welfare law. Important for a specific professional group, but limited broader societal impact.
+In summer 2025 tourism in Lötschental was at a low point. The landslide caused the valley to lose almost half of its summer overnight stays. Hotels in Blatten were destroyed; the Fafleralp hotel and its campsite are inaccessible. The one in K … [read more](https://www.srf.ch/news/nach-bergsturz-im-loetschental-blatten-tourismus-in-truemmern-und-neuanfang)
 
-## Media: Contract for new US company for TikTok signed
+> Relevance score: [5] - The landslide’s devastation of a key tourist area in the Lötschental has significant economic repercussions for the region and may influence national tourism strategies.
 
-[20 Minutes](https://www.20min.ch/story/tiktok-usa-vertrag-mit-neuer-firma-oracle-silver-lake-mgx-unterzeichnet-103472584) • _Friday, December 19, 2025, 02:51 CET_
+## New Epstein files released: The most explosive in overview
 
-The future of TikTok in the US hung in limbo for months. Now, according to media reports, the hand‑over of the US business to new owners has been sealed.
+[Swiss Radio and Television](https://www.srf.ch/news/international/skandal-um-missbrauchsring-die-wichtigsten-fragen-und-antworten-zu-den-epstein-akten) • _Saturday, December 20 2025, 5:23 PM_
 
-TikTok is, after months of limbo, on the brink of securing its survival in the US. The contract for a new company handling the US business of the popular video app TikTok has, according to media reports, been signed.  
-TikTok CEO Shou Chew… [read more](https://www.20min.ch/story/tiktok-usa-vertrag-mit-neuer-firma-oracle-silver-lake-mgx-unterzeichnet-103472584)
+Parts of the explosive Epstein files have been released. SRF correspondent Barbara Colpi provides the key answers.
 
-> Relevance score: [4] – US‑centric corporate development of a social‑media platform; limited direct impact on Swiss society or economy.
+The US government has released hundreds of documents with photos, flight logs and witness statements. The convicted multimillionaire Jeffrey Epstein ran a long‑standing abuse ring, involving dozens … [read more](https://www.srf.ch/news/international/skandal-um-missbrauchsring-die-wichtigsten-fragen-und-antworten-zu-den-epstein-akten)
 
-## Vote: Farmers demonstrate against trade agreement
+> Relevance score: [4] - The release of parts of the Epstein files is a high‑profile US scandal that informs public understanding of elite abuse, but it does not create structural change for Switzerland or the world at large.
 
-[20 Minutes](https://www.20min.ch/story/von-der-leyen-7300-bauern-demonstrierten-eu-verschiebt-mercosur-abstimmung-103472511) • _Thursday, December 18, 2025, 21:39 CET_
+## Flu wave hits Switzerland early: many Swiss struggle with persistent symptoms
 
-The EU postponed the signing of the Mercosur agreement after 7,300 farmers protested in Brussels.
+[20 Min](https://www.20min.ch/story/influenza-alle-sind-krank-die-grippe-trifft-die-schweiz-frueh-und-hart-103473390) • _Saturday, December 20 2025, 5:03 PM_
 
-EU Commission President Ursula von der Leyen postponed her plans to sign the trade deal with the South‑American Mercosur states to January. She told EU heads of state and government on Thursday at the summit… [read more](https://www.20min.ch/story/von-der-leyen-7300-bauern-demonstrierten-eu-verschiebt-mercosur-abstimmung-103472511)
+The flu wave in Switzerland is starting earlier than usual and is causing numerous cases. Experts warn of a strong season.
 
-> Relevance score: [4] – EU farmer protest influencing the timing of the Mercosur trade deal; indirect implications for Swiss agriculture but no direct policy effect.
+“I don’t know when I was last this sick,” says a TikTok user. Videos like hers are currently flooding the platform. Dozens are reporting flu symptoms, sore throat, runny nose, fever and headache … [read more](https://www.20min.ch/story/influenza-alle-sind-krank-die-grippe-trifft-die-schweiz-frueh-und-hart-103473390)
 
-## Attack on Bondi Beach – Australia announces weapons‑buy‑back programme
+> Relevance score: [4] - An early, severe flu season strains the Swiss health system and causes widespread illness, but seasonal flu outbreaks are routine and have limited long‑term impact.
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/attentat-am-bondi-beach-australien-kuendigt-nach-attentat-waffen-rueckkaufprogramm-an) • _Friday, December 19, 2025, 03:10 CET_
+## Lula warns against US military intervention in Venezuela
 
-The Australian government announced a weapons‑buy‑back programme after the attack in Sydney.
+[Watson](https://www.watson.ch/international/usa/709178016-lula-warnt-vor-us-militaereinsatz-in-venezuela) • _Saturday, December 20 2025, 4:00 PM_
 
-The Australian government announced a weapons‑buy‑back programme following the attack in Sydney.  
-The announcement was made by Australian Prime Minister Anthony Albanese at a press conference.  
-He also outlined that a Sunday… [read more](https://www.srf.ch/news/international/attentat-am-bondi-beach-australien-kuendigt-nach-attentat-waffen-rueckkaufprogramm-an)
+The US military has assembled a task force of warships, combat aircraft and soldiers off the coast of Venezuela.
 
-> Relevance score: [3] – Australian response to a local terror incident; limited relevance for Swiss public policy or global structures beyond general disarmament discourse.
+Amid the escalating conflict between the United States and Venezuela, Brazilian President Luiz Inácio Lula da Silva warned of a US military intervention in the South American country. “An armed intervention in Ven… [read more](https://www.watson.ch/international/usa/709178016-lula-warnt-vor-us-militaereinsatz-in-venezuela)
 
-## European Court of Justice rebukes Danish “ghetto law”
+> Relevance score: [4] - Brazilian President Lula’s warning about a possible US intervention in Venezuela is geopolitically relevant, yet it has only indirect implications for Swiss foreign policy.
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/auslaenderpolitik-in-daenemark-daenemark-mit-diskriminierendem-ghetto-gesetz-im-abseits) • _Thursday, December 18, 2025, 20:39 CET_
+## For those in poverty: free tickets for FC Basel football matches
 
-The European Court of Justice condemns discrimination against neighbourhoods with a majority of non‑Western‑origin residents.
+[Swiss Radio and Television](https://www.srf.ch/news/schweiz/verein-hilft-armutsbetroffenen-gratis-tickets-fuer-fussballspiele-vom-fc-basel) • _Saturday, December 20 2025, 8:00 AM_
 
-Since 2019 Denmark has had the so‑called “ghetto law,” which defines certain residential areas with more than 1 000 inhabitants as “ghettos.” neighbourhoods where at least half of the residents are of “non‑Western origin” … [read more](https://www.srf.ch/news/international/auslaenderpolitik-in-daenemark-daenemark-mit-diskriminierendem-ghetto-gesetz-im-abseits)
+FCB season‑ticket holders can donate their tickets if they are unable to attend – thanks to a new online platform.
 
-> Relevance score: [3] – ECJ ruling on Danish law deals with discrimination issues within the EU; relevance to Switzerland is peripheral.
+It is a premiere for Alessandro and his three children on a mid‑December Sunday: for the first time they can attend a home game of FC Basel together – and for free. Alessandro received four tickets from season‑ticket owners who … [read more](https://www.srf.ch/news/schweiz/verein-hilft-armutsbetroffenen-gratis-tickets-fuer-fussballspiele-vom-fc-basel)
 
-## “Energy at 5 percent”: Why we are so close to water
+> Relevance score: [4] - A social initiative that gives free football tickets to low‑income families addresses local inequality and community cohesion, offering moderate relevance.
 
-[20 Minutes](https://www.20min.ch/story/energie-bei-5-prozent-warum-wir-gerade-so-nah-am-wasser-sind-103470856) • _Friday, December 19, 2025, 05:08 CET_
+## Osaka: human organs found in market
 
-Fatigue, world‑weariness and end‑of‑year pressure: an expert explains why many are currently emotionally fragile.
+[Watson](https://www.watson.ch/international/japan/752394977-osaka-menschliche-organe-in-markt-gefunden) • _Saturday, December 20 2025, 4:44 PM_
 
-The world is falling apart. For some, it seems certain: wars, conflicts, power struggles – the political situation is bleak. At the same time personal problems add to daily life, making it a tightrope walk for many. In particular… [read more](https://www.20min.ch/story/energie-bei-5-prozent-warum-wir-gerade-so-nah-am-wasser-sind-103470856)
+Numerous bottles containing human organs were found at the central fish and vegetable market in Osaka, Japan.
 
-> Relevance score: [2] – A psychological commentary on personal well‑being and energy metaphors; lacks concrete policy or structural implications for Switzerland or the world.
+The Japanese daily Asahi Shimbun reported on Friday evening that “numerous” bottles with human organs were discovered at the market. The find actually occurred in September, … [read more](https://www.watson.ch/international/japan/752394977-osaka-menschliche-organe-in-markt-gefunden)
 
-## Democrats release new photos from Jeffrey Epstein’s estate
+> Relevance score: [3] - The discovery of human organs on a Japanese market is a disturbing crime story with limited implications for Swiss readers and no structural significance.
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/missbrauchs-skandal-neue-fotos-aus-dem-nachlass-von-jeffrey-epstein-veroeffentlicht) • _Thursday, December 18, 2025, 22:10 CET_
+## Snow problem ahead of Olympics – Eliasch raises alarm: “Delays are inexplicable”
 
-Democrats in the US Congress have again released photos from the archive of the deceased sex‑offender.
+[Swiss Radio and Television](https://www.srf.ch/sport/milano-cortina-2026/schneeproblem-vor-olympia-eliasch-schlaegt-alarm-verzoegerungen-sind-unerklaerlich) • _Saturday, December 20 2025, 4:23 PM_
 
-Members of the Democratic Party in Congress have released new photos from the estate of the late sex offender Jeffrey Epstein. This occurred a day before the deadline for the US Justice Department (19 Dec 2025), all files i… [read more](https://www.srf.ch/news/international/missbrauchs-skandal-neue-fotos-aus-dem-nachlass-von-jeffrey-epstein-veroeffentlicht)
+FIS President Johan Eliasch expressed his discontent about snow conditions 1.5 months before the Olympic Games.
 
-> Relevance score: [2] – US political controversy with minor relevance for Swiss public discourse; primarily entertainment‑type news.
+“The delays in the preparations are ‘inexplicable,’” said FIS boss Johan Eliasch on the sidelines of the women’s Alpine World Cup in Val d’Isère, France. “Not everything is ready yet,” the Swedish‑British official added. … [read more](https://www.srf.ch/sport/milano-cortina-2026/schneeproblem-vor-olympia-eliasch-schlaegt-alarm-verzoegerungen-sind-unerklaerlich)
+
+> Relevance score: [3] - A warning about snow conditions ahead of the Winter Olympics concerns the sport world but does not affect Swiss society or policy in any substantial way.
+
+## ChatGPT saves life: parents take son with brain tumor to hospital
+
+[20 min.ch](https://www.20min.ch/story/belgien-bub-wirkt-veraendert-eltern-hoeren-auf-ihr-gefuehl-und-retten-ihn-103473233) • _Saturday, December 20 2025, 9:27 AM_
+
+A Belgian boy survived thanks to ChatGPT’s advice. His parents acted quickly on unusual symptoms.
+
+A six‑year‑old Belgian boy survived thanks to the advice of ChatGPT. His parents had become worried about unusual symptoms in their son and consulted the AI tool. It recommended that they take the child to the hospital immediately. … [read more](https://www.20min.ch/story/belgien-bub-wirkt-veraendert-eltern-hoeren-auf-ihr-gefuehl-und-retten-ihn-103473233)
+
+> Relevance score: [3] - A Belgian family’s use of ChatGPT for medical advice illustrates AI’s potential health impact; it is interesting but has limited direct effect on Swiss society.
+
+## Samsung Galaxy S26 (Ultra) delayed – current status
+
+[vybe.ch](https://www.vybe.ch/samsung-galaxy-s26-ultra-verzogert-sich-das-ist-der-aktuelle-stand/) • _Saturday, December 20 2025, 4:17 PM_
+
+Galaxy S26 (Ultra) is likely to arrive later: a Korean report cites this date as the presentation deadline for Samsung’s new flagships.
+
+Yesterday Samsung officially unveiled the new Exynos‑2600 chipset, which will be used in selected models of the Galaxy S26 line. The discussion concerns the Galaxy S26 and Galaxy S26+, while the top‑end Galaxy S26 Ultra will be launched worldwide … [read more](https://www.vybe.ch/samsung-galaxy-s26-ultra-verzogert-sich-das-ist-der-aktuelle-stand/)
+
+> Relevance score: [2] - A product launch delay for a Korean smartphone is a consumer‑tech news item with no broader civic or structural impact for Switzerland.
+
+## Passengers forced to jump from Boeing 737 because no stairs were available
+
+[aeroTELEGRAPH](https://www.aerotelegraph.com/sicherheit/passagiere-muessen-aus-boeing-737-springen-weil-keine-treppe-vorhanden-ist/m5gz2z7) • _Saturday, December 20 2025, 1:27 PM_
+
+The Boeing 737 arrived, but no one thought about the stairs. At Kindu Airport in the Democratic Republic of Congo, Air Congo passengers had to exit their Boeing 737 in a risky way – by jumping from the cabin door onto the tarmac.
+
+Even in Europe it sometimes happens that an aircraft lands and parks on the apron, but no stairs are provided. Consequently, passengers may have to remain on board for several minutes even after the flight … [read more](https://www.aerotelegraph.com/sicherheit/passagiere-muessen-aus-boeing-737-springen-weil-keine-treppe-vorhanden-ist/m5gz2z7)
+
+> Relevance score: [2] - A safety mishap at a Congolese airport is a dramatic incident but does not affect Swiss aviation safety or public interest significantly.
+
+## Tesla crashes into stationary police car on A1
+
+[Swiss Radio and Television](https://www.srf.ch/news/schweiz/bei-muenchwilen-tg-tesla-kracht-auf-a1-in-stehendes-polizeiauto) • _Saturday, December 20 2025, 1:17 PM_
+
+The 58‑year‑old driver overlooked a stationary police car with blue lights at an exit on the A1 highway.
+
+A 58‑year‑old Tesla driver failed to notice a parked police vehicle with blue lights at the Münchwilen TG exit on the A1. The collision caused significant material damage. No injuries were reported … [read more](https://www.srf.ch/news/schweiz/bei-muenchwilen-tg-tesla-kracht-auf-a1-in-stehendes-polizeiauto)
+
+> Relevance score: [2] - A traffic collision involving a Tesla and a police vehicle on a Swiss highway is a local incident with limited broader relevance.
+
+## Japan aims to preserve unprofitable routes with coordinated flight schedules
+
+[aeroTELEGRAPH](https://www.aerotelegraph.com/airlines/japan-will-mit-abgestimmten-flugplaenen-unwirtschaftliche-strecken-erhalten/66k22h8) • _Saturday, December 20 2025, 8:08 AM_
+
+Japan’s domestic flights are often unprofitable. To keep important routes, the Japanese tourism ministry is intervening in the market with regulation.
+
+If airlines want to operate domestic routes such as Berlin–Frankfurt, the biggest obstacle is often obtaining suitable take‑off and landing slots. Major German airports coordinate slots, so allocation follows … [read more](https://www.aerotelegraph.com/airlines/japan-will-mit-abgestimmten-flugplaenen-unwirtschaftliche-strecken-erhalten/66k22h8)
+
+> Relevance score: [2] - Japanese domestic aviation policy has little direct impact on Swiss travelers or the national transport sector.
+
+## Joshua wins boxing bout against Paul by KO
+
+[Blick](https://www.blick.ch/sport/boxen/k-o-sieg-in-der-6-runde-box-star-joshua-schickt-youtuber-paul-auf-die-bretter-id21535732.html) • _Saturday, December 20 2025, 8:30 AM_
+
+In the mega‑fight in Miami, the winner was decided in the sixth round: Anthony Joshua knocks out Jake Paul.
+
+At the Kaseya Center in Miami many fighters entered the ring. The highlight of the evening? The duel between Jake Paul (28), famous from Vine and YouTube, and Anthony Joshua (36), former world champion and Olympic gold‑medalist … [read more](https://www.blick.ch/sport/boxen/k-o-sieg-in-der-6-runde-box-star-joshua-schickt-youtuber-paul-auf-die-bretter-id21535732.html)
+
+> Relevance score: [1] - A boxing match between two high‑profile personalities is entertainment‑focused and lacks civic or structural significance.
 
 </details>
