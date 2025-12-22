@@ -2,165 +2,246 @@
 
 ---
 
-_Aktualisiert: Sonntag, 21. Dezember 2025, 18:20 Uhr_
+_Aktualisiert: Montag, 22. Dezember 2025, 18:22 Uhr_
 
-## Selenski: USA wollen Kiew und Moskau an einen Tisch bringen
+## Gericht lässt Klimaklage gegen Holcim zu
 
-[Blick](https://www.blick.ch/ausland/selenski-ueber-miami-treffen-usa-wollen-ukraine-und-russland-an-einen-tisch-bringen-id21537406.html) • _Samstag, 20. Dezember 2025, 20:08 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/insulaner-gegen-zementkonzern-gericht-laesst-klimaklage-zu-muss-holcim-fuer-klimaschaeden-zahlen) • _Montag, 22. Dezember 2025, 06:00 Uhr_
 
-Bei den Verhandlungen in Miami könnte laut dem ukrainischen Präsidenten Wolodimir Selenski ein trilaterales Treffen zwischen der Ukraine, Russland und den USA stattfinden, möglicherweise auch mit europäischer Beteiligung.
+Erstmals in der Schweiz dürfen Geschädigte gegen einen Konzern wegen Klimaschäden klagen. Holcim legt Berufung ein.
 
-### Hintergrund der Verhandlungen  
-- In **Miami** wird über das Ende des **Ukraine‑Kriegs** (2022‑Russische Invasion der Ukraine) verhandelt.  
-- Die **USA** schlagen ein **trilaterales Treffen** der nationalen Sicherheitsberater von **USA**, **Ukraine** und **Russland** vor, ggf. mit **europäischer Beteiligung**.  
+### Hintergrund der Klage
+- Vier Bewohner*innen der indonesischen Insel **Pari** (vgl. [Indonesien](https://de.wikipedia.org/wiki/Indonesien)) klagen vor dem **Zuger Kantonsgericht** ([Kantonsgericht Zug](https://de.wikipedia.org/wiki/Kantonsgericht_Zug)) gegen den Zementkonzern **Holcim** ([Holcim](https://de.wikipedia.org/wiki/Holcim)).
+- Sie machen Holcim mitverantwortlich für den Klimawandel, der den Meeresspiegel ansteigen lässt und die Existenz der Insel bedroht.
+- Die Kläger*innen fordern, dass Holcim seine CO₂‑Emissionen schneller reduziert und einen Teil der durch die Erderwärmung entstandenen Kosten übernimmt.
 
-### Beteiligte Akteure  
-- **[Wolodymyr Selenskyj](https://de.wikipedia.org/wiki/Volodymyr_Seljenskyj)** (Präsident der Ukraine) kündigt das mögliche Treffen an.  
-- **[Rustem Umjerow](https://de.wikipedia.org/wiki/Rustem_Umjerow)** vertritt die Ukraine als Verhandlungsführer in den USA.  
-- **[Marco Rubio](https://de.wikipedia.org/wiki/Marco_Rubio)** (US‑Außenminister im Kabinett von **[Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump)**) würde die USA repräsentieren.  
-- Für Russland ist bislang unklar, welcher Sicherheitsberater teilnehmen würde; die üblichen Ansprechpartner sind:  
-  - **[Nikolai Patrushev](https://de.wikipedia.org/wiki/Nikolai_Patruschew)** (ehemaliger Leiter des Nationalen Sicherheitsrats) – seit letztem Jahr Berater für Schifffahrt.  
-  - **[Juri Uschakow](https://de.wikipedia.org/wiki/Juri_Uschakow)** (langjähriger Außenpolitischer Berater Putins).  
-  - **[Wladimir Medinski](https://de.wikipedia.org/wiki/Wladimir_Medinski)** (verantwortlich für Kultur‑ und Geschichtsanliegen, leitete frühere Gespräche in Istanbul).  
-  - **[Kirill Dmitrijew](https://de.wikipedia.org/wiki/Kirill_Dmitrjew)** (Russlands Sondergesandter in den USA).  
+### Fakten zu Holcim und den Emissionen
+- Holcim gehört zu den **„Carbon Majors“** ([Carbon Majors](https://en.wikipedia.org/wiki/Carbon_majors)), 180 Unternehmen, die weltweit die meisten klimaschädlichen CO₂-Emissionen verursachen.
+- Seit 1950 hat das Unternehmen etwa doppelt so viel CO₂ ausgestoßen wie die Schweiz.
+- Laut eigener Angabe wurden die Emissionen seit 2015 um mehr als 50 % gesenkt; bis 2050 will das Unternehmen klimaneutral produzieren.
 
-### Frühere Gespräche und aktuelle Situation  
-- Im **Sommer** trafen sich ukrainische und russische Verhandlungsführer in der **Türkei** (Istanbul); das Ergebnis war laut Selenskyj wenig überzeugend, obwohl ein **Gefangenenaustausch** positiv bewertet wurde.  
-- Ein trilaterales Treffen würde erst nach sichtbaren Fortschritten in den laufenden Gesprächen stattfinden.  
-- Die Möglichkeit, **europäische Vertreter** (z. B. aus der **EU**) einzubeziehen, wird von Selenskyj als logisch erachtet, bleibt jedoch abhängig vom Verhandlungsverlauf.  
+### Gerichtsurteil
+- Das Zuger Kantonsgericht erklärt die Klage **zulässig** – ein Novum in der Schweiz.
+- Das Urteil enthält noch keine Entscheidung darüber, ob Holcim tatsächlich für die Klimaschäden auf Pari haftet.
+- Holcim hat bereits Berufung angekündigt.
 
-> Relevance score: [7] - Potential US‑mediated talks between Ukraine and Russia touch on a major international security conflict; outcomes could influence European stability, including Switzerland’s neutral stance.
+### Position von Holcim
+- Holcim argumentiert, Gerichte seien nicht der richtige Ort für Klimaschutz; dies sei Aufgabe der Politik.
+- Das Gericht weist darauf hin, dass gerichtliche Entscheidungen die demokratisch legitimierte Klimapolitik **nicht ersetzen**, sondern **ergänzen**.
+- Im vorliegenden Fall geht es um konkrete Forderungen einer kleinen Insel, nicht um die Schweizer Klimapolitik insgesamt.
 
-## Trumps Pharma-Abkommen macht Druck auf Medikamentenpreise in der Schweiz
+### Weiteres Verfahren
+- **Nächste Instanz:** das **Zuger Obergericht**.  
+  - Die Parteien können das Urteil zunächst zum **Bundesgericht** in Lausanne und später zum **Europäischen Gerichtshof für Menschenrechte** ([EGMR](https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Gerichtshof_f%C3%BCr_Menschenrechte)) bringen.
+- Erst nach rechtskräftiger Zulassung können Fragen zu Schadensersatz und verschärften CO₂‑Maßnahmen geklärt werden; das Verfahren wird voraussichtlich Jahre dauern.
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/preisvereinbarungen-mit-trump-das-pharma-abkommen-mit-den-usa-hat-auswirkungen-auf-die-schweiz) • _Samstag, 20. Dezember 2025, 21:11 Uhr_
+### Mögliche Folgen
+- Bestätigung der Zulässigkeit könnte den Druck auf große CO₂‑Verursacher weltweit erhöhen.
+- Unternehmen stehen vor der Wahl:
+  1. Emissionen schneller reduzieren und Geschäftsmodelle umstellen.
+  2. Politischen Druck ausüben bzw. Gerichte blockieren, um künftige Klagen zu verhindern.
 
-Das Abkommen mit Novartis und Roche wird den Druck auf Medikamentenpreise in der Schweiz erhöhen, glauben Politiker.
+### Internationale Bedeutung
+- Das Urteil fügt sich in eine globale Dynamik ein: rund 60 Länder sehen fast 3 000 laufende Klimaklagen.
+- Der **Internationale Gerichtshof** ([Internationaler Gerichtshof](https://de.wikipedia.org/wiki/Internationaler_Gerichtshof)) hat kürzlich Klimaschutz als Menschenrecht anerkannt.
+- Ein deutsches Gericht hat zuletzt eine Klimaklage eines peruanischen Bauern gegen den Energiekonzern **RWE** ([RWE](https://de.wikipedia.org/wiki/RWE)) zugelassen.
+- Das schweizerische Urteil wird daher weltweit aufmerksam beobachtet.
 
-### Hintergrund des Pharma-Abkommens
-- Die US‑Regierung hat ein Abkommen mit **neun internationalen Pharmakonzernen** beschlossen, das die **Medikamentenpreise in den USA drastisch senken** soll.  
-- Zu den Unterzeichnern gehören die Schweizer Pharma‑Giganten **[Novartis](https://en.wikipedia.org/wiki/Novartis)** und **[Roche](https://en.wikipedia.org/wiki/Roche_(company))** (Tochter **[Genentech](https://en.wikipedia.org/wiki/Genentech)**).  
-- Im Gegenzug erhalten die Unternehmen **drei Jahre Zollfreiheit** für importierte Medikamente, die künftig **direkt online** angeboten werden sollen.  
+> Relevance score: [7] - First Swiss court permitting climate‑damage claims against a multinational sets a precedent for corporate liability and could trigger further litigation, affecting the Swiss legal landscape and climate policy.
 
-### Erwartete Auswirkungen auf die Schweiz
-- **[Andri Silberschmidt](https://en.wikipedia.org/wiki/Andri_Silberschmidt)** (FDP‑Nationalrat) rechnet bei **neuen, innovativen Medikamenten** mit **höheren Preisen** in der Schweiz, weil die bisherige **US‑Subvention** der Forschung wegfallen könnte.  
-- Er argumentiert, dass die Schweiz **mehr in Forschung und Entwicklung investieren** müsse, um den Zugang zu hochinnovativer Medizin zu sichern.  
+## Friedensgespräche in Miami: Ukraine positiv
 
-### Reaktionen aus dem Schweizer Parlament
-- **[Sarah Wyss](https://en.wikipedia.org/wiki/Sarah_Wyss)** (SP‑Nationalrätin) erwartet **steigenden Preisdruck**, betont jedoch, dass die Preisbildung im **regulierten Schweizer Markt** liegt und nicht von **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** beeinflusst werden kann.  
-- **[Elisabeth Baume‑Schneider](https://en.wikipedia.org/wiki/Elisabeth_Baume-Schneider)** (Bundesrätin, Gesundheitsministerin) weist darauf hin, dass die aktuelle Situation in den USA **keine direkte Preisauswirkung** auf die Schweiz habe und betont, dass **Preiserhöhungen nicht über Prämienzahler finanziert** werden dürfen.  
+[Blick](https://www.blick.ch/ausland/ukraine-positiv-russland-verhalten-das-ist-das-fazit-der-friedensgespraeche-in-miami-id21539882.html) • _Sonntag, 21. Dezember 2025, 22:10 Uhr_
 
-### Offizielle Stellung der Bundesbehörden
-- Das **[Bundesamt für Gesundheit (BAG)](https://en.wikipedia.org/wiki/Federal_Office_of_Public_Health_(Switzerland))** erklärt, dass das Abkommen eine **private Vereinbarung** zwischen Unternehmen und den USA sei, **ohne Beteiligung des Bundes**, und daher **keine direkte Auswirkung** auf die Schweizer Medikamentenpreise habe.  
+Vertreter der USA und der Ukraine haben in Miami über ein mögliches Kriegsende diskutiert. Präsident Selenski zeigte sich zufrieden mit den Gesprächen. US-Unterhändler Witkoff sieht Friedenswille auf beiden Seiten. Der grosse Durchbruch blieb aber aus.
+
+### Verlauf der Gespräche in Miami  
+- Vertreter der **USA** und der **Ukraine** trafen sich in **Miami**, Florida, um ein mögliches Ende des **Ukraine‑Krieg** zu erörtern.  
+- **Wolodymyr Selenskyj** (<https://de.wikipedia.org/wiki/Wolodymyr_Selenskyj>) zeigte sich mit der Gesprächsatmosphäre zufrieden und betonte die fortlaufende Arbeit an  
+  - Dokumenten zur Kriegsbeendigung  
+  - Sicherheitsgarantien  
+  - Wiederaufbauplänen  
+- Der US‑Unterhändler **Steve Witkoff** (<https://de.wikipedia.org/wiki/Steve_Witkoff>) äußerte ebenfalls Zufriedenheit und verwies auf Gespräche über  
+  - multilaterale Sicherheitsgarantien  
+  - wirtschaftliche Entwicklung der von Russland seit 2022 besetzten Gebiete  
+- Neben den USA und der Ukraine nahmen auch **europäische Partner** an den Verhandlungen teil.  
+
+### Beteiligte Akteure und deren Positionen  
+- **USA**  
+  - Betonen konstruktiven Dialog und positive Stimmung.  
+  - Verweisen auf den im November vorgestellten Friedensplan und die Bereitschaft zu multilateralen Sicherheitsgarantien.  
+- **Ukraine**  
+  - Verpflichtet sich zu einem „gerechten und dauerhaften Frieden“.  
+  - Erwartet detaillierte Berichte vom Verhandlungsteam, einschließlich möglicher Zeitrahmen für Entscheidungen.  
+- **Russland / Kreml**  
+  - **Kirill Dmitrijew** (<https://de.wikipedia.org/wiki/Kirill_Dmitrjew>) sollte in Miami Informationen zum geänderten Friedensplan sammeln, brachte jedoch keine neue Botschaft von **Wladimir Putin** (<https://de.wikipedia.org/wiki/Wladimir_Putins>) mit.  
+  - Der Kreml dämpfte öffentlich die Erwartungen auf einen baldigen Frieden und bezeichnete die bekannten Plan‑Details als „nicht konstruktiv“.  
+
+### Hauptthemen der Verhandlungen  
+- **Sicherheitsgarantien**  
+  - Multilaterale Zusagen, vermutlich unter Beteiligung der **USA**, **NATO** und anderer Partner.  
+- **Wiederaufbau und wirtschaftliche Entwicklung**  
+  - Strategien für die vom Krieg stark betroffenen Regionen der Ukraine.  
+- **Zeitplan**  
+  - Diskussion über mögliche Fristen für konkrete Entscheidungen und Umsetzungsschritte.  
+- **Territoriale Fragen**  
+  - Vermutungen, dass die Ukraine im Gegenzug für Sicherheitsgarantien Gebietsabtretungen in Betracht ziehen könnte – ein Punkt, den Russland voraussichtlich ablehnen wird.  
+
+### Ausblick und offene Fragen  
+- **Kein großer Durchbruch**: Trotz konstruktiver Atmosphäre fehlt bislang ein konkretes Ergebnis, das alle Seiten akzeptieren.  
+- **Russlands Haltung**: Ohne klare Vorgaben aus Moskau bleibt unklar, ob die vorgeschlagenen Änderungen im Friedensplan von **Kreml**-Seite überhaupt akzeptiert werden.  
+- **Weiteres Vorgehen**: Die Ukraine erwartet detaillierte Berichte ihres Verhandlungsteams, während die USA und ihre Verbündeten weiterhin an einem multilateralen Friedensrahmen arbeiten.  
+
+*Hinweis: Die künstliche Intelligenz von Blick lernt noch und kann Fehler enthalten.*
+
+> Relevance score: [6] - High‑level talks on ending the Ukraine war are globally significant and could alter European security dynamics, which indirectly affects Switzerland.
+
+## Migros teilt ihre Angestellten bei der Vorsorge in zwei Klassen
+
+[Nau.ch](https://www.nau.ch/news/schweiz/migros-teilt-ihre-angestellten-bei-der-vorsorge-in-zwei-klassen-67078363) • _Sonntag, 21. Dezember 2025, 20:10 Uhr_
+
+Die Migros ist bekannt für ihre attraktiven Pensionskassen-Konditionen. Doch nicht alle Mitarbeitenden der Genossenschaft profitieren davon.
+
+### Hintergrund und Gesamtzahl  
+- Die **[Migros](https://de.wikipedia.org/wiki/Migros)** beschäftigt landesweit rund **86 600 Mitarbeitende**.  
+- Bekannt ist das Unternehmen nicht nur als Detailhandelsriese, sondern auch für die **attraktiven Konditionen** seiner **[Migros‑Pensionskasse (MPK)](https://de.wikipedia.org/wiki/Migros#Pensionskasse)**.  
+
+### Vorteile der Migros‑Pensionskasse  
+- **13. Monatsrente** für Pensionierte im Jahr **2022**.  
+- **5 % pauschale Rentenerhöhung** im Jahr **2023**.  
+- **7,5 % Zins** auf das Sparkapital im Jahr **2024** (weit über dem gesetzlichen Mindestzins von **1,25 %**).  
+- **7 500 CHF Zusatzleistung** für MPK‑Mitglieder im Jahr **2024**.  
+- Garantierter **Sparzins von 7,25 %** ab **2026**.  
+
+### Ungleichbehandlung und betroffene Tochtergesellschaften  
+- Mitarbeitende von Tochtergesellschaften erhalten **nicht** dieselben MPK‑Leistungen, z. B.:  
+  - **[Denner](https://de.wikipedia.org/wiki/Denner_(Supermarkt))**  
+  - **[Digitec Galaxus](https://de.wikipedia.org/wiki/Digitec_Galaxus)**  
+  - **Medbase**  
+  - **Molino‑Pizzerien**  
+- Trotz Einladung zur **100‑Jahre‑Feier** im Glarnerland gelten für ihr Personal **deutlich schlechtere Vorsorgebedingungen**.  
+
+### Versicherungsquote zum Jahresende 2024  
+- **Etwas mehr als die Hälfte** der Migros‑Mitarbeitenden in der Schweiz war **bei der MPK versichert**.  
+- Der Rest ist:  
+  - In der **Gemeinschaftsstiftung für Migros‑Tochtergesellschaften**  
+  - In der Vorsorgeeinrichtung **Globo M**  
+  - In **externen Pensionskassen**  
+
+### Unterschiede zu den Vorsorgewerken der Tochtergesellschaften  
+- **Globo M** (Vorsorge der Tochtergesellschaften) bietet:  
+  - **Keine regelmäßigen Rentenerhöhungen**.  
+  - **Geringere Beiträge** und insgesamt **tiefere Leistungen** im Vergleich zur MPK.  
+
+### Historische Begründung der Migros  
+- **Migros‑Sprecher Andy Zesiger** erklärt gegenüber der **[NZZ](https://de.wikipedia.org/wiki/NZZ)**:  
+  - Unternehmen, die **bei Inkrafttreten des **[BVG](https://de.wikipedia.org/wiki/Berufliche_Vorsorge)** (Bundesgesetz über die berufliche Vorsorge) im Jahr **1985** bereits Teil der Migros‑Gruppe waren, sind **mehrheitlich bei der MPK versichert**.  
+  - **Später hinzugekommene Unternehmen** sind **häufig nicht** in der MPK, sondern nutzen andere Vorsorgeeinrichtungen.  
 
 ---  
 
-*Zusammengefasst lässt das US‑Pharma-Abkommen mit **Novartis**, **Roche** und anderen Unternehmen erwartete Preissteigerungen für innovative Medikamente in der Schweiz erwarten, während die politischen Akteure die Regulierung des Marktes betonen und die Bundesbehörden eine begrenzte Einflussnahme bestätigen.*
+*Die Zusammenfassung verdeutlicht, dass die attraktiven MPK‑Leistungen nicht flächendeckend auf alle Mitarbeitenden der Migros‑Gruppe angewendet werden, sondern historisch bedingt hauptsächlich auf die älteren Unternehmenszweige beschränkt sind.*
 
-> Relevance score: [6] - A US‑Swiss pharmaceutical agreement that could raise drug‑price pressure directly affects Swiss patients and health‑care budgeting.
+> Relevance score: [6] - Migros is a major Swiss employer; changes to pension classifications impact many workers and raise questions about labour equity, giving the story moderate national significance.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Trumps Venezuela-Blockade: Es geht um China
+## Goldpreis erreicht Rekordhöhe von 4'383,76 Dollar pro Feinunze
 
-[Inside Paradeplatz](https://insideparadeplatz.ch/2025/12/20/trumps-venezuela-blockade-es-geht-um-china/) • _Samstag, 20. Dezember 2025, 23:54 Uhr_
+[20 Min](https://www.20min.ch/story/allzeithoch-438376-dollar-pro-feinunze-goldpreis-erreicht-neuen-rekordwert-103474347) • _Montag, 22. Dezember 2025, 05:39 Uhr_
 
-Geopolitischer Schachzug zur Verteueurung des Billig-Öls für Asienreich. Schlägt China zurück mit Aufwertung des Renminbis?
+Im Frühhandel wurde der Goldpreis auf 4'383,78 Dollar pro Feinunze geschätzt. Ein Anstieg, der auf wirtschaftliche Unsicherheiten zurückzuführen ist.
 
-Die von Donald Trump am 16. Dezember 2025 angekündigte „totale und vollständige“ Blockade sanktionierter venezolanischer Öltanker stellt eine deutliche Eskalation dar.
-Ziel ist es, den venezolanischen Präsidenten Nicolás Maduro maximal unter Druck zu... [weiterlesen](https://insideparadeplatz.ch/2025/12/20/trumps-venezuela-blockade-es-geht-um-china/)
+Der Goldpreis ist am Montag im frühen Handel zum ersten Mal seit Oktober auf ein Rekordhoch geklettert. Der Preis für eine Feinunze (31,1 Gramm) kletterte im frühen Handel um bis zu eineinhalb Prozent auf etwas mehr als 4403 US-Dollar.
+Dies ist der e... [weiterlesen](https://www.20min.ch/story/allzeithoch-438376-dollar-pro-feinunze-goldpreis-erreicht-neuen-rekordwert-103474347)
 
-> Relevance score: [5] - A US‑initiated oil blockade on Venezuela could affect global oil markets and thereby Swiss energy prices, while also illustrating geopolitical tension with China.
+> Relevance score: [5] - A record gold price reflects global financial uncertainty and can influence investment decisions, but it does not constitute a structural change for Swiss society.
 
-## Nasa verliert Kontakt zu Mars-Sonde
+## Versteckte Auslöser von Alzheimer: Infektionen und Diabetes erhöhen das Risiko
 
-[blue News](https://www.bluewin.ch/de/news/wissen-technik/nasa-verliert-kontakt-zu-mars-sonde-3017454.html) • _Samstag, 20. Dezember 2025, 22:25 Uhr_
+[Ökonews](https://oekonews.at/versteckte-ausloeser-von-alzheimer-infektionen-und-diabetes-erhoehen-das-risiko+2400+1231977) • _Montag, 22. Dezember 2025, 00:03 Uhr_
 
-Seit rund zehn Jahren kreist die Sonde «Maven» um den Mars und liefert wichtige Daten. Seit kurzem aber bleibt sie stumm.
+Ein neuer Wirkstoff kann dies blockieren
 
-Seit rund zehn Jahren kreist die Sonde «Maven» um den Mars und liefert wichtige Daten. Seit kurzem aber bleibt sie stumm.
-Die US-Raumfahrtbehörde Nasa hat den Kontakt zur Mars-Sonde «Maven» verloren. Es werde daran gearbeitet, diesen Kontakt wiederhe... [weiterlesen](https://www.bluewin.ch/de/news/wissen-technik/nasa-verliert-kontakt-zu-mars-sonde-3017454.html)
+Düsseldorf - Forschenden der Heinrich-Heine-Universität Düsseldorf (HHU) und des Universitätsklinikums Düsseldorf (UKD) ist ein entscheidender Durchbruch in der Alzheimer-Forschung gelungen. Erstmals konnten sie detailliert nachweisen, wie externe Ri... [weiterlesen](https://oekonews.at/versteckte-ausloeser-von-alzheimer-infektionen-und-diabetes-erhoehen-das-risiko+2400+1231977)
 
-> Relevance score: [5] - Loss of contact with a decade‑old Mars mission is a notable scientific setback of international interest but has no direct societal impact in Switzerland.
+> Relevance score: [5] - Breakthrough Alzheimer research has worldwide health importance; however, the immediate policy or economic impact on Switzerland is limited.
 
-## Migros streicht Aktionen von 4000 auf 400 pro Jahr zusammen
+## Tesla erlebt neues Test-Desaster
 
-[Blick](https://www.blick.ch/sonntagsblick/das-steckt-hinter-der-grossen-rabattrevolution-bei-der-migros-gibts-statt-4000-aktionen-nur-noch-40-id21536872.html) • _Sonntag, 21. Dezember 2025, 06:00 Uhr_
+[Watson](https://www.watson.ch/digital/elektroauto/989265254-tesla-erlebt-neues-test-desaster) • _Sonntag, 21. Dezember 2025, 21:44 Uhr_
 
-Weil die Migros-Zentrale die zehn Regionalgenossenschaften entmachtet hat, schrumpft die Zahl der Aktionen von 4000 auf 400 pro Jahr. Für das Portemonnaie der Kunden seien das gute Nachrichten, betont der Konzern.
+Die grösste Konsumentenorganisation der Welt hat die Langzeitqualität von Gebrauchtwagen untersucht. Und das Ergebnis ist für viele Autobauer ernüchternd.
 
-Beat SchmidWirtschaftsredaktor
-Die Migros befindet sich in einem permanenten Umbau. Dieser betrifft auch die wöchentlichen Aktionen, die Konsumentinnen und Konsumenten in die Läden locken sollen. Diese Woche gab es unter anderem Delizio-Kaffeekapseln... [weiterlesen](https://www.blick.ch/sonntagsblick/das-steckt-hinter-der-grossen-rabattrevolution-bei-der-migros-gibts-statt-4000-aktionen-nur-noch-40-id21536872.html)
+Die grösste Konsumentenorganisation der Welt hat die Langzeitqualität von Gebrauchtwagen untersucht. Und das Ergebnis ist für viele Autobauer ernüchternd. Vor allem Tesla steht am Pranger.
+Markus Abrahamczyk / t-online
+«America first?» Nicht bei der ... [weiterlesen](https://www.watson.ch/digital/elektroauto/989265254-tesla-erlebt-neues-test-desaster)
 
-> Relevance score: [4] - A major Swiss retailer cuts the number of promotional events ten‑fold, affecting price signalling for many consumers but not creating a structural shift in the economy.
+> Relevance score: [5] - Consumer‑org findings on vehicle quality have broad market relevance, yet the story does not indicate any immediate regulatory or systemic change for Switzerland.
 
-## Operation "Northern Lights": 43 Kinder aus Menschenhandel befreit
+## Riesen fordern höhere Medikamentenpreise in der Schweiz
 
-[20 Min](https://www.20min.ch/story/aktion-northern-lights-43-kinder-aus-den-faengen-von-menschenhaendlern-befreit-103473488) • _Samstag, 20. Dezember 2025, 19:41 Uhr_
+[Blick](https://www.blick.ch/wirtschaft/blick-sagte-es-schon-im-september-voraus-bezahlen-jetzt-wir-mit-hohen-medi-preisen-den-trump-deal-id21539448.html) • _Sonntag, 21. Dezember 2025, 18:58 Uhr_
 
-In einer grossangelegten Aktion haben US-Behörden 43 Kinder aus den Fängen von Menschenhändlern gerettet.
+US-Präsident Trump präsentierte eine Einigung mit den Pharmakonzernen zur Senkung von Medikamentenpreisen. Wie erwartet, prescht nun die Pharmabranche vor und fordert höhere Preise in der Schweiz. Für die Bevölkerung könnte es teuer werden.
 
-Die Operation «Northern Lights» war ein voller Erfolg: In den vergangenen zwei Wochen haben Sicherheitskräfte in den USA 43 Kinder aus den Händen von Menschenhändlern befreit. Unter den Opfern befand sich auch ein erst 18 Monate altes Baby.
-Wie die B... [weiterlesen](https://www.20min.ch/story/aktion-northern-lights-43-kinder-aus-den-faengen-von-menschenhaendlern-befreit-103473488)
+Martin SchmidtRedaktor Wirtschaft
+Plötzlich geht es schnell: US-Präsident Donald Trump (79) präsentierte am letzten Freitag eine Einigung mit neun internationalen Pharmakonzernen. Diese haben sich bereiterklärt, die Preise von ausgewählten Medikament... [weiterlesen](https://www.blick.ch/wirtschaft/blick-sagte-es-schon-im-september-voraus-bezahlen-jetzt-wir-mit-hohen-medi-preisen-den-trump-deal-id21539448.html)
 
-> Relevance score: [4] - Large‑scale US anti‑trafficking operation highlights a serious human‑rights issue; relevance to Swiss audience is moderate, mainly as a global humanitarian concern.
+> Relevance score: [5] - Potential hikes in drug prices would directly affect Swiss healthcare costs and public budgeting, making it a relevant economic issue.
 
-## Migros: Entlassene Mitarbeiter erhalten kein Weihnachtsgeschenk mehr
+## Neue diplomatische Signale im Ukraine-Krieg
 
-[20 Min](https://www.20min.ch/story/nach-entlassungsjahr-wer-bei-der-migros-entlassen-wurde-bekommt-kein-geschenk-mehr-103473422) • _Samstag, 20. Dezember 2025, 18:40 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/macron-und-putin-neue-diplomatische-signale-im-ukraine-krieg-ld.1917605) • _Sonntag, 21. Dezember 2025, 18:45 Uhr_
 
-Zum 100-Jahr-Jubiläum der Migros gibt es Geschenkkarten, doch entlassene Mitarbeiter gehen leer aus. Die Entscheidung sorgt für Kritik.
+Zwischen Russland und Frankreich herrschte lange Funkstille. Jetzt könnte es bald wieder zu direkten Gesprächen kommen. Der Kreml rückt aber nicht von seinen Positionen ab.
 
-Verkäufe von Tocherfirmen wie Mibelle und Entlassungswellen sorgen für Unruhe: Für die Mitarbeiterinnen und Mitarbeiter der Migros war die vergangene Zeit nicht einfach. Kurz vor Weihnachten folgt der nächste Ärger: Wer in einem gekündigten Arbeitsve... [weiterlesen](https://www.20min.ch/story/nach-entlassungsjahr-wer-bei-der-migros-entlassen-wurde-bekommt-kein-geschenk-mehr-103473422)
+Was Wladimir Putin von den europäischen Staats- und Regierungschefs hält, das hat er diese Woche wieder unmissverständlich klar gemacht. Der russische Präsident bezeichnete sie in einer Rede im Verteidigungsministerium als «Schweinehunde» – weil sie ... [weiterlesen](https://www.nzz.ch/international/macron-und-putin-neue-diplomatische-signale-im-ukraine-krieg-ld.1917605)
 
-> Relevance score: [4] - Corporate decision affecting former Migros employees sparks debate on labour rights and corporate responsibility within Switzerland.
+> Relevance score: [5] - Developments in Russo‑French diplomatic contacts could influence the broader European stance on the Ukraine conflict, with indirect implications for Swiss foreign‑policy considerations.
 
-## Das planen die USA mit dem Gazastreifen
+## Mercuria: Die unbekannte Rohstofffirma im "Team Switzerland"
 
-[Nau.ch](https://www.nau.ch/news/ausland/das-planen-die-usa-mit-dem-gazastreifen-67078630) • _Sonntag, 21. Dezember 2025, 03:14 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/mysterioeser-rohstoffkonzern-was-macht-mercuria-im-team-switzerland) • _Montag, 22. Dezember 2025, 06:03 Uhr_
 
-Die USA wollen den Gazastreifen für 100 Milliarden Euro transformieren. Rafah soll die neue Hauptstadt der geplanten Luxus-Destination werden.
+Mercuria zählt zu den umsatzstärksten Schweizer Unternehmen. Wer verbirgt sich hinter der Genfer Firma?
 
-Etienne Sticher
-USA , 21.12.2025 - 03:14
-Die USA wollen den Gazastreifen für 100 Milliarden Euro transformieren. Rafah soll die neue Hauptstadt der geplanten Luxus-Destination werden.
-Das Wichtigste in Kürze
-Die USA haben möglichen Geldgebern den Pla... [weiterlesen](https://www.nau.ch/news/ausland/das-planen-die-usa-mit-dem-gazastreifen-67078630)
+Darum geht es: Einer der Schweizer Milliardäre, die im November bei US-Präsident Donald Trump im Oval Office sassen, war Daniel Jäggi. Jäggi ist Verwaltungsratspräsident von Mercuria. Sein Besuch bei Trump warf plötzlich ein Schlaglicht auf die Genfe... [weiterlesen](https://www.srf.ch/news/wirtschaft/mysterioeser-rohstoffkonzern-was-macht-mercuria-im-team-switzerland)
 
-> Relevance score: [3] - Claims about a US‑led €100 bn luxury redevelopment of Gaza are largely speculative and, even if true, concern a distant region with limited immediate relevance for Switzerland.
+> Relevance score: [4] - Profiling a major Swiss commodity trader and its billionaire chair gives insight into a key economic player, but the story lacks a concrete policy or market shift, limiting immediate societal impact.
 
-## Gehts im Fall Jacques Baud um Abschreckung?
+## Starökonom Joseph Stiglitz am WEF in Ungnade gefallen
 
-[Inside Paradeplatz](https://insideparadeplatz.ch/2025/12/20/gehts-im-fall-jacques-baud-um-abschreckung/) • _Samstag, 20. Dezember 2025, 23:43 Uhr_
+[Blick](https://www.blick.ch/wirtschaft/stammgast-in-davos-ploetzlich-unerwuenscht-wef-verbannt-nobelpreistraeger-stiglitz-wegen-seiner-frau-id21539275.html) • _Montag, 22. Dezember 2025, 00:00 Uhr_
 
-EU sanktioniert Schweizer Ex-Offizier ohne Anklage, Urteil, Verfahren. Bauds Beachtung ist überschaubar, aber in Insider-Kreisen gross.
+Nobelpreisträger Joseph Stiglitz war am WEF in Davos viele Jahre ein gern gesehener Gast. Doch jetzt wird er nicht mehr eingeladen – weil er und seine Frau scharfe Trump-Kritiker sind?
 
-Jacques Baud war während vieler Jahre Oberst im Generalstab der Schweizer Armee und in den 1980er-Jahren im militärischen Nachrichtendienst tätig.
-Später folgten internationale Funktionen bei der UNO und der NATO. Als Autor veröffentlichte er zahlrei... [weiterlesen](https://insideparadeplatz.ch/2025/12/20/gehts-im-fall-jacques-baud-um-abschreckung/)
+Christian KolbeRedaktor Wirtschaft
+Joseph Stiglitz (82) ist eine Ikone des World Economic Forum (WEF). Doch jetzt erscheint er nicht mehr auf der Teilnehmerliste für das kommende Jahrestreffen in Davos GR. Seine Frau Anya Schiffrin (63) zu Blick: «Si... [weiterlesen](https://www.blick.ch/wirtschaft/stammgast-in-davos-ploetzlich-unerwuenscht-wef-verbannt-nobelpreistraeger-stiglitz-wegen-seiner-frau-id21539275.html)
 
-> Relevance score: [3] - EU sanctions on a former Swiss army officer are a niche security/legal story with limited consequence for the broader Swiss population.
+> Relevance score: [3] - The exclusion of a prominent economist from the Davos agenda is mainly a personal‑political anecdote with negligible effect on Swiss governance or economy.
 
-## Inflation Schweiz 2025: Diese 89 Produkte sind günstiger als 2024
+## Entführung aus Internat in Nigeria: Alle Schulkinder freigelassen
 
-[Blick](https://www.blick.ch/wirtschaft/nicht-ueberall-steigen-die-preise-all-diese-produkte-sind-guenstiger-als-im-vorjahr-id21533325.html) • _Samstag, 20. Dezember 2025, 19:45 Uhr_
+[20 Min](https://www.20min.ch/story/nigeria-sie-wurden-aus-internat-verschleppt-alle-schulkinder-wieder-frei-103474309) • _Sonntag, 21. Dezember 2025, 20:56 Uhr_
 
-Gleich bei zwei Lebensmitteln ist der Preis in diesem Jahr um über 10 Prozent gesunken. Deutlich billiger sind auch Fleisch und Brot, wo Aldi jeweils einen Preiskampf ausgelöst hat. Blick zeigt dir die Liste mit allen 89 Produkten, die es nun günstiger gibt als 2024.
+Einen Monat nach der Entführung von mehr als 300 Schülern aus einem katholischen Internat in Nigeria sind nun auch die verbliebenen Kinder frei.
 
-Michael HotzRedaktor Wirtschaft
-Es gibt dieses dumpfe Gefühl, dass alles immer teurer wird. Insbesondere die kletternden Krankenkassenprämien und die steigenden Mieten belasten das Budget vieler Haushalte in der Schweiz. Gleichzeitig ist der Inflatio... [weiterlesen](https://www.blick.ch/wirtschaft/nicht-ueberall-steigen-die-preise-all-diese-produkte-sind-guenstiger-als-im-vorjahr-id21533325.html)
+«Weitere 130 entführte Schüler aus dem Bundesstaat Niger freigelassen, keiner mehr in Gefangenschaft», schrieb Präsidentensprecher Sunday Dare am Sonntag im Onlinedienst X – begleitet von einem Foto lächelnder Kinder. Anfang Dezember waren bereits ru... [weiterlesen](https://www.20min.ch/story/nigeria-sie-wurden-aus-internat-verschleppt-alle-schulkinder-wieder-frei-103474309)
 
-> Relevance score: [3] - A list of cheaper consumer goods is useful for shoppers but does not reflect a broader economic or structural development.
+> Relevance score: [3] - The release of kidnapped students is a positive humanitarian outcome but does not affect Swiss society or policymaking.
 
-## Forbes: Elon Musk hat neu ein Nettovermögen von über 700 Milliarden
+## Wie Bürgerwehren Südafrikas Townships sicher machen
 
-[20 Min](https://www.20min.ch/story/forbes-elon-musk-netto-vermoegen-erhoeht-103473831) • _Sonntag, 21. Dezember 2025, 04:29 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/virtueller-pranger-in-kapstadt-wie-buergerwehren-suedafrikas-townships-sicher-machen) • _Sonntag, 21. Dezember 2025, 21:10 Uhr_
 
-Erst Anfang der Woche knackte er die 600-Milliarden-Marke auf der berühmten «Forbes»-Milliardärsliste. Nach einer Gerichtsentscheidung ist der Tesla-Chef noch einmal erheblich reicher geworden.
+Die Polizei hat einen schlechten Ruf – darum bilden sich Bürgerwehren. Zu den bekanntesten gehört jene von Langa.
 
-Tesla-Chef Elon Musk hat Berechnungen des Magazins «Forbes» zufolge nach einer Gerichtsentscheidung in den USA ein Nettovermögen von rund 749 Milliarden Dollar. Das geht aus der online veröffentlichten Milliardärsliste des Magazins hervor, die Musk d... [weiterlesen](https://www.20min.ch/story/forbes-elon-musk-netto-vermoegen-erhoeht-103473831)
+Sechs Männer sind unterwegs auf dem Fahrrad – mit Leuchtwesten und einer langen Peitsche, dem Schambok, in der Hand. Sie gehören zur Sicherheitspatrouille in der Township Langa, die vor Kapstadt liegt.
+Alle sind arbeitslos und sorgen dennoch kostenlo... [weiterlesen](https://www.srf.ch/news/international/virtueller-pranger-in-kapstadt-wie-buergerwehren-suedafrikas-townships-sicher-machen)
 
-> Relevance score: [2] - Net‑worth of a single billionaire has little direct impact on Swiss society or the global economy beyond media interest.
+> Relevance score: [2] - While important for South African communities, the piece has little direct relevance to Swiss citizens or policy.
 
 
 </details>
