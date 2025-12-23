@@ -2,246 +2,263 @@
 
 ---
 
-_Aktualisiert: Montag, 22. Dezember 2025, 18:22 Uhr_
+_Aktualisiert: Dienstag, 23. Dezember 2025, 06:28 Uhr_
 
-## Gericht lässt Klimaklage gegen Holcim zu
+## Sanktionen und das Schweigen der Schweiz
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/insulaner-gegen-zementkonzern-gericht-laesst-klimaklage-zu-muss-holcim-fuer-klimaschaeden-zahlen) • _Montag, 22. Dezember 2025, 06:00 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/affaere-jacques-baud-die-eu-sanktioniert-die-offizielle-schweiz-schweigt-ld.1917676) • _Montag, 22. Dezember 2025, 17:37 Uhr_
 
-Erstmals in der Schweiz dürfen Geschädigte gegen einen Konzern wegen Klimaschäden klagen. Holcim legt Berufung ein.
+Die Schweizer Mission in Brüssel wusste, dass die EU den Schweizer Jacques Baud auf die Sanktionsliste setzen würde. Sie warnte ihn nicht und meldete sich zehn Tage lang nicht bei ihm. Die EU hat die Schweiz vor dem Sanktionsbeschluss nicht konsultiert.
 
-### Hintergrund der Klage
-- Vier Bewohner*innen der indonesischen Insel **Pari** (vgl. [Indonesien](https://de.wikipedia.org/wiki/Indonesien)) klagen vor dem **Zuger Kantonsgericht** ([Kantonsgericht Zug](https://de.wikipedia.org/wiki/Kantonsgericht_Zug)) gegen den Zementkonzern **Holcim** ([Holcim](https://de.wikipedia.org/wiki/Holcim)).
-- Sie machen Holcim mitverantwortlich für den Klimawandel, der den Meeresspiegel ansteigen lässt und die Existenz der Insel bedroht.
-- Die Kläger*innen fordern, dass Holcim seine CO₂‑Emissionen schneller reduziert und einen Teil der durch die Erderwärmung entstandenen Kosten übernimmt.
+### Hintergrund und Sanktionierung  
 
-### Fakten zu Holcim und den Emissionen
-- Holcim gehört zu den **„Carbon Majors“** ([Carbon Majors](https://en.wikipedia.org/wiki/Carbon_majors)), 180 Unternehmen, die weltweit die meisten klimaschädlichen CO₂-Emissionen verursachen.
-- Seit 1950 hat das Unternehmen etwa doppelt so viel CO₂ ausgestoßen wie die Schweiz.
-- Laut eigener Angabe wurden die Emissionen seit 2015 um mehr als 50 % gesenkt; bis 2050 will das Unternehmen klimaneutral produzieren.
+- Am **15. Dezember 2025** setzte die **[EU](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union)** Jacques Baud, einen 70‑jährigen Schweizer, auf ihre **Russland‑Sanktionsliste**.  
+- Begründung: Er fungiere als „Sprachrohr für prorussische Propaganda“ und sei an „Informationsmanipulation“ beteiligt, laut Beschluss des **[Europäischen Rates](https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Rat)**, unterschrieben von der Außenbeauftragten **[Kaja Kallas](https://de.wikipedia.org/wiki/Kaja_Kallas)**.  
+- Baud, ehemaliger Oberst im Generalstab, war Analyst beim **[Schweizer Nachrichtendienst](https://de.wikipedia.org/wiki/Schweizer_Nachrichtendienst)** und in leitenden Positionen für das **[Eidgenössische Departement für auswärtige Angelegenheiten (EDA)](https://de.wikipedia.org/wiki/Eidgen%C3%B6ssisches_Departement_f%C3%BCr_Ausw%C3%A4rtige_Angelegenheiten)**, die **UNO** und die **[NATO](https://de.wikipedia.org/wiki/NATO)** tätig.  
+- Seine Publikationen zum Ukraine‑Krieg weichen von der westlichen offiziellen Darstellung ab und haben damit in Brüssel Kritik ausgelöst.  
 
-### Gerichtsurteil
-- Das Zuger Kantonsgericht erklärt die Klage **zulässig** – ein Novum in der Schweiz.
-- Das Urteil enthält noch keine Entscheidung darüber, ob Holcim tatsächlich für die Klimaschäden auf Pari haftet.
-- Holcim hat bereits Berufung angekündigt.
+### Folgen für Baud  
 
-### Position von Holcim
-- Holcim argumentiert, Gerichte seien nicht der richtige Ort für Klimaschutz; dies sei Aufgabe der Politik.
-- Das Gericht weist darauf hin, dass gerichtliche Entscheidungen die demokratisch legitimierte Klimapolitik **nicht ersetzen**, sondern **ergänzen**.
-- Im vorliegenden Fall geht es um konkrete Forderungen einer kleinen Insel, nicht um die Schweizer Klimapolitik insgesamt.
+- **Reiseverbot** innerhalb der EU, **Gefrierung** seiner Konten bei europäischen Banken.  
+- Dritten ist es untersagt, finanzielle Unterstützung zu leisten.  
+- Rechtlicher Einspruch ist möglich, ist jedoch langwierig und kostenintensiv.  
 
-### Weiteres Verfahren
-- **Nächste Instanz:** das **Zuger Obergericht**.  
-  - Die Parteien können das Urteil zunächst zum **Bundesgericht** in Lausanne und später zum **Europäischen Gerichtshof für Menschenrechte** ([EGMR](https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Gerichtshof_f%C3%BCr_Menschenrechte)) bringen.
-- Erst nach rechtskräftiger Zulassung können Fragen zu Schadensersatz und verschärften CO₂‑Maßnahmen geklärt werden; das Verfahren wird voraussichtlich Jahre dauern.
+### Verhalten der Schweizer Behörden  
 
-### Mögliche Folgen
-- Bestätigung der Zulässigkeit könnte den Druck auf große CO₂‑Verursacher weltweit erhöhen.
-- Unternehmen stehen vor der Wahl:
-  1. Emissionen schneller reduzieren und Geschäftsmodelle umstellen.
-  2. Politischen Druck ausüben bzw. Gerichte blockieren, um künftige Klagen zu verhindern.
+- Die **Schweizer Mission in Brüssel** erfuhr am **12. Dezember 2025** von dem bevorstehenden Listing, kontaktierte Baud jedoch nicht mehr als zehn Tage später erneut.  
+- **Rita Adam**, Leiterin der Mission, reagierte auf Bauds Anruf nicht, was Baud selbst als „keine SMS, kein Telefon, keine E‑Mail“ bezeichnet.  
+- Das **EDA** bestätigte den Kontaktverlauf, gab jedoch keine Erklärung, warum keine Warnung erfolgte.  
+- Laut EDA wurde die Schweiz **nicht formell** vor dem Sanktionsentscheid konsultiert; die EU handelte eigenständig.  
+- Die Schweizer Botschafterin in den Niederlanden kontaktierte Baud später telefonisch und bot „Unterstützung im Rahmen des Möglichen“ an, jedoch ohne klare Positionierung.  
 
-### Internationale Bedeutung
-- Das Urteil fügt sich in eine globale Dynamik ein: rund 60 Länder sehen fast 3 000 laufende Klimaklagen.
-- Der **Internationale Gerichtshof** ([Internationaler Gerichtshof](https://de.wikipedia.org/wiki/Internationaler_Gerichtshof)) hat kürzlich Klimaschutz als Menschenrecht anerkannt.
-- Ein deutsches Gericht hat zuletzt eine Klimaklage eines peruanischen Bauern gegen den Energiekonzern **RWE** ([RWE](https://de.wikipedia.org/wiki/RWE)) zugelassen.
-- Das schweizerische Urteil wird daher weltweit aufmerksam beobachtet.
+### Rechtliche und politische Implikationen  
 
-> Relevance score: [7] - First Swiss court permitting climate‑damage claims against a multinational sets a precedent for corporate liability and could trigger further litigation, affecting the Swiss legal landscape and climate policy.
+- **Fehlende Rechtsgarantien**: Personen auf schwarzen Listen erhalten kaum rechtliches Gehör, was Fragen nach dem **Rechtsstaat** aufwirft.  
+- **Parallelen zu UNO‑Sicherheitsratslisten**: Kritik an mangelnder Transparenz und Überprüfung, bereits mehrfach im Schweizer Parlament thematisiert.  
+- **Beat Rieder** (Ständerat) warnte bereits 2024, dass Schweizer auf EU‑Listen landen könnten, wenn die Schweiz nicht rechtsstaatliche Garantien einhält.  
+- Die Affäre illustriert ein Spannungsfeld zwischen **Meinungsfreiheit**, **Informationspolitik** und **internationale Sanktionen** sowie die Zurückhaltung der Schweiz, die Interessen ihres Bürgers gegenüber der EU zu verteidigen.  
 
-## Friedensgespräche in Miami: Ukraine positiv
+### Ausblick  
 
-[Blick](https://www.blick.ch/ausland/ukraine-positiv-russland-verhalten-das-ist-das-fazit-der-friedensgespraeche-in-miami-id21539882.html) • _Sonntag, 21. Dezember 2025, 22:10 Uhr_
+- Das EDA prüft, welche Rechtsmittel Baud gegen den Sanktionsbeschluss zur Verfügung stehen.  
+- Beobachter gehen davon aus, dass die Debatte über die **Schwarzen Listen** und die Stellung der Schweiz zu EU‑Sanktionen weiter an Bedeutung gewinnen wird.  
+- Eine mögliche Neubewertung der schweizerischen **Sanktionspolitik** und ihrer Verpflichtungen gegenüber internationalen Rechtsstaatprinzipien ist zu erwarten.
 
-Vertreter der USA und der Ukraine haben in Miami über ein mögliches Kriegsende diskutiert. Präsident Selenski zeigte sich zufrieden mit den Gesprächen. US-Unterhändler Witkoff sieht Friedenswille auf beiden Seiten. Der grosse Durchbruch blieb aber aus.
+> Relevance score: [7] - The EU’s unilateral sanctioning of a Swiss national without consulting Switzerland raises questions about Swiss neutrality, compliance with international sanction regimes and diplomatic relations – a significant national issue.
 
-### Verlauf der Gespräche in Miami  
-- Vertreter der **USA** und der **Ukraine** trafen sich in **Miami**, Florida, um ein mögliches Ende des **Ukraine‑Krieg** zu erörtern.  
-- **Wolodymyr Selenskyj** (<https://de.wikipedia.org/wiki/Wolodymyr_Selenskyj>) zeigte sich mit der Gesprächsatmosphäre zufrieden und betonte die fortlaufende Arbeit an  
-  - Dokumenten zur Kriegsbeendigung  
-  - Sicherheitsgarantien  
-  - Wiederaufbauplänen  
-- Der US‑Unterhändler **Steve Witkoff** (<https://de.wikipedia.org/wiki/Steve_Witkoff>) äußerte ebenfalls Zufriedenheit und verwies auf Gespräche über  
-  - multilaterale Sicherheitsgarantien  
-  - wirtschaftliche Entwicklung der von Russland seit 2022 besetzten Gebiete  
-- Neben den USA und der Ukraine nahmen auch **europäische Partner** an den Verhandlungen teil.  
+## Schweizer Gericht lässt Klimaklage gegen Holcim von indonesischen Fischern zu
 
-### Beteiligte Akteure und deren Positionen  
-- **USA**  
-  - Betonen konstruktiven Dialog und positive Stimmung.  
-  - Verweisen auf den im November vorgestellten Friedensplan und die Bereitschaft zu multilateralen Sicherheitsgarantien.  
-- **Ukraine**  
-  - Verpflichtet sich zu einem „gerechten und dauerhaften Frieden“.  
-  - Erwartet detaillierte Berichte vom Verhandlungsteam, einschließlich möglicher Zeitrahmen für Entscheidungen.  
-- **Russland / Kreml**  
-  - **Kirill Dmitrijew** (<https://de.wikipedia.org/wiki/Kirill_Dmitrjew>) sollte in Miami Informationen zum geänderten Friedensplan sammeln, brachte jedoch keine neue Botschaft von **Wladimir Putin** (<https://de.wikipedia.org/wiki/Wladimir_Putins>) mit.  
-  - Der Kreml dämpfte öffentlich die Erwartungen auf einen baldigen Frieden und bezeichnete die bekannten Plan‑Details als „nicht konstruktiv“.  
+[20 Min](https://www.20min.ch/story/indonesien-inselfischer-gegen-holcim-schweizer-gericht-laesst-verfahren-zu-103474357) • _Montag, 22. Dezember 2025, 06:59 Uhr_
 
-### Hauptthemen der Verhandlungen  
-- **Sicherheitsgarantien**  
-  - Multilaterale Zusagen, vermutlich unter Beteiligung der **USA**, **NATO** und anderer Partner.  
-- **Wiederaufbau und wirtschaftliche Entwicklung**  
-  - Strategien für die vom Krieg stark betroffenen Regionen der Ukraine.  
-- **Zeitplan**  
-  - Diskussion über mögliche Fristen für konkrete Entscheidungen und Umsetzungsschritte.  
-- **Territoriale Fragen**  
-  - Vermutungen, dass die Ukraine im Gegenzug für Sicherheitsgarantien Gebietsabtretungen in Betracht ziehen könnte – ein Punkt, den Russland voraussichtlich ablehnen wird.  
+Vier Fischer aus Indonesien fordern von Holcim Entschädigung für Klimaschäden durch CO2-Emissionen.
 
-### Ausblick und offene Fragen  
-- **Kein großer Durchbruch**: Trotz konstruktiver Atmosphäre fehlt bislang ein konkretes Ergebnis, das alle Seiten akzeptieren.  
-- **Russlands Haltung**: Ohne klare Vorgaben aus Moskau bleibt unklar, ob die vorgeschlagenen Änderungen im Friedensplan von **Kreml**-Seite überhaupt akzeptiert werden.  
-- **Weiteres Vorgehen**: Die Ukraine erwartet detaillierte Berichte ihres Verhandlungsteams, während die USA und ihre Verbündeten weiterhin an einem multilateralen Friedensrahmen arbeiten.  
+### Hintergrund  
+- Die Insel **Pari** im Java‑Meer (na Jakarta) ist durch den steigenden **Meeresspiegel** stark bedroht.  
+- Vier dortige Fischerinnen und Fischer klagen gegen den **Zementkonzern Holcim**, dessen Hauptsitz in **Zug** liegt.  
+- Holcim gehört zu den hundert weltweit größten CO₂‑Verursachern; die Zementproduktion macht etwa 8 % der globalen Emissionen aus.  
 
-*Hinweis: Die künstliche Intelligenz von Blick lernt noch und kann Fehler enthalten.*
+### Kern der Klage und Forderungen  
+- Die Klage wurde 2023 eingereicht und behandelt **Klimaschäden**, die auf die Emissionen von Holcim zurückgeführt werden.  
+- Die Kläger fordern:  
+  1. **Entschädigung** für bereits erlittene Schäden auf der Insel Pari.  
+  2. **Beteiligung** an Schutzmaßnahmen gegen Überschwemmungen und Meeresspiegelanstieg.  
+  3. Eine **schnelle Reduktion** der CO₂‑Emissionen von Holcim.  
 
-> Relevance score: [6] - High‑level talks on ending the Ukraine war are globally significant and could alter European security dynamics, which indirectly affects Switzerland.
+### Verfahrensstand  
+- Das **Kantonsgericht Zug** hat die Klage zulässig erklärt und wird nun die Punkte prüfen.  
+- Sollte das Urteil angefochten werden, können die Parteien zum **Bundesgericht in Lausanne** und später möglicherweise zum **Europäischen Gerichtshof für Menschenrechte** in Straßburg gehen.  
+- Erst nach einer rechtskräftigen Zulassung kann entschieden werden, ob Holcim zu Zahlungen und strengeren Emissionsreduktionen verpflichtet wird.  
 
-## Migros teilt ihre Angestellten bei der Vorsorge in zwei Klassen
+### Bedeutung  
+- Dies ist die erste Zulassung einer derartigen **Klimaklage** gegen ein multinationales Unternehmen in der Schweiz.  
+- Der Fall könnte wegweisend für zukünftige Rechtsstreitigkeiten zu Unternehmensverantwortung im Klimawandel sein und die öffentliche Diskussion über **Verantwortung von Konzernen** nachhaltig prägen.
 
-[Nau.ch](https://www.nau.ch/news/schweiz/migros-teilt-ihre-angestellten-bei-der-vorsorge-in-zwei-klassen-67078363) • _Sonntag, 21. Dezember 2025, 20:10 Uhr_
+> Relevance score: [7] - The acceptance of a climate lawsuit against a major Swiss multinational sets a potential precedent for future climate litigation, affecting Swiss corporate accountability and international environmental law.
 
-Die Migros ist bekannt für ihre attraktiven Pensionskassen-Konditionen. Doch nicht alle Mitarbeitenden der Genossenschaft profitieren davon.
+## Schweizer Parlament diskutiert über 300 Vorstösse: Von Red Bull
 
-### Hintergrund und Gesamtzahl  
-- Die **[Migros](https://de.wikipedia.org/wiki/Migros)** beschäftigt landesweit rund **86 600 Mitarbeitende**.  
-- Bekannt ist das Unternehmen nicht nur als Detailhandelsriese, sondern auch für die **attraktiven Konditionen** seiner **[Migros‑Pensionskasse (MPK)](https://de.wikipedia.org/wiki/Migros#Pensionskasse)**.  
+[20 Min](https://www.20min.ch/story/ueber-300-vorstoesse-von-red-bull-verbot-bis-mehr-sex-vorstossflut-im-parlament-103474158) • _Montag, 22. Dezember 2025, 08:28 Uhr_
 
-### Vorteile der Migros‑Pensionskasse  
-- **13. Monatsrente** für Pensionierte im Jahr **2022**.  
-- **5 % pauschale Rentenerhöhung** im Jahr **2023**.  
-- **7,5 % Zins** auf das Sparkapital im Jahr **2024** (weit über dem gesetzlichen Mindestzins von **1,25 %**).  
-- **7 500 CHF Zusatzleistung** für MPK‑Mitglieder im Jahr **2024**.  
-- Garantierter **Sparzins von 7,25 %** ab **2026**.  
+Die Wintersession endet mit einer Flut an neuen Vorstössen, die spannende Themen ansprechen.
 
-### Ungleichbehandlung und betroffene Tochtergesellschaften  
-- Mitarbeitende von Tochtergesellschaften erhalten **nicht** dieselben MPK‑Leistungen, z. B.:  
-  - **[Denner](https://de.wikipedia.org/wiki/Denner_(Supermarkt))**  
-  - **[Digitec Galaxus](https://de.wikipedia.org/wiki/Digitec_Galaxus)**  
-  - **Medbase**  
-  - **Molino‑Pizzerien**  
-- Trotz Einladung zur **100‑Jahre‑Feier** im Glarnerland gelten für ihr Personal **deutlich schlechtere Vorsorgebedingungen**.  
+### Umfang der Vorstösse
+- In der am Freitag beendeten Wintersession wurden **ca. 330 Vorstösse** eingereicht – 22 Seiten à etwa 15 Initiativen pro Seite.  
+- Die Vorstösse decken ein breites Themenspektrum von **Energydrink‑Verbot** über **Verkehrs‑** bis **Demografie‑**Politik ab.
 
-### Versicherungsquote zum Jahresende 2024  
-- **Etwas mehr als die Hälfte** der Migros‑Mitarbeitenden in der Schweiz war **bei der MPK versichert**.  
-- Der Rest ist:  
-  - In der **Gemeinschaftsstiftung für Migros‑Tochtergesellschaften**  
-  - In der Vorsorgeeinrichtung **Globo M**  
-  - In **externen Pensionskassen**  
+### Ausgewählte Themenbereiche  
 
-### Unterschiede zu den Vorsorgewerken der Tochtergesellschaften  
-- **Globo M** (Vorsorge der Tochtergesellschaften) bietet:  
-  - **Keine regelmäßigen Rentenerhöhungen**.  
-  - **Geringere Beiträge** und insgesamt **tiefere Leistungen** im Vergleich zur MPK.  
+#### Gesundheit & Jugend
+- **Energydrink‑Verbot für Unter‑16‑Jährige** – Benjamin Roduit (Mitte/VS) will, dass Energydrinks mit > 150 mg Koffein / l wie Bier und Wein erst ab 16 Jahren verkauft werden.  
+- **Zugang zu Pornoseiten nur mit E‑ID** – Nik Gugger (EVP/ZH) und Erich Vontobel (EDU/ZH) fordern eine Altersverifizierung per E‑ID, bevor pornografische Inhalte angezeigt werden.  
+  *[E‑ID]*: <https://en.wikipedia.org/wiki/Eid_(Swiss_identity_card)>
 
-### Historische Begründung der Migros  
-- **Migros‑Sprecher Andy Zesiger** erklärt gegenüber der **[NZZ](https://de.wikipedia.org/wiki/NZZ)**:  
-  - Unternehmen, die **bei Inkrafttreten des **[BVG](https://de.wikipedia.org/wiki/Berufliche_Vorsorge)** (Bundesgesetz über die berufliche Vorsorge) im Jahr **1985** bereits Teil der Migros‑Gruppe waren, sind **mehrheitlich bei der MPK versichert**.  
-  - **Später hinzugekommene Unternehmen** sind **häufig nicht** in der MPK, sondern nutzen andere Vorsorgeeinrichtungen.  
+#### Öffentliche Sicherheit
+- **Verlängerung der Festnahme von gewalttätigen Demonstranten** – Petra Gössi (FDP/SZ) und Christian Wasserfallen (FDP/BE) wollen die maximale polizeiliche Haft von 24 auf 48 Stunden ausdehnen (Bezug: Palästina‑Demo in Bern).  
+- **Bericht zu männlicher Gewalt und Radikalisierung** – Patrick Hässig (GLP/ZH) fordert einen Bundesratsbericht über „männlich‑ideologische Gewalt‑ und Radikalisierungsdynamiken“; unterstützt von sechs Nationalräten aller Fraktionen, inkl. SVP.  
 
----  
+#### Demografie & Gesellschaft
+- **Nationaler Aktionsplan für mehr „fruchtbaren Sex“** – Marc Jost (EVP/BE) schlägt das Projekt *Futura Sicura* vor, um die niedrige Geburtenrate zu erhöhen.  
+- **„Volksnein“ – längere Cool‑Down‑Phase für abgelehnte Volksinitiativen** – Walter Gartmann (SVP/SG) verlangt, dass Initiativen mit > 60 % Nein‑Stimmen erst nach einer Ruhephase erneut eingebracht werden können.  
 
-*Die Zusammenfassung verdeutlicht, dass die attraktiven MPK‑Leistungen nicht flächendeckend auf alle Mitarbeitenden der Migros‑Gruppe angewendet werden, sondern historisch bedingt hauptsächlich auf die älteren Unternehmenszweige beschränkt sind.*
+#### Verkehr & Infrastruktur
+- **Keine weiteren 80‑km/h‑Strecken auf Autobahnen** – Thomas Knutti (SVP/BE) und Lorenzo Quadri (Lega/TI) wollen verhindern, dass weitere 80‑km/h‑Zonen eingeführt werden; sie warnen vor automatischer Geschwindigkeitsreduktion bei hohem Verkehrsaufkommen.  
+- Hinweis: Andreas Glarner hatte zuvor ein generelles Tempolimit von 130 km/h statt der aktuellen 120 km/h gefordert.  
 
-> Relevance score: [6] - Migros is a major Swiss employer; changes to pension classifications impact many workers and raise questions about labour equity, giving the story moderate national significance.
+#### Politische Verfahren
+- **Frühere Beendigung der Wintersession bzw. monatliche Sitzungen** – Fabio Regazzi (Mitte/TI) und Gregor Rutz (SVP/ZH) wollen die Session um zwei Wochen verkürzen; Aline Trede (Grüne/BE) schlägt vor, das Parlament möge monatlich eine einwöchige Sitzung halten, um Familie und Beruf besser zu vereinbaren.  
+- **Kostenlose Papierrechnungen** – Emmanuel Amoos (SP/VS) fordert, dass Telekomanbieter keine Gebühren mehr für Papierrechnungen erheben.  
+
+### Weiteres Vorgehen
+- Alle eingereichten Vorstösse befinden sich nun in der **Behandlungsphase**; das Parlament hat **zwei Jahre** Zeit, sie zu prüfen.  
+- Nicht behandelte Vorstösse werden nach Ablauf dieser Frist **automatisch archiviert**.  
+
+*Hinweis*: Die genannten Politiker*innen und Parteien können auf den jeweiligen Wikipedia‑Einträgen nachgelesen werden, z. B. **[Schweizer Parlament](https://en.wikipedia.org/wiki/Swiss_Parliament)**, **[Freisinnige Demokratische Partei (FDP)](https://en.wikipedia.org/wiki/FDP.The_Liberals)**, **[Schweizerische Volkspartei (SVP)](https://en.wikipedia.org/wiki/Swiss_People%27s_Party)**.
+
+> Relevance score: [6] - A flood of parliamentary motions reflects the legislative workload and potential policy changes within Switzerland, making it moderately relevant for national governance.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Goldpreis erreicht Rekordhöhe von 4'383,76 Dollar pro Feinunze
+## Berner Kamera hilft bei Untersuchung des Asteroiden "Apophis"
 
-[20 Min](https://www.20min.ch/story/allzeithoch-438376-dollar-pro-feinunze-goldpreis-erreicht-neuen-rekordwert-103474347) • _Montag, 22. Dezember 2025, 05:39 Uhr_
+[SWI swissinfo.ch](https://www.swissinfo.ch/ger/berner-kamera-hilft-bei-untersuchung-des-asteroiden-%22apophis%22/90679326) • _Montag, 22. Dezember 2025, 18:03 Uhr_
 
-Im Frühhandel wurde der Goldpreis auf 4'383,78 Dollar pro Feinunze geschätzt. Ein Anstieg, der auf wirtschaftliche Unsicherheiten zurückzuführen ist.
+Eine Kamera der Universität Bern wird im April 2029 mithelfen, den nahe an der Erde vorbeifliegenden Asteroiden "Apophis" zu untersuchen. Die gewonnenen Informationen sollen helfen, den Schutz der Erde vor Asteroideneinschlägen zu verbessern.
 
-Der Goldpreis ist am Montag im frühen Handel zum ersten Mal seit Oktober auf ein Rekordhoch geklettert. Der Preis für eine Feinunze (31,1 Gramm) kletterte im frühen Handel um bis zu eineinhalb Prozent auf etwas mehr als 4403 US-Dollar.
-Dies ist der e... [weiterlesen](https://www.20min.ch/story/allzeithoch-438376-dollar-pro-feinunze-goldpreis-erreicht-neuen-rekordwert-103474347)
+Rohstoffkrieg und leere Versprechen: Im Kongo wirkt Trumps Frieden nicht
+Mehr Rohstoffkrieg und leere Versprechen: Im Kongo wirkt Trumps Frieden nicht
+Stellenabbau bei der UNO: Für ausländische Absolventen in Genf wird es eng
+Mehr Stellenabbau bei de... [weiterlesen](https://www.swissinfo.ch/ger/berner-kamera-hilft-bei-untersuchung-des-asteroiden-%22apophis%22/90679326)
 
-> Relevance score: [5] - A record gold price reflects global financial uncertainty and can influence investment decisions, but it does not constitute a structural change for Swiss society.
+> Relevance score: [5] - The involvement of a Swiss university instrument in the 2029 Apophis fly‑by contributes to planetary‑defence research, a globally relevant scientific field and a prestige boost for Swiss science, but the immediate societal impact is limited.
 
-## Versteckte Auslöser von Alzheimer: Infektionen und Diabetes erhöhen das Risiko
+## "Macron hat Merz verraten": Frankreichs Präsident soll den Vorschlag des deutschen Kanzlers für die Verwendung russischer Vermögen abgeschossen haben
 
-[Ökonews](https://oekonews.at/versteckte-ausloeser-von-alzheimer-infektionen-und-diabetes-erhoehen-das-risiko+2400+1231977) • _Montag, 22. Dezember 2025, 00:03 Uhr_
+[Die Weltwoche](https://weltwoche.ch/daily/macron-hat-merz-verraten-frankreichs-praesident-soll-den-vorschlag-des-deutschen-kanzlers-fuer-russische-vermoegen-abgeschossen-haben/) • _Montag, 22. Dezember 2025, 16:37 Uhr_
 
-Ein neuer Wirkstoff kann dies blockieren
+Beim EU-Gipfel blockierte Frankreich Macrons den deutsch-französischen Vorstoß zur Nutzung von 210 Mrd. Euro russischer Vermögen für die Ukraine-Hilfe, trotz eines Teilerfolgs von Merz.
 
-Düsseldorf - Forschenden der Heinrich-Heine-Universität Düsseldorf (HHU) und des Universitätsklinikums Düsseldorf (UKD) ist ein entscheidender Durchbruch in der Alzheimer-Forschung gelungen. Erstmals konnten sie detailliert nachweisen, wie externe Ri... [weiterlesen](https://oekonews.at/versteckte-ausloeser-von-alzheimer-infektionen-und-diabetes-erhoehen-das-risiko+2400+1231977)
+Die Kommentare auf weltwoche.ch/weltwoche.de sollen den offenen Meinungsaustausch unter den Lesern ermöglichen. Es ist uns ein wichtiges Anliegen, dass in allen Kommentarspalten fair und sachlich debattiert wird.
+Das Nutzen der Kommentarfunktion bede... [weiterlesen](https://weltwoche.ch/daily/macron-hat-merz-verraten-frankreichs-praesident-soll-den-vorschlag-des-deutschen-kanzlers-fuer-russische-vermoegen-abgeschossen-haben/)
 
-> Relevance score: [5] - Breakthrough Alzheimer research has worldwide health importance; however, the immediate policy or economic impact on Switzerland is limited.
+> Relevance score: [5] - The dispute over using frozen Russian assets affects EU policy on funding Ukraine, which has indirect relevance for Swiss financial stability and foreign‑policy positioning, but the immediate impact on Switzerland is limited.
 
-## Tesla erlebt neues Test-Desaster
+## Schlag gegen die russische Armee
 
-[Watson](https://www.watson.ch/digital/elektroauto/989265254-tesla-erlebt-neues-test-desaster) • _Sonntag, 21. Dezember 2025, 21:44 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/anschlag-auf-general-in-moskau-schlag-gegen-die-russische-armee-im-hinterland-ld.1917666) • _Montag, 22. Dezember 2025, 17:54 Uhr_
 
-Die grösste Konsumentenorganisation der Welt hat die Langzeitqualität von Gebrauchtwagen untersucht. Und das Ergebnis ist für viele Autobauer ernüchternd.
+Der Anschlag galt einem erfahrenen Offizier an einer wichtigen Stelle im Verteidigungsministerium. Hinter der Tat wird der ukrainische Geheimdienst vermutet. Dieser meldet gleichentags auch einen erfolgreichen Sabotageakt gegen russische Flugzeuge.
 
-Die grösste Konsumentenorganisation der Welt hat die Langzeitqualität von Gebrauchtwagen untersucht. Und das Ergebnis ist für viele Autobauer ernüchternd. Vor allem Tesla steht am Pranger.
-Markus Abrahamczyk / t-online
-«America first?» Nicht bei der ... [weiterlesen](https://www.watson.ch/digital/elektroauto/989265254-tesla-erlebt-neues-test-desaster)
+General Fanil Sarwarow hatte kaum eine Chance. Als der 56-jährige hochrangige Mitarbeiter des russischen Verteidigungsministeriums am Montagmorgen mit seinem weissen Kia Sorento im Südosten Moskaus losfahren wollte, explodierte ein vermutlich unter d... [weiterlesen](https://www.nzz.ch/international/anschlag-auf-general-in-moskau-schlag-gegen-die-russische-armee-im-hinterland-ld.1917666)
 
-> Relevance score: [5] - Consumer‑org findings on vehicle quality have broad market relevance, yet the story does not indicate any immediate regulatory or systemic change for Switzerland.
+> Relevance score: [4] - A high‑profile sabotage of a Russian defence official may affect the Russia‑Ukraine conflict and European security, yet its direct relevance to Swiss citizens or policy is modest.
 
-## Riesen fordern höhere Medikamentenpreise in der Schweiz
+## Black Friday wird zum Minusgeschäft für Detailhändler
 
-[Blick](https://www.blick.ch/wirtschaft/blick-sagte-es-schon-im-september-voraus-bezahlen-jetzt-wir-mit-hohen-medi-preisen-den-trump-deal-id21539448.html) • _Sonntag, 21. Dezember 2025, 18:58 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/schwarzer-tag-fuer-verkauf-black-friday-kostet-schweizer-detailhaendler-100-millionen-franken) • _Montag, 22. Dezember 2025, 15:18 Uhr_
 
-US-Präsident Trump präsentierte eine Einigung mit den Pharmakonzernen zur Senkung von Medikamentenpreisen. Wie erwartet, prescht nun die Pharmabranche vor und fordert höhere Preise in der Schweiz. Für die Bevölkerung könnte es teuer werden.
+Der Black Friday hat an Glanz verloren – aus Sicht der Konsumenten und damit auch der Verkäufer.
 
-Martin SchmidtRedaktor Wirtschaft
-Plötzlich geht es schnell: US-Präsident Donald Trump (79) präsentierte am letzten Freitag eine Einigung mit neun internationalen Pharmakonzernen. Diese haben sich bereiterklärt, die Preise von ausgewählten Medikament... [weiterlesen](https://www.blick.ch/wirtschaft/blick-sagte-es-schon-im-september-voraus-bezahlen-jetzt-wir-mit-hohen-medi-preisen-den-trump-deal-id21539448.html)
+Der diesjährige Black Friday hat laut einer Studie des Gottlieb Duttweiler Instituts (GDI) den Schweizer Detailhandel 100 Millionen Franken gekostet.
+Es überwiege mittlerweile Ernüchterung gegenüber der jährlichen Einkaufsschlacht – was sich auch in ... [weiterlesen](https://www.srf.ch/news/wirtschaft/schwarzer-tag-fuer-verkauf-black-friday-kostet-schweizer-detailhaendler-100-millionen-franken)
 
-> Relevance score: [5] - Potential hikes in drug prices would directly affect Swiss healthcare costs and public budgeting, making it a relevant economic issue.
+> Relevance score: [4] - A study showing a 100 million CHF loss for Swiss retailers highlights a short‑term economic slump in a major sales period; it matters to the retail sector but does not constitute a structural shift.
 
-## Neue diplomatische Signale im Ukraine-Krieg
+## Teleskop entdeckt Gasstrahl auf dem Kometen 3I/ATLAS
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/macron-und-putin-neue-diplomatische-signale-im-ukraine-krieg-ld.1917605) • _Sonntag, 21. Dezember 2025, 18:45 Uhr_
+[Euronews.com](https://de.euronews.com/next/2025/12/22/teleskop-gasstrahl-komet) • _Montag, 22. Dezember 2025, 08:21 Uhr_
 
-Zwischen Russland und Frankreich herrschte lange Funkstille. Jetzt könnte es bald wieder zu direkten Gesprächen kommen. Der Kreml rückt aber nicht von seinen Positionen ab.
+Forscher entdeckten mit dem TTT-Teleskop auf dem Teide einen Materialstrahl aus dem Kern des interstellaren Kometen 3I/ATLAS. Zum ersten Mal wurde ein solcher Jet außerhalb des Sonnensystems beobachtet und die Rotationsperiode bestätigt.
 
-Was Wladimir Putin von den europäischen Staats- und Regierungschefs hält, das hat er diese Woche wieder unmissverständlich klar gemacht. Der russische Präsident bezeichnete sie in einer Rede im Verteidigungsministerium als «Schweinehunde» – weil sie ... [weiterlesen](https://www.nzz.ch/international/macron-und-putin-neue-diplomatische-signale-im-ukraine-krieg-ld.1917605)
+Dem Zwei-Meter-Twin-Teleskop auf Teneriffa ist etwas gelungen, was bisher noch niemand geschafft hat: einen Gas- und Staubstrahl aufzunehmen, der aus einem interstellaren Kometen austritt. Es handelt sich um das Objekt 3I/ATLAS, das im Juli letzten J... [weiterlesen](https://de.euronews.com/next/2025/12/22/teleskop-gasstrahl-komet)
 
-> Relevance score: [5] - Developments in Russo‑French diplomatic contacts could influence the broader European stance on the Ukraine conflict, with indirect implications for Swiss foreign‑policy considerations.
+> Relevance score: [3] - The scientific discovery is noteworthy for astronomy but lacks direct Swiss involvement or societal impact.
 
-## Mercuria: Die unbekannte Rohstofffirma im "Team Switzerland"
+## Thailand und Kambodscha einigen sich auf Gespräche
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/mysterioeser-rohstoffkonzern-was-macht-mercuria-im-team-switzerland) • _Montag, 22. Dezember 2025, 06:03 Uhr_
+[DER FARANG](https://der-farang.com/de/pages/grenzkonflikt-thailand-und-kambodscha-einigen-sich-auf-gespraeche-1) • _Montag, 22. Dezember 2025, 12:31 Uhr_
 
-Mercuria zählt zu den umsatzstärksten Schweizer Unternehmen. Wer verbirgt sich hinter der Genfer Firma?
+KUALA LUMPUR: Hunderttausende Vertriebene, anhaltende Gefechte: Jetzt soll ein neuer Anlauf für eine dauerhafte Waffenruhe starten. Wird das Gespräch ...
 
-Darum geht es: Einer der Schweizer Milliardäre, die im November bei US-Präsident Donald Trump im Oval Office sassen, war Daniel Jäggi. Jäggi ist Verwaltungsratspräsident von Mercuria. Sein Besuch bei Trump warf plötzlich ein Schlaglicht auf die Genfe... [weiterlesen](https://www.srf.ch/news/wirtschaft/mysterioeser-rohstoffkonzern-was-macht-mercuria-im-team-switzerland)
+KUALA LUMPUR: Hunderttausende Vertriebene, anhaltende Gefechte: Jetzt soll ein neuer Anlauf für eine dauerhafte Waffenruhe starten. Wird das Gespräch endlich Frieden bringen?
+Nach neuen Gefechten an ihrer gemeinsamen Grenze wollen Thailand und Kambod... [weiterlesen](https://der-farang.com/de/pages/grenzkonflikt-thailand-und-kambodscha-einigen-sich-auf-gespraeche-1)
 
-> Relevance score: [4] - Profiling a major Swiss commodity trader and its billionaire chair gives insight into a key economic player, but the story lacks a concrete policy or market shift, limiting immediate societal impact.
+> Relevance score: [2] - The talks concern a regional Southeast‑Asian dispute with no direct bearing on Swiss interests or global structural issues.
 
-## Starökonom Joseph Stiglitz am WEF in Ungnade gefallen
+## Skifahrer beschweren sich: Preise in Bergrestaurants explodieren
 
-[Blick](https://www.blick.ch/wirtschaft/stammgast-in-davos-ploetzlich-unerwuenscht-wef-verbannt-nobelpreistraeger-stiglitz-wegen-seiner-frau-id21539275.html) • _Montag, 22. Dezember 2025, 00:00 Uhr_
+[20 Min](https://www.20min.ch/story/skifahrer-beschweren-sich-preise-in-bergrestaurants-explodieren-103474422) • _Montag, 22. Dezember 2025, 12:18 Uhr_
 
-Nobelpreisträger Joseph Stiglitz war am WEF in Davos viele Jahre ein gern gesehener Gast. Doch jetzt wird er nicht mehr eingeladen – weil er und seine Frau scharfe Trump-Kritiker sind?
+Skifahren wird immer teurer: Wintersportler sind frustriert über die hohen Preise in Skihütten in Österreich und in Italien.
 
-Christian KolbeRedaktor Wirtschaft
-Joseph Stiglitz (82) ist eine Ikone des World Economic Forum (WEF). Doch jetzt erscheint er nicht mehr auf der Teilnehmerliste für das kommende Jahrestreffen in Davos GR. Seine Frau Anya Schiffrin (63) zu Blick: «Si... [weiterlesen](https://www.blick.ch/wirtschaft/stammgast-in-davos-ploetzlich-unerwuenscht-wef-verbannt-nobelpreistraeger-stiglitz-wegen-seiner-frau-id21539275.html)
+Skifahren ist nicht billig: Je nach Region kosten die Skipässe für eine Woche mehr als ein Flug in die Malediven. Dazu kommen Preise für Unterkunft, Miete von Skizubehör und Verpflegung. Gerade Letzteres sorgt in den sozialen Medien gerade wieder für... [weiterlesen](https://www.20min.ch/story/skifahrer-beschweren-sich-preise-in-bergrestaurants-explodieren-103474422)
 
-> Relevance score: [3] - The exclusion of a prominent economist from the Davos agenda is mainly a personal‑political anecdote with negligible effect on Swiss governance or economy.
+> Relevance score: [2] - Price complaints in Austrian and Italian ski resorts may affect some Swiss tourists, yet the issue is localized and lacks broader civic or economic significance for Switzerland.
 
-## Entführung aus Internat in Nigeria: Alle Schulkinder freigelassen
+## Krieg in der Ukraine - Selenski: Konstruktive Gespräche in Florida
 
-[20 Min](https://www.20min.ch/story/nigeria-sie-wurden-aus-internat-verschleppt-alle-schulkinder-wieder-frei-103474309) • _Sonntag, 21. Dezember 2025, 20:56 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-konstruktive-gespraeche-in-florida) • _Montag, 22. Dezember 2025, 06:39 Uhr_
 
-Einen Monat nach der Entführung von mehr als 300 Schülern aus einem katholischen Internat in Nigeria sind nun auch die verbliebenen Kinder frei.
+Bei den Verhandlungen werde auch über einen Zeitplan gesprochen. Er erwarte den Bericht seines Verhandlungsteams.
 
-«Weitere 130 entführte Schüler aus dem Bundesstaat Niger freigelassen, keiner mehr in Gefangenschaft», schrieb Präsidentensprecher Sunday Dare am Sonntag im Onlinedienst X – begleitet von einem Foto lächelnder Kinder. Anfang Dezember waren bereits ru... [weiterlesen](https://www.20min.ch/story/nigeria-sie-wurden-aus-internat-verschleppt-alle-schulkinder-wieder-frei-103474309)
+Angesichts der humanitären Krise in der Ukraine sammelt die Glückskette Spenden für die betroffene ukrainische Bevölkerung. Millionen Menschen – vor allem Kinder, Frauen und ältere Menschen – sind bereits geflohen und suchen Zuflucht in den Nachbarlä... [weiterlesen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-konstruktive-gespraeche-in-florida)
 
-> Relevance score: [3] - The release of kidnapped students is a positive humanitarian outcome but does not affect Swiss society or policymaking.
+> Relevance score: [2] - While the Ukraine conflict is globally important, a specific diplomatic meeting held in the US has limited direct relevance for Switzerland.
 
-## Wie Bürgerwehren Südafrikas Townships sicher machen
+## Krieg in der Ukraine - Russischer General stirbt bei Autobomben-Explosion in Moskau
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/virtueller-pranger-in-kapstadt-wie-buergerwehren-suedafrikas-townships-sicher-machen) • _Sonntag, 21. Dezember 2025, 21:10 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russischer-general-stirbt-bei-autobomben-explosion-in-moskau) • _Montag, 22. Dezember 2025, 06:38 Uhr_
 
-Die Polizei hat einen schlechten Ruf – darum bilden sich Bürgerwehren. Zu den bekanntesten gehört jene von Langa.
+Ein russischer General stirbt bei einer Explosion einer Autobombe in Moskau. Russland vermutet ukrainisches Attentat.
 
-Sechs Männer sind unterwegs auf dem Fahrrad – mit Leuchtwesten und einer langen Peitsche, dem Schambok, in der Hand. Sie gehören zur Sicherheitspatrouille in der Township Langa, die vor Kapstadt liegt.
-Alle sind arbeitslos und sorgen dennoch kostenlo... [weiterlesen](https://www.srf.ch/news/international/virtueller-pranger-in-kapstadt-wie-buergerwehren-suedafrikas-townships-sicher-machen)
+Angesichts der humanitären Krise in der Ukraine sammelt die Glückskette Spenden für die betroffene ukrainische Bevölkerung. Millionen Menschen – vor allem Kinder, Frauen und ältere Menschen – sind bereits geflohen und suchen Zuflucht in den Nachbarlä... [weiterlesen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russischer-general-stirbt-bei-autobomben-explosion-in-moskau)
 
-> Relevance score: [2] - While important for South African communities, the piece has little direct relevance to Swiss citizens or policy.
+> Relevance score: [2] - The death of a Russian general is a notable event in the war, but it does not have a direct bearing on Swiss affairs or policy.
+
+## Weisses Haus: 235 Milliarden an Zolleinnahmen und weitere "Segen"
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/xmas-erfolgsgeschichten-geldsegen-fuers-weisse-haus-235-milliarden-dollar-zolleinnahmen) • _Montag, 22. Dezember 2025, 10:40 Uhr_
+
+Die Angaben erscheinen in einem Weihnachts-Livestream mit Präsident Trump als vorlesender Trickfilmfigur.
+
+Die USA haben seit Januar 2025 mehr als 235 Milliarden US-Dollar an Zolleinnahmen verzeichnet.
+Die «frohe Kunde» teilt das Weisse Haus in einem mit Musik unterlegten Weihnachts-Livestream auf Youtube mit.
+Präsident Trump erscheint darin als Zeichentr... [weiterlesen](https://www.srf.ch/news/international/xmas-erfolgsgeschichten-geldsegen-fuers-weisse-haus-235-milliarden-dollar-zolleinnahmen)
+
+> Relevance score: [1] - A US‑centric propaganda piece on tariff revenue has no relevance to Swiss policy or public interest.
+
+## So viel haben die USA durch Trumps Zölle seit Januar eingenommen
+
+[Watson](https://www.watson.ch/international/usa/820261331-so-viel-haben-die-usa-durch-trumps-zoelle-seit-januar-eingenommen) • _Montag, 22. Dezember 2025, 09:17 Uhr_
+
+«Das US-Finanzministerium hat seit Januar 2025 mehr als 235 Milliarden US-Dollar an Zöllen eingenommen». Bekannt gegeben wurde das in einem animierten Live Stream.
+
+«Das US-Finanzministerium hat seit Januar 2025 mehr als 235 Milliarden US-Dollar an Zöllen eingenommen», heisst es in einem mit Lo-Fi-Musik unterlegten Weihnachts-Livestream des Weissen Hauses auf Youtube.
+In weiteren eingeblendeten Textblöcken werde... [weiterlesen](https://www.watson.ch/international/usa/820261331-so-viel-haben-die-usa-durch-trumps-zoelle-seit-januar-eingenommen)
+
+> Relevance score: [1] - Same as above – US fiscal data presented in a political livestream does not affect Swiss affairs.
+
+## Jeff Landry will Grönland für Trump zu einem Teil der USA machen
+
+[20 Min](https://www.20min.ch/story/usa-landry-soll-fuer-trump-groenland-zu-einem-teil-der-usa-machen-103474373) • _Montag, 22. Dezember 2025, 08:42 Uhr_
+
+Der Gouverneur von Louisiana, Jeff Landry, wird als Sondergesandter für Grönland ernannt und soll die US-Interessen stärken.
+
+US-Präsident Donald Trump ernennt den Gouverneur des südlichen Bundesstaats Louisiana, Jeff Landry, zum Sondergesandten für das offiziell zu Dänemark gehörende Grönland. Dieser verstehe, wie wichtig die Insel im Nordatlantik für die Sicherheit der US... [weiterlesen](https://www.20min.ch/story/usa-landry-soll-fuer-trump-groenland-zu-einem-teil-der-usa-machen-103474373)
+
+> Relevance score: [1] - A US political appointment concerning Greenland carries no direct impact on Switzerland or global structures that matter to Swiss citizens.
+
+## Anschlag am Bondi Beach: Täter planten Angriff akribisch
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/terror-am-bondi-beach-taeter-planten-anschlag-in-sydney-akribisch) • _Montag, 22. Dezember 2025, 07:47 Uhr_
+
+Vater und Sohn bereiteten sich über Monate vor. Dies belegt ein Video, welches die Polizei gefunden hat.
+
+Gut eine Woche nach dem Terroranschlag am Bondi Beach in Sydney haben die Behörden neue Details bekannt gegeben.
+Die beiden Täter haben sich demnach über Monate hinweg auf den Angriff am jüdischen Lichterfest vorbereitet.
+Der 24-jährige Angreifer wur... [weiterlesen](https://www.srf.ch/news/international/terror-am-bondi-beach-taeter-planten-anschlag-in-sydney-akribisch)
+
+> Relevance score: [1] - A terrorist incident in Australia is largely irrelevant to Swiss security or public interest.
 
 
 </details>
