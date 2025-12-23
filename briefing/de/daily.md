@@ -2,263 +2,203 @@
 
 ---
 
-_Aktualisiert: Dienstag, 23. Dezember 2025, 06:28 Uhr_
+_Aktualisiert: Dienstag, 23. Dezember 2025, 18:24 Uhr_
 
-## Sanktionen und das Schweigen der Schweiz
+## Durchbruch oder Bedrohung? KI erschafft funktionsfähige Viren im Labor
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/affaere-jacques-baud-die-eu-sanktioniert-die-offizielle-schweiz-schweigt-ld.1917676) • _Montag, 22. Dezember 2025, 17:37 Uhr_
+[Frankfurter Rundschau](https://www.fr.de/wissen/labor-durchbruch-oder-bedrohung-ki-erschafft-funktionsfaehige-viren-im-zr-94093081.html) • _Dienstag, 23. Dezember 2025, 04:52 Uhr_
 
-Die Schweizer Mission in Brüssel wusste, dass die EU den Schweizer Jacques Baud auf die Sanktionsliste setzen würde. Sie warnte ihn nicht und meldete sich zehn Tage lang nicht bei ihm. Die EU hat die Schweiz vor dem Sanktionsbeschluss nicht konsultiert.
+Stanford-Forscher haben mit KI neue Viren erschaffen, die Bakterien abtöten können. Was für manche nach Science-Fiction klingt, ist für andere „Darwin 2.0“.
 
-### Hintergrund und Sanktionierung  
+### Experimentelle Vorgehensweise
+- Ein Forschungsteam der **[Stanford University](https://en.wikipedia.org/wiki/Stanford_University)** entwickelte das generative KI‑Modell **“Evo”**, das mit etwa **9 Billionen DNA‑Bausteinen** aus einem umfassenden Lebensatlas trainiert wurde.  
+- Das Modell sollte komplette Genom‑Sequenzen für einen einfachen Bakteriophagen entwerfen.  
+- Zielorganismus: der **[Bakteriophage φX174](https://en.wikipedia.org/wiki/ΦX174)**, ein 5 400‑Basen‑langes Virus, das *Escherichia coli* infiziert.  
+- Aus **300** von Evo vorgeschlagenen Genomen wurden **16** synthetisiert, in *E. coli* eingeführt und auf Funktionsfähigkeit getestet.  
+- Funktionsnachweis erfolgte über Trübung der Kulturflaschen und schnelleres Vermehren der Phagen gegenüber dem natürlichen Stamm.
 
-- Am **15. Dezember 2025** setzte die **[EU](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union)** Jacques Baud, einen 70‑jährigen Schweizer, auf ihre **Russland‑Sanktionsliste**.  
-- Begründung: Er fungiere als „Sprachrohr für prorussische Propaganda“ und sei an „Informationsmanipulation“ beteiligt, laut Beschluss des **[Europäischen Rates](https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Rat)**, unterschrieben von der Außenbeauftragten **[Kaja Kallas](https://de.wikipedia.org/wiki/Kaja_Kallas)**.  
-- Baud, ehemaliger Oberst im Generalstab, war Analyst beim **[Schweizer Nachrichtendienst](https://de.wikipedia.org/wiki/Schweizer_Nachrichtendienst)** und in leitenden Positionen für das **[Eidgenössische Departement für auswärtige Angelegenheiten (EDA)](https://de.wikipedia.org/wiki/Eidgen%C3%B6ssisches_Departement_f%C3%BCr_Ausw%C3%A4rtige_Angelegenheiten)**, die **UNO** und die **[NATO](https://de.wikipedia.org/wiki/NATO)** tätig.  
-- Seine Publikationen zum Ukraine‑Krieg weichen von der westlichen offiziellen Darstellung ab und haben damit in Brüssel Kritik ausgelöst.  
+### Ergebnisse und Bedeutung
+- Die KI konnte **neue, funktionierende Phagen‑Genom‑Designs** erzeugen, die Bakterien abtöten.  
+- Die Autoren betonen, dass das Experiment **nicht gefährlich** war und die Schaffung von „Leben“ (im Sinne von eigenständigen Organismen) nach wie vor eine größere Herausforderung darstellt.  
+- Die Arbeit illustriert, wie KI **biologische Design‑Aufgaben beschleunigen** kann, ähnlich wie KI‑Tools bereits für **Protein‑Strukturvorhersage** (z. B. **[AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)**) und **neue Proteine** eingesetzt werden.
 
-### Folgen für Baud  
+### Reaktionen der Fachwelt
+- **[Michael Hecht](https://en.wikipedia.org/wiki/Michael_Hecht_(chemist))** (Princeton University) bezeichnete das Vorgehen als **„Darwin 2.0“** und äußerte Besorgnis über das Erschaffen neuer Lebensformen.  
+- **[J. Craig Venter](https://en.wikipedia.org/wiki/J._Craig_Venter)** sah die KI als Werkzeug, das **„Aufgaben übernimmt und sie beschleunigt“**.  
+- **[Gregory Kaebnick](https://en.wikipedia.org/wiki/Hastings_Center)** (Bioethiker) hob die **unsichere** Natur der Technologie hervor.  
+- **[Brian Hie](https://en.wikipedia.org/wiki/Stanford_University)** (Chemieingenieur, Stanford) betonte, dass das Modell **nur als Hilfsmittel** dient und nicht autonom künstliches Leben erschafft.  
+- **[Drew Endy](https://en.wikipedia.org/wiki/Drew_Endy)** verglich die KI mit einem **„exquisiten Musikinstrument“**, das von menschlichen Virtuosen gespielt wird.  
+- **[Kevin Esvelt](https://en.wikipedia.org/wiki/Kevin_Esvelt)** (MIT Media Lab) sah derzeit keine unmittelbare Bio‑Sicherheitsgefahr, warnte jedoch vor möglichen zukünftigen Missbrauchsszenarien.  
+- **[Julian Savulescu](https://en.wikipedia.org/wiki/Julian_Savulescu)** (National University of Singapore) betonte das Risiko, **„unbekanntes biologisches Terrain“** zu betreten.
 
-- **Reiseverbot** innerhalb der EU, **Gefrierung** seiner Konten bei europäischen Banken.  
-- Dritten ist es untersagt, finanzielle Unterstützung zu leisten.  
-- Rechtlicher Einspruch ist möglich, ist jedoch langwierig und kostenintensiv.  
+### Potenzielle Anwendungen
+- **Entwicklung neuer Antibiotika** und **phagentherapeutischer Strategien** gegen antibiotikaresistente Bakterien.  
+- **Synthese von Medikamenten** und **Abbau von umweltschädlichen Chemikalien** mithilfe von KI‑designten Stoffwechselwegen.  
+- Möglichkeit, **Kombinationen (Cocktails) von Phagen** zu erstellen, die bakterielle Resistenz umgehen.
 
-### Verhalten der Schweizer Behörden  
+### Risiken und ethische Bedenken
+- KI‑basierte DNA‑Entwürfe können **novelle Toxine** oder **gefährliche Pathogene** erzeugen, die in der Natur nicht vorkommen.  
+- Gefahr, dass **jedermann** Zugang zu einfachen DNA‑Synthesizern hat und potenziell **biologische Waffen** herstellen könnte.  
+- Diskussionen über **Datenfilterung** (z. B. Ausschluss von Viren‑Sequenzen, die Mehrzeller befallen) zur Reduktion von Missbrauchspotential.  
+- Verantwortungsvolle KI‑Entwicklung wird von Institutionen wie der **[Stanford School of Medicine](https://en.wikipedia.org/wiki/Stanford_Medicine)** und Konferenzen zum **„Responsible AI“** thematisiert.
 
-- Die **Schweizer Mission in Brüssel** erfuhr am **12. Dezember 2025** von dem bevorstehenden Listing, kontaktierte Baud jedoch nicht mehr als zehn Tage später erneut.  
-- **Rita Adam**, Leiterin der Mission, reagierte auf Bauds Anruf nicht, was Baud selbst als „keine SMS, kein Telefon, keine E‑Mail“ bezeichnet.  
-- Das **EDA** bestätigte den Kontaktverlauf, gab jedoch keine Erklärung, warum keine Warnung erfolgte.  
-- Laut EDA wurde die Schweiz **nicht formell** vor dem Sanktionsentscheid konsultiert; die EU handelte eigenständig.  
-- Die Schweizer Botschafterin in den Niederlanden kontaktierte Baud später telefonisch und bot „Unterstützung im Rahmen des Möglichen“ an, jedoch ohne klare Positionierung.  
+### Ausblick
+- Aktuell liegt der Fokus nicht auf der Schaffung von **vollständigem künstlichem Leben**, sondern auf **nützlichen biologischen Bausteinen** (z. B. Medikamentenproduktion).  
+- Weiterentwicklungen könnten die **Effizienz und Innovation** in der synthetischen Biologie erhöhen, gleichzeitig aber **Bio‑Sicherheits‑ und Ethik‑Frameworks** stärken müssen.  
 
-### Rechtliche und politische Implikationen  
+> Relevance score: [8] - Advances in AI‑generated viruses raise major bio‑security concerns with global implications for health, research regulation and potential weaponisation.
 
-- **Fehlende Rechtsgarantien**: Personen auf schwarzen Listen erhalten kaum rechtliches Gehör, was Fragen nach dem **Rechtsstaat** aufwirft.  
-- **Parallelen zu UNO‑Sicherheitsratslisten**: Kritik an mangelnder Transparenz und Überprüfung, bereits mehrfach im Schweizer Parlament thematisiert.  
-- **Beat Rieder** (Ständerat) warnte bereits 2024, dass Schweizer auf EU‑Listen landen könnten, wenn die Schweiz nicht rechtsstaatliche Garantien einhält.  
-- Die Affäre illustriert ein Spannungsfeld zwischen **Meinungsfreiheit**, **Informationspolitik** und **internationale Sanktionen** sowie die Zurückhaltung der Schweiz, die Interessen ihres Bürgers gegenüber der EU zu verteidigen.  
+## Reaktion auf Bedrohungslage - Armee denkt über Freiwilligentruppe nach - es wäre ein Revival
 
-### Ausblick  
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/reaktion-auf-bedrohungslage-armee-denkt-ueber-freiwilligentruppe-nach-es-waere-ein-revival) • _Dienstag, 23. Dezember 2025, 06:00 Uhr_
 
-- Das EDA prüft, welche Rechtsmittel Baud gegen den Sanktionsbeschluss zur Verfügung stehen.  
-- Beobachter gehen davon aus, dass die Debatte über die **Schwarzen Listen** und die Stellung der Schweiz zu EU‑Sanktionen weiter an Bedeutung gewinnen wird.  
-- Eine mögliche Neubewertung der schweizerischen **Sanktionspolitik** und ihrer Verpflichtungen gegenüber internationalen Rechtsstaatprinzipien ist zu erwarten.
+Wegen verschärfter Bedrohungslage prüft die Armee den Einsatz von Freiwilligen – und knüpft damit an Vergangenheit an.
 
-> Relevance score: [7] - The EU’s unilateral sanctioning of a Swiss national without consulting Switzerland raises questions about Swiss neutrality, compliance with international sanction regimes and diplomatic relations – a significant national issue.
+### Hintergrund und Motivation  
+- Der **Bundesrat** sieht eine verschärfte Bedrohungslage und will die Verteidigungsfähigkeit der Schweiz stärken.  
+- Im Rahmen der neuen sicherheitspolitischen Strategie wird die Idee geprüft, **Freiwilligentruppen** einzusetzen, die kritische Infrastruktur (Brücken, Bahnanlagen, Kraftwerke) überwachen und sichern.  
+- Die Freiwilligen sollen vor allem aus ehemaligen Armeeangehörigen rekrutiert werden.
 
-## Schweizer Gericht lässt Klimaklage gegen Holcim von indonesischen Fischern zu
+### Politische Reaktionen  
+- **SVP‑Nationalrat Rémy Wyssmann** unterstützt das Vorhaben und betont, dass bereits geschulte Ex‑Soldaten in Schützenklubs bereitstehen; er schlägt kurze Auffrischungskurse ohne hohen Verwaltungsaufwand vor.  
+- **SP‑Ständerätin Franziska Roth** lehnt komplette Freiwilligenverbände für Schutz‑ und Sicherungsaufgaben ab, weil solche Aufgaben ihrer Ansicht nach zur Polizei gehören; sie befürwortet jedoch Zeitsoldaten, die entsprechend ausgebildet und bezahlt werden.  
+- **SP‑Sicherheitspolitikerin Priska Seiler‑Graf** kritisiert die Idee, dass ein breiter Pool von Freiwilligen geschaffen wird, und fordert eine gezielte Rekrutierung nach konkretem Bedarf.  
 
-[20 Min](https://www.20min.ch/story/indonesien-inselfischer-gegen-holcim-schweizer-gericht-laesst-verfahren-zu-103474357) • _Montag, 22. Dezember 2025, 06:59 Uhr_
+### Geplante Struktur der Freiwilligentruppe  
+- Die Truppen sollen regional organisiert werden und bei erhöhten Spannungen aktiviert werden.  
+- Aufgaben könnten das Beschaffen von Nachrichten, das Überwachen von Geländeteilen und das Sichern von Objekten umfassen.  
+- Details zu Truppenstärke, Bewaffnung und Einsatzregeln liegen noch nicht vor.  
 
-Vier Fischer aus Indonesien fordern von Holcim Entschädigung für Klimaschäden durch CO2-Emissionen.
+### Historischer Vergleich: Ortswehren  
+- Während des **Zweiten Weltkriegs** wurden in der Schweiz etwa 3 000 **Ortswehren** mit rund 125 000 Mann gegründet, um Infrastruktur vor Sabotage zu schützen.  
+- 1967 wurden sie aufgelöst.  
+- **Militärhistoriker Fritz Kälin** sieht Parallelen zur geplanten Freiwilligenformation, betont jedoch, dass heutige Einheiten modernes Equipment und Ausbildung erhalten würden.  
 
-### Hintergrund  
-- Die Insel **Pari** im Java‑Meer (na Jakarta) ist durch den steigenden **Meeresspiegel** stark bedroht.  
-- Vier dortige Fischerinnen und Fischer klagen gegen den **Zementkonzern Holcim**, dessen Hauptsitz in **Zug** liegt.  
-- Holcim gehört zu den hundert weltweit größten CO₂‑Verursachern; die Zementproduktion macht etwa 8 % der globalen Emissionen aus.  
+### Kosten‑ und Effizienzargumente  
+- Kälin argumentiert, dass die Entlassung von Soldaten vor dem 30. Lebensjahr eine große militärökonomische Ineffizienz darstelle.  
+- Ein Pool von mindestens 1 000 Freiwilligen könne kosteneffizient die Lücke zwischen Polizei und Kampfverbänden schließen und damit die Verteidigungsfähigkeit erhöhen.  
 
-### Kern der Klage und Forderungen  
-- Die Klage wurde 2023 eingereicht und behandelt **Klimaschäden**, die auf die Emissionen von Holcim zurückgeführt werden.  
-- Die Kläger fordern:  
-  1. **Entschädigung** für bereits erlittene Schäden auf der Insel Pari.  
-  2. **Beteiligung** an Schutzmaßnahmen gegen Überschwemmungen und Meeresspiegelanstieg.  
-  3. Eine **schnelle Reduktion** der CO₂‑Emissionen von Holcim.  
+### Hybride Kriegsführung  
+- Der **Bundesrat** warnt vor steigenden Fällen hybrider Konfliktführung, die Sabotage, Cyberangriffe, Desinformation, wirtschaftlichen Druck und verdeckte militärische Operationen kombiniert.  
+- Solche Aktivitäten liegen in einer völkerrechtlichen Grauzone, was die Abgrenzung zwischen Frieden und Krieg erschwert.  
 
-### Verfahrensstand  
-- Das **Kantonsgericht Zug** hat die Klage zulässig erklärt und wird nun die Punkte prüfen.  
-- Sollte das Urteil angefochten werden, können die Parteien zum **Bundesgericht in Lausanne** und später möglicherweise zum **Europäischen Gerichtshof für Menschenrechte** in Straßburg gehen.  
-- Erst nach einer rechtskräftigen Zulassung kann entschieden werden, ob Holcim zu Zahlungen und strengeren Emissionsreduktionen verpflichtet wird.  
+### Internationale Vergleichsmodelle  
+- **Schweden** und **Norwegen** betreiben sogenannte *Heimwehren* (ca. 20 000 Freiwillige), die in Friedenszeiten bei Katastrophen helfen und im Konfliktfall Flughäfen oder Häfen sichern.  
+- **Estland** und **Lettland** haben ähnliche Freiwilligenverbände, wobei in Estland bereits Kinder und Jugendliche teilnehmen dürfen.  
+- **Polen** hat vor rund zehn Jahren eine *Territorialverteidigungsarmee* etabliert, die jährlich etwa 35 000 Personen einer einmonatigen Grundausbildung unterzieht.  
 
-### Bedeutung  
-- Dies ist die erste Zulassung einer derartigen **Klimaklage** gegen ein multinationales Unternehmen in der Schweiz.  
-- Der Fall könnte wegweisend für zukünftige Rechtsstreitigkeiten zu Unternehmensverantwortung im Klimawandel sein und die öffentliche Diskussion über **Verantwortung von Konzernen** nachhaltig prägen.
+> Relevance score: [7] - A potential shift in Swiss defence policy could affect a large part of the population, defence budgeting and civil‑military relations. Significant national relevance but still a proposal, not yet implemented.
 
-> Relevance score: [7] - The acceptance of a climate lawsuit against a major Swiss multinational sets a potential precedent for future climate litigation, affecting Swiss corporate accountability and international environmental law.
+## Russland sichert Venezuela "uneingeschränkte Unterstützung" zu
 
-## Schweizer Parlament diskutiert über 300 Vorstösse: Von Red Bull
+[Blick](https://www.blick.ch/ausland/im-konflikt-mit-den-usa-russland-sichert-venezuela-uneingeschraenkte-unterstuetzung-zu-id21542491.html) • _Montag, 22. Dezember 2025, 19:49 Uhr_
 
-[20 Min](https://www.20min.ch/story/ueber-300-vorstoesse-von-red-bull-verbot-bis-mehr-sex-vorstossflut-im-parlament-103474158) • _Montag, 22. Dezember 2025, 08:28 Uhr_
+Zwischen den USA und Venezuela schwelt der Konflikt zunehmend. Nun hat sich Russland mit einer klaren Botschaft auf die Seite Venezuelas gestellt. Mittlerweile hat Russland begonnen, russische Diplomatenfamilien aus Venezuela zu evakuieren.
 
-Die Wintersession endet mit einer Flut an neuen Vorstössen, die spannende Themen ansprechen.
+### 🇷🇺 Russische Unterstützung für [Venezuela](https://en.wikipedia.org/wiki/Venezuela)
 
-### Umfang der Vorstösse
-- In der am Freitag beendeten Wintersession wurden **ca. 330 Vorstösse** eingereicht – 22 Seiten à etwa 15 Initiativen pro Seite.  
-- Die Vorstösse decken ein breites Themenspektrum von **Energydrink‑Verbot** über **Verkehrs‑** bis **Demografie‑**Politik ab.
+- **Telefonat** zwischen dem russischen Außenminister **[Sergej Lawrow](https://en.wikipedia.org/wiki/Sergei_Lavrov)** und dem venezolanischen Gegenstück **[Yván Gil](https://en.wikipedia.org/wiki/Juan_Guevara)** (Venezolanisches Außenministerium).
+- Das russische Außenministerium erklärt:
+  - tiefe Besorgnis über die Eskalation der Aktionen der USA in der Karibik,
+  - **„uneingeschränkte Unterstützung und Solidarität“** für die venezolanische Führung und Bevölkerung.
+- **Evakuierung**: Das russische Außenministerium begann bereits mit der Evakuierung der Familien russischer Botschafter aus Venezuela.
+- **Weiterführung der Zusammenarbeit**:
+  - Fortsetzung der engen bilateralen Kooperation,
+  - Koordination auf der internationalen Bühne (insbesondere bei den **[UNO](https://en.wikipedia.org/wiki/United_Nations)**) zur Wahrung der staatlichen Souveränität und Nicht‑Einmischung.
 
-### Ausgewählte Themenbereiche  
+### 🇺🇸 US‑Aggressionen im Karibikraum
 
-#### Gesundheit & Jugend
-- **Energydrink‑Verbot für Unter‑16‑Jährige** – Benjamin Roduit (Mitte/VS) will, dass Energydrinks mit > 150 mg Koffein / l wie Bier und Wein erst ab 16 Jahren verkauft werden.  
-- **Zugang zu Pornoseiten nur mit E‑ID** – Nik Gugger (EVP/ZH) und Erich Vontobel (EDU/ZH) fordern eine Altersverifizierung per E‑ID, bevor pornografische Inhalte angezeigt werden.  
-  *[E‑ID]*: <https://en.wikipedia.org/wiki/Eid_(Swiss_identity_card)>
+- Seit September greift die **[US‑Armee](https://en.wikipedia.org/wiki/United_States_Army)** Schiffe in der Karibik an und behauptet, es handle sich um Drogenkurierer.
+  - Mehr als **100 Tote** (unter ihnen Fischer), ohne veröffentlichte Beweise für Drogenhandel.
+- Die USA positionierten **Kampfverbände** vor der venezolanischen Küste.
+- **Blockade‑ und Beschlagnahmungsmaßnahmen**:
+  - Präsident **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** verkündete eine Blockade sanktionierter Öltanker, die nach Venezuela fahren oder von dort ablegen.
+  - Innerhalb von zwei Wochen wurden **zwei Öltanker** beschlagnahmt; ein dritter wurde verfolgt.
+- Trump wirft dem venezolanischen Präsidenten **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicolás_Maduro)** die Kontrolle über Drogenkartelle und gezielte Angriffe auf die USA vor.
 
-#### Öffentliche Sicherheit
-- **Verlängerung der Festnahme von gewalttätigen Demonstranten** – Petra Gössi (FDP/SZ) und Christian Wasserfallen (FDP/BE) wollen die maximale polizeiliche Haft von 24 auf 48 Stunden ausdehnen (Bezug: Palästina‑Demo in Bern).  
-- **Bericht zu männlicher Gewalt und Radikalisierung** – Patrick Hässig (GLP/ZH) fordert einen Bundesratsbericht über „männlich‑ideologische Gewalt‑ und Radikalisierungsdynamiken“; unterstützt von sechs Nationalräten aller Fraktionen, inkl. SVP.  
+### 🌐 Internationale Reaktionen und weitere Entwicklungen
 
-#### Demografie & Gesellschaft
-- **Nationaler Aktionsplan für mehr „fruchtbaren Sex“** – Marc Jost (EVP/BE) schlägt das Projekt *Futura Sicura* vor, um die niedrige Geburtenrate zu erhöhen.  
-- **„Volksnein“ – längere Cool‑Down‑Phase für abgelehnte Volksinitiativen** – Walter Gartmann (SVP/SG) verlangt, dass Initiativen mit > 60 % Nein‑Stimmen erst nach einer Ruhephase erneut eingebracht werden können.  
+- **UN‑Sicherheitsrat** hält eine Dringlichkeitssitzung zu den Spannungen zwischen den USA und Venezuela ab; die venezolanische Regierung fordert das Treffen mit Unterstützung von **Russland** und **[China](https://en.wikipedia.org/wiki/China)**.
+- **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicolás_Maduro)** bleibt ein treuer Verbündeter von **[Wladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)** und unterstützt die russische Militäroffensive in der Ukraine seit deren Beginn.
 
-#### Verkehr & Infrastruktur
-- **Keine weiteren 80‑km/h‑Strecken auf Autobahnen** – Thomas Knutti (SVP/BE) und Lorenzo Quadri (Lega/TI) wollen verhindern, dass weitere 80‑km/h‑Zonen eingeführt werden; sie warnen vor automatischer Geschwindigkeitsreduktion bei hohem Verkehrsaufkommen.  
-- Hinweis: Andreas Glarner hatte zuvor ein generelles Tempolimit von 130 km/h statt der aktuellen 120 km/h gefordert.  
-
-#### Politische Verfahren
-- **Frühere Beendigung der Wintersession bzw. monatliche Sitzungen** – Fabio Regazzi (Mitte/TI) und Gregor Rutz (SVP/ZH) wollen die Session um zwei Wochen verkürzen; Aline Trede (Grüne/BE) schlägt vor, das Parlament möge monatlich eine einwöchige Sitzung halten, um Familie und Beruf besser zu vereinbaren.  
-- **Kostenlose Papierrechnungen** – Emmanuel Amoos (SP/VS) fordert, dass Telekomanbieter keine Gebühren mehr für Papierrechnungen erheben.  
-
-### Weiteres Vorgehen
-- Alle eingereichten Vorstösse befinden sich nun in der **Behandlungsphase**; das Parlament hat **zwei Jahre** Zeit, sie zu prüfen.  
-- Nicht behandelte Vorstösse werden nach Ablauf dieser Frist **automatisch archiviert**.  
-
-*Hinweis*: Die genannten Politiker*innen und Parteien können auf den jeweiligen Wikipedia‑Einträgen nachgelesen werden, z. B. **[Schweizer Parlament](https://en.wikipedia.org/wiki/Swiss_Parliament)**, **[Freisinnige Demokratische Partei (FDP)](https://en.wikipedia.org/wiki/FDP.The_Liberals)**, **[Schweizerische Volkspartei (SVP)](https://en.wikipedia.org/wiki/Swiss_People%27s_Party)**.
-
-> Relevance score: [6] - A flood of parliamentary motions reflects the legislative workload and potential policy changes within Switzerland, making it moderately relevant for national governance.
+> Relevance score: [6] - Escalation of great‑power involvement in a volatile region can affect international stability; noteworthy for global geopolitics.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Berner Kamera hilft bei Untersuchung des Asteroiden "Apophis"
+## Uni Bern hilft bei Erforschung von Asteroid "Apophis"
 
-[SWI swissinfo.ch](https://www.swissinfo.ch/ger/berner-kamera-hilft-bei-untersuchung-des-asteroiden-%22apophis%22/90679326) • _Montag, 22. Dezember 2025, 18:03 Uhr_
+[Blick](https://www.blick.ch/life/wissen/schweizer-kamera-im-all-uni-bern-hilft-bei-erforschung-von-asteroid-apophis-id21542287.html) • _Montag, 22. Dezember 2025, 20:03 Uhr_
 
-Eine Kamera der Universität Bern wird im April 2029 mithelfen, den nahe an der Erde vorbeifliegenden Asteroiden "Apophis" zu untersuchen. Die gewonnenen Informationen sollen helfen, den Schutz der Erde vor Asteroideneinschlägen zu verbessern.
+Eine Kamera der Universität Bern wird mithelfen, «Apophis» zu untersuchen. Der Asteroid fliegt im im April 2029 in nur 32'000 Kilometer Entfernung an der Erde vorbei. Die Informationen sollen helfen, den Schutz der Erde vor Asteroideneinschlägen zu verbessern.
 
-Rohstoffkrieg und leere Versprechen: Im Kongo wirkt Trumps Frieden nicht
-Mehr Rohstoffkrieg und leere Versprechen: Im Kongo wirkt Trumps Frieden nicht
-Stellenabbau bei der UNO: Für ausländische Absolventen in Genf wird es eng
-Mehr Stellenabbau bei de... [weiterlesen](https://www.swissinfo.ch/ger/berner-kamera-hilft-bei-untersuchung-des-asteroiden-%22apophis%22/90679326)
+Keystone-SDADie Schweizer Nachrichtenagentur
+Am 13. April 2029 wird «Apophis» die Erde in einer Entfernung von nur 32'000 Kilometern passieren. Die Erdanziehungskraft wird den Asteroiden leicht verformen und seine Rotation beeinflussen. Möglicherweis... [weiterlesen](https://www.blick.ch/life/wissen/schweizer-kamera-im-all-uni-bern-hilft-bei-erforschung-von-asteroid-apophis-id21542287.html)
 
-> Relevance score: [5] - The involvement of a Swiss university instrument in the 2029 Apophis fly‑by contributes to planetary‑defence research, a globally relevant scientific field and a prestige boost for Swiss science, but the immediate societal impact is limited.
+> Relevance score: [5] - Swiss scientific contribution to planetary defence against a known near‑Earth asteroid has moderate global scientific importance.
 
-## "Macron hat Merz verraten": Frankreichs Präsident soll den Vorschlag des deutschen Kanzlers für die Verwendung russischer Vermögen abgeschossen haben
+## Schwarzer Tag für Detailhändler - 100 Millionen Franken Verlust
 
-[Die Weltwoche](https://weltwoche.ch/daily/macron-hat-merz-verraten-frankreichs-praesident-soll-den-vorschlag-des-deutschen-kanzlers-fuer-russische-vermoegen-abgeschossen-haben/) • _Montag, 22. Dezember 2025, 16:37 Uhr_
+[blue News](https://www.bluewin.ch/de/news/wirtschaft-boerse/schwarzer-tag-fuer-detailhaendler-100-millionen-franken-verlust-3019746.html) • _Montag, 22. Dezember 2025, 18:24 Uhr_
 
-Beim EU-Gipfel blockierte Frankreich Macrons den deutsch-französischen Vorstoß zur Nutzung von 210 Mrd. Euro russischer Vermögen für die Ukraine-Hilfe, trotz eines Teilerfolgs von Merz.
+Der Black Friday hat für den Schweizer Detailhandel an Glanz verloren. Die Konsumenten haben der Rabattschlacht in diesem Jahr die kalte Schulter gezeigt – und dem Detailhandel einen enormen Verlust beschert.
 
-Die Kommentare auf weltwoche.ch/weltwoche.de sollen den offenen Meinungsaustausch unter den Lesern ermöglichen. Es ist uns ein wichtiges Anliegen, dass in allen Kommentarspalten fair und sachlich debattiert wird.
-Das Nutzen der Kommentarfunktion bede... [weiterlesen](https://weltwoche.ch/daily/macron-hat-merz-verraten-frankreichs-praesident-soll-den-vorschlag-des-deutschen-kanzlers-fuer-russische-vermoegen-abgeschossen-haben/)
+Der Black Friday hat für den Schweizer Detailhandel an Glanz verloren. Die Konsumenten haben der Rabattschlacht in diesem Jahr die kalte Schulter gezeigt – und dem Detailhandel einen enormen Verlust beschert.
+Der diesjährige Black Friday ist laut ein... [weiterlesen](https://www.bluewin.ch/de/news/wirtschaft-boerse/schwarzer-tag-fuer-detailhaendler-100-millionen-franken-verlust-3019746.html)
 
-> Relevance score: [5] - The dispute over using frozen Russian assets affects EU policy on funding Ukraine, which has indirect relevance for Swiss financial stability and foreign‑policy positioning, but the immediate impact on Switzerland is limited.
+> Relevance score: [5] - Significant short‑term financial hit for Swiss retail; reflects consumer behaviour but does not signal a systemic shift.
 
-## Schlag gegen die russische Armee
+## Grippewelle steuert auf Höhepunkt zu
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/anschlag-auf-general-in-moskau-schlag-gegen-die-russische-armee-im-hinterland-ld.1917666) • _Montag, 22. Dezember 2025, 17:54 Uhr_
+[RaiNews](https://www.rainews.it/tgr/tagesschau/articoli/2025/12/grippewelle-steuert-auf-hohepunkt-zu-b572ef60-89c7-4550-a3b0-4db07176863d.html) • _Dienstag, 23. Dezember 2025, 05:17 Uhr_
 
-Der Anschlag galt einem erfahrenen Offizier an einer wichtigen Stelle im Verteidigungsministerium. Hinter der Tat wird der ukrainische Geheimdienst vermutet. Dieser meldet gleichentags auch einen erfolgreichen Sabotageakt gegen russische Flugzeuge.
+Die Influenza-Variante K treibt - früher als sonst - die Fallzahlen in Italien hoch. Der Höhepunkt der Welle wird zwischen Weihnachten und Neujahr erwartet.
 
-General Fanil Sarwarow hatte kaum eine Chance. Als der 56-jährige hochrangige Mitarbeiter des russischen Verteidigungsministeriums am Montagmorgen mit seinem weissen Kia Sorento im Südosten Moskaus losfahren wollte, explodierte ein vermutlich unter d... [weiterlesen](https://www.nzz.ch/international/anschlag-auf-general-in-moskau-schlag-gegen-die-russische-armee-im-hinterland-ld.1917666)
+Influenza und andere Atemwegsviren breiten sich in Italien weiter aus. Nach nationalen Gesundheitsinstituts Iss steigt die Gesamtinzidenz weiter an. Sie liegt bei 817.000 neuen Fällen pro Woche. Seit Beginn der Saison wurden etwa 4,9 Millionen Infekt... [weiterlesen](https://www.rainews.it/tgr/tagesschau/articoli/2025/12/grippewelle-steuert-auf-hohepunkt-zu-b572ef60-89c7-4550-a3b0-4db07176863d.html)
 
-> Relevance score: [4] - A high‑profile sabotage of a Russian defence official may affect the Russia‑Ukraine conflict and European security, yet its direct relevance to Swiss citizens or policy is modest.
+> Relevance score: [4] - A seasonal influenza surge in Italy is a public‑health event, but it is routine and its direct impact on Switzerland or globally is limited.
 
-## Black Friday wird zum Minusgeschäft für Detailhändler
+## Mehr Lohn oder Bonus 2026: Jeder dritte Schweizer hofft darauf
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/schwarzer-tag-fuer-verkauf-black-friday-kostet-schweizer-detailhaendler-100-millionen-franken) • _Montag, 22. Dezember 2025, 15:18 Uhr_
+[20 Min](https://www.20min.ch/story/mehr-lohn-oder-bonus-2026-jeder-dritte-schweizer-hofft-darauf-103472388) • _Dienstag, 23. Dezember 2025, 04:57 Uhr_
 
-Der Black Friday hat an Glanz verloren – aus Sicht der Konsumenten und damit auch der Verkäufer.
+Trotz steigender Lebenshaltungskosten glauben viele Schweizer an bessere finanzielle Perspektiven im kommenden Jahr.
 
-Der diesjährige Black Friday hat laut einer Studie des Gottlieb Duttweiler Instituts (GDI) den Schweizer Detailhandel 100 Millionen Franken gekostet.
-Es überwiege mittlerweile Ernüchterung gegenüber der jährlichen Einkaufsschlacht – was sich auch in ... [weiterlesen](https://www.srf.ch/news/wirtschaft/schwarzer-tag-fuer-verkauf-black-friday-kostet-schweizer-detailhaendler-100-millionen-franken)
+Krankenkasse, Miete, Einkauf: Das Leben in der Schweiz wird gefühlt immer teurer. Dennoch zeigt eine repräsentative Umfrage des Preisvergleichsportals Comparis nun, dass die finanzielle Stimmung in der Schweiz sich im Vergleich zu den Vorjahren leich... [weiterlesen](https://www.20min.ch/story/mehr-lohn-oder-bonus-2026-jeder-dritte-schweizer-hofft-darauf-103472388)
 
-> Relevance score: [4] - A study showing a 100 million CHF loss for Swiss retailers highlights a short‑term economic slump in a major sales period; it matters to the retail sector but does not constitute a structural shift.
+> Relevance score: [4] - Reflects Swiss public sentiment about wages and cost of living; modest economic relevance but does not indicate a structural change.
 
-## Teleskop entdeckt Gasstrahl auf dem Kometen 3I/ATLAS
+## Medienwandel Schweiz: 20 Minuten verabschiedet sich vom Print
 
-[Euronews.com](https://de.euronews.com/next/2025/12/22/teleskop-gasstrahl-komet) • _Montag, 22. Dezember 2025, 08:21 Uhr_
+[20 Min](https://www.20min.ch/story/neue-aera-beginnt-20-minuten-tritt-als-nummer-1-der-schweizer-tageszeitungen-ab-103474852) • _Dienstag, 23. Dezember 2025, 04:56 Uhr_
 
-Forscher entdeckten mit dem TTT-Teleskop auf dem Teide einen Materialstrahl aus dem Kern des interstellaren Kometen 3I/ATLAS. Zum ersten Mal wurde ein solcher Jet außerhalb des Sonnensystems beobachtet und die Rotationsperiode bestätigt.
+Der Rückzug von 20 Minuten aus dem Printmarkt zeigt, wie stark sich der Schweizer Medien- und Werbemarkt verändert hat.
 
-Dem Zwei-Meter-Twin-Teleskop auf Teneriffa ist etwas gelungen, was bisher noch niemand geschafft hat: einen Gas- und Staubstrahl aufzunehmen, der aus einem interstellaren Kometen austritt. Es handelt sich um das Objekt 3I/ATLAS, das im Juli letzten J... [weiterlesen](https://de.euronews.com/next/2025/12/22/teleskop-gasstrahl-komet)
+Liebe Leserinnen und Leser
+Heute liegt die letzte Ausgabe der Pendlerzeitung 20 Minuten in den Boxen. Damit geht ein Stück Mediengeschichte zu Ende. 26 Jahre lang hat euch diese Zeitung Gesprächsstoff geliefert. Auch wenn viele 20-Minuten-Fans uns sc... [weiterlesen](https://www.20min.ch/story/neue-aera-beginnt-20-minuten-tritt-als-nummer-1-der-schweizer-tageszeitungen-ab-103474852)
 
-> Relevance score: [3] - The scientific discovery is noteworthy for astronomy but lacks direct Swiss involvement or societal impact.
+> Relevance score: [4] - Marks a notable change in the Swiss media landscape, yet the effect is largely cultural and sector‑specific rather than societal‑wide.
 
-## Thailand und Kambodscha einigen sich auf Gespräche
+## Anschlag am Bondi Beach: In die Trauer mischt sich Wut
 
-[DER FARANG](https://der-farang.com/de/pages/grenzkonflikt-thailand-und-kambodscha-einigen-sich-auf-gespraeche-1) • _Montag, 22. Dezember 2025, 12:31 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/anschlag-am-bondi-beach-australien-nach-dem-terror-in-die-trauer-mischt-sich-wut) • _Montag, 22. Dezember 2025, 20:16 Uhr_
 
-KUALA LUMPUR: Hunderttausende Vertriebene, anhaltende Gefechte: Jetzt soll ein neuer Anlauf für eine dauerhafte Waffenruhe starten. Wird das Gespräch ...
+Der australische Premier spricht am Ort des Terrors – und wird mit Buhrufen empfangen. Ist die Kritik berechtigt?
 
-KUALA LUMPUR: Hunderttausende Vertriebene, anhaltende Gefechte: Jetzt soll ein neuer Anlauf für eine dauerhafte Waffenruhe starten. Wird das Gespräch endlich Frieden bringen?
-Nach neuen Gefechten an ihrer gemeinsamen Grenze wollen Thailand und Kambod... [weiterlesen](https://der-farang.com/de/pages/grenzkonflikt-thailand-und-kambodscha-einigen-sich-auf-gespraeche-1)
+Am Sonntag, den 14. Dezember, eröffneten zwei islamistische Attentäter das Feuer am weltberühmten Bondi Beach in Sydney. Ihr Ziel: Jüdinnen und Juden, die am Strand das Chanukka-Fest feierten. Die Angreifer – ein Vater und sein Sohn – schossen in die... [weiterlesen](https://www.srf.ch/news/international/anschlag-am-bondi-beach-australien-nach-dem-terror-in-die-trauer-mischt-sich-wut)
 
-> Relevance score: [2] - The talks concern a regional Southeast‑Asian dispute with no direct bearing on Swiss interests or global structural issues.
+> Relevance score: [3] - A terrorist attack in Australia is a serious event but its direct relevance to Swiss citizens or global structures is limited.
 
-## Skifahrer beschweren sich: Preise in Bergrestaurants explodieren
+## Venezuela: Das ist Maduros berüchtigter Supertanker
 
-[20 Min](https://www.20min.ch/story/skifahrer-beschweren-sich-preise-in-bergrestaurants-explodieren-103474422) • _Montag, 22. Dezember 2025, 12:18 Uhr_
+[Blick](https://www.blick.ch/ausland/wir-sind-in-aktiver-verfolgung-warum-die-usa-maduros-supertanker-jagen-id21541841.html) • _Montag, 22. Dezember 2025, 18:59 Uhr_
 
-Skifahren wird immer teurer: Wintersportler sind frustriert über die hohen Preise in Skihütten in Österreich und in Italien.
+Der riesige venezolanische Supertanker Bella 1 befindet sich derzeit auf der Flucht vor der US-Küstenwache. Das Schiff soll in die Finanzierung von Terrororganisationen verwickelt sein. Doch was ist über Maduros Supertanker bekannt? Ein Überblick.
 
-Skifahren ist nicht billig: Je nach Region kosten die Skipässe für eine Woche mehr als ein Flug in die Malediven. Dazu kommen Preise für Unterkunft, Miete von Skizubehör und Verpflegung. Gerade Letzteres sorgt in den sozialen Medien gerade wieder für... [weiterlesen](https://www.20min.ch/story/skifahrer-beschweren-sich-preise-in-bergrestaurants-explodieren-103474422)
+Janine EnderliRedaktorin News
+333 Meter lang, verschleierte Routen und auf der Flucht: Der Supertanker Bella 1 versucht sich derzeit, der US-Küstenwache zu entziehen. Unter der Flagge Guyanas wird das Schiff im Westatlantik von den USA gejagt. Der Gr... [weiterlesen](https://www.blick.ch/ausland/wir-sind-in-aktiver-verfolgung-warum-die-usa-maduros-supertanker-jagen-id21541841.html)
 
-> Relevance score: [2] - Price complaints in Austrian and Italian ski resorts may affect some Swiss tourists, yet the issue is localized and lacks broader civic or economic significance for Switzerland.
-
-## Krieg in der Ukraine - Selenski: Konstruktive Gespräche in Florida
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-konstruktive-gespraeche-in-florida) • _Montag, 22. Dezember 2025, 06:39 Uhr_
-
-Bei den Verhandlungen werde auch über einen Zeitplan gesprochen. Er erwarte den Bericht seines Verhandlungsteams.
-
-Angesichts der humanitären Krise in der Ukraine sammelt die Glückskette Spenden für die betroffene ukrainische Bevölkerung. Millionen Menschen – vor allem Kinder, Frauen und ältere Menschen – sind bereits geflohen und suchen Zuflucht in den Nachbarlä... [weiterlesen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-konstruktive-gespraeche-in-florida)
-
-> Relevance score: [2] - While the Ukraine conflict is globally important, a specific diplomatic meeting held in the US has limited direct relevance for Switzerland.
-
-## Krieg in der Ukraine - Russischer General stirbt bei Autobomben-Explosion in Moskau
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russischer-general-stirbt-bei-autobomben-explosion-in-moskau) • _Montag, 22. Dezember 2025, 06:38 Uhr_
-
-Ein russischer General stirbt bei einer Explosion einer Autobombe in Moskau. Russland vermutet ukrainisches Attentat.
-
-Angesichts der humanitären Krise in der Ukraine sammelt die Glückskette Spenden für die betroffene ukrainische Bevölkerung. Millionen Menschen – vor allem Kinder, Frauen und ältere Menschen – sind bereits geflohen und suchen Zuflucht in den Nachbarlä... [weiterlesen](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russischer-general-stirbt-bei-autobomben-explosion-in-moskau)
-
-> Relevance score: [2] - The death of a Russian general is a notable event in the war, but it does not have a direct bearing on Swiss affairs or policy.
-
-## Weisses Haus: 235 Milliarden an Zolleinnahmen und weitere "Segen"
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/xmas-erfolgsgeschichten-geldsegen-fuers-weisse-haus-235-milliarden-dollar-zolleinnahmen) • _Montag, 22. Dezember 2025, 10:40 Uhr_
-
-Die Angaben erscheinen in einem Weihnachts-Livestream mit Präsident Trump als vorlesender Trickfilmfigur.
-
-Die USA haben seit Januar 2025 mehr als 235 Milliarden US-Dollar an Zolleinnahmen verzeichnet.
-Die «frohe Kunde» teilt das Weisse Haus in einem mit Musik unterlegten Weihnachts-Livestream auf Youtube mit.
-Präsident Trump erscheint darin als Zeichentr... [weiterlesen](https://www.srf.ch/news/international/xmas-erfolgsgeschichten-geldsegen-fuers-weisse-haus-235-milliarden-dollar-zolleinnahmen)
-
-> Relevance score: [1] - A US‑centric propaganda piece on tariff revenue has no relevance to Swiss policy or public interest.
-
-## So viel haben die USA durch Trumps Zölle seit Januar eingenommen
-
-[Watson](https://www.watson.ch/international/usa/820261331-so-viel-haben-die-usa-durch-trumps-zoelle-seit-januar-eingenommen) • _Montag, 22. Dezember 2025, 09:17 Uhr_
-
-«Das US-Finanzministerium hat seit Januar 2025 mehr als 235 Milliarden US-Dollar an Zöllen eingenommen». Bekannt gegeben wurde das in einem animierten Live Stream.
-
-«Das US-Finanzministerium hat seit Januar 2025 mehr als 235 Milliarden US-Dollar an Zöllen eingenommen», heisst es in einem mit Lo-Fi-Musik unterlegten Weihnachts-Livestream des Weissen Hauses auf Youtube.
-In weiteren eingeblendeten Textblöcken werde... [weiterlesen](https://www.watson.ch/international/usa/820261331-so-viel-haben-die-usa-durch-trumps-zoelle-seit-januar-eingenommen)
-
-> Relevance score: [1] - Same as above – US fiscal data presented in a political livestream does not affect Swiss affairs.
-
-## Jeff Landry will Grönland für Trump zu einem Teil der USA machen
-
-[20 Min](https://www.20min.ch/story/usa-landry-soll-fuer-trump-groenland-zu-einem-teil-der-usa-machen-103474373) • _Montag, 22. Dezember 2025, 08:42 Uhr_
-
-Der Gouverneur von Louisiana, Jeff Landry, wird als Sondergesandter für Grönland ernannt und soll die US-Interessen stärken.
-
-US-Präsident Donald Trump ernennt den Gouverneur des südlichen Bundesstaats Louisiana, Jeff Landry, zum Sondergesandten für das offiziell zu Dänemark gehörende Grönland. Dieser verstehe, wie wichtig die Insel im Nordatlantik für die Sicherheit der US... [weiterlesen](https://www.20min.ch/story/usa-landry-soll-fuer-trump-groenland-zu-einem-teil-der-usa-machen-103474373)
-
-> Relevance score: [1] - A US political appointment concerning Greenland carries no direct impact on Switzerland or global structures that matter to Swiss citizens.
-
-## Anschlag am Bondi Beach: Täter planten Angriff akribisch
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/terror-am-bondi-beach-taeter-planten-anschlag-in-sydney-akribisch) • _Montag, 22. Dezember 2025, 07:47 Uhr_
-
-Vater und Sohn bereiteten sich über Monate vor. Dies belegt ein Video, welches die Polizei gefunden hat.
-
-Gut eine Woche nach dem Terroranschlag am Bondi Beach in Sydney haben die Behörden neue Details bekannt gegeben.
-Die beiden Täter haben sich demnach über Monate hinweg auf den Angriff am jüdischen Lichterfest vorbereitet.
-Der 24-jährige Angreifer wur... [weiterlesen](https://www.srf.ch/news/international/terror-am-bondi-beach-taeter-planten-anschlag-in-sydney-akribisch)
-
-> Relevance score: [1] - A terrorist incident in Australia is largely irrelevant to Swiss security or public interest.
+> Relevance score: [3] - A niche story about a single vessel’s movements, with limited broader economic or security impact.
 
 
 </details>

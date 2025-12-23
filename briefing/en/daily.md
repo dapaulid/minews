@@ -2,224 +2,198 @@
 
 ---
 
-*Updated: Tuesday, December 23, 2025, 06:28 AM*
+*Updated: Tuesday, December 23, 2025, 6:24 PM*
 
-## Sanctions and Switzerland’s Silence
+## Breakthrough or Threat? AI Creates Functional Viruses in the Lab
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/affaere-jacques-baud-die-eu-sanktioniert-die-offizielle-schweiz-schweigt-ld.1917676) • *Monday, December 22, 2025, 17:37 PM*
+[Frankfurter Rundschau](https://www.fr.de/wissen/labor-durchbruch-oder-bedrohung-ki-erschafft-funktionsfaehige-viren-im-zr-94093081.html) • *Tuesday, December 23 2025, 4:52 AM*
 
-Switzerland’s mission in Brussels knew that the EU would put Swiss national Jacques Baud on its sanctions list. It did not warn him and failed to contact him for ten days. The EU did not consult Switzerland before the sanction decision.
+Stanford researchers have used AI to create new viruses that can kill bacteria. What sounds like science fiction to some is “Darwin 2.0” to others.
 
-### Background and Sanctioning  
+### Experimental Procedure
+- A research team at **[Stanford University](https://en.wikipedia.org/wiki/Stanford_University)** developed the generative AI model **“Evo”**, trained on roughly **9 trillion DNA building blocks** from a comprehensive life atlas.  
+- The model was tasked with designing complete genome sequences for a simple bacteriophage.  
+- Target organism: the **[bacteriophage φX174](https://en.wikipedia.org/wiki/ΦX174)**, a 5 400‑base‑long virus that infects *Escherichia coli*.  
+- From **300** genomes proposed by Evo, **16** were synthesized, introduced into *E. coli*, and tested for functionality.  
+- Functionality was confirmed by cloudiness of the culture flasks and faster replication of the phage compared with the natural strain.
 
-- On **15 December 2025** the **[EU](https://en.wikipedia.org/wiki/European_Union)** placed Jacques Baud, a 70‑year‑old Swiss citizen, on its **Russia sanctions list**.  
-- Reason: He is deemed a “mouthpiece for pro‑Russian propaganda” and involved in “information manipulation”, according to a decision of the **[European Council](https://en.wikipedia.org/wiki/European_Council)**, signed by the foreign affairs minister **[Kaja Kallas](https://en.wikipedia.org/wiki/Kaja_Kallas)**.  
-- Baud, a former colonel in the General Staff, was an analyst for the **[Swiss intelligence service](https://en.wikipedia.org/wiki/Swiss_Intelligence_Service)** and held senior positions in the **[Federal Department of Foreign Affairs (EDA)](https://en.wikipedia.org/wiki/Federal_Department_of_Foreign_Affairs_(Switzerland))**, the **UN**, and **[NATO](https://en.wikipedia.org/wiki/NATO)**.  
-- His publications on the Ukraine war deviate from the official Western narrative and have therefore attracted criticism in Brussels.  
+### Results and Significance
+- The AI was able to generate **new, functional phage‑genome designs** that kill bacteria.  
+- The authors stress that the experiment **was not dangerous** and that creating “life” (in the sense of independent organisms) remains a far greater challenge.  
+- The work illustrates how AI can **accelerate biological design tasks**, similar to how AI tools are already used for **protein‑structure prediction** (e.g., **[AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)**) and **designing new proteins**.
 
-### Consequences for Baud  
+### Reactions from the Scientific Community
+- **[Michael Hecht](https://en.wikipedia.org/wiki/Michael_Hecht_(chemist))** (Princeton University) called the approach **“Darwin 2.0”** and expressed concern about creating new forms of life.  
+- **[J. Craig Venter](https://en.wikipedia.org/wiki/J._Craig_Venter)** saw AI as a tool that **“takes on tasks and speeds them up.”**  
+- **[Gregory Kaebnick](https://en.wikipedia.org/wiki/Hastings_Center)** (bioethicist) highlighted the **uncertain** nature of the technology.  
+- **[Brian Hie](https://en.wikipedia.org/wiki/Stanford_University)** (chemical engineer, Stanford) emphasized that the model **is only an aid** and does not autonomously create artificial life.  
+- **[Drew Endy](https://en.wikipedia.org/wiki/Drew_Endy)** likened the AI to an **“exquisite musical instrument”** played by human virtuosos.  
+- **[Kevin Esvelt](https://en.wikipedia.org/wiki/Kevin_Esvelt)** (MIT Media Lab) saw no immediate bio‑security threat but warned of possible future misuse scenarios.  
+- **[Julian Savulescu](https://en.wikipedia.org/wiki/Julian_Savulescu)** (National University of Singapore) stressed the risk of venturing into **“unknown biological terrain.”**
 
-- **Travel ban** within the EU and **freezing** of his accounts at European banks.  
-- Third parties are prohibited from providing him with financial assistance.  
-- Legal appeal is possible, but it is lengthy and costly.  
+### Potential Applications
+- **Development of new antibiotics** and **phage‑therapeutic strategies** against antibiotic‑resistant bacteria.  
+- **Synthesis of medicines** and **degradation of environmentally harmful chemicals** using AI‑designed metabolic pathways.  
+- Possibility to create **phage cocktails** that bypass bacterial resistance.
 
-### Behavior of Swiss Authorities  
+### Risks and Ethical Concerns
+- AI‑generated DNA designs could produce **novel toxins** or **dangerous pathogens** that do not exist in nature.  
+- Risk that **anyone** with access to simple DNA synthesizers could potentially **manufacture biological weapons**.  
+- Debates about **data filtering** (e.g., excluding virus sequences that infect multicellular organisms) to reduce misuse potential.  
+- Responsible AI development is discussed by institutions such as the **[Stanford School of Medicine](https://en.wikipedia.org/wiki/Stanford_Medicine)** and conferences on **“Responsible AI.”**
 
-- The **Swiss mission in Brussels** learned of the upcoming listing on **12 December 2025**, but did not contact Baud again until more than ten days later.  
-- **Rita Adam**, head of the mission, did not respond to Baud’s call, which Baud described as “no SMS, no phone, no e‑mail”.  
-- The **EDA** confirmed the contact timeline but gave no explanation for the lack of warning.  
-- According to the EDA, Switzerland was **not formally** consulted before the sanction decision; the EU acted independently.  
-- The Swiss ambassador in the Netherlands later called Baud and offered “support within what is possible”, without taking a clear stance.  
+### Outlook
+- The current focus is **not** on creating **complete artificial life**, but on **useful biological building blocks** (e.g., drug production).  
+- Future advances could boost **efficiency and innovation** in synthetic biology while requiring stronger **bio‑security and ethics frameworks**.
 
-### Legal and Political Implications  
+> Relevance score: [8] – Advances in AI‑generated viruses raise major bio‑security concerns with global implications for health, research regulation and potential weaponisation.
 
-- **Missing legal guarantees**: People on blacklists receive little judicial hearing, raising questions about the **rule of law**.  
-- **Parallels to UN Security Council lists**: Criticism of the lack of transparency and review, a topic already debated several times in the Swiss Parliament.  
-- **Beat Rieder** (Council of States) warned already in 2024 that Swiss citizens could end up on EU lists if Switzerland does not uphold rule‑of‑law guarantees.  
-- The affair illustrates a tension between **freedom of expression**, **information policy**, and **international sanctions**, as well as Switzerland’s reluctance to defend its citizen’s interests against the EU.  
+## Response to Threat Situation – Army Considers Volunteer Corps – It Could Be a Revival
 
-### Outlook  
+[Swiss Radio and Television](https://www.srf.ch/news/schweiz/reaktion-auf-bedrohungslage-armee-denkt-ueber-freiwilligentruppe-nach-es-waere-ein-revival) • *Tuesday, December 23 2025, 6:00 AM*
 
-- The EDA is examining which legal remedies are available to Baud against the sanction decision.  
-- Observers expect the debate on **blacklists** and Switzerland’s position on EU sanctions to gain further importance.  
-- A possible reassessment of Swiss **sanction policy** and its obligations under international rule‑of‑law principles is anticipated.
+Because of an increasingly serious threat environment, the army is examining the use of volunteers – echoing a historical precedent.
 
-> Relevance score: [7] – The EU’s unilateral sanctioning of a Swiss national without consulting Switzerland raises questions about Swiss neutrality, compliance with international sanction regimes and diplomatic relations – a significant national issue.
+### Background and Motivation  
+- The **Federal Council** sees a heightened threat environment and wants to strengthen Switzerland’s defensive capability.  
+- Under the new security‑policy strategy, the idea is being examined to deploy **volunteer units** that would monitor and protect critical infrastructure (bridges, railways, power plants).  
+- Volunteers would primarily be recruited from former military personnel.
 
-## Swiss Court Allows Climate Lawsuit Against Holcim by Indonesian Fishers
+### Political Reactions  
+- **SVP National Council member Rémy Wyssmann** supports the plan and notes that already‑trained ex‑soldiers are waiting in shooting clubs; he proposes short refresher courses without heavy bureaucracy.  
+- **SP Council member Franziska Roth** rejects the notion of fully volunteer battalions for protection and security tasks, arguing that such duties belong to the police; she does, however, favour “time soldiers” who would be properly trained and paid.  
+- **SP security‑policy politician Priska Seiler‑Graf** criticises the idea of creating a broad pool of volunteers and calls for targeted recruitment based on concrete needs.
 
-[20 Min](https://www.20min.ch/story/indonesien-inselfischer-gegen-holcim-schweizer-gericht-laesst-verfahren-zu-103474357) • *Monday, December 22, 2025, 06:59 AM*
+### Planned Structure of the Volunteer Corps  
+- Units would be organized regionally and activated during heightened tensions.  
+- Tasks could include gathering intelligence, monitoring terrain sections, and securing objects.  
+- Details on unit size, armament and rules of engagement have not yet been released.
 
-Four fishers from Indonesia are demanding compensation from Holcim for climate damage caused by CO₂ emissions.
+### Historical Comparison: Local Defense Forces  
+- During **World War II** Switzerland established about 3 000 **local defense forces** with roughly 125 000 men to protect infrastructure from sabotage.  
+- They were dissolved in 1967.  
+- **Military historian Fritz Kälin** sees parallels with the proposed volunteer formation, but stresses that today’s units would receive modern equipment and training.
 
-### Background  
-- The island **Pari** in the Java Sea (near Jakarta) is severely threatened by the rising **sea level**.  
-- Four local fishers are suing the **cement conglomerate Holcim**, whose headquarters are in **Zug**.  
-- Holcim is among the world’s hundred biggest CO₂ emitters; cement production accounts for about 8 % of global emissions.  
+### Cost‑and‑Efficiency Arguments  
+- Kälin argues that releasing soldiers before age 30 represents a major military‑economic inefficiency.  
+- A pool of at least 1 000 volunteers could cost‑effectively bridge the gap between police and combat units, thereby enhancing defensive capability.
 
-### Core of the Claim and Demands  
-- The lawsuit was filed in 2023 and deals with **climate damage** attributed to Holcim’s emissions.  
-- The plaintiffs demand:  
-  1. **Compensation** for damages already suffered on the island of Pari.  
-  2. **Participation** in protection measures against flooding and sea‑level rise.  
-  3. A **prompt reduction** of Holcim’s CO₂ emissions.  
+### Hybrid Warfare  
+- The **Federal Council** warns of a rise in hybrid conflict tactics that combine sabotage, cyber‑attacks, disinformation, economic pressure and covert military operations.  
+- Such activities sit in a gray area of international law, blurring the line between peace and war.
 
-### Procedural Status  
-- The **Cantonal Court of Zug** has declared the suit admissible and will now examine the points.  
-- If the judgment is appealed, the parties can go to the **Federal Supreme Court in Lausanne** and later possibly to the **European Court of Human Rights** in Strasbourg.  
-- Only after a final, enforceable admission can a decision be made on whether Holcim must make payments and adopt stricter emission‑reduction obligations.  
+### International Comparison Models  
+- **Sweden** and **Norway** operate so‑called *home guards* (≈ 20 000 volunteers) that assist in disasters during peacetime and secure airports or ports in conflict.  
+- **Estonia** and **Latvia** have similar volunteer formations, with Estonia even allowing children and youths to participate.  
+- **Poland** created a *Territorial Defence Force* about a decade ago, training roughly 35 000 people each year for a one‑month basic course.
 
-### Significance  
-- This is the first admissible **climate lawsuit** against a multinational corporation in Switzerland.  
-- The case could be precedent‑setting for future litigation on corporate responsibility for climate change and could permanently shape the public debate on **corporate accountability**.
+> Relevance score: [7] – A potential shift in Swiss defence policy could affect a large part of the population, defence budgeting and civil‑military relations. Significant national relevance but still a proposal, not yet implemented.
 
-> Relevance score: [7] – The acceptance of a climate lawsuit against a major Swiss multinational sets a potential precedent for future climate litigation, affecting Swiss corporate accountability and international environmental law.
+## Russia Guarantees Venezuela “Unrestricted Support”
 
-## Swiss Parliament Discusses Over 300 Motions: From Red Bull
+[Blick](https://www.blick.ch/ausland/im-konflikt-mit-den-usa-russland-sichert-venezuela-uneingeschraenkte-unterstuetzung-zu-id21542491.html) • *Monday, December 22 2025, 7:49 PM*
 
-[20 Min](https://www.20min.ch/story/ueber-300-vorstoesse-von-red-bull-verbot-bis-mehr-sex-vorstossflut-im-parlament-103474158) • *Monday, December 22, 2025, 08:28 AM*
+The conflict between the United States and Venezuela is heating up. Russia has now taken a clear side in favor of Venezuela. It has also begun evacuating families of Russian diplomats from Venezuela.
 
-The winter session ends with a flood of new motions, covering a wide range of topics.
+### 🇷🇺 Russian Support for [Venezuela](https://en.wikipedia.org/wiki/Venezuela)
 
-### Scope of the Motions
-- In the winter session that ended on Friday, **about 330 motions** were filed – 22 pages with roughly 15 initiatives per page.  
-- The motions address a broad spectrum of issues from **energy‑drink bans** to **transport** and **demography** policy.  
+- **Phone call** between Russian Foreign Minister **[Sergei Lavrov](https://en.wikipedia.org/wiki/Sergei_Lavrov)** and Venezuelan counterpart **[Yván Gil](https://en.wikipedia.org/wiki/Juan_Guevara)** (Venezuelan Ministry of Foreign Affairs).  
+- The Russian Foreign Ministry states:  
+  - Deep concern over the escalation of U.S. actions in the Caribbean,  
+  - **“unrestricted support and solidarity”** for the Venezuelan leadership and population.  
+- **Evacuation**: The Russian Foreign Ministry has already started evacuating the families of Russian ambassadors from Venezuela.  
+- **Continuation of cooperation**:  
+  - Ongoing close bilateral collaboration,  
+  - Coordination on the international stage (especially at the **[UN](https://en.wikipedia.org/wiki/United_Nations)**) to uphold state sovereignty and non‑interference.
 
-### Selected Thematic Areas  
+### 🇺🇸 U.S. Aggressions in the Caribbean
 
-#### Health & Youth
-- **Energy‑drink ban for under‑16s** – Benjamin Roduit (Mitte/VS) wants energy drinks containing > 150 mg caffeine / l, like beer and wine, to be sold only to people aged 16 and over.  
-- **Access to porn sites only with e‑ID** – Nik Gugger (EVP/ZH) and Erich Vontobel (EDU/ZH) call for age verification via e‑ID before pornographic content can be displayed.  
-  *[e‑ID]*: <https://en.wikipedia.org/wiki/Eid_(Swiss_identity_card)>
+- Since September, the **[U.S. Army](https://en.wikipedia.org/wiki/United_States_Army)** has been attacking ships in the Caribbean, claiming they are drug couriers.  
+  - More than **100 deaths** (including fishermen), with no published evidence of drug trafficking.  
+- The United States positioned **combat units** off the Venezuelan coast.  
+- **Blockade and seizure actions**:  
+  - President **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** announced a blockade of sanctioned oil tankers heading to or from Venezuela.  
+  - Within two weeks, **two oil tankers** were seized; a third was pursued.  
+- Trump accuses Venezuelan President **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicolás_Maduro)** of controlling drug cartels and launching targeted attacks against the United States.
 
-#### Public Security
-- **Extension of detention for violent demonstrators** – Petra Gössi (FDP/SZ) and Christian Wasserfallen (FDP/BE) propose extending the maximum police custody from 24 to 48 hours (reference: Palestine protest in Bern).  
-- **Report on male violence and radicalisation** – Patrick Hässig (GLP/ZH) demands a Federal Council report on “male‑ideological violence and radicalisation dynamics”; supported by six National Council members from all factions, including the SVP.  
+### 🌐 International Reactions and Further Developments
 
-#### Demography & Society
-- **National action plan for more “fruitful sex”** – Marc Jost (EVP/BE) proposes the *Futura Sicura* project to boost the low birth rate.  
-- **“People’s No” – longer cool‑down period for rejected popular initiatives** – Walter Gartmann (SVP/SG) wants initiatives that receive > 60 % “no” votes to be re‑introduced only after a cooling‑off period.  
+- The **UN Security Council** convened an emergency session on the tensions between the U.S. and Venezuela; the Venezuelan government called for the meeting with backing from **Russia** and **[China](https://en.wikipedia.org/wiki/China)**.  
+- **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicolás_Maduro)** remains a loyal ally of **[Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)** and continues to support the Russian military offensive in Ukraine since its start.
 
-#### Transport & Infrastructure
-- **No further 80‑km/h zones on motorways** – Thomas Knutti (SVP/BE) and Lorenzo Quadri (Lega/TI) want to prevent the introduction of additional 80‑km/h zones; they warn against automatic speed reductions during heavy traffic.  
-  *Note*: Andreas Glarner had previously called for a general speed limit of 130 km/h instead of the current 120 km/h.  
+> Relevance score: [6] – Escalation of great‑power involvement in a volatile region can affect international stability; noteworthy for global geopolitics.
 
-#### Political Procedures
-- **Earlier end to the winter session or monthly sessions** – Fabio Regazzi (Mitte/TI) and Gregor Rutz (SVP/ZH) want the session shortened by two weeks; Aline Trede (Greens/BE) suggests the parliament hold a one‑week session each month to better balance family and work.  
-- **Free paper bills** – Emmanuel Amoos (SP/VS) demands that telecom providers stop charging fees for paper bills.  
+<details><summary markdown="span">Show less important events</summary>
 
-### Next Steps
-- All submitted motions are now in the **deliberation phase**; the parliament has **two years** to examine them.  
-- Motions not addressed within that period are **automatically archived**.  
+## University of Bern Helps Research Asteroid “Apophis”
 
-*Note*: The politicians and parties mentioned can be read about on their respective Wikipedia entries, e.g. **[Swiss Parliament](https://en.wikipedia.org/wiki/Swiss_Parliament)**, **[FDP.The Liberals](https://en.wikipedia.org/wiki/FDP.The_Liberals)**, **[Swiss People’s Party](https://en.wikipedia.org/wiki/Swiss_People%27s_Party)**.
+[Blick](https://www.blick.ch/life/wissen/schweizer-kamera-im-all-uni-bern-hilft-bei-erforschung-von-asteroid-apophis-id21542287.html) • *Monday, December 22 2025, 8:03 PM*
 
-> Relevance score: [6] – A flood of parliamentary motions reflects the legislative workload and potential policy changes within Switzerland, making it moderately relevant for national governance.
+A camera from the University of Bern will assist in studying “Apophis.” The asteroid will pass Earth in April 2029 at a distance of only 32 000 km. The data should help improve planetary‑defence measures against asteroid impacts.
 
-<details><summary markdown="span">Show less‑important events</summary>
+Keystone‑SDA – Swiss news agency  
+On 13 April 2029, “Apophis” will pass Earth at a distance of just 32 000 km. Earth’s gravity will slightly deform the asteroid and affect its rotation. Possibly…
 
-## Bern Camera Helps Study Asteroid “Apophis”
+> Relevance score: [5] – Swiss scientific contribution to planetary defence against a known near‑Earth asteroid has moderate global scientific importance.
 
-[SWI swissinfo.ch](https://www.swissinfo.ch/ger/berner-kamera-hilft-bei-untersuchung-des-asteroiden-%22apophis%22/90679326) • *Monday, December 22, 2025, 18:03 PM*
+## Black Day for Retailers – 100 Million Francs Lost
 
-A camera at the University of Bern will help investigate the near‑Earth‑passing asteroid “Apophis” in April 2029. The data gathered are intended to improve Earth‑defence against asteroid impacts.
+[blue News](https://www.bluewin.ch/de/news/wirtschaft-boerse/schwarzer-tag-fuer-detailhaendler-100-millionen-franken-verlust-3019746.html) • *Monday, December 22 2025, 6:24 PM*
 
-> Relevance score: [5] – The involvement of a Swiss university instrument in the 2029 Apophis fly‑by contributes to planetary‑defence research, a globally relevant scientific field and a prestige boost for Swiss science, but the immediate societal impact is limited.
+Black Friday has lost its sparkle for Swiss retail. Consumers gave the discount battle the cold shoulder this year, delivering a huge loss to the sector.
 
-## “Macron betrayed Merz”: France’s President Supposedly Shot Down German Chancellor’s Proposal to Use Russian Assets
+> Relevance score: [5] – Significant short‑term financial hit for Swiss retail; reflects consumer behaviour but does not signal a systemic shift.
 
-[Die Weltwoche](https://weltwoche.ch/daily/macron-hat-merz-verraten-frankreichs-praesident-soll-den-vorschlag-des-deutschen-kanzlers-fuer-russische-vermoegen-abgeschossen-haben/) • *Monday, December 22, 2025, 16:37 PM*
+## Flu Wave Heading for Peak
 
-At the EU summit, France blocked Macron’s and the German‑French initiative to use €210 billion of frozen Russian assets for Ukraine aid, despite a partial success by Merz.
+[RaiNews](https://www.rainews.it/tgr/tagesschau/articoli/2025/12/grippewelle-steuert-auf-hohepunkt-zu-b572ef60-89c7-4550-a3b0-4db07176863d.html) • *Tuesday, December 23 2025, 5:17 AM*
 
-> Relevance score: [5] – The dispute over using frozen Russian assets affects EU policy on funding Ukraine, which has indirect relevance for Swiss financial stability and foreign‑policy positioning, but the immediate impact on Switzerland is limited.
+The influenza variant K is driving case numbers in Italy higher than usual, earlier than typical. The wave’s peak is expected between Christmas and New Year.
 
-## Strike Against the Russian Army
+Influenza and other respiratory viruses continue to spread in Italy. According to the national health institute ISS, total incidence keeps climbing, now at 817 000 new cases per week. Since the season began, about 4.9 million people have been infected…
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/anschlag-auf-general-in-moskau-schlag-gegen-die-russische-armee-im-hinterland-ld.1917666) • *Monday, December 22, 2025, 17:54 PM*
+> Relevance score: [4] – A seasonal influenza surge in Italy is a public‑health event, but it is routine and its direct impact on Switzerland or globally is limited.
 
-The attack targeted a senior officer at a key post in the Defence Ministry. Ukrainian intelligence is suspected. The same day the agency reported a successful sabotage against Russian aircraft.
+## More Pay or Bonus 2026: One‑Third of Swiss Hope for It
 
-> Relevance score: [4] – A high‑profile sabotage of a Russian defence official may affect the Russia‑Ukraine conflict and European security, yet its direct relevance to Swiss citizens or policy is modest.
+[20 Min](https://www.20min.ch/story/mehr-lohn-oder-bonus-2026-jeder-dritte-schweizer-hofft-darauf-103472388) • *Tuesday, December 23 2025, 4:57 AM*
 
-## Black Friday Becomes a Loss‑Making Day for Retailers
+Despite rising living costs, many Swiss remain optimistic about better financial prospects next year.
 
-[Swiss Radio and Television (SRF)](https://www.srf.ch/news/wirtschaft/schwarzer-tag-fuer-verkauf-black-friday-kostet-schweizer-detailhaendler-100-millionen-franken) • *Monday, December 22, 2025, 15:18 PM*
+Health insurance, rent, groceries: life in Switzerland feels ever more expensive. Nevertheless, a representative survey by price‑comparison portal Comparis shows that financial sentiment in Switzerland has slightly improved compared with previous years…
 
-Black Friday has lost its shine – both for consumers and sellers. A study by the Gottlieb Duttweiler Institute (GDI) says the Swiss retail sector lost CHF 100 million this year. Consumer fatigue with the annual shopping battle now outweighs the hype.
+> Relevance score: [4] – Reflects Swiss public sentiment about wages and cost of living; modest economic relevance but does not indicate a structural change.
 
-> Relevance score: [4] – A study showing a 100 million CHF loss for Swiss retailers highlights a short‑term economic slump in a major sales period; it matters to the retail sector but does not constitute a structural shift.
+## Media Shift in Switzerland: 20 Minutes Leaves Print
 
-## Telescope Detects Gas Jet on Comet 3I/ATLAS
+[20 Min](https://www.20min.ch/story/neue-aera-beginnt-20-minuten-tritt-als-nummer-1-der-schweizer-tageszeitungen-ab-103474852) • *Tuesday, December 23 2025, 4:56 AM*
 
-[Euronews.com](https://de.euronews.com/next/2025/12/22/teleskop-gasstrahl-komet) • *Monday, December 22, 2025, 08:21 AM*
+The withdrawal of 20 Minutes from the print market shows how strongly the Swiss media and advertising landscape has changed.
 
-Researchers discovered, with the TTT telescope on Tenerife, a material jet from the nucleus of interstellar comet 3I/ATLAS. It is the first time such a jet has been observed outside the Solar System, and the rotation period was confirmed.
+Dear readers,  
+Today the last issue of the commuter newspaper 20 Minutes lies in the boxes. This marks the end of a piece of media history. For 26 years this paper has provided conversation fodder. Even though many 20‑Minute fans…
 
-> Relevance score: [3] – The scientific discovery is noteworthy for astronomy but lacks direct Swiss involvement or societal impact.
+> Relevance score: [4] – Marks a notable change in the Swiss media landscape, yet the effect is largely cultural and sector‑specific rather than society‑wide.
 
-## Thailand and Cambodia Agree to Talks
+## Bondi Beach Attack: Grief Mixed with Anger
 
-[DER FARANG](https://der-farang.com/de/pages/grenzkonflikt-thailand-und-kambodscha-einigen-sich-auf-gespraeche-1) • *Monday, December 22, 2025, 12:31 PM*
+[Swiss Radio and Television](https://www.srf.ch/news/international/anschlag-am-bondi-beach-australien-nach-dem-terror-in-die-trauer-mischt-sich-wut) • *Monday, December 22 2025, 8:16 PM*
 
-KUALA LUMPUR: Hundreds of thousands of displaced persons, ongoing clashes – a new push for a permanent cease‑fire is to start. Will the talks finally bring peace? After fresh clashes on their shared border, Thailand and Cambodia aim to restart negotiations.
+The Australian prime minister addressed the site of the terror attack and was met with boos. Is the criticism justified?
 
-> Relevance score: [2] – The talks concern a regional Southeast‑Asian dispute with no direct bearing on Swiss interests or global structural issues.
+On Sunday, 14 December, two Islamist attackers opened fire at the world‑famous Bondi Beach in Sydney. Their target: Jewish people celebrating Hanukkah on the beach. The attackers – a father and his son – opened fire…
 
-## Skiers Complain: Prices in Mountain Restaurants Explode
+> Relevance score: [3] – A terrorist attack in Australia is a serious event but its direct relevance to Swiss citizens or global structures is limited.
 
-[20 Min](https://www.20min.ch/story/skifahrer-beschweren-sich-preise-in-bergrestaurants-explodieren-103474422) • *Monday, December 22, 2025, 12:18 PM*
+## Venezuela: This Is Maduro’s Notorious Super‑Tanker
 
-Skiing is getting more expensive: winter sport enthusiasts are frustrated by high prices in ski huts in Austria and Italy. Depending on the region, a one‑week ski pass can cost more than a flight to the Maldives, plus accommodation, equipment rental and food costs.
+[Blick](https://www.blick.ch/ausland/wir-sind-in-aktiver-verfolgung-warum-die-usa-maduros-supertanker-jagen-id21541841.html) • *Monday, December 22 2025, 6:59 PM*
 
-> Relevance score: [2] – Price complaints in Austrian and Italian ski resorts may affect some Swiss tourists, yet the issue is localized and lacks broader civic or economic significance for Switzerland.
+The huge Venezuelan super‑tanker **Bella 1** is currently on the run from the U.S. Coast Guard. The ship is alleged to be involved in financing terrorist organisations. What is known about Maduro’s super‑tanker? An overview.
 
-## War in Ukraine – Zelensky: Constructive Talks in Florida
+Janine Enderli, News Editor  
+3 33 metres long, concealed routes and on the run: The super‑tanker Bella 1 is currently trying to evade the U.S. Coast Guard. Flying the Guyana flag, the ship is being hunted in the western Atlantic. The…
 
-[Swiss Radio and Television (SRF)](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-konstruktive-gespraeche-in-florida) • *Monday, December 22, 2025, 06:39 AM*
-
-During negotiations a schedule was also discussed. He expects a report from his negotiation team. Amid the humanitarian crisis in Ukraine, the “Glückskette” is raising funds for the affected Ukrainian population.
-
-> Relevance score: [2] – While the Ukraine conflict is globally important, a specific diplomatic meeting held in the US has limited direct relevance for Switzerland.
-
-## War in Ukraine – Russian General Killed in Car‑Bomb Explosion in Moscow
-
-[Swiss Radio and Television (SRF)](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russischer-general-stirbt-bei-autobomben-explosion-in-moskau) • *Monday, December 22, 2025, 06:38 AM*
-
-A Russian general died in a car‑bomb explosion in Moscow. Russia suspects a Ukrainian attack.
-
-> Relevance score: [2] – The death of a Russian general is a notable event in the war, but it does not have a direct bearing on Swiss affairs or policy.
-
-## White House: $235 Billion in Tariff Revenue and Other “Blessings”
-
-[Swiss Radio and Television (SRF)](https://www.srf.ch/news/international/xmas-erfolgsgeschichten-geldsegen-fuers-weisse-haus-235-milliarden-dollar-zolleinnahmen) • *Monday, December 22, 2025, 10:40 AM*
-
-The figures appear in a Christmas livestream with President Trump as a cartoon narrator. Since January 2025 the United States has recorded over $235 billion in tariff revenue.
-
-> Relevance score: [1] – A US‑centric propaganda piece on tariff revenue has no relevance to Swiss policy or public interest.
-
-## How Much the USA Has Collected from Trump’s Tariffs Since January
-
-[Watson](https://www.watson.ch/international/usa/820261331-so-viel-haben-die-usa-durch-trumps-zoelle-seit-januar-eingenommen) • *Monday, December 22, 2025, 09:17 AM*
-
-“The US Treasury has collected more than $235 billion in tariffs since January 2025,” announced in an animated livestream by the White House.
-
-> Relevance score: [1] – Same as above – US fiscal data presented in a political livestream does not affect Swiss affairs.
-
-## Jeff Landry Wants Greenland to Become Part of the USA for Trump
-
-[20 Min](https://www.20min.ch/story/usa-landry-soll-fuer-trump-groenland-zu-einem-teil-der-usa-machen-103474373) • *Monday, December 22, 2025, 08:42 AM*
-
-Louisiana Governor Jeff Landry is appointed special envoy for Greenland and is to strengthen US interests there. President Donald Trump wants Greenland, officially part of Denmark, to become a U.S. territory because of its strategic importance in the North Atlantic.
-
-> Relevance score: [1] – A US political appointment concerning Greenland carries no direct impact on Switzerland or global structures that matter to Swiss citizens.
-
-## Bondi Beach Attack: Perpetrators Planned Attack Meticulously
-
-[Swiss Radio and Television (SRF)](https://www.srf.ch/news/international/terror-am-bondi-beach-taeter-planten-anschlag-in-sydney-akribisch) • *Monday, December 22, 2025, 07:47 AM*
-
-Father and son prepared for months, as shown in a police‑found video. A week after the terror attack on Bondi Beach in Sydney, authorities released new details. The two attackers had planned the assault on the Jewish Festival of Lights for months.
-
-> Relevance score: [1] – A terrorist incident in Australia is largely irrelevant to Swiss security or public interest.
+> Relevance score: [3] – A niche story about a single vessel’s movements, with limited broader economic or security impact.
 
 </details>
