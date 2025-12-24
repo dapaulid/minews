@@ -2,198 +2,202 @@
 
 ---
 
-*Updated: Tuesday, December 23, 2025, 6:24 PM*
+_Updated: Wednesday, December 24 2025, 18:21_
 
-## Breakthrough or Threat? AI Creates Functional Viruses in the Lab
+## Switzerland Resists Roche’s Drug Price Increases
 
-[Frankfurter Rundschau](https://www.fr.de/wissen/labor-durchbruch-oder-bedrohung-ki-erschafft-funktionsfaehige-viren-im-zr-94093081.html) • *Tuesday, December 23 2025, 4:52 AM*
+[20 Min](https://www.20min.ch/story/schweiz-wehrt-sich-gegen-preiserhoehungen-bei-medikamenten-von-roche-103474635) • _Tuesday, December 23 2025, 18:22_
 
-Stanford researchers have used AI to create new viruses that can kill bacteria. What sounds like science fiction to some is “Darwin 2.0” to others.
+Roche CEO threatens delivery delays while politicians and experts speak out against price hikes.
 
-### Experimental Procedure
-- A research team at **[Stanford University](https://en.wikipedia.org/wiki/Stanford_University)** developed the generative AI model **“Evo”**, trained on roughly **9 trillion DNA building blocks** from a comprehensive life atlas.  
-- The model was tasked with designing complete genome sequences for a simple bacteriophage.  
-- Target organism: the **[bacteriophage φX174](https://en.wikipedia.org/wiki/ΦX174)**, a 5 400‑base‑long virus that infects *Escherichia coli*.  
-- From **300** genomes proposed by Evo, **16** were synthesized, introduced into *E. coli*, and tested for functionality.  
-- Functionality was confirmed by cloudiness of the culture flasks and faster replication of the phage compared with the natural strain.
+### Background: US Pressure and Price Negotiations  
+- Under pressure from **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)**, US pharmaceutical giants such as **[Novartis](https://en.wikipedia.org/wiki/Novartis)** and **[Roche](https://en.wikipedia.org/wiki/Roche_(company))** commit to lower drug prices in the United States.  
+- At the same time, they demand higher payments from other countries, especially **[Switzerland](https://en.wikipedia.org/wiki/Switzerland)**, to compensate for lost US revenue.  
 
-### Results and Significance
-- The AI was able to generate **new, functional phage‑genome designs** that kill bacteria.  
-- The authors stress that the experiment **was not dangerous** and that creating “life” (in the sense of independent organisms) remains a far greater challenge.  
-- The work illustrates how AI can **accelerate biological design tasks**, similar to how AI tools are already used for **protein‑structure prediction** (e.g., **[AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)**) and **designing new proteins**.
+### Roche’s Demands and Threat Landscape  
+- **Roche CEO Thomas Schinecker** threatens later deliveries or more expensive drugs if Switzerland does not accept the demanded price hikes.  
+- Historically, there have been few delivery delays for patented medicines; the threats are judged by experts as “embarrassing” and “uncredible.”  
 
-### Reactions from the Scientific Community
-- **[Michael Hecht](https://en.wikipedia.org/wiki/Michael_Hecht_(chemist))** (Princeton University) called the approach **“Darwin 2.0”** and expressed concern about creating new forms of life.  
-- **[J. Craig Venter](https://en.wikipedia.org/wiki/J._Craig_Venter)** saw AI as a tool that **“takes on tasks and speeds them up.”**  
-- **[Gregory Kaebnick](https://en.wikipedia.org/wiki/Hastings_Center)** (bioethicist) highlighted the **uncertain** nature of the technology.  
-- **[Brian Hie](https://en.wikipedia.org/wiki/Stanford_University)** (chemical engineer, Stanford) emphasized that the model **is only an aid** and does not autonomously create artificial life.  
-- **[Drew Endy](https://en.wikipedia.org/wiki/Drew_Endy)** likened the AI to an **“exquisite musical instrument”** played by human virtuosos.  
-- **[Kevin Esvelt](https://en.wikipedia.org/wiki/Kevin_Esvelt)** (MIT Media Lab) saw no immediate bio‑security threat but warned of possible future misuse scenarios.  
-- **[Julian Savulescu](https://en.wikipedia.org/wiki/Julian_Savulescu)** (National University of Singapore) stressed the risk of venturing into **“unknown biological terrain.”**
-
-### Potential Applications
-- **Development of new antibiotics** and **phage‑therapeutic strategies** against antibiotic‑resistant bacteria.  
-- **Synthesis of medicines** and **degradation of environmentally harmful chemicals** using AI‑designed metabolic pathways.  
-- Possibility to create **phage cocktails** that bypass bacterial resistance.
-
-### Risks and Ethical Concerns
-- AI‑generated DNA designs could produce **novel toxins** or **dangerous pathogens** that do not exist in nature.  
-- Risk that **anyone** with access to simple DNA synthesizers could potentially **manufacture biological weapons**.  
-- Debates about **data filtering** (e.g., excluding virus sequences that infect multicellular organisms) to reduce misuse potential.  
-- Responsible AI development is discussed by institutions such as the **[Stanford School of Medicine](https://en.wikipedia.org/wiki/Stanford_Medicine)** and conferences on **“Responsible AI.”**
-
-### Outlook
-- The current focus is **not** on creating **complete artificial life**, but on **useful biological building blocks** (e.g., drug production).  
-- Future advances could boost **efficiency and innovation** in synthetic biology while requiring stronger **bio‑security and ethics frameworks**.
-
-> Relevance score: [8] – Advances in AI‑generated viruses raise major bio‑security concerns with global implications for health, research regulation and potential weaponisation.
-
-## Response to Threat Situation – Army Considers Volunteer Corps – It Could Be a Revival
-
-[Swiss Radio and Television](https://www.srf.ch/news/schweiz/reaktion-auf-bedrohungslage-armee-denkt-ueber-freiwilligentruppe-nach-es-waere-ein-revival) • *Tuesday, December 23 2025, 6:00 AM*
-
-Because of an increasingly serious threat environment, the army is examining the use of volunteers – echoing a historical precedent.
-
-### Background and Motivation  
-- The **Federal Council** sees a heightened threat environment and wants to strengthen Switzerland’s defensive capability.  
-- Under the new security‑policy strategy, the idea is being examined to deploy **volunteer units** that would monitor and protect critical infrastructure (bridges, railways, power plants).  
-- Volunteers would primarily be recruited from former military personnel.
+### Economic and Consumer Concerns  
+- **Tilman Slembeck**, health economist at **[ZHAW](https://en.wikipedia.org/wiki/ZHAW)**, warns of a “dam break” of health costs if the federal government yields to price demands.  
+  - Consequences could include rising costs for hospitals (70 % already in the loss zone) and higher health‑insurance premiums.  
+- **Sara Stalder**, director of consumer protection, emphasizes that drug prices are already at record highs and further increases would further burden premiums (drugs already account for one quarter of premiums).  
 
 ### Political Reactions  
-- **SVP National Council member Rémy Wyssmann** supports the plan and notes that already‑trained ex‑soldiers are waiting in shooting clubs; he proposes short refresher courses without heavy bureaucracy.  
-- **SP Council member Franziska Roth** rejects the notion of fully volunteer battalions for protection and security tasks, arguing that such duties belong to the police; she does, however, favour “time soldiers” who would be properly trained and paid.  
-- **SP security‑policy politician Priska Seiler‑Graf** criticises the idea of creating a broad pool of volunteers and calls for targeted recruitment based on concrete needs.
 
-### Planned Structure of the Volunteer Corps  
-- Units would be organized regionally and activated during heightened tensions.  
-- Tasks could include gathering intelligence, monitoring terrain sections, and securing objects.  
-- Details on unit size, armament and rules of engagement have not yet been released.
+#### Greens and Social Democrats  
+- **Manuela Weichelt** (Greens, National Council member) criticizes that a US president wants to effectively decide Swiss premiums and describes the threats as a “threat scenario.”  
+- Note: Swiss drug approvals are on average 200 days behind those in other European countries.  
 
-### Historical Comparison: Local Defense Forces  
-- During **World War II** Switzerland established about 3 000 **local defense forces** with roughly 125 000 men to protect infrastructure from sabotage.  
-- They were dissolved in 1967.  
-- **Military historian Fritz Kälin** sees parallels with the proposed volunteer formation, but stresses that today’s units would receive modern equipment and training.
+#### SVP (Swiss People's Party)  
+- **Andreas Glarner** (SVP, National Council) opposes price hikes but understands Trump’s demands.  
+- Calls for eased parallel and gray imports and a possible extension of patent duration from 20 to 25 years.  
 
-### Cost‑and‑Efficiency Arguments  
-- Kälin argues that releasing soldiers before age 30 represents a major military‑economic inefficiency.  
-- A pool of at least 1 000 volunteers could cost‑effectively bridge the gap between police and combat units, thereby enhancing defensive capability.
+#### FDP (Free Democratic Party)  
+- **Kris Vietze** (FDP, National Council member) emphasizes that Switzerland must accept higher prices for a few highly innovative drugs to ensure rapid access.  
+- She also points out that drug prices in Switzerland are lower compared to other countries and have even decreased in recent years.  
 
-### Hybrid Warfare  
-- The **Federal Council** warns of a rise in hybrid conflict tactics that combine sabotage, cyber‑attacks, disinformation, economic pressure and covert military operations.  
-- Such activities sit in a gray area of international law, blurring the line between peace and war.
+### Conclusion  
+- Switzerland faces significant international price pressure, with Roche threatening delivery delays to force higher prices.  
+- Economic experts and consumer protection warn of far‑reaching consequences for the health system and households.  
+- The political landscape is divided: while the SVP partially sympathizes, the Greens and FDP emphasize the need to maintain price stability while fostering innovation.  
 
-### International Comparison Models  
-- **Sweden** and **Norway** operate so‑called *home guards* (≈ 20 000 volunteers) that assist in disasters during peacetime and secure airports or ports in conflict.  
-- **Estonia** and **Latvia** have similar volunteer formations, with Estonia even allowing children and youths to participate.  
-- **Poland** created a *Territorial Defence Force* about a decade ago, training roughly 35 000 people each year for a one‑month basic course.
+> Relevance score: [8] – Roche's pricing pressure and political response directly affect Swiss healthcare costs and national drug‑policy, a high‑impact domestic issue.
 
-> Relevance score: [7] – A potential shift in Swiss defence policy could affect a large part of the population, defence budgeting and civil‑military relations. Significant national relevance but still a proposal, not yet implemented.
+## Federal Government Wants to Abolish Tax Benefits for Cross‑Border Commuters
 
-## Russia Guarantees Venezuela “Unrestricted Support”
+[Blick](https://www.blick.ch/politik/15000-schweizerinnen-und-schweizer-betroffen-bund-streicht-steuervorteile-fuer-grenzgaenger-nach-liechtenstein-id21544314.html) • _Wednesday, December 24 2025, 00:03_
 
-[Blick](https://www.blick.ch/ausland/im-konflikt-mit-den-usa-russland-sichert-venezuela-uneingeschraenkte-unterstuetzung-zu-id21542491.html) • *Monday, December 22 2025, 7:49 PM*
+15,000 Swiss work in Liechtenstein, and the federal government wants to strip them of tax benefits on Pillar 3a. Strong resistance now emerges from the canton of St. Gallen.
 
-The conflict between the United States and Venezuela is heating up. Russia has now taken a clear side in favor of Venezuela. It has also begun evacuating families of Russian diplomats from Venezuela.
+### Background
+- **Cross‑border commuters**: About 15,262 persons residing in [Switzerland](https://en.wikipedia.org/wiki/Switzerland) worked in 2023 in the neighboring state [Liechtenstein](https://en.wikipedia.org/wiki/Liechtenstein) – a significant proportion relative to Liechtenstein’s roughly 40,000 inhabitants.  
+- **Private retirement savings**: Previously these employees could deduct their contributions to [Pillar 3a](https://en.wikipedia.org/wiki/Altersvorsorge_in_der_Schweiz#S%C3%A4ule_3a) from taxes, just like domestic workers.  
 
-### 🇷🇺 Russian Support for [Venezuela](https://en.wikipedia.org/wiki/Venezuela)
+### Legislative Change
+- **Reason**: The [Federal Tax Administration (ESTV)](https://en.wikipedia.org/wiki/Eidgen%C3%B6ssische_Steuerverwaltung) argues that tax deductions for Pillar 3a contributions are only permissible if the persons are insured under the Swiss [Old Age and Survivors' Insurance](https://en.wikipedia.org/wiki/Old_Age_and_Survivors%27_Insurance) – which is usually not the case for cross‑border commuters working abroad.  
+- **Affected cantons**:  
+  - [Canton of St. Gallen](https://en.wikipedia.org/wiki/Canton_of_St._Gallen)  
+  - [Appenzell Innerrhoden](https://en.wikipedia.org/wiki/Appenzell_Innerrhoden)  
+  - [Appenzell Ausserrhoden](https://en.wikipedia.org/wiki/Appenzell_Ausserrhoden)  
+  - [Graubünden](https://en.wikipedia.org/wiki/Graub%C3%BCnden)  
+- The ESTV urges the cantons to review or adjust their practice; from the 2027 tax period, the tax deduction for Pillar 3a contributions by cross‑border commuters will no longer be possible.  
 
-- **Phone call** between Russian Foreign Minister **[Sergei Lavrov](https://en.wikipedia.org/wiki/Sergei_Lavrov)** and Venezuelan counterpart **[Yván Gil](https://en.wikipedia.org/wiki/Juan_Guevara)** (Venezuelan Ministry of Foreign Affairs).  
-- The Russian Foreign Ministry states:  
-  - Deep concern over the escalation of U.S. actions in the Caribbean,  
-  - **“unrestricted support and solidarity”** for the Venezuelan leadership and population.  
-- **Evacuation**: The Russian Foreign Ministry has already started evacuating the families of Russian ambassadors from Venezuela.  
-- **Continuation of cooperation**:  
-  - Ongoing close bilateral collaboration,  
-  - Coordination on the international stage (especially at the **[UN](https://en.wikipedia.org/wiki/United_Nations)**) to uphold state sovereignty and non‑interference.
+### Reactions from the Canton of St. Gallen  
 
-### 🇺🇸 U.S. Aggressions in the Caribbean
+#### SVP representative  
+- **Walter Gartmann** (National Council) criticizes the change as “incomprehensible” and points to the over‑40‑year practice as well as the [Social Security Agreement](https://en.wikipedia.org/wiki/Social_security_agreement) between Switzerland and Liechtenstein.  
+- **Esther Friedli** (Council of States member) adds that the federal government is pulling money “out of the bag” and calls for the regulation to be reversed before 2027.  
 
-- Since September, the **[U.S. Army](https://en.wikipedia.org/wiki/United_States_Army)** has been attacking ships in the Caribbean, claiming they are drug couriers.  
-  - More than **100 deaths** (including fishermen), with no published evidence of drug trafficking.  
-- The United States positioned **combat units** off the Venezuelan coast.  
-- **Blockade and seizure actions**:  
-  - President **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** announced a blockade of sanctioned oil tankers heading to or from Venezuela.  
-  - Within two weeks, **two oil tankers** were seized; a third was pursued.  
-- Trump accuses Venezuelan President **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicolás_Maduro)** of controlling drug cartels and launching targeted attacks against the United States.
+#### Argumentation  
+- The affected employees pay high income taxes in Switzerland; the removal of Pillar 3a deductions hits especially well‑paid specialists employed by Liechtenstein companies.  
+- The legal situation has not changed; instead, the federal government is seeking revenue to close budget gaps.  
 
-### 🌐 International Reactions and Further Developments
+### Outlook  
+- The SVP cantonal parliamentarians have lodged identical motions in both cantonal chambers and hope for swift parliamentary intervention to prevent the planned practice change before it takes effect in 2027.  
+- If the parliament does not intervene, affected cross‑border commuters will have to forgo the Pillar 3a tax deduction in the future and may have to repay contributions already made.  
 
-- The **UN Security Council** convened an emergency session on the tensions between the U.S. and Venezuela; the Venezuelan government called for the meeting with backing from **Russia** and **[China](https://en.wikipedia.org/wiki/China)**.  
-- **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicolás_Maduro)** remains a loyal ally of **[Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)** and continues to support the Russian military offensive in Ukraine since its start.
+> Relevance score: [7] – Policy change directly impacts thousands of cross‑border workers and the broader Swiss labor market, making it a significant domestic economic issue.
 
-> Relevance score: [6] – Escalation of great‑power involvement in a volatile region can affect international stability; noteworthy for global geopolitics.
+## Switzerland: 135,000 Signatures for Nuclear Weapons Ban
+
+[20 Min](https://www.20min.ch/story/initiative-eingereicht-schweiz-soll-atomwaffen-verbotsvertrag-sofort-unterschreiben-103475002) • _Tuesday, December 23 2025, 20:11_
+
+A popular initiative urges Switzerland to join the UN nuclear weapons ban treaty. However, the Federal Council sees security‑policy concerns.
+
+### Background of the Initiative
+- A popular initiative with **135,000 signatures** was submitted today in Bern, demanding the **immediate accession** of Switzerland to the **[Treaty on the Prohibition of Nuclear Weapons (TPNW)](https://en.wikipedia.org/wiki/Treaty_on_the_Prohibition_of_Nuclear_Weapons)**.  
+- Switzerland possesses no nuclear weapons and has not yet ratified the UN‑negotiated treaty.  
+
+### Position of the Federal Council
+- The **[Federal Council](https://en.wikipedia.org/wiki/Federal_Council_(Switzerland))** has so far refused to join the treaty, although it formally sees no legal or security‑policy obstacle.  
+- The refusal is justified by **“contradictory signals”** in the current geopolitical context:  
+  - No nuclear‑weapon state has signed the treaty.  
+  - Swiss accession could weaken its role as an **international mediator**, especially after Russia’s invasion of Ukraine.  
+- The Federal Council had to present its stance on the initiative within an interpellation by **[Beat Flach](https://en.wikipedia.org/wiki/Beat_Flach)** (GLP/AG).  
+
+### Supporting Forces and Public Opinion
+- The initiative committee consists of representatives of the **[Green Party of Switzerland](https://en.wikipedia.org/wiki/Green_Party_of_Switzerland)**, the **[Social Democratic Party (SP)](https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland)**, the **GSOA**, and the NGO **[ICAN](https://en.wikipedia.org/wiki/International_Campaign_to_Abolish_Nuclear_Weapons)**, which recently received the Nobel Peace Prize.  
+- According to a representative survey by the committee (November 2025), **72 %** of voting‑eligible Swiss support accession to the TPNW, with majorities across all parties and no regional split.  
+
+### Next Steps
+- The **Federal Council** must now formally state its position and forward the initiative to the **Parliament**.  
+- Only after parliamentary consideration can the **people** vote on accession.  
+
+> Relevance score: [7] – A sizable citizen initiative on nuclear disarmament influences Swiss foreign‑policy debate and aligns with global non‑proliferation efforts.
+
+## Venezuela: Clash Between USA and Russia/China in UN Security Council
+
+[Watson](https://www.watson.ch/international/usa/118837967-venezuela-zoff-zwischen-usa-und-russland-china-in-un-sicherheitsrat) • _Wednesday, December 24 2025, 03:42_
+
+An emergency UN Security Council session on Venezuela escalated into a showdown between the United States and the representatives of Russia and China.
+
+### UN Security Council Session on Venezuela  
+- During an emergency session of the **[UN Security Council](https://en.wikipedia.org/wiki/United_Nations_Security_Council)**, there was a heated exchange between the USA and the representatives of **[Russia](https://en.wikipedia.org/wiki/Russia)** and **[China](https://en.wikipedia.org/wiki/China)**.  
+- The session was requested by Venezuela with the support of Moscow and Beijing; however, no formal resolution was adopted.  
+
+### Positions of the Individual Actors  
+
+- **USA** – **[Mike Waltz](https://en.wikipedia.org/wiki/Mike_Waltz)**, U.S. Ambassador to the United Nations, stated that President **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)** is not a legitimate president but a criminal who uses oil revenues for drug trafficking.  
+
+- **Russia** – **[Vassili Nebesnyah](https://en.wikipedia.org/wiki/Vassili_Nebesnyah)**, Russian UN representative, criticized the USA as “cowboy behavior” and warned of serious consequences of an illegal blockade of Venezuela’s coast, which would violate **[international law](https://en.wikipedia.org/wiki/International_law)** and the UN Charter.  
+
+- **China** – Condemned the US actions as “bullying,” called interference in Venezuela’s internal affairs a threat to peace and stability in Latin America, and demanded safeguarding **[freedom of navigation](https://en.wikipedia.org/wiki/Freedom_of_navigation)**.  
+
+- **Venezuela** – Refuted US accusations, described the American blockade as an “illegal blockade war” aimed at toppling the government and controlling the vast **[oil reserves](https://en.wikipedia.org/wiki/Oil)**. It claimed it is absurd to believe oil revenues fund drug trafficking.  
+
+- **Europe** (e.g., **[United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom)**, **[France](https://en.wikipedia.org/wiki/France)**, **[Greece](https://en.wikipedia.org/wiki/Greece)**, **[Denmark](https://en.wikipedia.org/wiki/Denmark)**, **[Slovenia](https://en.wikipedia.org/wiki/Slovenia)**) – Called for de‑escalation and adherence to international law. Questioned the democratic legitimacy of Maduro, pointed to human‑rights abuses and lack of election transparency, but rejected any military solution.  
+
+### US Measures and Their Justification  
+- **President [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** ordered a blockade of sanctioned oil tankers calling at or departing Venezuelan ports.  
+- The USA increased its military presence in the Caribbean and attacked vessels allegedly transporting drugs into international waters.  
+- Washington justifies the action as a fight against drug cartels and organized crime, accusing the Caracas government of supporting drug cartels classified as terrorist organizations.  
+
+### Outcome of the Debate  
+- Despite intense debate, no binding resolution was reached in the Security Council.  
+- The discussion highlighted the growing split between the USA on one side and Russia, China and several European states on the other regarding handling of the conflict in **Venezuela**.  
+
+> Relevance score: [6] – A heated UN‑Security‑Council debate involving major powers can shape international relations and regional stability, giving it moderate global significance.
 
 <details><summary markdown="span">Show less important events</summary>
 
-## University of Bern Helps Research Asteroid “Apophis”
+## Russian Saboteur? Switzerland Hands Ukrainian Over to Germany
 
-[Blick](https://www.blick.ch/life/wissen/schweizer-kamera-im-all-uni-bern-hilft-bei-erforschung-von-asteroid-apophis-id21542287.html) • *Monday, December 22 2025, 8:03 PM*
+[Blick](https://www.blick.ch/schweiz/ostschweiz/thurgau/fluechtling-oder-saboteur-schweiz-liefert-mutmasslichen-putin-spion-29-nach-deutschland-aus-id21545800.html) • _Wednesday, December 24 2025, 03:15_
 
-A camera from the University of Bern will assist in studying “Apophis.” The asteroid will pass Earth in April 2029 at a distance of only 32 000 km. The data should help improve planetary‑defence measures against asteroid impacts.
+A 29‑year‑old Ukrainian from Thurgau was handed over to Germany. He is alleged to have planned sabotage of freight transports on behalf of Russia. Investigators see ties to Moscow, while family and acquaintances describe him as a peaceful refugee.
 
-Keystone‑SDA – Swiss news agency  
-On 13 April 2029, “Apophis” will pass Earth at a distance of just 32 000 km. Earth’s gravity will slightly deform the asteroid and affect its rotation. Possibly…
+*Daniel Kestenholz, Editor, Night Duty*  
+A 29‑year‑old Ukrainian from a Thurgau refugee shelter had been in detention pending deportation in Switzerland since May. Germany accused him of espionage for Russia and planning sabotage acts. On Tuesday … [read more](https://www.blick.ch/schweiz/ostschweiz/thurgau/fluechtling-oder-saboteur-schweiz-liefert-mutmasslichen-putin-spion-29-nach-deutschland-aus-id21545800.html)
 
-> Relevance score: [5] – Swiss scientific contribution to planetary defence against a known near‑Earth asteroid has moderate global scientific importance.
+> Relevance score: [5] – Swiss deportation of an alleged Russian‑linked Ukrainian touches on national security, legal standards and Swiss‑German cooperation, but affects a single individual.
 
-## Black Day for Retailers – 100 Million Francs Lost
+## When the Swiss Army Wanted Up to 300 Nuclear Warheads
 
-[blue News](https://www.bluewin.ch/de/news/wirtschaft-boerse/schwarzer-tag-fuer-detailhaendler-100-millionen-franken-verlust-3019746.html) • *Monday, December 22 2025, 6:24 PM*
+[Swiss Radio and Television](https://www.srf.ch/news/schweiz/atombombenprogramm-als-die-schweizer-armee-bis-zu-300-nukleare-sprengkoepfe-wollte) • _Tuesday, December 23 2025, 18:45_
 
-Black Friday has lost its sparkle for Swiss retail. Consumers gave the discount battle the cold shoulder this year, delivering a huge loss to the sector.
+By the end of the 1980s, the Federal Council even considered developing its own Swiss nuclear bomb. With the global nuclear arsenal one could destroy the world many times over. The major powers have stored over 12,000 warheads; the number of deployable nuclear weapons is even increasing. In 2017 the nuclear‑weapon‑ban treaty … [read more](https://www.srf.ch/news/schweiz/atombombenprogramm-als-die-schweizer-armee-bis-zu-300-nukleare-sprengkoepfe-wollte)
 
-> Relevance score: [5] – Significant short‑term financial hit for Swiss retail; reflects consumer behaviour but does not signal a systemic shift.
+> Relevance score: [5] – Historical article informs public discourse on past Swiss nuclear ambitions; relevance is moderate for understanding current security debates.
 
-## Flu Wave Heading for Peak
+## Woman Shows Poster in Iran – Now She Faces Execution
 
-[RaiNews](https://www.rainews.it/tgr/tagesschau/articoli/2025/12/grippewelle-steuert-auf-hohepunkt-zu-b572ef60-89c7-4550-a3b0-4db07176863d.html) • *Tuesday, December 23 2025, 5:17 AM*
+[Watson](https://www.watson.ch/international/iran/951808796-frau-zeigt-im-iran-plakat-jetzt-soll-sie-hingerichtet-werden) • _Wednesday, December 24 2025, 06:14_
 
-The influenza variant K is driving case numbers in Italy higher than usual, earlier than typical. The wave’s peak is expected between Christmas and New Year.
+International protest is forming against the looming execution of Zahra Tabari. The Iranian activist had simply held up a poster with a slogan. Her alleged offense was that she held a piece of fabric ... [read more](https://www.watson.ch/international/iran/951808796-frau-zeigt-im-iran-plakat-jetzt-soll-sie-hingerichtet-werden)
 
-Influenza and other respiratory viruses continue to spread in Italy. According to the national health institute ISS, total incidence keeps climbing, now at 817 000 new cases per week. Since the season began, about 4.9 million people have been infected…
+> Relevance score: [4] – Human‑rights case in Iran draws international protest but has limited direct effect on global politics or Swiss affairs; notable but not structurally transformative.
 
-> Relevance score: [4] – A seasonal influenza surge in Italy is a public‑health event, but it is routine and its direct impact on Switzerland or globally is limited.
+## BackInAction Study: Acupuncture Becomes Standard for Back Pain
 
-## More Pay or Bonus 2026: One‑Third of Swiss Hope for It
+[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/backinaction-studie-akupunktur-wird-zum-standard-bei-rueckenschmerzen/68432649) • _Tuesday, December 23 2025, 19:24_
 
-[20 Min](https://www.20min.ch/story/mehr-lohn-oder-bonus-2026-jeder-dritte-schweizer-hofft-darauf-103472388) • *Tuesday, December 23 2025, 4:57 AM*
+A large NIH study confirms the safe and sustainable effectiveness of acupuncture for treating chronic back pain in seniors aged 65 and older. The results … [read more](https://www.ad-hoc-news.de/boerse/news/ueberblick/backinaction-studie-akupunktur-wird-zum-standard-bei-rueckenschmerzen/68432649)
 
-Despite rising living costs, many Swiss remain optimistic about better financial prospects next year.
+> Relevance score: [4] – A large U.S. medical study may affect treatment guidelines worldwide but has limited immediate effect on Swiss health policy.
 
-Health insurance, rent, groceries: life in Switzerland feels ever more expensive. Nevertheless, a representative survey by price‑comparison portal Comparis shows that financial sentiment in Switzerland has slightly improved compared with previous years…
+## USA Impose Travel Bans on Five Persons
 
-> Relevance score: [4] – Reflects Swiss public sentiment about wages and cost of living; modest economic relevance but does not indicate a structural change.
+[Swiss Radio and Television](https://www.srf.ch/news/international/usa/wegen-angeblicher-zensur-us-regierung-verhaengt-einreiseverbote-gegen-mehrere-personen) • _Wednesday, December 24 2025, 04:32_
 
-## Media Shift in Switzerland: 20 Minutes Leaves Print
+The US government imposes travel bans on several individuals over alleged censorship of US platforms. The State Department announced on Tuesday evening that five persons are barred … [read more](https://www.srf.ch/news/international/usa/wegen-angeblicher-zensur-us-regierung-verhaengt-einreiseverbote-gegen-mehrere-personen)
 
-[20 Min](https://www.20min.ch/story/neue-aera-beginnt-20-minuten-tritt-als-nummer-1-der-schweizer-tageszeitungen-ab-103474852) • *Tuesday, December 23 2025, 4:56 AM*
+> Relevance score: [3] – US travel bans on a handful of individuals are a narrow diplomatic measure with little broader economic or societal impact.
 
-The withdrawal of 20 Minutes from the print market shows how strongly the Swiss media and advertising landscape has changed.
+## Plane with Libya's Chief of Staff Disappears from Radar Over Turkey
 
-Dear readers,  
-Today the last issue of the commuter newspaper 20 Minutes lies in the boxes. This marks the end of a piece of media history. For 26 years this paper has provided conversation fodder. Even though many 20‑Minute fans…
+[20 Min](https://www.20min.ch/story/tuerkei-flugzeug-mit-libyens-armeechef-vom-radar-verschwunden-103475363) • _Tuesday, December 23 2025, 20:55_
 
-> Relevance score: [4] – Marks a notable change in the Swiss media landscape, yet the effect is largely cultural and sector‑specific rather than society‑wide.
+A private jet carrying General Mohammed Al‑Haddad lost radio contact shortly after take‑off from Ankara. The Turkish interior minister reported the loss … [read more](https://www.20min.ch/story/tuerkei-flugzeug-mit-libyens-armeechef-vom-radar-verschwunden-103475363)
 
-## Bondi Beach Attack: Grief Mixed with Anger
+> Relevance score: [3] – Aviation incident involving a Libyan official is newsworthy but unlikely to have lasting geopolitical or societal impact.
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/anschlag-am-bondi-beach-australien-nach-dem-terror-in-die-trauer-mischt-sich-wut) • *Monday, December 22 2025, 8:16 PM*
+## Italy: Military Bans “Sì” in National Anthem at Official Events
 
-The Australian prime minister addressed the site of the terror attack and was met with boos. Is the criticism justified?
+[20 Min](https://www.20min.ch/story/wort-gestrichen-italien-aendert-die-nationalhymne-103475442) • _Tuesday, December 23 2025, 23:03_
 
-On Sunday, 14 December, two Islamist attackers opened fire at the world‑famous Bondi Beach in Sydney. Their target: Jewish people celebrating Hanukkah on the beach. The attackers – a father and his son – opened fire…
+Italy debates banning the word “Sì” from its national anthem. The president backs a return to the original version. Sometimes a single word can spark a huge debate … [read more](https://www.20min.ch/story/wort-gestrichen-italien-aendert-die-nationalhymne-103475442)
 
-> Relevance score: [3] – A terrorist attack in Australia is a serious event but its direct relevance to Swiss citizens or global structures is limited.
-
-## Venezuela: This Is Maduro’s Notorious Super‑Tanker
-
-[Blick](https://www.blick.ch/ausland/wir-sind-in-aktiver-verfolgung-warum-die-usa-maduros-supertanker-jagen-id21541841.html) • *Monday, December 22 2025, 6:59 PM*
-
-The huge Venezuelan super‑tanker **Bella 1** is currently on the run from the U.S. Coast Guard. The ship is alleged to be involved in financing terrorist organisations. What is known about Maduro’s super‑tanker? An overview.
-
-Janine Enderli, News Editor  
-3 33 metres long, concealed routes and on the run: The super‑tanker Bella 1 is currently trying to evade the U.S. Coast Guard. Flying the Guyana flag, the ship is being hunted in the western Atlantic. The…
-
-> Relevance score: [3] – A niche story about a single vessel’s movements, with limited broader economic or security impact.
+> Relevance score: [2] – Cultural debate in Italy has minimal repercussions beyond symbolism and does not affect structural or civic matters.
 
 </details>
