@@ -2,93 +2,119 @@
 
 ---
 
-_Aktualisiert: Donnerstag, 25. Dezember 2025, 18:21 Uhr_
+_Aktualisiert: Freitag, 26. Dezember 2025, 06:25 Uhr_
 
-## Sudan: UN warnt vor neuer Gewaltspirale im Bürgerkrieg
+## Israel wird laut Verteidigungsminister nicht komplett aus Gaza abziehen
 
-[20 Min](https://www.20min.ch/story/groesste-humanitaere-krise-sudan-buergerkrieg-fordert-dringend-internationale-aufmerksamkeit-103475792) • _Donnerstag, 25. Dezember 2025, 03:27 Uhr_
+[Watson](https://www.watson.ch/international/israel/172121425-israel-wird-laut-verteidigungsminister-nicht-komplett-aus-gaza-abziehen) • _Donnerstag, 25. Dezember 2025, 15:09 Uhr_
 
-Die humanitäre Krise im Sudan eskaliert. Millionen sind betroffen, während internationale Hilfe dringend benötigt wird.
+Israel wird seine Truppen nach Worten des Verteidigungsministers Israel Katz niemals komplett aus dem Gazastreifen abziehen.
 
-### Hintergrund  
-- Ein Bürgerkrieg zwischen der sudanesischen Armee und der Miliz **[Rapid Support Forces](https://en.wikipedia.org/wiki/Rapid_Support_Forces)** dauert seit April 2023.  
-- Der Konflikt gefährdet die Hälfte der rund 50 Millionen Einwohner*innen des **[Sudan](https://en.wikipedia.org/wiki/Sudan)** mit Hunger.  
+### Aussage des Verteidigungsministers  
+- **[Israel Katz](https://en.wikipedia.org/wiki/Israel_Katz)** erklärte, Israel werde *niemals* vollständig aus dem **[Gazastreifen](https://en.wikipedia.org/wiki/Gaza_Strip)** abziehen.  
+- Stattdessen solle eine **große Sicherheitszone** innerhalb des Gazastreifens bestehen bleiben.  
+- In einem zukünftigen Szenario könnten im nördlichen Küstengebiet israelische **Siedlungskerne** errichtet werden, um diese Zone zu schützen.  
 
-### Humanitäre Lage  
-- Die Vereinten Nationen bezeichnen den Krieg als die größte humanitäre Krise weltweit.  
-- **12 Millionen** Menschen wurden vertrieben; jeder zweite Bürger*in ist von Nahrungsmittelknappheit bedroht.  
-- Die Stadt **[Al‑Fashir](https://en.wikipedia.org/wiki/Al-Fashir)** ist seit Monaten von Hunger geplagt, Hilfsorganisationen haben keinen Zugang.  
-- In der südöstlichen **[Kordofan](https://en.wikipedia.org/wiki/Kordofan)**‑Region kam es bereits zu Angriffen auf:  
-  - einen Kindergarten,  
-  - Krankenhäuser,  
-  - Lastwagen des Welternährungsprogramms.  
+### Beziehung zu Trumps Friedensplan  
+- Der Plan von **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** sieht einen schrittweisen Rückzug der israelischen Truppen und die Einrichtung einer internationalen Friedenskraft vor.  
+- Trumps Entwurf erlaubt Israel lediglich eine undefinierte „perimeter security presence“ entlang der Außengrenzen, bis keine Terrorbedrohung mehr besteht.  
+- Katz’ Aussage widerspricht damit diesem Stufen‑Abschied und betont, dass er „nie den Rückwärtsgang einlegt“.  
 
-### Politische Forderungen  
-- Die deutsche Entwicklungsministerin **Reem Alabali Radovan** fordert:  
-  - sofortige, größere internationale Unterstützung,  
-  - einen stabilen Waffenstillstand als Ausgangspunkt für eine politische Lösung,  
-  - dass der Sudan nicht in Vergessenheit gerät.  
+### Sicherheitszone und weitere Details  
+- Die vorgeschlagene Zone soll **innerhalb** des Gazastreifens liegen, nicht nur an den Rändern.  
+- Sollte es zu einer **Entwaffnung von Hamas** (siehe **[Hamas](https://en.wikipedia.org/wiki/Hamas)**) kommen, bleibt die Sicherheitszone laut Katz bestehen.  
+- Das Vorhaben steht im Gegensatz zur Position seiner eigenen Partei, **[Likud](https://en.wikipedia.org/wiki/Likud)**, die den Friedensplan von Trump bisher nicht vollständig ablehnt.
 
-### Warnungen der UN  
-- **[Tom Fletcher](https://en.wikipedia.org/wiki/Tom_Fletcher_(humanitarian))**, UN‑Nothilfekoordinator, warnt vor einer neuen „Gewaltspirale“ und einem möglichen Epizentrum der Gewalt in Kordofan.  
-- Sinkende Hilfsgelder zwingen das UN‑Team täglich zu Entscheidungen über Leben und Tod, etwa die Kürzung von Projektfinanzierungen, die unmittelbar Menschen sterben lassen können.  
-
-> Relevance score: [7] - Escalating civil war and humanitarian crisis affecting millions, with UN warnings and German ministerial response. Significant global relevance and potential policy/action implications.
+> Relevance score: [7] - Statement about Israel’s long‑term military presence in Gaza has implications for Middle‑East stability and international relations. While a single declaration, it signals a continuation of the conflict, affecting regional security and global diplomacy.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Assistierte Reproduktion: Frauen werden schwanger ohne Geschlechtsverkehr
+## 115 mutmassliche IS-Mitglieder in der Türkei festgenommen
 
-[20 Min](https://www.20min.ch/story/reproduktionsmedizin-frauen-werden-schwanger-trotz-intaktem-jungfernhaeutchen-103475760) • _Mittwoch, 24. Dezember 2025, 18:37 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/offenbar-anschlaege-geplant-115-mutmassliche-is-mitglieder-in-der-tuerkei-festgenommen) • _Donnerstag, 25. Dezember 2025, 13:37 Uhr_
 
-In Spanien entdecken Frauen neue Wege zur Mutterschaft durch assistierte Reproduktionsmedizin, auch ohne Geschlechtsverkehr.
+Die Verhafteten stehen unter Verdacht, Anschläge auf Weihnachts- und Neujahrsfeiern geplant zu haben.
 
-«Frauen müssen wissen, dass es Alternativen gibt»: Die Gynäkologin und Geburtshelferin Sara Cañamero leitet in Madrid eine Klinik, die Frauen neue, selbstbestimmte Wege zur Elternschaft eröffnet. Immer mehr Spanierinnen erfüllen sich ihren Kinderwuns... [weiterlesen](https://www.20min.ch/story/reproduktionsmedizin-frauen-werden-schwanger-trotz-intaktem-jungfernhaeutchen-103475760)
+In der ⁠Türkei haben Sicherheitskräfte 115 mutmassliche ⁠Mitglieder der Extremistengruppe Islamischer Staat (IS) festgenommen. ‌
+Sie stehen im Verdacht, Anschläge auf Weihnachts- und Neujahrsfeiern geplant zu haben, teilte die Generalstaatsanwaltscha... [weiterlesen](https://www.srf.ch/news/international/offenbar-anschlaege-geplant-115-mutmassliche-is-mitglieder-in-der-tuerkei-festgenommen)
 
-> Relevance score: [4] - Medical breakthrough in Spain offering new reproductive options; relevant to bio‑ethics and health policy but limited immediate societal impact.
+> Relevance score: [5] - Large roundup of suspected ISIS members reduces terrorist capacity and improves security in Turkey and potentially the wider region. Still a law‑enforcement operation rather than a strategic shift, but notable for counter‑terrorism.
 
-## Honduras: Trump-Favorit Asfura zum Wahlsieger ernannt
+## Verhandlung über Waffenruhe
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/wochen-nach-praesidentenwahl-honduras-trump-favorit-asfura-zum-sieger-ernannt) • _Mittwoch, 24. Dezember 2025, 23:38 Uhr_
+[DER FARANG](https://der-farang.com/de/pages/verhandlung-ueber-waffenruhe-im-grenzkonflikt) • _Donnerstag, 25. Dezember 2025, 06:34 Uhr_
 
-Nach der Wahl am 30. November zog sich die Auszählung der Stimmen in die Länge. Jetzt wurde Asfura zum Sieger ernannt.
+BANGKOK/PHNOM PENH: Thailand und Kambodscha verhandeln erneut über eine Waffenruhe. Doch während die Gespräche laufen, gehen die Kämpfe an der Grenze ...
 
-Mehrere Wochen nach der Präsidentenwahl in Honduras hat die Wahlbehörde den von US-Präsident Donald Trump unterstützten Kandidaten Nasry «Tito» Asfura zum Sieger ernannt.
-Asfura von der rechten Nationalpartei erhielt demnach 40 Prozent der Stimmen.
-K... [weiterlesen](https://www.srf.ch/news/international/wochen-nach-praesidentenwahl-honduras-trump-favorit-asfura-zum-sieger-ernannt)
+BANGKOK/PHNOM PENH: Thailand und Kambodscha verhandeln erneut über eine Waffenruhe. Doch während die Gespräche laufen, gehen die Kämpfe an der Grenze weiter.
+Im wieder entflammten Grenzkonflikt zwischen Thailand und Kambodscha haben beide Seiten neue... [weiterlesen](https://der-farang.com/de/pages/verhandlung-ueber-waffenruhe-im-grenzkonflikt)
 
-> Relevance score: [3] - Election outcome in Honduras with US political backing; limited direct impact on Switzerland and modest global significance beyond regional politics.
+> Relevance score: [5] - Renewed cease‑fire talks between Thailand and Cambodia address a recurring border conflict. Regional security relevance; could influence stability in Southeast Asia but not a major global shift.
 
-## Sturm-Horror an Weihnachten: Kalifornien kämpft gegen sintflutartige Regenfälle
+## RSV-Impfung für Senioren: Wie oft ist sie notwendig?
 
-[20 Min](https://www.20min.ch/story/sintflutartiger-regen-sturm-horror-an-weihnachten-unwetter-legt-kalifornien-lahm-103475785) • _Mittwoch, 24. Dezember 2025, 22:11 Uhr_
+[it boltwise](https://www.it-boltwise.de/rsv-impfung-fuer-senioren-wie-oft-ist-sie-notwendig.html) • _Donnerstag, 25. Dezember 2025, 17:56 Uhr_
 
-Ein heftiger Sturm bringt Südkalifornien in Bedrängnis. Evakuierungswarnungen und Notstand prägen die Feiertage.
+RSV-Impfung für Senioren: Aktuelle Empfehlungen und Diskussionen über die Notwendigkeit von Booster-Impfungen.
 
-Der US-Wetterdienst NWS sprach am Mittwoch von einem «gefährlichen Weihnachtssturm» in Südkalifornien, der eine grosse Gefahr für «Eigentum und Leben» darstelle. Gouverneur Gavin Newsom erklärte für mehrere Bezirke den Notstand, darunter die Metropol... [weiterlesen](https://www.20min.ch/story/sintflutartiger-regen-sturm-horror-an-weihnachten-unwetter-legt-kalifornien-lahm-103475785)
+LONDON (IT BOLTWISE) – Die Frage, wie oft Senioren über 65 Jahre eine Impfung gegen das Respiratorische Synzytial-Virus (RSV) benötigen, sorgt für Verwirrung. Während einige Berichte auf eine jährliche Auffrischung hinweisen, gibt es derzeit keine Em... [weiterlesen](https://www.it-boltwise.de/rsv-impfung-fuer-senioren-wie-oft-ist-sie-notwendig.html)
 
-> Relevance score: [3] - Severe weather event in California causing local evacuations; noteworthy for climate discussion but limited immediate effect beyond the affected region.
+> Relevance score: [4] - Health guideline for seniors; relevant to Swiss public‑health policy but not a structural change. Impacts a specific age group and may influence vaccine uptake, modest societal effect.
 
-## "Artemis"-Flug zum Mond mit in Deutschland entworfenem Maskottchen?
+## WM 2026: Iran wehrt sich weiter gegen Pride
 
-[Radio Central](https://www.radiocentral.ch/news/international/artemis-flug-zum-mond-mit-in-deutschland-entworfenem-maskottchen-162906719) • _Mittwoch, 24. Dezember 2025, 20:00 Uhr_
+[Blick](https://www.blick.ch/sport/fussball/wm/haben-keinerlei-interesse-iran-will-pride-spiel-bei-wm-unbedingt-verhindern-id21547724.html) • _Donnerstag, 25. Dezember 2025, 11:20 Uhr_
 
-2026 werden erstmals seit mehr als einem halben Jahrhundert wieder Menschen in die Nähe des Mondes fliegen. Und es könnte ein in Deutschland entworfenes Maskottchen mit an Bord sein.
+Beim WM-Duell Iran gegen Ägypten in Seattle soll die LGBTQ+-Community im Mittelpunkt stehen. Für Teheran undenkbar, da die Partie in einen islamischen Trauermonat fällt.
 
-Ein Entwurf der in Berlin lebenden 34 Jahre alten Italienerin Giulia Bona schaffte es aus mehr als 2600 Einreichungen in die Endrunde der 25 Finalisten, wie die US-Raumfahrtbehörde Nasa mitteilte. Ihr Schwerelosigkeits-Maskottchen ist ein kleiner Ast... [weiterlesen](https://www.radiocentral.ch/news/international/artemis-flug-zum-mond-mit-in-deutschland-entworfenem-maskottchen-162906719)
+Keystone-SDADie Schweizer Nachrichtenagentur
+Der Iran will den Pride Match während der Fussball-WM in den USA verhindern. «Wir haben keinerlei Interesse, dass unser drittes WM-Spiel im Zeichen der Regenbogenfarben ausgetragen wird. Wir wollen das unb... [weiterlesen](https://www.blick.ch/sport/fussball/wm/haben-keinerlei-interesse-iran-will-pride-spiel-bei-wm-unbedingt-verhindern-id21547724.html)
 
-> Relevance score: [2] - Cultural side‑story about a mascot design for NASA’s Artemis mission; no structural, economic or political impact. Minimal relevance for Switzerland and the world.
+> Relevance score: [4] - Iran’s opposition to LGBTQ‑focused displays during a World Cup match reflects ongoing cultural‑political tensions. Relevant for human‑rights discourse but limited to a single sporting event and does not alter policy.
 
-## Qantas schließt Manager von First Class auf neuen Airbus A350 aus
+## Epstein: Mehr als eine Million neue Dokumente aufgetaucht
 
-[aeroTELEGRAPH](https://www.aerotelegraph.com/ticker/qantas-schliesst-manager-von-first-class-auf-neuen-airbus-a350-aus/vd6xhtd) • _Mittwoch, 24. Dezember 2025, 19:03 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/fall-epstein-mehr-als-eine-million-neue-dokumente-aufgetaucht) • _Donnerstag, 25. Dezember 2025, 10:33 Uhr_
 
-Die australische Fluggesellschaft wird Führungskräften und Aufsichtsräten den Zugang zur First Class auf den neuen Airbus A350-1000 verwehren. Die Regelung gilt für aktive und ehemalige Manager sowie auch für die aktuelle Konzernchefin von Qantas. Betroffen sind die speziell konfigurierten A350, die ab 2026 auf den Nonstop-Langstrecken von Sydney und Melbourne nach London und New York eingesetzt werden sollen.
+Das US-Justizministerium hat die Entdeckung von mehr als einer Million möglicher Epstein-Dokumente bekanntgemacht.
 
-Die australische Fluggesellschaft wird Führungskräften und Aufsichtsräten den Zugang zur First Class auf den neuen Airbus A350-1000 verwehren. Die Regelung gilt für aktive und ehemalige Manager sowie auch für die aktuelle Konzernchefin von Qantas. Be... [weiterlesen](https://www.aerotelegraph.com/ticker/qantas-schliesst-manager-von-first-class-auf-neuen-airbus-a350-aus/vd6xhtd)
+Das US-Justizministerium hat die Entdeckung von mehr als einer Million Dokumenten, welche möglicherweise mit dem Epstein-Fall zusammenhängen, bekanntgemacht.
+Die Bundespolizei FBI und Staatsanwaltschaft in New York (Southern District) hätten das Mini... [weiterlesen](https://www.srf.ch/news/international/fall-epstein-mehr-als-eine-million-neue-dokumente-aufgetaucht)
 
-> Relevance score: [2] - Corporate travel policy change for an Australian airline; negligible impact on broader society or Swiss interests.
+> Relevance score: [3] - Discovery of additional documents in the U.S. Epstein case may affect ongoing investigations and public perception of elite misconduct. Primarily U.S. judicial matter with limited immediate global impact.
+
+## Mann Franz Grüter hört bei Green auf
+
+[Blick](https://www.blick.ch/politik/svp-grueter-gibt-lebenswerk-ab-wer-nicht-selbst-etwas-aufgebaut-hat-kann-kaum-nachvollziehen-wie-emotional-so-ein-abschied-ist-id21546217.html) • _Donnerstag, 25. Dezember 2025, 10:08 Uhr_
+
+Wie ist es, loszulassen? SVP-Nationalrat Franz Grüter (62) trat als Verwaltungsratspräsident von Green.ch zurück. Während 30 Jahren in der Internetbranche hat er einen grossen Wandel erlebt. Blick hat ihn getroffen.
+
+Tobias BruggmannRedaktor Politik
+SVP-Nationalrat Franz Grüter (62) setzte vor 30 Jahren alles auf eine Karte. «Als wir unsere Firma gegründet haben, blieben mir noch 500 Franken auf dem Konto», sagt er im Gespräch mit Blick. In einer Zeit, in der ein... [weiterlesen](https://www.blick.ch/politik/svp-grueter-gibt-lebenswerk-ab-wer-nicht-selbst-etwas-aufgebaut-hat-kann-kaum-nachvollziehen-wie-emotional-so-ein-abschied-ist-id21546217.html)
+
+> Relevance score: [3] - Resignation of a Swiss politician from a corporate board is a modest political development, with little effect on national policy or the broader economy.
+
+## Sony will Games gern in Echtzeit zensieren und die KI
+
+[jpgames.de](https://jpgames.de/2025/12/sony-will-games-gern-in-echtzeit-zensieren-und-die-ki-technologie-dazu-ist-schon-patentiert/) • _Donnerstag, 25. Dezember 2025, 13:55 Uhr_
+
+Ein neues Patent offenbart, dass Sony an einer KI-Technologie arbeitet, um Spiele in Echtzeit altersgerecht zu zensieren und Spielszenen ...
+
+Ein neues Patent offenbart, dass Sony an einer KI-Technologie arbeitet, um Spiele in Echtzeit altersgerecht zu zensieren und Spielszenen damit „kindgerecht“ zu machen. Dabei sollen die Funktionen ziemlich umfangreich ausfallen.
+Retro Handhelds entdec... [weiterlesen](https://jpgames.de/2025/12/sony-will-games-gern-in-echtzeit-zensieren-und-die-ki-technologie-dazu-ist-schon-patentiert/)
+
+> Relevance score: [2] - Technology patent for real‑time game content moderation. Primarily an entertainment/industry development with limited societal impact and no immediate policy relevance.
+
+## Durchfahrtskontrollen: Birsfelden zeigt erste Zahlen
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/umstrittene-verkehrsregel-erfolg-und-chaos-29-000-bussen-in-birsfelden-zeigen-wirkung) • _Donnerstag, 25. Dezember 2025, 11:41 Uhr_
+
+Die Gemeinde ist mit dem Verkehrssystem grundsätzlich zufrieden. Sie will aber noch weniger Autos in den Quartieren.
+
+Die Durchfahrtskontrollen in Birsfelden BL zeigen Wirkung: «Der Verkehr auf den Quartierstrassen hat sich im Durchschnitt um 25 Prozent reduziert», sagt Gemeinderätin Desirée Jaun. Sie nennt damit erstmals Zahlen, wie stark sich der Verkehr verringer... [weiterlesen](https://www.srf.ch/news/schweiz/umstrittene-verkehrsregel-erfolg-und-chaos-29-000-bussen-in-birsfelden-zeigen-wirkung)
+
+> Relevance score: [2] - Local traffic‑reduction measures in a Swiss municipality. Useful for municipal planning but limited to a small population; no broader national significance.
 
 
 </details>
