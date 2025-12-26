@@ -2,113 +2,105 @@
 
 ---
 
-_Updated: Friday, December 26, 2025, 6:25 AM_
+_Updated: Friday, December 26 2025, 18:20_
 
-## Israel Will Not Fully Withdraw from Gaza, Says Defense Minister
+## Grand Council: Thurgau debates reducing the size of the parliament
 
-[Watson](https://www.watson.ch/international/israel/172121425-israel-wird-laut-verteidigungsminister-nicht-komplett-aus-gaza-abziehen) • _Thursday, December 25, 2025, 3:09 PM_
+[Swiss Radio and Television (SRF)](https://www.srf.ch/news/schweiz/debatte-im-thurgau-wem-nuetzt-und-wem-schadet-ein-kleineres-parlament-im-thurgau) • _Thursday, December 25 2025, 20:20_
 
-Israel says, according to Defense Minister Israel Katz, it will **never** completely pull its forces out of the Gaza Strip.
+What significance does the size of a parliament have for council work? An expert assesses it.
 
-### Defense Minister's Statement  
-- **[Israel Katz](https://en.wikipedia.org/wiki/Israel_Katz)** stated that Israel will *never* fully withdraw from the **[Gaza Strip](https://en.wikipedia.org/wiki/Gaza_Strip)**.  
-- Instead, a **large security zone** should remain inside the Gaza Strip.  
-- In a future scenario, Israeli **settlement hubs** could be built in the northern coastal area to protect this zone.  
+### Background of the debate  
+- The **[Grand Council (Thurgau)](https://en.wikipedia.org/wiki/Grand_Council_(Switzerland))** discussed the 2026 budget.  
+- The **[FDP.The Liberals](https://en.wikipedia.org/wiki/FDP.The_Liberals)** proposed reducing the number of seats from 130 to 100 – an argument based on savings and efficiency.  
+- Similar cuts have already been implemented in other cantons (e.g., Aargau, Solothurn, Basel‑Stadt).  
 
-### Relation to Trump's Peace Plan  
-- The plan proposed by **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** calls for a phased withdrawal of Israeli troops and the creation of an international peace force.  
-- Trump’s draft allows Israel only an undefined “perimeter security presence” along the outer borders, until no terrorist threat remains.  
-- Katz’s statement contradicts this staged pull‑back and emphasizes that he “will never shift into reverse”.  
+### Arguments of the experts  
+- **[Michael Strebel](https://en.wikipedia.org/wiki/Michael_Strebel)**, political scientist, warns that fewer seats increase the workload per member without reducing parliamentary tasks.  
+- **Sandra Reinhart** (Greens) sees the increased workload as a “danger” for the quality of legislation.  
+- **[Stefan Leuthold](https://en.wikipedia.org/wiki/Stefan_Leuthold)** (GLP) emphasizes that the militia system relies on flexibility; a reduction could only attract currently employed and retired people.  
 
-### Security Zone and Additional Details  
-- The proposed zone should lie **within** the Gaza Strip, not just at its edges.  
-- If there is a **disarmament of Hamas** (see **[Hamas](https://en.wikipedia.org/wiki/Hamas)**), the security zone would remain in place, according to Katz.  
-- The initiative stands opposed to the stance of his own party, **[Likud](https://en.wikipedia.org/wiki/Likud)**, which has not completely rejected Trump’s peace plan.
+### Financial aspects  
+- Strebel doubts that shrinking the number of seats saves significant money: possible savings on attendance fees could be offset by more and longer sessions.  
+- Other cantons are introducing substitute systems to alleviate the burden (e.g., the city of Bern).  
 
-> Relevance score: [7] – Statement about Israel’s long‑term military presence in Gaza has implications for Middle‑East stability and international relations. While a single declaration, it signals a continuation of the conflict, affecting regional security and global diplomacy.
+### Impact on the party landscape  
+- Smaller parties could be significantly disadvantaged:  
+  - **[Evangelical People’s Party (EVP)](https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_(Switzerland))**  
+  - **[Federal Democratic Union of Switzerland (EDU)](https://en.wikipedia.org/wiki/Federal_Democratic_Union_of_Switzerland)**  
+  - **Aufrecht** (one seat)  
+- Strebel questions the **representativeness**: a smaller parliament reflects societal diversity less.  
+- Larger parties could benefit; the **[Swiss People’s Party (SVP)](https://en.wikipedia.org/wiki/Swiss_People%27s_Party)** sees no benefit for its mandate (quote from **Hermann Lei**).  
+
+### Further considerations  
+- The discussion has generated additional reform ideas:  
+  - Adjustment of the meeting rhythm  
+  - Review of the committee system  
+- Strebel welcomes the parliament’s **self‑reflection** as an opportunity to fundamentally rethink its working methods.  
+
+> Relevance score: [6] – Debate over reducing the cantonal parliament’s size is a structural governance issue that could set a precedent for other cantons and affect legislative efficiency and public spending in Switzerland.
 
 <details><summary markdown="span">Show less important events</summary>
 
-## 115 Suspected ISIS Members Detained in Turkey
+## ADHD medications work differently than thought: New findings from a large study
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/offenbar-anschlaege-geplant-115-mutmassliche-is-mitglieder-in-der-tuerkei-festgenommen) • _Thursday, December 25, 2025, 1:37 PM_
+[it boltwise](https://www.it-boltwise.de/adhs-medikamente-wirken-anders-als-gedacht-neue-erkenntnisse-aus-einer-grossen-studie.html) • _Friday, December 26 2025, 04:31_
 
-The detainees are suspected of planning attacks on Christmas and New Year celebrations.
+New study shows that ADHD medications primarily affect wakefulness and reward systems, not attention networks.
 
-In Turkey, security forces have detained 115 alleged members of the extremist group Islamic State (IS). They are suspected of plotting attacks on Christmas and New Year celebrations, the Federal Prosecutor’s Office said... [read more](https://www.srf.ch/news/international/offenbar-anschlaege-geplant-115-mutmassliche-is-mitglieder-in-der-tuerkei-festgenommen)
+ST. LOUIS / LONDON (IT BOLTWISE) – A comprehensive study of 12,000 children has questioned previous assumptions about how ADHD medications work. Rather than directly boosting attention, these drugs influence wakefulness and reward pathways … [read more](https://www.it-boltwise.de/adhs-medikamente-wirken-anders-als-gedacht-neue-erkenntnisse-aus-einer-grossen-studie.html)
 
-> Relevance score: [5] – Large roundup of suspected ISIS members reduces terrorist capacity and improves security in Turkey and potentially the wider region. Still a law‑enforcement operation rather than a strategic shift, but notable for counter‑terrorism.
+> Relevance score: [5] – A 12 000‑child study challenges established assumptions about ADHD medication mechanisms. The findings could influence clinical guidelines, prescribing practices and pharmaceutical research worldwide, but they do not yet affect policy or large‑scale health systems directly.
 
-## Negotiations on a Ceasefire
+## Trump confirms US strikes on IS in Nigeria
 
-[DER FARANG](https://der-farang.com/de/pages/verhandlung-ueber-waffenruhe-im-grenzkonflikt) • _Thursday, December 25, 2025, 6:34 AM_
+[Blick](https://www.blick.ch/ausland/an-weihnachten-trump-meldet-toedliche-us-angriffe-auf-is-terroristen-in-nigeria-id21548571.html) • _Friday, December 26 2025, 02:39_
 
-BANGKOK/PHNOM PENH: Thailand and Cambodia are again negotiating a ceasefire. However, while talks are ongoing, fighting continues along the border…
+The US military attacked IS terrorists in Nigeria on Christmas, according to Donald Trump. The attacks in the state of Sokoto followed murders of Christians. The death toll was not disclosed.
 
-In the reignited border conflict between Thailand and Cambodia, both sides have presented new ... [read more](https://der-farang.com/de/pages/verhandlung-ueber-waffenruhe-im-grenzkonflikt)
+Keystone‑SDADie Swiss news agency  
+According to President Donald Trump (79), the US military carried out deadly attacks on Islamic State fighters in Nigeria on Christmas, after they were accused of killing Christians … [read more](https://www.blick.ch/ausland/an-weihnachten-trump-meldet-toedliche-us-angriffe-auf-is-terroristen-in-nigeria-id21548571.html)
 
-> Relevance score: [5] – Renewed cease‑fire talks between Thailand and Cambodia address a recurring border conflict. Regional security relevance; could influence stability in Southeast Asia but not a major global shift.
+> Relevance score: [5] – US military strikes against IS in Nigeria touch on international security and counter‑terrorism. The action is notable but limited in scale and does not represent a major shift in global policy; relevance to Swiss readers is peripheral.
 
-## RSV Vaccination for Seniors: How Often Is It Needed?
+## Alzheimer research: Semaglutide study fails, insulin resistance remains a risk
 
-[it boltwise](https://www.it-boltwise.de/rsv-impfung-fuer-senioren-wie-oft-ist-sie-notwendig.html) • _Thursday, December 25, 2025, 5:56 PM_
+[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/alzheimer-forschung-semaglutid-studie-scheitert-insulinresistenz-bleibt/68434598) • _Thursday, December 25 2025, 19:01_
 
-RSV vaccination for seniors: Current recommendations and discussion about the need for booster shots.
+The EVOKE studies with semaglutide could not slow cognitive decline in Alzheimer’s. New research, however, shows that insulin resistance dramatically accelerates mental decline.
 
-LONDON (IT BOLTWISE) – The question of how often seniors over 65 should receive a vaccine against the Respiratory Syncytial Virus (RSV) is causing confusion. While some reports point to an annual boost, there is currently no ... [read more](https://www.it-boltwise.de/rsv-impfung-fuer-senioren-wie-oft-ist-sie-notwendig.html)
+The large EVOKE studies with the diabetes drug semaglutide have failed in Alzheimer’s disease, Novo Nordisk announced at the end of November. Despite the disappointment, new data confirm that brain insulin resistance speeds up the cognitive decline … [read more](https://www.ad-hoc-news.de/boerse/news/ueberblick/alzheimer-forschung-semaglutid-studie-scheitert-insulinresistenz-bleibt/68434598)
 
-> Relevance score: [4] – Health guideline for seniors; relevant to Swiss public‑health policy but not a structural change. Impacts a specific age group and may influence vaccine uptake, modest societal effect.
+> Relevance score: [5] – The failure of a major semaglutide trial informs the global Alzheimer‑research agenda and may redirect funding toward metabolic pathways. Important for medical science but does not immediately affect policy or patient care at scale.
 
-## World Cup 2026: Iran Continues to Oppose Pride
+## Housing shortage in Zurich: Students turn to swipes
 
-[Blick](https://www.blick.ch/sport/fussball/wm/haben-keinerlei-interesse-iran-will-pride-spiel-bei-wm-unbedingt-verhindern-id21547724.html) • _Thursday, December 25, 2025, 11:20 AM_
+[20 Min](https://www.20min.ch/story/wohnungsnot-in-zuerich-studierende-setzen-auf-swipes-103458009) • _Thursday, December 25 2025, 20:47_
 
-During the World Cup match between Iran and Egypt in Seattle, the LGBTQ+ community is expected to be highlighted. For Tehran this is unthinkable, as the match falls in an Islamic month of mourning.
+While Swiftliving does not solve the housing shortage, it does simplify the application process.
 
-Keystone‑SDADie Swiss News Agency  
-Iran wants to prevent the Pride Match during the football World Cup in the USA. “We have no interest whatsoever in having our third World Cup match staged under the rainbow flag. We want to …” [read more](https://www.blick.ch/sport/fussball/wm/haben-keinerlei-interesse-iran-will-pride-spiel-bei-wm-unbedingt-verhindern-id21547724.html)
+Swipe left for “no interest”, swipe right to like – everyone knows the quick principle of dating apps. Now the same concept is being applied to the housing market: the new app Swiftliving aims to let users swipe, like and scroll to pass on apartments … [read more](https://www.20min.ch/story/wohnungsnot-in-zuerich-studierende-setzen-auf-swipes-103458009)
 
-> Relevance score: [4] – Iran’s opposition to LGBTQ‑focused displays during a World Cup match reflects ongoing cultural‑political tensions. Relevant for human‑rights discourse but limited to a single sporting event and does not alter policy.
+> Relevance score: [4] – Introduces a tech‑based solution to Zurich’s housing shortage, a concrete issue for students and young residents. The initiative could ease a local problem if adopted widely, but its impact remains limited to a specific market segment.
 
-## Epstein: More Than One Million New Documents Emerged
+## Samsung sets new standards in the gaming monitor segment
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/fall-epstein-mehr-als-eine-million-neue-dokumente-aufgetaucht) • _Thursday, December 25, 2025, 10:33 AM_
+[it boltwise](https://www.it-boltwise.de/samsung-setzt-neue-massstaebe-im-gaming-monitor-segment.html) • _Thursday, December 25 2025, 18:42_
 
-The U.S. Department of Justice announced the discovery of more than one million possible Epstein‑related documents.
+Samsung presents new Odyssey gaming monitors at CES 2026 with 6K resolution, glasses‑free 3D and over 1 000 Hz refresh rate.
 
-The FBI and the Southern District of New York prosecutors said the mini‑... [read more](https://www.srf.ch/news/international/fall-epstein-mehr-als-eine-million-neue-dokumente-aufgetaucht)
+LAS VEGAS / LONDON (IT BOLTWISE) – Samsung unveiled its latest gaming monitors at CES 2026, boasting impressive technical specifications. The new Odyssey models offer 6K resolution, glasses‑free 3D and … [read more](https://www.it-boltwise.de/samsung-setzt-neue-massstaebe-im-gaming-monitor-segment.html)
 
-> Relevance score: [3] – Discovery of additional documents in the U.S. Epstein case may affect ongoing investigations and public perception of elite misconduct. Primarily U.S. judicial matter with limited immediate global impact.
+> Relevance score: [2] – Announcement of high‑end consumer gaming monitors at CES is primarily a product launch with limited societal relevance; it does not influence economic, political or health structures.
 
-## Franz Grüter Steps Down from Green
+## Exclusive: Charlotte Baret opens up about postpartum depression after birth
 
-[Blick](https://www.blick.ch/politik/svp-grueter-gibt-lebenswerk-ab-wer-nicht-selbst-etwas-aufgebaut-hat-kann-kaum-nachvollziehen-wie-emotional-so-ein-abschied-ist-id21546217.html) • _Thursday, December 25, 2025, 10:08 AM_
+[20 Min](https://www.20min.ch/story/postpartale-depression-bachmann-ehefrau-baret-ich-schaemte-mich-um-hilfe-zu-bitten-103474374) • _Friday, December 26 2025, 04:28_
 
-What is it like to let go? SVP National Councilor Franz Grüter (62) resigned as chairman of the board of Green.ch. After 30 years in the internet industry he has witnessed a major transformation. Blick interviewed him.
+The wife of Nati‑Star Ramona Bachmann speaks openly about her challenges and path to improvement.
 
-Tobias Bruggmann, Political Editor  
-SVP National Councilor Franz Grüter (62) put everything on the line 30 years ago. “When we founded our company, I still had 500 francs in the bank,” he told Blick. In an era when… [read more](https://www.blick.ch/politik/svp-grueter-gibt-lebenswerk-ab-wer-nicht-selbst-etwas-aufgebaut-hat-kann-kaum-nachvollziehen-wie-emotional-so-ein-abschied-ist-id21546217.html)
+Nati‑Star Ramona Bachmann and his wife Charlotte Baret are experiencing difficult times despite the birth of son Luan. While Bachmann works on his comeback, his wife Charlotte revealed in an Instagram post that she suffers from postpartum depression … [read more](https://www.20min.ch/story/postpartale-depression-bachmann-ehefrau-baret-ich-schaemte-mich-um-hilfe-zu-bitten-103474374)
 
-> Relevance score: [3] – Resignation of a Swiss politician from a corporate board is a modest political development, with little effect on national policy or the broader economy.
-
-## Sony Wants to Censor Games in Real Time Using AI
-
-[jpgames.de](https://jpgames.de/2025/12/sony-will-games-gern-in-echtzeit-zensieren-und-die-ki-technologie-dazu-ist-schon-patentiert/) • _Thursday, December 25, 2025, 1:55 PM_
-
-A new patent reveals that Sony is working on an AI technology to censor games in real time in an age‑appropriate way and to make certain scenes “child‑friendly”.
-
-The patent details extensive functionalities … [read more](https://jpgames.de/2025/12/sony-will-games-gern-in-echtzeit-zensieren-und-die-ki-technologie-dazu-ist-schon-patentiert/)
-
-> Relevance score: [2] – Technology patent for real‑time game content moderation. Primarily an entertainment/industry development with limited societal impact and no immediate policy relevance.
-
-## Through‑traffic Controls: Birsfelden Shows First Figures
-
-[Swiss Radio and Television](https://www.srf.ch/news/schweiz/umstrittene-verkehrsregel-erfolg-und-chaos-29-000-bussen-in-birsfelden-zeigen-wirkung) • _Thursday, December 25, 2025, 11:41 AM_
-
-The municipality is generally satisfied with the traffic system but wants even fewer cars in the neighborhoods.
-
-The through‑traffic controls in Birsfelden, BL, are showing results: “Traffic on residential streets has dropped by an average of 25 percent,” said councilor Desirée Jaun. She presented the first numbers illustrating the reduction… [read more](https://www.srf.ch/news/schweiz/umstrittene-verkehrsregel-erfolg-und-chaos-29-000-bussen-in-birsfelden-zeigen-wirkung)
-
-> Relevance score: [2] – Local traffic‑reduction measures in a Swiss municipality. Useful for municipal planning but limited to a small population; no broader national significance.
+> Relevance score: [1] – Personal disclosure by a sports‑celebrity’s partner. While it may raise awareness of postpartum depression, it is a private story without direct civic or structural impact in Switzerland or globally.
 
 </details>

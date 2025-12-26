@@ -2,119 +2,108 @@
 
 ---
 
-_Aktualisiert: Freitag, 26. Dezember 2025, 06:25 Uhr_
+_Aktualisiert: Freitag, 26. Dezember 2025, 18:20 Uhr_
 
-## Israel wird laut Verteidigungsminister nicht komplett aus Gaza abziehen
+## Grosser Rat: Thurgau debattiert über Verkleinerung des Parlaments
 
-[Watson](https://www.watson.ch/international/israel/172121425-israel-wird-laut-verteidigungsminister-nicht-komplett-aus-gaza-abziehen) • _Donnerstag, 25. Dezember 2025, 15:09 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/debatte-im-thurgau-wem-nuetzt-und-wem-schadet-ein-kleineres-parlament-im-thurgau) • _Donnerstag, 25. Dezember 2025, 20:20 Uhr_
 
-Israel wird seine Truppen nach Worten des Verteidigungsministers Israel Katz niemals komplett aus dem Gazastreifen abziehen.
+Welche Bedeutung hat die Grösse eines Parlaments für die Ratsarbeit? Ein Experte schätzt ein.
 
-### Aussage des Verteidigungsministers  
-- **[Israel Katz](https://en.wikipedia.org/wiki/Israel_Katz)** erklärte, Israel werde *niemals* vollständig aus dem **[Gazastreifen](https://en.wikipedia.org/wiki/Gaza_Strip)** abziehen.  
-- Stattdessen solle eine **große Sicherheitszone** innerhalb des Gazastreifens bestehen bleiben.  
-- In einem zukünftigen Szenario könnten im nördlichen Küstengebiet israelische **Siedlungskerne** errichtet werden, um diese Zone zu schützen.  
+### Hintergrund der Debatte  
+- Der **[Grosser Rat (Thurgau)](https://en.wikipedia.org/wiki/Grand_Council_(Switzerland))** diskutierte das Budget für 2026.  
+- Die **[FDP.The Liberals](https://en.wikipedia.org/wiki/FDP.The_Liberals)** schlug vor, die Sitzzahl von 130 auf 100 zu reduzieren – ein Einsparungs‑ und Effizienzargument.  
+- Ähnliche Kürzungen wurden bereits in anderen Kantonen umgesetzt (z. B. Aargau, Solothurn, Basel‑Stadt).  
 
-### Beziehung zu Trumps Friedensplan  
-- Der Plan von **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** sieht einen schrittweisen Rückzug der israelischen Truppen und die Einrichtung einer internationalen Friedenskraft vor.  
-- Trumps Entwurf erlaubt Israel lediglich eine undefinierte „perimeter security presence“ entlang der Außengrenzen, bis keine Terrorbedrohung mehr besteht.  
-- Katz’ Aussage widerspricht damit diesem Stufen‑Abschied und betont, dass er „nie den Rückwärtsgang einlegt“.  
+### Argumente der Expert:innen  
+- **[Michael Strebel](https://de.wikipedia.org/wiki/Michael_Strebel)**, Politikwissenschaftler, warnt, dass weniger Sitze die Arbeitslast pro Mitglied erhöhen, ohne die parlamentarischen Aufgaben zu verringern.  
+- **Sandra Reinhart** (Grüne) sieht die gestiegene Arbeitsbelastung als „Gefahr“ für die Qualität der Gesetzgebung.  
+- **[Stefan Leuthold](https://de.wikipedia.org/wiki/Stefan_Leuthold)** (GLP) betont, dass das Milizsystem auf Flexibilität beruht; eine Reduktion könnte nur noch aktiv Berufstätige und Pensionierte anziehen.  
 
-### Sicherheitszone und weitere Details  
-- Die vorgeschlagene Zone soll **innerhalb** des Gazastreifens liegen, nicht nur an den Rändern.  
-- Sollte es zu einer **Entwaffnung von Hamas** (siehe **[Hamas](https://en.wikipedia.org/wiki/Hamas)**) kommen, bleibt die Sicherheitszone laut Katz bestehen.  
-- Das Vorhaben steht im Gegensatz zur Position seiner eigenen Partei, **[Likud](https://en.wikipedia.org/wiki/Likud)**, die den Friedensplan von Trump bisher nicht vollständig ablehnt.
+### Finanzielle Aspekte  
+- Strebel bezweifelt, dass die Sitzverkleinerung signifikant Geld spart:  
+  - mögliche Einsparungen bei Sitzungsgeldern könnten durch mehr und längere Sitzungen wieder aufgehoben werden.  
+- Andere Kantone führen Stellvertretersysteme ein, um die Belastung zu mildern (Beispiel: Stadt Bern).  
 
-> Relevance score: [7] - Statement about Israel’s long‑term military presence in Gaza has implications for Middle‑East stability and international relations. While a single declaration, it signals a continuation of the conflict, affecting regional security and global diplomacy.
+### Auswirkungen auf die Parteienlandschaft  
+- Kleinere Parteien könnten erheblich benachteiligt werden:  
+  - **[Evangelische Volkspartei (EVP)](https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_(Switzerland))**  
+  - **[Bundesamt für die Demokratische Union (EDU)](https://en.wikipedia.org/wiki/Federal_Democratic_Union_of_Switzerland)**  
+  - **Aufrecht** (ein Sitz)  
+- Strebel fragt nach der **Repräsentativität**: Ein kleineres Parlament spiegelt gesellschaftliche Vielfalt weniger wider.  
+- Größere Parteien könnten profitieren; die **[Schweizerische Volkspartei (SVP)](https://en.wikipedia.org/wiki/Swiss_People%27s_Party)** sieht keinen Nutzen für ihr Mandat (Zitat von **Hermann Lei**).  
+
+### Weiterführende Überlegungen  
+- Die Diskussion hat weitere Reformideen hervorgebracht:  
+  - Anpassung des Sitzungsrhythmus  
+  - Überprüfung des Kommissionssystems  
+- Strebel begrüßt die **Selbstreflexion** des Parlaments als Chance, die Arbeitsweise grundlegend zu überdenken.  
+
+> Relevance score: [6] - Debate over reducing the cantonal parliament’s size is a structural governance issue that could set a precedent for other cantons and affect legislative efficiency and public spending in Switzerland.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## 115 mutmassliche IS-Mitglieder in der Türkei festgenommen
+## ADHS-Medikamente wirken anders als gedacht: Neue Erkenntnisse aus einer großen Studie
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/offenbar-anschlaege-geplant-115-mutmassliche-is-mitglieder-in-der-tuerkei-festgenommen) • _Donnerstag, 25. Dezember 2025, 13:37 Uhr_
+[it boltwise](https://www.it-boltwise.de/adhs-medikamente-wirken-anders-als-gedacht-neue-erkenntnisse-aus-einer-grossen-studie.html) • _Freitag, 26. Dezember 2025, 04:31 Uhr_
 
-Die Verhafteten stehen unter Verdacht, Anschläge auf Weihnachts- und Neujahrsfeiern geplant zu haben.
+Neue Studie zeigt, dass ADHS-Medikamente vor allem Wachheit und Belohnungssysteme beeinflussen, nicht die Aufmerksamkeitsnetzwerke.
 
-In der ⁠Türkei haben Sicherheitskräfte 115 mutmassliche ⁠Mitglieder der Extremistengruppe Islamischer Staat (IS) festgenommen. ‌
-Sie stehen im Verdacht, Anschläge auf Weihnachts- und Neujahrsfeiern geplant zu haben, teilte die Generalstaatsanwaltscha... [weiterlesen](https://www.srf.ch/news/international/offenbar-anschlaege-geplant-115-mutmassliche-is-mitglieder-in-der-tuerkei-festgenommen)
+ST. LOUIS / LONDON (IT BOLTWISE) – Eine umfassende Studie mit 12.000 Kindern hat die bisherigen Annahmen über die Wirkungsweise von ADHS-Medikamenten infrage gestellt. Anstatt die Aufmerksamkeit direkt zu steigern, beeinflussen diese Medikamente vor ... [weiterlesen](https://www.it-boltwise.de/adhs-medikamente-wirken-anders-als-gedacht-neue-erkenntnisse-aus-einer-grossen-studie.html)
 
-> Relevance score: [5] - Large roundup of suspected ISIS members reduces terrorist capacity and improves security in Turkey and potentially the wider region. Still a law‑enforcement operation rather than a strategic shift, but notable for counter‑terrorism.
+> Relevance score: [5] - A 12 000‑child study challenges established assumptions about ADHD medication mechanisms. The findings could influence clinical guidelines, prescribing practices and pharmaceutical research worldwide, but they do not yet affect policy or large‑scale health systems directly.
 
-## Verhandlung über Waffenruhe
+## Trump bestätigt US-Angriffe auf IS in Nigeria
 
-[DER FARANG](https://der-farang.com/de/pages/verhandlung-ueber-waffenruhe-im-grenzkonflikt) • _Donnerstag, 25. Dezember 2025, 06:34 Uhr_
+[Blick](https://www.blick.ch/ausland/an-weihnachten-trump-meldet-toedliche-us-angriffe-auf-is-terroristen-in-nigeria-id21548571.html) • _Freitag, 26. Dezember 2025, 02:39 Uhr_
 
-BANGKOK/PHNOM PENH: Thailand und Kambodscha verhandeln erneut über eine Waffenruhe. Doch während die Gespräche laufen, gehen die Kämpfe an der Grenze ...
-
-BANGKOK/PHNOM PENH: Thailand und Kambodscha verhandeln erneut über eine Waffenruhe. Doch während die Gespräche laufen, gehen die Kämpfe an der Grenze weiter.
-Im wieder entflammten Grenzkonflikt zwischen Thailand und Kambodscha haben beide Seiten neue... [weiterlesen](https://der-farang.com/de/pages/verhandlung-ueber-waffenruhe-im-grenzkonflikt)
-
-> Relevance score: [5] - Renewed cease‑fire talks between Thailand and Cambodia address a recurring border conflict. Regional security relevance; could influence stability in Southeast Asia but not a major global shift.
-
-## RSV-Impfung für Senioren: Wie oft ist sie notwendig?
-
-[it boltwise](https://www.it-boltwise.de/rsv-impfung-fuer-senioren-wie-oft-ist-sie-notwendig.html) • _Donnerstag, 25. Dezember 2025, 17:56 Uhr_
-
-RSV-Impfung für Senioren: Aktuelle Empfehlungen und Diskussionen über die Notwendigkeit von Booster-Impfungen.
-
-LONDON (IT BOLTWISE) – Die Frage, wie oft Senioren über 65 Jahre eine Impfung gegen das Respiratorische Synzytial-Virus (RSV) benötigen, sorgt für Verwirrung. Während einige Berichte auf eine jährliche Auffrischung hinweisen, gibt es derzeit keine Em... [weiterlesen](https://www.it-boltwise.de/rsv-impfung-fuer-senioren-wie-oft-ist-sie-notwendig.html)
-
-> Relevance score: [4] - Health guideline for seniors; relevant to Swiss public‑health policy but not a structural change. Impacts a specific age group and may influence vaccine uptake, modest societal effect.
-
-## WM 2026: Iran wehrt sich weiter gegen Pride
-
-[Blick](https://www.blick.ch/sport/fussball/wm/haben-keinerlei-interesse-iran-will-pride-spiel-bei-wm-unbedingt-verhindern-id21547724.html) • _Donnerstag, 25. Dezember 2025, 11:20 Uhr_
-
-Beim WM-Duell Iran gegen Ägypten in Seattle soll die LGBTQ+-Community im Mittelpunkt stehen. Für Teheran undenkbar, da die Partie in einen islamischen Trauermonat fällt.
+Das US-Militär hat an Weihnachten IS-Terroristen in Nigeria angegriffen, wie Donald Trump mitteilte. Die Angriffe im Bundesstaat Sokoto erfolgten nach Morden an Christen. Die Zahl der Toten blieb ungenannt.
 
 Keystone-SDADie Schweizer Nachrichtenagentur
-Der Iran will den Pride Match während der Fussball-WM in den USA verhindern. «Wir haben keinerlei Interesse, dass unser drittes WM-Spiel im Zeichen der Regenbogenfarben ausgetragen wird. Wir wollen das unb... [weiterlesen](https://www.blick.ch/sport/fussball/wm/haben-keinerlei-interesse-iran-will-pride-spiel-bei-wm-unbedingt-verhindern-id21547724.html)
+Das US-Militär hat nach Angaben von Präsident Donald Trump (79) an Weihnachten tödliche Angriffe auf Kämpfer der Terrormiliz Islamischer Staat (IS) in Nigeria verübt, die Christen ermordet haben sollen. Di... [weiterlesen](https://www.blick.ch/ausland/an-weihnachten-trump-meldet-toedliche-us-angriffe-auf-is-terroristen-in-nigeria-id21548571.html)
 
-> Relevance score: [4] - Iran’s opposition to LGBTQ‑focused displays during a World Cup match reflects ongoing cultural‑political tensions. Relevant for human‑rights discourse but limited to a single sporting event and does not alter policy.
+> Relevance score: [5] - US military strikes against IS in Nigeria touch on international security and counter‑terrorism. The action is notable but limited in scale and does not represent a major shift in global policy; relevance to Swiss readers is peripheral.
 
-## Epstein: Mehr als eine Million neue Dokumente aufgetaucht
+## Alzheimer-Forschung: Semaglutid-Studie scheitert, Insulinresistenz bleibt Risiko
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/fall-epstein-mehr-als-eine-million-neue-dokumente-aufgetaucht) • _Donnerstag, 25. Dezember 2025, 10:33 Uhr_
+[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/alzheimer-forschung-semaglutid-studie-scheitert-insulinresistenz-bleibt/68434598) • _Donnerstag, 25. Dezember 2025, 19:01 Uhr_
 
-Das US-Justizministerium hat die Entdeckung von mehr als einer Million möglicher Epstein-Dokumente bekanntgemacht.
+Die EVOKE-Studien mit Semaglutid konnten den kognitiven Abbau bei Alzheimer nicht verlangsamen. Neue Forschungsergebnisse zeigen jedoch, dass Insulinresistenz den geistigen Verfall massiv beschleunigt.
 
-Das US-Justizministerium hat die Entdeckung von mehr als einer Million Dokumenten, welche möglicherweise mit dem Epstein-Fall zusammenhängen, bekanntgemacht.
-Die Bundespolizei FBI und Staatsanwaltschaft in New York (Southern District) hätten das Mini... [weiterlesen](https://www.srf.ch/news/international/fall-epstein-mehr-als-eine-million-neue-dokumente-aufgetaucht)
+Die großen EVOKE-Studien mit dem Diabetes-Mittel Semaglutid sind bei Alzheimer gescheitert. Das teilte der Hersteller Novo Nordisk Ende November mit. Trotz dieser Enttäuschung bestätigen neue Daten: Eine Insulinresistenz im Gehirn beschleunigt den ge... [weiterlesen](https://www.ad-hoc-news.de/boerse/news/ueberblick/alzheimer-forschung-semaglutid-studie-scheitert-insulinresistenz-bleibt/68434598)
 
-> Relevance score: [3] - Discovery of additional documents in the U.S. Epstein case may affect ongoing investigations and public perception of elite misconduct. Primarily U.S. judicial matter with limited immediate global impact.
+> Relevance score: [5] - The failure of a major semaglutide trial informs the global Alzheimer‑research agenda and may redirect funding toward metabolic pathways. Important for medical science but does not immediately affect policy or patient care at scale.
 
-## Mann Franz Grüter hört bei Green auf
+## Wohnungsnot in Zürich: Studierende setzen auf Swipes
 
-[Blick](https://www.blick.ch/politik/svp-grueter-gibt-lebenswerk-ab-wer-nicht-selbst-etwas-aufgebaut-hat-kann-kaum-nachvollziehen-wie-emotional-so-ein-abschied-ist-id21546217.html) • _Donnerstag, 25. Dezember 2025, 10:08 Uhr_
+[20 Min](https://www.20min.ch/story/wohnungsnot-in-zuerich-studierende-setzen-auf-swipes-103458009) • _Donnerstag, 25. Dezember 2025, 20:47 Uhr_
 
-Wie ist es, loszulassen? SVP-Nationalrat Franz Grüter (62) trat als Verwaltungsratspräsident von Green.ch zurück. Während 30 Jahren in der Internetbranche hat er einen grossen Wandel erlebt. Blick hat ihn getroffen.
+Zwar löst Swiftliving den Wohnungsmangel nicht, doch der Bewerbungsprozess wird deutlich vereinfacht.
 
-Tobias BruggmannRedaktor Politik
-SVP-Nationalrat Franz Grüter (62) setzte vor 30 Jahren alles auf eine Karte. «Als wir unsere Firma gegründet haben, blieben mir noch 500 Franken auf dem Konto», sagt er im Gespräch mit Blick. In einer Zeit, in der ein... [weiterlesen](https://www.blick.ch/politik/svp-grueter-gibt-lebenswerk-ab-wer-nicht-selbst-etwas-aufgebaut-hat-kann-kaum-nachvollziehen-wie-emotional-so-ein-abschied-ist-id21546217.html)
+Links wischen für «kein Interesse», rechts für ein Like – das schnelle Prinzip der Dating-Apps kennen alle. Jetzt gibt es dieses Konzept auch für den Wohnungsmarkt: Die neue App Swiftliving soll es ermöglichen, mit Swipen, Liken und Scrollen das pass... [weiterlesen](https://www.20min.ch/story/wohnungsnot-in-zuerich-studierende-setzen-auf-swipes-103458009)
 
-> Relevance score: [3] - Resignation of a Swiss politician from a corporate board is a modest political development, with little effect on national policy or the broader economy.
+> Relevance score: [4] - Introduces a tech‑based solution to Zurich’s housing shortage, a concrete issue for students and young residents. The initiative could ease a local problem if adopted widely, but its impact remains limited to a specific market segment.
 
-## Sony will Games gern in Echtzeit zensieren und die KI
+## Samsung setzt neue Maßstäbe im Gaming-Monitor-Segment
 
-[jpgames.de](https://jpgames.de/2025/12/sony-will-games-gern-in-echtzeit-zensieren-und-die-ki-technologie-dazu-ist-schon-patentiert/) • _Donnerstag, 25. Dezember 2025, 13:55 Uhr_
+[it boltwise](https://www.it-boltwise.de/samsung-setzt-neue-massstaebe-im-gaming-monitor-segment.html) • _Donnerstag, 25. Dezember 2025, 18:42 Uhr_
 
-Ein neues Patent offenbart, dass Sony an einer KI-Technologie arbeitet, um Spiele in Echtzeit altersgerecht zu zensieren und Spielszenen ...
+Samsung präsentiert auf der CES 2026 neue Odyssey-Gaming-Monitore mit 6K-Auflösung, brillenfreiem 3D und über 1.000 Hz Bildwiederholrate.
 
-Ein neues Patent offenbart, dass Sony an einer KI-Technologie arbeitet, um Spiele in Echtzeit altersgerecht zu zensieren und Spielszenen damit „kindgerecht“ zu machen. Dabei sollen die Funktionen ziemlich umfangreich ausfallen.
-Retro Handhelds entdec... [weiterlesen](https://jpgames.de/2025/12/sony-will-games-gern-in-echtzeit-zensieren-und-die-ki-technologie-dazu-ist-schon-patentiert/)
+LAS VEGAS / LONDON (IT BOLTWISE) – Samsung präsentiert auf der CES 2026 seine neuesten Gaming-Monitore, die mit beeindruckenden technischen Spezifikationen aufwarten. Die neuen Modelle der Odyssey-Reihe bieten eine 6K-Auflösung, brillenfreies 3D und ... [weiterlesen](https://www.it-boltwise.de/samsung-setzt-neue-massstaebe-im-gaming-monitor-segment.html)
 
-> Relevance score: [2] - Technology patent for real‑time game content moderation. Primarily an entertainment/industry development with limited societal impact and no immediate policy relevance.
+> Relevance score: [2] - Announcement of high‑end consumer gaming monitors at CES is primarily a product launch with limited societal relevance; it does not influence economic, political or health structures.
 
-## Durchfahrtskontrollen: Birsfelden zeigt erste Zahlen
+## Exklusiv: Charlotte Baret spricht offen über postpartale Depression nach Geburt
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/umstrittene-verkehrsregel-erfolg-und-chaos-29-000-bussen-in-birsfelden-zeigen-wirkung) • _Donnerstag, 25. Dezember 2025, 11:41 Uhr_
+[20 Min](https://www.20min.ch/story/postpartale-depression-bachmann-ehefrau-baret-ich-schaemte-mich-um-hilfe-zu-bitten-103474374) • _Freitag, 26. Dezember 2025, 04:28 Uhr_
 
-Die Gemeinde ist mit dem Verkehrssystem grundsätzlich zufrieden. Sie will aber noch weniger Autos in den Quartieren.
+Die Frau von Nati-Star Ramona Bachmann spricht offen über ihre Herausforderungen und den Weg zur Besserung.
 
-Die Durchfahrtskontrollen in Birsfelden BL zeigen Wirkung: «Der Verkehr auf den Quartierstrassen hat sich im Durchschnitt um 25 Prozent reduziert», sagt Gemeinderätin Desirée Jaun. Sie nennt damit erstmals Zahlen, wie stark sich der Verkehr verringer... [weiterlesen](https://www.srf.ch/news/schweiz/umstrittene-verkehrsregel-erfolg-und-chaos-29-000-bussen-in-birsfelden-zeigen-wirkung)
+Nati-Star Ramona Bachmann und ihre Ehefrau Charlotte Baret erleben trotz der Geburt von Sohn Luan schwierige Zeiten. Während Bachmann an ihrem Comeback arbeitet, offenbarte Ehefrau Charlotte in einem Instagram-Post, dass sie an einer postpartalen Dep... [weiterlesen](https://www.20min.ch/story/postpartale-depression-bachmann-ehefrau-baret-ich-schaemte-mich-um-hilfe-zu-bitten-103474374)
 
-> Relevance score: [2] - Local traffic‑reduction measures in a Swiss municipality. Useful for municipal planning but limited to a small population; no broader national significance.
+> Relevance score: [1] - Personal disclosure by a sports‑celebrity’s partner. While it may raise awareness of postpartum depression, it is a private story without direct civic or structural impact in Switzerland or globally.
 
 
 </details>
