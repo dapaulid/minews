@@ -2,309 +2,180 @@
 
 ---
 
-_Aktualisiert: Montag, 29. Dezember 2026, 06:33 Uhr_
+_Aktualisiert: Montag, 29. Dezember 2026, 18:22 Uhr_
 
-## Initiative: Wirtschaft warnt vor hohen Kosten für Haushalte
+## China beginnt neue Militärübung rund um Taiwan
 
-[20 Min](https://www.20min.ch/story/geld-fuer-oev-umwelt-3-000-franken-pro-haushalt-finanzierungs-zoff-um-klimafonds-103476840) • _Sonntag, 28. Dezember 2025, 18:15 Uhr_
+[Watson](https://www.watson.ch/international/china/890732291-china-beginnt-neue-militaeruebung-rund-um-taiwan) • _Montag, 29. Dezember 2026, 03:39 Uhr_
 
-Ein Ja zur Klimafonds-Initiative im März könnte Haushalte bis zu 3'000 Franken kosten, warnt die Wirtschaft. Die Initianten sehen langfristige Vorteile.
+China hat erneut eine grossangelegte Militärübung rund um Taiwan begonnen.
 
-### Hintergrund der Klimafonds‑Initiative
-- Ziel ist ein **Staatsfonds** für:
-  - Ausbau erneuerbarer Energien  
-  - Gebäudesanierungen  
-  - Ausbau des öffentlichen Verkehrs (ÖV)  
-  - Erhalt der Biodiversität  
-- Finanzbedarf: jährlich **0,5 % bis 1 % des Bruttoinlandsprodukts** (etwa **3,9 – 7,8 Mrd. CHF** laut Bundesrat, Initianten schätzen etwas niedriger).  
-- Der Fonds soll **außerhalb des Bundeshaushalts** und **außerhalb der Schuldenbremse** geführt werden.  
-- Trägt die Initiative von der **[Sozialdemokratischen Partei der Schweiz](https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_der_Schweiz)**, den **[Grünen (Schweiz)](https://de.wikipedia.org/wiki/Grüne_(Schweiz))**, den **[Schweizerischen Gewerkschaftsbund](https://de.wikipedia.org/wiki/Schweizerischer_Gewerkschaftsbund)** und weiteren linken Organisationen.
+### Hintergrund und Beginn der Übung
+- Die Volksrepublik **[China](https://en.wikipedia.org/wiki/China)** hat das groß angelegte Manöver **„Mission Gerechtigkeit 2025“** gestartet, das sich auf Luft‑ und Seegebiete rund um **[Taiwan](https://en.wikipedia.org/wiki/Taiwan)** konzentriert.  
+- Die Ankündigung stammt von der staatlichen Nachrichtenagentur **[Xinhua](https://en.wikipedia.org/wiki/Xinhua_News)**, die das chinesische Militär zitierte.  
 
-### Finanzierungsdebatte
-- **Economiesuisse** (Wirtschaftsdachverband) warnt, dass die Initiative zu **Kosten von bis zu 3 000 CHF pro Haushalt** führen könnte.  
-- Ihr Leiter für Standortpolitik, **[Alexander Keberle](https://de.wikipedia.org/wiki/Economiesuisse)**, argumentiert:
-  - Langfristige Bereitstellung von **5 – 10 Mrd. CHF/Jahr** erfordere entweder radikale Ausgabenkürzungen (dreimal das aktuelle Sparpaket) oder **Steuererhöhungen**.  
-  - Beispiel: Erhöhung der direkten Bundessteuern um durchschnittlich bis zu **3 000 CHF pro Haushalt**.  
-  - Diese Kosten seien **doppelt so hoch** wie bei der **[Juso‑Initiative](https://de.wikipedia.org/wiki/Juso)** (Erbschaftssteuerinitiative).  
-- Keberle kritisiert, dass die Initianten „Versprechen machen, ohne die Kosten transparent aufzuzeigen“.
+### Details der Militärmanövre
+- Ziel der Übungen:
+  - Patrouillen zur Gefechtsbereitschaft  
+  - Erlangung umfassender Überlegenheit  
+  - Blockade wichtiger Häfen und Gebiete  
+- Ein Sprecher bezeichnete die Aktionen als „ernste Warnung“ an „separatistische“ Kräfte und als „legitime und notwendige“ Maßnahme zur Wahrung der chinesischen Souveränität und nationalen Einheit.  
+- Zusätzlich angekündigt:
+  - Schießübungen ab Dienstag in **fünf ausgewiesenen Zonen** rund um Taiwan  
+    - Unbeteiligte Schiffe und Flugzeuge sollen diese Zonen meiden (aufzählung in Unterpunkten).  
 
-### Position der Initianten
-- **Roland Fischer** (ehemaliger GLP‑Nationalrat, Mitglied im Initiativkomitee) widerspricht Economiesuisse und betont:  
-  - Die Initiative sei **außerhalb der Schuldenbremse** und müsse nicht durch neue Steuern oder Sparmaßnahmen finanziert werden.  
-  - Öffentliche Investitionen, die **langfristigen Nutzen** stiften, seien historisch belegt (z. B. **[Gotthardtunnel](https://de.wikipedia.org/wiki/Gotthardtunnel)** oder große Staudämme).  
-- **[Elisabeth Baume‑Schneider](https://de.wikipedia.org/wiki/Elisabeth_Baume-Schneider)**, Bundesrätin (SP), sitzt ebenfalls im Komitee, erklärt jedoch nicht detailliert die Finanzierungsstrategie.  
+### Reaktionen und geopolitische Spannungen
+- Der Schritt erfolgt nach erhöhter Spannung mit den **[Vereinigten Staaten](https://en.wikipedia.org/wiki/United_States)**, die ein umfangreiches Waffenpaket für Taiwan angekündigt haben.  
+- Es sind die ersten größeren chinesischen Militärübungen vor Taiwan seit April.  
+- Die Volksbefreiungsarmee (**[PLA](https://en.wikipedia.org/wiki/People%27s_Liberation_Army)**) führt regelmäßig Manöver in der Region mit Kriegsschiffen und Militärflugzeugen durch.  
 
-### Politischer Kontext der Abstimmung
-- Am **8. März** entscheidet die Stimmbevölkerung über vier Vorlagen:  
-  1. **Klimafonds‑Initiative**  
-  2. **SRG‑Halbierungsinitiative**  
-  3. **Individualbesteuerungsinitiative**  
-  4. **Bargeld‑Initiative**  
-- Die Diskussion um die Kosten wird voraussichtlich in den kommenden Wochen weiter dominieren.  
+### Taiwans Reaktion
+- Taiwan verurteilte die Manöver scharf und sprach von einer Untergrabung von Sicherheit und Stabilität in der Region.  
+- Die taiwanische Regierung betonte, dass das Vorgehen Chinas eine offene Herausforderung für internationales Recht und die internationale Ordnung darstelle.  
+- Das Präsidialamt informierte, dass die taiwanischen Streitkräfte und Sicherheitsbehörden umfassend über die Lage informiert und vorbereitet seien.  
 
-### Medienhinweis
-- Der Artikel stammt von **20 Minutes**, das sich laut eigenen Leitlinien um eine **ideologiefreie, faktenbasierte Berichterstattung** bemüht.
+> Relevance score: [8] - A large‑scale Chinese military exercise near Taiwan is a major geopolitical development with significant implications for regional security, global supply chains, and international diplomatic dynamics.
 
-> Relevance score: [8] - National climate‑fund initiative could raise household costs by up to CHF 3'000, affecting a large portion of the population and shaping long‑term fiscal and environmental policy.
+## Hoffnung auf Friedenslösung in der Ukraine
 
-## Schweiz schiebt kriminellen Afghanen ab
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/selenski-trifft-trump-hoffnung-auf-friedensloesung-in-der-ukraine-ld.1918201) • _Sonntag, 28. Dezember 2025, 21:51 Uhr_
 
-[Blick](https://www.blick.ch/politik/zurueck-ins-taliban-regime-schweiz-schiebt-kriminellen-afghanen-ab-id21549698.html) • _Sonntag, 28. Dezember 2025, 11:36 Uhr_
+Der ukrainische Präsident hatte auf den Gipfel in Mar-a-Lago gedrängt. Trump erklärte im Anschluss, einem Frieden «viel näher» zu sein.
 
-Die Schweiz hat einen weiteren kriminellen Afghanen ausgeschafft. Nach Syrien hingegen fand noch keine Rückführung statt.
+### Hintergrund und Vorgeschichte
+- Anfang 2025 setzte **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** den ukrainischen Präsidenten **[Wolodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy)** nach einem Streit im Oval Office vor die Tür.  
+- Ende 2025 drängte Zelenskyy auf ein weiteres Treffen, diesmal auf Trumps Anwesen **[Mar‑a‑Lago](https://en.wikipedia.org/wiki/Mar-a-Lago)** in Palm Beach.
 
-### Aktuelle Abschiebungen nach Afghanistan
-- Das [Staatssekretariat für Migration (SEM)](https://de.wikipedia.org/wiki/Staatssekretariat_f%C3%BCr_Migration) hat seit über einem Jahr rund **20 rechtskräftig verurteilte Afghan:innen** zur Ausreise aufgefordert; ein Betroffener wurde im Dezember ausgewiesen.  
-- **Herausforderung:** Die Schweiz hat keine offiziellen diplomatischen Beziehungen zum [Taliban](https://de.wikipedia.org/wiki/Taliban)-Regime in [Kabul](https://de.wikipedia.org/wiki/Kabul), sodass die Organisation der Abschiebungen schwierig ist.  
-- **Fehlgeschlagener Versuch 2023:** Ein Verurteilter wurde von [Zürich](https://de.wikipedia.org/wiki/Z%C3%BCrich) über [Istanbul](https://de.wikipedia.org/wiki/Istanbul) nach Kabul geflogen, aber die Taliban verweigerten die Einreise, sodass er nach Schweiz zurückkehrte.
+### Treffen in Mar‑a‑Lago
+- Das erste private Treffen beider Staatschefs fand am Sonntag im Speisesaal von Mar‑a‑Lago statt, Medien waren ausschließlich für kurze Statements zugelassen.  
+- Vor dem Gespräch erklärte Trump:  
+  - „Wir haben alles, was es für einen Deal braucht.“  
+  - Beide Präsidenten wolle „eine Einigung erzielen“ und der Krieg müsse „endlich enden“.  
+- Zelenskyy betonte, dass **90 %** des von Ukraine und den USA entwickelten **20‑Punkte‑Friedensplans** bereits fertig seien.
 
-### Verhandlungen mit dem Taliban‑Regime
-- Im August trafen sich **vier Taliban‑Vertreter in [Genf](https://de.wikipedia.org/wiki/Genf)**, um zukünftige Abschiebungen zu koordinieren.  
-- Während dieses Treffens identifizierten die Taliban **12 weitere afghanische Straftäter**.  
-- Die Reisekosten für die Taliban‑Delegation wurden von der Schweiz übernommen.  
-- Das SEM geht davon aus, dass die verbleibenden Verurteilten **bald ausgewiesen werden** können.
+### Aussagen und Positionen der Gesprächspartner
+- **Trump**  
+  - sprach nur über die „großen wirtschaftlichen Vorteile“ eines Friedens für die Ukraine.  
+  - wies Fragen zu Sicherheitsgarantien als „dumm“ zurück, versprach jedoch ein „starkes Abkommen“, bei dem europäische Nationen stark beteiligt seien.  
+  - ignorierte die jüngste russische Angriffswelle und verwies auf Explosionen in Russland, die nicht vom Kongo stammten.  
+- **Zelenskyy**  
+  - hob Fortschritte bei Sicherheitsgarantien hervor, nannte eine **95 %**‑ige Übereinkunft mit den USA.  
+  - gab keine konkreten Details zu möglichen Gebietsabtrekkungen, erwähnte jedoch das umstrittene Gebiet **[Donezk](https://en.wikipedia.org/wiki/Donetsk_Oblast)** (etwa 25 % der Region, Größe eines Kantons Bern).  
+  - sprach von Fortschritten bei einer geplanten demilitarisierten Zone.
 
-### Rückführungen nach Syrien
-- Parallel diskutiert das SEM die Abschiebung krimineller Syrer:innen.  
-- **Österreich** hat bereits im Juli einen Straftäter nach Syrien deportiert; **Deutschland** begann diese Woche mit Abschiebungen nach [Damaskus](https://de.wikipedia.org/wiki/Damaskus).  
-- Ein in Deutschland verurteilter Syrer wegen schwerer Raubdelikte, Körperverletzung und Erpressung wurde am Dienstag nach Damaskus abgeschoben.  
-- Der deutsche Innenminister **[Alexander Dobrindt](https://de.wikipedia.org/wiki/Alexander_Dobrindt)** betonte das Interesse der Gesellschaft an konsequenten Rückführungen.
+### Fortschritte im Friedensplan
+- Beide Seiten betonten, dass sie „viel näher an einem Frieden“ seien.  
+- Konkrete Ergebnisse blieben vage:  
+  - Sicherheitsgarantien für die Ukraine wurden als nahezu abgeschlossen dargestellt.  
+  - Diskussionen über die Zukunft von Donezk und mögliche territoriale Kompromisse wurden nur als „schwieriges Thema“ bezeichnet, ohne Details.  
+- Der Vorschlag, das von Russland besetzte **[Zaporizhzhia‑Kernkraftwerk](https://en.wikipedia.org/wiki/Zaporizhzhia_Nuclear_Power_Plant)** nicht zu bombardieren, wurde von Trump als „großer Schritt“ dargestellt; Putin soll zudem beim Wiederaufbau der Ukraine helfen, was Zelenskyy nicht kommentierte.
 
-### Politische Reaktionen in der Schweiz
-- Das SEM weist darauf hin, dass **die Kantone für den Vollzug von Wegweisungen zuständig sind** und bislang keine Zwangsrückführungen nach Syrien durchgeführt wurden; dennoch stehe man in Kontakt mit syrischen Behörden und prüfe alle Optionen.  
-- Der Luzerner Ständerat **[Damian Müller](https://de.wikipedia.org/wiki/Damian_M%C3%BCller)** (FDP) fordert von Bund und Kantonen mehr Tempo und Druck:  
-  - „Wenn Deutschland nach Syrien rückführen kann, kann die Schweiz das auch.“  
-  - Er erwartet ein schnelles Handeln statt bloßer Diskussionen.  
+### Weitere diplomatische Entwicklungen
+- Vor dem Florida‑Treffen telefonierte Trump mit **[Wladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)** und bezeichnete das Gespräch als „sehr gut und sehr produktiv“.  
+- Zelenskyy hatte auf X (ehemals Twitter) angekündigt, „bis zum Jahreswechsel viel entscheiden zu können“ und sah die diplomatische Dynamik als besonders aktiv.  
+- Trump betonte, dass Zelenskyy erst handeln könne, „wenn ich es genehmige“, und stellte klar, dass er die Bedingungen des Friedensplans prüfen werde.
 
-> Relevance score: [7] - National immigration/deportation policy debate, touching on legal, security and human‑rights dimensions within Switzerland.
+### Militärische Lage (Stand Ende 2025)
+- An der 1 200 km langen Frontlinie stagniert das Geschehen:  
+  - Russische Truppen erzielen nur langsame Vorstöße.  
+  **[Russische](https://en.wikipedia.org/wiki/Russia)** Angriffe auf zivile Ziele haben zugenommen.  
+  - Die Ukraine greift zunehmend Energie‑ und Militäreinrichtungen tief im russischen Hinterland an.  
 
-## Sonntagsnews: ABB und Stadler schüren Zweifel an Siemens-Zügen
+*Der Artikel verdeutlicht, dass trotz optimistischer Rhetorik während des Treffens in Mar‑a‑Lago konkrete Fortschritte im Friedensprozess noch ausstehen und die militärische Situation auf dem Schlachtfeld unverändert angespannt bleibt.*
 
-[Watson](https://www.watson.ch/563429360-sonntagsnews-abb-und-stadler-schueren-zweifel-an-siemens-zuegen) • _Sonntag, 28. Dezember 2025, 06:55 Uhr_
+> Relevance score: [6] - Talks involving the US president and Ukraine’s leader touch on the ongoing war, a major global security issue. While the specific meeting’s outcome is uncertain, it bears considerable relevance for European security and humanitarian concerns.
 
-Sonntagsnews: ABB und Stadler schüren Zweifel anSiemens-Zügen für die Schweiz
+## Sicherheitsgarantien für die Ukraine im Fokus
 
-### Abschiebungen von Straftätern  
-- Die Schweiz plant, **rund 20 rechtskräftig verurteilte [Afghanen](https://en.wikipedia.org/wiki/Afghans)** nach [Afghanistan](https://en.wikipedia.org/wiki/Afghanistan) abzuschieben; ein Fall wurde bereits Mitte Dezember durchgeführt.  
-- Parallel wird über Rückführungen von **[Syrern](https://en.wikipedia.org/wiki/Syrians)** nach [Syrien](https://en.wikipedia.org/wiki/Syria) diskutiert – bislang ohne Erfolg, im Gegensatz zu [Österreich](https://en.wikipedia.org/wiki/Austria) und [Deutschland](https://en.wikipedia.org/wiki/Germany).  
-- Der FDP‑Ständerat **Damian Müller** fordert ein schnelleres Vorgehen und verweist auf die jüngsten Abschiebungen Deutschlands.
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/selenski-trifft-trump-die-ukraine-draengt-auf-sicherheitsgarantien-und-luftabwehr-ld.1918188) • _Sonntag, 28. Dezember 2025, 19:41 Uhr_
 
-### Wirtschaft & Politik auf internationaler Ebene  
-- **[Guy Parmelin](https://en.wikipedia.org/wiki/Guy_Parmelin)**, Schweizer Wirtschaftsminister, wird voraussichtlich beim **[World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum)** in Davos mit **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** sprechen, jedoch ohne formelle Verhandlungen.  
-- Parmelin betont die Bereitschaft, ein verbindliches Zollabkommen mit den USA anzustreben, und verweist auf die schwierige geopolitische und wirtschaftliche Lage, die auch die Schweizer Pharmastandorte betrifft.  
-- Eine von Parmelin und **[Elizabeth Baume‑Schneider](https://en.wikipedia.org/wiki/Elizabeth_Baume-Schneider)** eingesetzte Arbeitsgruppe soll die Situation im Pharmasektor analysieren.
+Der ukrainische Präsident Wolodimir Selenski will dem amerikanischen Präsidenten Donald Trump erneut klarmachen, dass für Kiew eine Kapitulation und ein Diktatfrieden mit Moskau nicht infrage kommen.
 
-### UN‑Sitz in Genf  
-- **[Annalena Baerbock](https://en.wikipedia.org/wiki/Annalena_Baerbock)**, Präsidentin der **[UN‑Generalversammlung](https://en.wikipedia.org/wiki/United_Nations_General_Assembly)**, sieht keine Gefahr für den UN‑Standort **Genf** trotz geplanter Sparmaßnahmen.  
-- Sie argumentiert, dass Kosteneinsparungen in teureren Städten wie **New York** die Attraktivität von Genf, **Bonn** oder **Nairobi** erhöhen könnten, warnt jedoch vor Kürzungen in der Entwicklungszusammenarbeit.
+### Hintergrund des Treffens
+- **Ort & Zeitpunkt**: Am 28. Dezember 2025 traf der ukrainische Präsident **[Wolodymyr Selenskyi](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy)** den US‑Präsidenten **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** im Anwesen **[Mar‑a‑Lago](https://en.wikipedia.org/wiki/Mar-a-Lago)** (Florida).  
+- **Vorgeschichte**:  
+  - Selenskyi wollte Trump seine 20‑Punkte‑Friedensstrategie vorstellen, die am Heiligabend präsentiert wurde.  
+  - Vor dem Treffen telefonierte Trump mit **[Wladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin)**, was er als „gut und sehr produktiv“ bezeichnete.  
 
-### Einsparungen bei Skyguide  
-- Der Schweizer Flugsicherungs‑Dienst **[Skyguide](https://en.wikipedia.org/wiki/Skyguide)** plant für das nächste Jahr **24 Millionen CHF** einzusparen.  
-- Maßnahmen umfassen:  
-  - **Halbierung** der Reisespesen.  
-  - Abschaffung externer Tagungsorte.  
-  - Streichung des Betriebsausflugs zur **Airspace‑Messe** in Lissabon.  
-- Erste Einsparungen von **2,5–3 Millionen CHF** werden erwartet; mögliche Entlassungen werden nicht ausgeschlossen.
+### Zentrale Verhandlungsinhalte
+- **Sicherheitsgarantien**  
+  - Fokus auf ein starkes Sicherheitsabkommen zwischen den USA und der Ukraine.  
+  - Zelenskyi fordert, dass westliche Sanktionen und politischer Druck auf **[Russland](https://en.wikipedia.org/wiki/Russia)** nicht gelockert werden, solange die Angriffe fortbestehen.  
+- **Energie & Nuklearkraft**  
+  - Schutz des **[Zaporizhzhia‑Kernkraftwerks](https://en.wikipedia.org/wiki/Zaporizhzhia_Nuclear_Power_Plant)** (Saporischja) als kritischer Punkt.  
+- **Territoriale Fragen**  
+  - Diskussion über mögliche Gebietsabtretungen, insbesondere im Gebiet **Donetsk** (Teil des **[Donbas](https://en.wikipedia.org/wiki/Donbas)**).  
+  - Zelenskyi stellt klar, dass er keine Abtretungen von von Russland nicht kontrollierten Teilen Donbeks akzeptiert, bietet jedoch Kompromissvorschläge an.  
+- **Wiederaufbau & Wirtschaft**  
+  - Ukraine soll „große wirtschaftliche Vorteile“ aus etwaigen Gebietsabkommen ziehen.  
+- **Luftabwehr**  
+  - Dringender Bedarf an zusätzlicher Luftverteidigung gegen Drohnen, Gleitbomben und Raketen, die die ukrainische Energieversorgung bedrohen.  
 
-### Neu‑neonazistische Aktivitäten in Mailand  
-- Das Netzwerk der gewaltbereiten **[Hammerskins](https://en.wikipedia.org/wiki/Hammerskin_Nation)** traf sich am 15. November nahe Mailand zu einem „European Officers Meeting“.  
-- Mindestens ein Dutzend Teilnehmer kamen aus der Schweiz; weitere Schweizer Neonazis organisierten ein parallel stattfindendes Hass‑Konzert.  
-- Schweizer Akteure stellten Banner auf der Bühne, übernahmen Sicherheitsaufgaben und betrieben Verkaufsstände.
+### Aussagen der Beteiligten
+- **Donald Trump**  
+  - Betonte das „zu viele Tote“-Problem und sein Interesse an einem „starken Sicherheitsabkommen“, gab jedoch keine konkreten Fristen an.  
+  - Hinweis, dass noch „heikle Fragen“ zu Territorien geklärt werden müssen.  
+- **Wolodymyr Selenskyi**  
+  - Erwies Fortschritte im Dialog, kündigte an, dass US‑ und ukrainische Teams nächste Woche zusammenkommen, um Details zu besprechen.  
+  - Unterstrich seine „roten Linien“ und lehnte grundlegende Gebietsabtretungen ab.  
+- **Wladimir Putin**  
+  - Präsenz in Uniform, betonte mögliche militärische Eingliederung des Donbass und drohte, Ziele „mit Waffengewalt“ zu erreichen.  
+  - Beschuldigte Zelenskyi, kein Interesse an Frieden zu haben.  
 
-### Zweifel an Siemens‑Zügen für Zürich  
-- Nach der Vergabe des **2,1‑Milliarden‑CHF‑Auftrags** für neue **Zürcher S‑Bahn‑Züge** an **[Siemens](https://en.wikipedia.org/wiki/Siemens)** äußern **[ABB](https://en.wikipedia.org/wiki/ABB)** und **[Stadler Rail](https://en.wikipedia.org/wiki/Stadler_Rail)** Bedenken:  
-  - Der geplante **[Siliziumkarbid](https://en.wikipedia.org/wiki/Silicon_carbide)**‑Antrieb sei energieeffizient und leise, aber im dichten europäischen S‑Bahn‑Verkehr kaum erprobt.  
-  - **Edgar Keller**, ehemaliger Leiter der ABB‑Traction‑Sparte, warnt vor Risiken im dichten Zürcher Netz.  
-  - ABB setzt auf weiterentwickelte **[IGBT](https://en.wikipedia.org/wiki/Insulated_gate_bipolar_transistor)**‑Technologie, die mit SiC konkurrieren könne.  
-  - **Stadler** betont, dass ihr Angebot auf seit 2012 bewährten Doppelstockzügen basiert.  
-- Die **[SBB](https://en.wikipedia.org/wiki/Swiss_Federal_Railways)** hat die Vorwürfe zurückgewiesen, kann jedoch wegen des laufenden Beschwerdeverfahrens nicht detailliert reagieren.
+### Ergebnisse und offene Fragen
+- **Kurzfristiger Ausblick**:  
+  - Beide Präsidenten signalisierten, dass ein Sicherheitsabkommen „kurz bevorsteht“, doch konkrete Details fehlen.  
+- **Offene Punkte**:  
+  - Territoriale Kompromisse im Donbas bleiben ungeklärt.  
+  - Keine verbindlichen Zusagen zu zusätzlichen Luftabwehrsystemen oder konkreten Sicherheitsgarantien von den USA bzw. europäischen Partnern.  
+- **Politische Implikationen**:  
+  - Zelenskyi muss mögliche Zugeständnisse vor seinem Volk rechtfertigen; seine Amtszeit wurde 2024 wegen Kriegsrecht verlängert.  
+  - Trump steht unter innenpolitischem Druck, schnelle Erfolge zu präsentieren.  
 
-### Parmelin und seine Blumenfotos  
-- Laut **[Le Matin Dimanche](https://en.wikipedia.org/wiki/Le_Matin_Dimanche)** besitzt Bundespräsident **Guy Parmelin** fast **600 Fotos** von Blumensträußen aus dem **Bundesratssaal** auf seinem Handy.  
-- Parmelin sammelt die Bilder seit neun Jahren, um die Arbeit der Floristinnen zu würdigen; ein Fotobuch wird eventuell daraus entstehen.
+### Weiterer Kontext
+- **Internationale Reaktionen**:  
+  - Die EU‑Verbündeten sollen nach dem Treffen von Zelenskyi konsultiert werden.  
+  - Russland hält an seinen Maximalforderungen fest und hofft, dass die Ukraine und ihre Unterstützer kriegsmüde werden.  
+- **Zukünftige Schritte**:  
+  - Geplante Gespräche der US‑ und ukrainischen Teams in der kommenden Woche.  
+  - Beobachtung, ob die USA eine harte Linie gegenüber Russland beibehalten oder einen schnellen Waffenstillstand anstreben.  
 
-> Relevance score: [7] - Issues concerning major Swiss industrial firms (ABB, Stadler) and national rail procurement; significant for Swiss transport policy and industry.
-
-## Konkurs bei Prime Energy: Anleger verlieren bis zu 80 Prozent ihrer Gelder
-
-[20 Min](https://www.20min.ch/story/solarfirma-am-ende-piccard-als-posterboy-glaeubiger-verlieren-bei-konkurs-fast-alles-103476878) • _Sonntag, 28. Dezember 2025, 15:36 Uhr_
-
-Die Insolvenz von Prime Energy bringt Anleger ins Zittern. Bertrand Piccard sieht sich als doppeltes Opfer.
-
-### Hintergrund & Konkurs
-- Der Solaranlagenbauer **Prime Energy** aus Genf meldete 2024 Insolvenz an.  
-- Laut Schätzung des Konkursverwalters sind **60 %–80 %** der eingezahlten Gelder verloren, das entspricht **über 120 Millionen CHF**.  
-- Das Geld stammte vor allem aus der Romandie und wurde von **ca. 2 000 privaten Investoren** eingesammelt.
-
-### Ermittlungen & Beschuldigte
-- **Laurin Fäh** (Firmengründer und Hauptaktionär) und sein früherer Manager **Khalid Belgmimi** sitzen seit September in Untersuchungshaft.  
-- Die Staatsanwaltschaft wirft ihnen unter anderem **Veruntreuung**, **Betrug** und **ungetreue Geschäftsführung** vor (Unschuldsvermutung gilt bis rechtskräftiger Verurteilung).  
-- Aussagen der Beschuldigten:
-  - Belgmimi bezeichnet sich als reinen Verkäufer und distanziert sich von der Buchhaltung.  
-  - Fäh erklärt: *„Wenn ich das Geld erhalten habe, dann ist es mein Geld, und ich mache damit, was ich will.“*  
-
-### Finanzielle Verwendung der Mittel
-- Die eingeworbenen Gelder wurden nicht nur in **Solaranlagen**, sondern auch in:
-  - **Immobilien**  
-  - Eine **Herstellerin von Medizinal‑Cannabis**  
-- Fäh behauptet, Investoren hätten die Lage verstanden, wenn man sie „gut erklärt“ hätte.
-
-### Rolle von **Bertrand Piccard**  
-- Der Ballonfahrer und Solarflugpionier **[Bertrand Piccard](https://de.wikipedia.org/wiki/Bertrand_Piccard)** war über mehrere Jahre das Werbegesicht von Prime Energy („ein bisschen wie unser Roger Federer“).  
-- Piccard sieht sich als **doppeltes Opfer**:
-  - Er investierte selbst einen **sechsstelligen Betrag** in das Unternehmen.  
-  - Der angebliche Betrug habe seinen **guten Ruf beschädigt**.  
-- Er äußerte Empörung über die „viele Leute, die verschaukelt wurden“, räumte jedoch ein, sich **zu spät** über die finanzielle Lage von Prime Energy informiert zu haben.
-
-> Relevance score: [6] - Insolvency of a Swiss solar‑company affects investors and hints at risks in the domestic cleantech sector, but the fallout is limited to the financial sphere.
+> Relevance score: [6] - Discussion of security guarantees for Ukraine relates directly to the continuation of the conflict and the international security architecture, holding notable global importance though still contingent on diplomatic processes.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Fed: Überraschung bei Powell-Nachfolge - wird es Kevin Warsh?
+## Neuer Armeechef Benedikt Roos: Das denkt Bern über den altgedienten Soldaten
 
-[20 Min](https://www.20min.ch/story/us-notenbank-fed-kommt-es-bei-powell-nachfolger-zu-einer-ueberraschung-103476861) • _Sonntag, 28. Dezember 2025, 12:37 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/nachfolger-von-thomas-suessli-der-neue-armeechef-benedikt-roos-kommt-in-bern-schon-jetzt-gut-an) • _Montag, 29. Dezember 2026, 05:59 Uhr_
 
-Die Diskussion um die Fed-Nachfolge intensiviert sich. Kevin Warsh gilt nun als Favorit, während Kevin Hassett zurückfällt.
+Im neuen Jahr übernimmt der bislang weitgehend unbekannte Benedikt Roos von Thomas Süssli den Posten als Armeechef.
 
-Kommt es bei der Wahl des neuen Vorstehers der US-Notenbank Fed zu einer Überraschung? Zumindest laut der Genfer Privatbank Syz stehen die Chancen dafür nicht schlecht – demnach könnte Kevin Warsh im Mai 2026 die Nachfolge von Jerome Powell antreten ... [weiterlesen](https://www.20min.ch/story/us-notenbank-fed-kommt-es-bei-powell-nachfolger-zu-einer-ueberraschung-103476861)
+Anfang Jahr übernimmt nicht einfach ein neuer Armeechef, sondern offenbar Superman. Das ist der Eindruck aus Gesprächen mit Sicherheitspolitikerinnen und -politikern. Gerade bürgerliche Parteivertreter charakterisieren Benedikt Roos als besonnen, pra... [weiterlesen](https://www.srf.ch/news/schweiz/nachfolger-von-thomas-suessli-der-neue-armeechef-benedikt-roos-kommt-in-bern-schon-jetzt-gut-an)
 
-> Relevance score: [5] - Potential change in US monetary leadership can influence global financial markets, including Swiss banking and investment, but the effect is indirect.
+> Relevance score: [5] - The appointment of a new Swiss Chief of the Armed Forces is a national‑level institutional change. It influences defence leadership and policy continuity but does not entail immediate large‑scale societal or economic effects.
 
-## Neue Forschungsergebnisse - So trickreich verschaffen sich Grippeviren Zugang zum Körper
+## Politische Blockade - Regierungspartei gewinnt Neuwahlen im Kosovo mit klarem Abstand
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/gesellschaft/neue-forschungsergebnisse-so-trickreich-verschaffen-sich-grippeviren-zugang-zum-koerper) • _Sonntag, 28. Dezember 2025, 09:06 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/politische-blockade-regierungspartei-gewinnt-neuwahlen-im-kosovo-mit-klarem-abstand) • _Montag, 29. Dezember 2026, 03:58 Uhr_
 
-Ein internationales Team unter der Leitung der ETH Zürich kann den Infektionsweg von Viren genau und live verfolgen.
+Nach Auszählung von fast allen Wahllokalen kommt die sozialdemokratische Formation auf 49.4 Prozent der Stimmen.
 
-Meistens erwischt sie uns im Winter. Fieber, Gliederschmerzen, triefende Nase und der Wunsch, nie mehr vom Sofa aufzustehen – so oder ähnlich fühlt sich eine Grippe an.
-Über die Festtage liegen mindestens 2000 Menschen mit einer Grippe im Bett. Die s... [weiterlesen](https://www.srf.ch/news/gesellschaft/neue-forschungsergebnisse-so-trickreich-verschaffen-sich-grippeviren-zugang-zum-koerper)
+Bei den Parlamentswahlen im Kosovo hat die Partei Vetevendosje des amtierenden Ministerpräsidenten Albin Kurti klar gewonnen.
+Nach Auszählung von fast allen Wahllokalen kommt die sozialdemokratische Formation auf 49.4 Prozent der Stimmen, wie die sta... [weiterlesen](https://www.srf.ch/news/international/politische-blockade-regierungspartei-gewinnt-neuwahlen-im-kosovo-mit-klarem-abstand)
 
-> Relevance score: [5] - Research led by ETH Zürich, relevant for public health understanding and potentially Swiss health policy.
+> Relevance score: [3] - Kosovo’s election outcome may affect regional stability in the Balkans, but the direct implications for Swiss or global affairs are modest.
 
-## Sicherheitsrat tagt zu Israels Somaliland
+## Triebwerk von Boeing 737 Max abgeschaltet - durch Sonnenblende
 
-[20 Min](https://www.20min.ch/story/nach-protest-un-sicherheitsrat-tagt-zu-somaliland-anerkennung-durch-israel-103476815) • _Sonntag, 28. Dezember 2025, 10:58 Uhr_
+[aeroTELEGRAPH](https://www.aerotelegraph.com/sicherheit/triebwerk-von-boeing-737-max-abgeschaltet-durch-sonnenblende/jsfz8ef) • _Montag, 29. Dezember 2026, 05:03 Uhr_
 
-Nach der Anerkennung Somalilands durch Israel kommt der UN-Sicherheitsrat zu einer Dringlichkeitssitzung zusammen. Mehrere muslimische Länder sprechen von einem Völkerrechtsverstoss.
+Ein loses Teil im Cockpit hat bei einem Flug der Ryanair-Tochter zu einem ungewöhnlichen Zwischenfall geführt. Kurz nach dem Start schaltete sich bei der Boeing 737 Max 8 Max von Malta Air ein Triebwerk ab.
 
-Der UN-Sicherheitsrat kommt wegen Israels umstrittener Anerkennung der ostafrikanischen Republik Somaliland als unabhängiger Staat zu einer Dringlichkeitssitzung zusammen. Vor dem für Montag anberaumten Treffen in New York warnten 21 überwiegend musl... [weiterlesen](https://www.20min.ch/story/nach-protest-un-sicherheitsrat-tagt-zu-somaliland-anerkennung-durch-israel-103476815)
+Ein loses Teil im Cockpit hat bei einem Flug der Ryanair-Tochter zu einem ungewöhnlichen Zwischenfall geführt. Kurz nach dem Start schaltete sich bei der Boeing 737 Max 8 Max von Malta Air ein Triebwerk ab.
+Man nennt es Butterfly Effect, den Lauf der... [weiterlesen](https://www.aerotelegraph.com/sicherheit/triebwerk-von-boeing-737-max-abgeschaltet-durch-sonnenblende/jsfz8ef)
 
-> Relevance score: [4] - UN Security Council meeting on a contentious diplomatic issue; limited direct relevance to Swiss foreign policy.
-
-## Gold und Aktien steigen: Warum Bitcoin hinterherhinkt und was 2026 kommt
-
-[20 Min](https://www.20min.ch/story/prognose-fuer-2026-lack-ist-abgeblaettert-darum-steigt-gold-aber-bitcoin-crasht-103475040) • _Sonntag, 28. Dezember 2025, 09:39 Uhr_
-
-Trotz sinkender Zinsen und steigender Märkte verliert Bitcoin an Wert. Experten blicken skeptisch auf die Zukunft.
-
-Publiziert28. Dezember 2025, 09:39
-Prognose für 2026: «Lack ist abgeblättert»: Darum steigt Gold, aber Bitcoin crasht
-Bitcoin enttäuscht die Anlegerinnen und Anleger. 2026 dürfte das schlechteste Jahr für die Kryptowährung im Vierjahreszyklus werden.... [weiterlesen](https://www.20min.ch/story/prognose-fuer-2026-lack-ist-abgeblaettert-darum-steigt-gold-aber-bitcoin-crasht-103475040)
-
-> Relevance score: [4] - Broad market commentary; may affect Swiss investors but lacks structural national significance.
-
-## Astronomische Entdeckungen 2025: Von interstellaren Kometen bis zu Lebensspuren auf dem Mars
-
-[it boltwise](https://www.it-boltwise.de/astronomische-entdeckungen-2025-von-interstellaren-kometen-bis-zu-lebensspuren-auf-dem-mars.html) • _Sonntag, 28. Dezember 2025, 12:19 Uhr_
-
-2025 brachte bahnbrechende astronomische Entdeckungen, darunter Hinweise auf Leben auf dem Mars und einen interstellaren Kometen.
-
-LONDON (IT BOLTWISE) – Das Jahr 2025 war ein bemerkenswertes Jahr für die Astronomie, geprägt von Entdeckungen wie einem interstellaren Kometen und Hinweisen auf vergangenes Leben auf dem Mars. Diese Entdeckungen werfen neue Fragen auf und erweitern ... [weiterlesen](https://www.it-boltwise.de/astronomische-entdeckungen-2025-von-interstellaren-kometen-bis-zu-lebensspuren-auf-dem-mars.html)
-
-> Relevance score: [3] - Scientific highlights of global interest; no direct impact on Swiss policy or daily life.
-
-## Polizeieinsatz in Olten nach nächtlicher Schussabgabe
-
-[20 Min](https://www.20min.ch/story/olten-53-jaehriger-nach-schussabgabe-festgenommen-103476795) • _Sonntag, 28. Dezember 2025, 08:48 Uhr_
-
-Ein Mann gab am Samstagabend in Olten mehrere Schüsse ab. Die Polizei konnte den mutmasslichen Täter rasch anhalten.
-
-Am Samstagabend hat ein Mann in Olten an der Aarauerstrasse mehrere Schüsse abgegeben, wie die Kapo Solothurn in einer Mitteilung schreibt. Die Meldung dazu ging demnach um etwa 23.35 ein.
-Der mutmassliche Täter, ein 53-jähriger Schweizer, konnte dur... [weiterlesen](https://www.20min.ch/story/olten-53-jaehriger-nach-schussabgabe-festgenommen-103476795)
-
-> Relevance score: [3] - Local criminal incident; important for community safety but limited national relevance.
-
-## Erneuter Ausbruch Ätna spuckt Asche und Lava in Sizilien
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/italien-lavafontaenen-am-aetna-warnstufe-erhoeht) • _Sonntag, 28. Dezember 2025, 13:42 Uhr_
-
-In Sizilien ist der Vulkan Ätna wieder ausgebrochen. Am Nordostkrater gab es eine Serie starker Explosionen.
-
-Der Vulkan Ätna auf der italienischen Mittelmeerinsel Sizilien ist wieder ausgebrochen.
-Es gebe Dutzende Meter hohe Lavafontänen an den Gipfelkratern, teilte das nationale italienische Institut für Geophysik und Vulkanologie (INGV) mit.
-Der Vulkan st... [weiterlesen](https://www.srf.ch/news/international/italien-lavafontaenen-am-aetna-warnstufe-erhoeht)
-
-> Relevance score: [2] - Volcanic eruption in Italy; minor relevance for Swiss tourism or air quality, no structural impact.
-
-## Wie ein Deutscher den Start von Wizz Air ermöglichte
-
-[aeroTELEGRAPH](https://www.aerotelegraph.com/airlines/wie-ein-deutscher-den-start-von-wizz-air-ermoeglichte/hkfx959) • _Sonntag, 28. Dezember 2025, 13:11 Uhr_
-
-Die ungarische Billigairline ist mit der EU-Osterweiterung 2004 gestartet. Dass sie so schnell starten konnte hat maßgeblich mit einem Deutschen zu tun. Ohne Klaus Heinemann hätte Wizz Air keine Flugzeuge bekommen.
-
-Wizz Air ist heute die größte Fluggesellschaft Osteuropas und nach Ryanair und Easyjet die drittgrößte Lowcost-Airline Europas. Im vergangenen Jahr beförderte sie über 60 Millionen Passagiere; für dieses Jahr wird mit einem Anstieg auf rund 62 Millio... [weiterlesen](https://www.aerotelegraph.com/airlines/wie-ein-deutscher-den-start-von-wizz-air-ermoeglichte/hkfx959)
-
-> Relevance score: [2] - History of a European low‑cost airline; limited interest for Swiss travellers, no national significance.
-
-## Veranstalter verbannen digitale Tickets - wegen Fälschern!
-
-[Nau.ch](https://www.nau.ch/news/schweiz/veranstalter-verbannen-digitale-tickets-wegen-falschern-67078195) • _Sonntag, 28. Dezember 2025, 09:00 Uhr_
-
-Kein PDF, kein E-Mail, dafür teurer Postversand: Der Ticketkauf für ein Konzert in Zürich frustriert Fans. Der Veranstalter verteidigt das Vorgehen.
-
-Riccardo Schmidlin
-Zürich , 28.12.2025 - 09:00
-Kein PDF, kein E-Mail, dafür teurer Postversand: Der Ticketkauf für ein Konzert in Zürich frustriert Fans. Der Veranstalter verteidigt das Vorgehen.
-Das Wichtigste in Kürze
-Veranstalter verbannen digital... [weiterlesen](https://www.nau.ch/news/schweiz/veranstalter-verbannen-digitale-tickets-wegen-falschern-67078195)
-
-> Relevance score: [2] - Local ticketing change for a Zurich concert; limited to a small audience, no wider impact.
-
-## Studie: Fette Milchprodukte können Demenzrisiko senken
-
-[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/studie-fette-milchprodukte-koennen-demenzrisiko-senken/68436900) • _Sonntag, 28. Dezember 2025, 07:53 Uhr_
-
-Eine Langzeitstudie zeigt, dass der Verzehr bestimmter Milchprodukte das Demenzrisiko reduziert, jedoch nicht für Träger des Alzheimer-Risikogens APOE4.
-
-Eine schwedische Langzeitstudie stellt Ernährungsdogmen auf den Kopf. Sie zeigt: Der Verzehr von fettreichem Käse und Sahne kann das Demenzrisiko deutlich reduzieren. Allerdings profitieren nicht alle Menschen gleichermaßen.
-Käse und Sahne als möglic... [weiterlesen](https://www.ad-hoc-news.de/boerse/news/ueberblick/studie-fette-milchprodukte-koennen-demenzrisiko-senken/68436900)
-
-> Relevance score: [2] - Swedish nutritional study; interesting but not directly affecting Swiss public policy or health guidelines.
-
-## Neuwahlen in Kosovo – Albin Kurti will allein regieren
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/neuwahlen-in-kosovo-albin-kurti-will-nach-den-wahlen-allein-regieren) • _Sonntag, 28. Dezember 2025, 07:05 Uhr_
-
-Die Blockade in Kosovo soll enden: Am Sonntag wird zum zweiten Mal innerhalb von elf Monaten ein Parlament gewählt.
-
-Seit Februar herrscht im Kosovo politischer Stillstand: Bei der Parlamentswahl damals blieb die Partei von Ministerpräsident Albin Kurti zwar stärkste Kraft, war aber auf eine Koalition angewiesen. Die Parteien konnten sich jedoch nie auf eine Regier... [weiterlesen](https://www.srf.ch/news/international/neuwahlen-in-kosovo-albin-kurti-will-nach-den-wahlen-allein-regieren)
-
-> Relevance score: [2] - Political development in Kosovo; peripheral to Swiss interests with minimal impact.
-
-## Tragisches Ende der Feiertage - Mutter und Tochter in Italien tot - Fischvergiftung vermutet
-
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/tragisches-ende-der-feiertage-mutter-und-tochter-in-italien-tot-fischvergiftung-vermutet) • _Sonntag, 28. Dezember 2025, 15:41 Uhr_
-
-Nach einem Weihnachtsessen erkrankt eine Familie in der italienischen Region Molise, Mutter und Tochter sterben.
-
-Eine 15-Jährige und ihre Mutter sind in Campobasso in der italienischen Region Molise mutmasslich an einer Lebensmittelvergiftung gestorben.
-Eine Sprecherin der örtlichen Polizei bestätigte entsprechende italienische Medienberichte.
-Das Mädchen sei i... [weiterlesen](https://www.srf.ch/news/international/tragisches-ende-der-feiertage-mutter-und-tochter-in-italien-tot-fischvergiftung-vermutet)
-
-> Relevance score: [1] - A tragic incident in Italy involving a single family; no direct impact on Swiss society or policy.
-
-## US-Staatsbürgerschaft abgeben: So viel kostet das
-
-[Watson](https://www.watson.ch/spass/international/883719683-us-staatsbuergerschaft-abgeben-so-viel-kostet-das) • _Sonntag, 28. Dezember 2025, 13:16 Uhr_
-
-Vergiss Marathon laufen oder Eisbaden, wer sich wirklich etwas beweisen will, dem empfehle ich das US-Ausbürgerungsferfahren.
-
-So hoch ist der Preis, um seine US-Staatsbürgerschaft loszuwerden
-Vergiss Marathonlaufen oder Eisbaden! Wer sich wirklich herausfordern will, dem empfehle ich das US-Ausbürgerungsverfahren.
-Land of the free, home of the brave. 2025 haben diese Worte ... [weiterlesen](https://www.watson.ch/spass/international/883719683-us-staatsbuergerschaft-abgeben-so-viel-kostet-das)
-
-> Relevance score: [1] - US‑focused procedural guide; negligible relevance for Swiss citizens or policy.
+> Relevance score: [2] - An isolated technical incident on a Malta Air flight has limited impact on global aviation safety perceptions and no direct relevance to Switzerland.
 
 
 </details>
