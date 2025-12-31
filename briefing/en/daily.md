@@ -2,213 +2,225 @@
 
 ---
 
-_Updated: Tuesday, December 30, 2026, 6:24 p.m._
+*Updated: Wednesday, 31 December 2026, 18:22*
+
+## Politicians hide lobby remuneration: Is that a problem or not?
 
-## China Practices Blockade of Taiwan: the Background
+[20 Min](https://www.20min.ch/story/lobbywatch-kritik-20-nebenjobs-aber-beim-lohn-bleiben-viele-politiker-stumm-103477500) • *Tuesday, 30 December 2026, 21:00*
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/china-manoever-um-taiwan-china-scheint-trumps-reaktion-testen-zu-wollen) • *Monday, December 29, 2026, 7:20 p.m.*
+A new report from Lobbywatch shows that many politicians do not disclose their side‑income. Middle‑councillor Erich Ettlin explains why this is not a problem for him.
 
-China is enforcing a blockade of the island. That it is happening right now has a reason, says expert Fabian Kretschmer.
+### Findings of the Lobbywatch report
+- The annual report of **[Lobbywatch](https://en.wikipedia.org/wiki/Lobbywatch)** shows that roughly **three‑quarters of parliamentarians** hold paid side‑jobs (e.g., on supervisory boards or associations) but often do not disclose the remuneration.  
+- By law, parliamentarians only have to indicate whether a mandate is paid or voluntary – not the exact amount.  
+- **Transparency statistics**:  
+  - **56 %** disclose at least the remuneration of a mandate.  
+  - **44 %** hide all remuneration.  
+  - Only **27 %** are fully transparent (all income disclosed).
 
-### Background of the Maneuver
+### Party‑wise differences
+- **[The Greens](https://en.wikipedia.org/wiki/Green_Party_(Switzerland))**:  
+  - 88 % disclose their mandates partially or fully.  
+  - 68 % of faction members are completely transparent.  
+- **[Free Democratic Party (FDP)](https://en.wikipedia.org/wiki/Free_Democratic_Party_(Switzerland))**:  
+  - About **36 %** provide information on side‑income.  
+  - No faction member discloses all income.  
+- Other parties fall in between (exact figures are in the report).
 
-- **Trigger**: Roughly two weeks ago, **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** approved an arms shipment to **[Taiwan](https://en.wikipedia.org/wiki/Taiwan)** worth USD 11 billion, which Beijing views as a provocation.  
-- **China’s Goal**: Test how the United States—and especially the new president—will respond to the large‑scale military maneuver.  
+### The least transparent politicians
+- **[Peter Schilliger](https://en.wikipedia.org/wiki/Peter_Schilliger_(politician))** (FDP National Council):  
+  - Holds **20 mandates** – the highest number in Parliament.  
+  - Remains silent on the remuneration for **19** of them.  
+- **[Erich Ettlin](https://en.wikipedia.org/wiki/Erich_Ettlin)** (Middle Council):  
+  - Owns **15 mandates** and gives no remuneration details.  
+- **[Lorenz Hess](https://en.wikipedia.org/wiki/Lorenz_Hess)** (Middle National Council, **Visana** board president):  
+  - 16 paid mandates (10 with Visana), of which only two are disclosed.
 
-### Development and Scope of the Maneuvers
+### Reasoning from Erich Ettlin
+- **Professional structure**:  
+  - The bulk of his income as a **tax advisor** is processed through his employer **[BDO AG](https://en.wikipedia.org/wiki/BDO_(company))**, especially board mandates for clients.  
+  - In Lobbywatch data these activities are listed as “mandates”.  
+- **Disclosure scepticism**:  
+  - Ettlin argues that publishing the remuneration would indirectly reveal his employer’s income.  
+  - He sees no need to name exact amounts as long as it is clear whether a mandate is paid.  
+- **Benefit of side‑activities**:  
+  - Member of the supervisory board of **[CSS](https://en.wikipedia.org/wiki/CSS_(company))** and of the central board of **[Spitex](https://en.wikipedia.org/wiki/Spitex)**.  
+  - These roles help him understand the health system better and spot problems – a value‑add for his parliamentary work.  
 
-- Since the visit of former **[Speaker of the U.S. House, Nancy Pelosi](https://en.wikipedia.org/wiki/Nancy_Pelosi)** in 2022, China has already carried out **six major maneuvers**.  
-- **Trends**:  
-  - More frequent execution and increasing size.  
-  - The current maneuver resulted in the **airspace around Taiwan being sealed off**:  
-    - **≈ 900 flights** cancelled or re‑routed.  
-    - **> 100 000 passengers** affected.  
-- Military analysts suspect China wants to make the maneuvers a **de‑facto normal state**, effectively **simulating a war**: Taiwan is cut off from the outside world.  
+### Demands from Lobbywatch
+- **Legal obligation**: Lobbywatch calls for a law that forces parliamentarians to disclose all side‑income (including amounts).  
+- Goal: Citizens should be able to see which economic interests are represented in Parliament and where potential conflicts of interest exist.  
 
-### Likelihood of an Actual Invasion
+> Relevance score: [7] – Revealing gaps in disclosure of politicians’ side‑payments touches on Swiss democratic transparency and could spur legislative or public scrutiny; therefore relatively high relevance.
 
-- **Short‑term**: Unlikely, as invading an island is extremely difficult and the possible reaction of the **[United States](https://en.wikipedia.org/wiki/United_States)** remains unclear.  
-- **Hybrid war**: China is already carrying out low‑level escalations; in 2025 alone **> 3 600 Chinese warplanes** were recorded near Taiwan.  
+## WEF in Davos: These dangers threaten the Davos World Economic Forum
 
-### Information and Disinformation War
+[Blick](https://www.blick.ch/wirtschaft/sicherheitschef-walter-schlegel-nennt-die-groessten-gefahren-fuers-wef-verschaerfte-bedrohungslage-in-davos-auch-wegen-trump-besuch-id21557616.html) • *Tuesday, 30 December 2026, 23:55*
 
-- China funds **influencers** for **disinformation campaigns**, aiming to provoke a political crisis in Taiwan.  
-- Goal: Conduct a **bloodless war** that could ultimately lead to the **conquest of Taiwan** without open hostilities.  
+Three weeks remain until the WEF opens in Davos. Yet preparations have long been underway, especially on the security side, as the World Economic Forum’s security chief Walter Schlegel tells Blick.
 
-### Splitting of the Taiwanese Population
+### Participants and preparation
+- **Donald Trump** ([Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)) confirms his third participation at the **World Economic Forum** ([World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum)) in **Davos** ([Davos](https://en.wikipedia.org/wiki/Davos)).  
+- Weeks before the summit, the first American delegations have already arrived in Switzerland.  
+- About **800 people** on the US side are involved in preparing Trump’s visit.  
+- Fuel for the US helicopters (and possibly for **Air Force One**) is delivered directly from **[Ramstein Air Base](https://en.wikipedia.org/wiki/Ramstein_Air_Base)** in Germany.  
+- American teams have rented their own cars, hotel rooms and security equipment and are conducting on‑site reconnaissance.  
+- Four preparatory meetings between the Swiss **Secret Service** ([United States Secret Service](https://en.wikipedia.org/wiki/United_States_Secret_Service)) and local authorities have already taken place.
 
-- **Polarisation**:  
-  - *Hard line* toward China.  
-  - *Reconciliation* and increased trade.  
-- Common consensus: **Rejection of a communist rule from Beijing**.  
+### Security measures and costs
+- The WEF security chief, **Walter Schlegel**, commander of the **Graubünden Cantonal Police** ([Kantonspolizei Graubünden](https://en.wikipedia.org/wiki/Graub%C3%BCnden_Cantonal_Police)), leads the deployment team.  
+- Because of the US president’s visit, police staffing needs are slightly increased.  
+- Switzerland strictly defines who may carry weapons and where – to avoid confusion among multiple delegations.  
+- The entire security apparatus costs roughly **CHF 9 million**.  
+- The aim is both protection and deterrence.
 
-### Historical Context and Comparison with Hong Kong
+### Terror and drone threats
+- Since 2015 the terror threat level for the WEF has been rated **high**.  
+- Particular attention is given to:  
+  - **Drone protection**: Long‑standing radar and counter‑measure systems are installed; detection and defence technologies are continuously upgraded.  
+  - **Lone actors** and **small groups** that could operate with simple means (e.g., suicide attacks).  
+- Security personnel strive to stay one step ahead at all times.
 
-- After 1949, Taiwan was under a **military dictatorship** for decades, with repressive measures. Today it is a **liberal democracy** with strong **press‑freedom and human‑rights protections**.  
-- The example of **[Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong)** shows how a China‑controlled government can erode civil society and silence opposition – a scenario Taiwan wants to avoid.  
+### Protests and further risks
+- Peaceful protests are generally allowed in Davos, but unplanned actions (e.g., the **Greenpeace** demonstration in 2025) require additional police resources.  
+- Authorities stress that peaceful demonstrations are permissible as long as they do not endanger the summit’s safety.
 
-*Interview conducted by **Matthias Kündig**, analysis by **Fabian Kretschmer** (independent East‑Asia correspondent).*
+### Outlook
+- Shortly before the summit (“16 January”, three days before the start) Walter Schlegel will present further details on the security situation at a press conference in Davos.
 
-> Relevance score: [8] – China’s blockade drills near Taiwan raise the risk of a major cross‑strait confrontation, posing a high‑impact geopolitical flashpoint with worldwide repercussions.
+> Relevance score: [6] – Security preparations for the World Economic Forum in Davos directly concern Switzerland’s international profile and the safety of global leaders, giving it moderate to high relevance.
 
-## Saudi Arabia Launches Military Operation in Yemen
+<details><summary markdown="span">Show less important events</summary>
 
-[20 Min](https://www.20min.ch/story/staatsmedien-saudiarabien-kuendigt-militaeroperation-im-jemen-an-103477705) • *Tuesday, December 30, 2026, 3:45 a.m.*
+## Yemen: new fighting in the civil‑war country
 
-The Saudi‑led military coalition announces a military operation in Yemen and urges civilians to evacuate the port of Mukalla.
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/saudiarabien-bombardiert-einen-hafen-in-jemen-und-erzwingt-den-abzug-der-emirate-aus-dem-buergerkriegsland-was-steckt-dahinter-ld.1918417) • *Wednesday, 31 December 2026, 05:30*
 
-### Background of the Conflict
-- The civil war in **[Yemen](https://en.wikipedia.org/wiki/Yemen)** pits Saudi‑backed anti‑Houthi forces against the **[Houthi rebels](https://en.wikipedia.org/wiki/Houthi_rebellion)**, who control the capital **[Sanaa](https://en.wikipedia.org/wiki/Sana%27a)**.  
-- In the south, the **[Southern Transitional Council](https://en.wikipedia.org/wiki/Southern_Transitional_Council)** has recently pursued independence and has seized key oil facilities in the provinces **[Hadhramaut](https://en.wikipedia.org/wiki/Hadhramawt)** and **[Mahra](https://en.wikipedia.org/wiki/Mahra_(region))**, as well as the border area with Oman.  
-- **[Mukalla](https://en.wikipedia.org/wiki/Mukalla)** is the port city of Hadhramaut, about 480 km northeast of **[Aden](https://en.wikipedia.org/wiki/Aden)**, the anti‑Houthi coalition’s power centre.  
+In Yemen the confrontation between Riyadh and Abu Dhabi intensifies. Meanwhile the weak Yemeni central government fragments – new fighting threatens South Arabia.
 
-### Military Operation in Mukalla
-- On Tuesday the air force of the Saudi‑led coalition carried out a limited airstrike on **Mukalla**.  
-- The targets were two vessels that, according to the Saudi news agency **SPA**, had unloaded weapons from the Emirati port of **Fujairah** (UAE).  
-- Saudi Arabia says the weapons were destined for separatist militias of the Southern Transitional Council.  
-- The bombardment was intended to destroy or block the weapons and combat‑ready vehicles brought ashore from the ships.  
-- The **[United Arab Emirates (UAE)](https://en.wikipedia.org/wiki/United_Arab_Emirates)** has so far given no comment.  
+Hours after the Saudi‑led strike on Mukalla, smoke still rises over the silos of the southern Yemen port. The air attack by the Saudi‑led military alliance marks the provisional peak of an escalation that ... [read more](https://www.nzz.ch/international/saudiarabien-bombardiert-einen-hafen-in-jemen-und-erzwingt-den-abzug-der-emirate-aus-dem-buergerkriegsland-was-steckt-dahinter-ld.1918417)
 
-### Actors and Their Relationships
-- **Saudi Arabia**: Leader of the anti‑Houthi coalition; responding with airstrikes to prevent arms deliveries to southern separatists.  
-- **UAE**: Accused of supporting the separatist militias; its relationship with Saudi Arabia is further strained by this incident.  
-- **Southern Transitional Council**: Separatist group controlling oil‑rich southern regions and benefitting from UAE arms shipments.  
-- **National Guard Forces**: Saudi‑backed troops in the south fighting the southern separatists.  
+> Relevance score: [5] – Escalation of the Yemen civil war has humanitarian and regional security implications, which are globally relevant, though the immediate impact on Switzerland is indirect.
 
-### Impact and Context
-- The strike heightens tensions between **Saudi Arabia** and the **UAE**, which, despite joint involvement in Yemen and Sudan, have divergent interests.  
-- A week earlier Saudi Arabia was already accused by the southern separatists of targeting their fighters with airstrikes.  
-- The incident underscores the growing danger of further escalation in southern Yemen, especially due to external interference and competition over oil resources.  
+## TCM studies demonstrate molecular action against cancer
 
-> Relevance score: [7] – Escalation of a long‑standing conflict with major humanitarian stakes and regional security implications; affects global stability and refugee flows, thus significant international relevance.
+[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/tcm-studien-belegen-molekulare-wirkung-gegen-krebs/68442405) • *Tuesday, 30 December 2026, 23:27*
 
-## Peace Negotiations for Gaza Phase 2
+New research shows how traditional Chinese formulas break chemoresistance and specifically kill cancer cells. This paves the way for integration into Western treatment guidelines.
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/unter-deiner-fuehrung-kann-sich-der-ganze-nahe-osten-veraendern-israels-ministerpraesident-benjamin-netanyahu-und-us-praesident-donald-trump-verhandeln-in-florida-ld.1918255) • *Monday, December 29, 2026, 9:22 p.m.*
+Traditional Chinese Medicine (TCM) now provides solid molecular evidence for its effectiveness in cancer therapy. Two new studies from China and the USA show how classic formulas break chemo‑resistance and target cancer ... [read more](https://www.ad-hoc-news.de/boerse/news/ueberblick/tcm-studien-belegen-molekulare-wirkung-gegen-krebs/68442405)
 
-The two heads of state have met six times in the past two years. Trump finally wants to start the second phase of his Gaza peace plan. It is still unclear whether and when he will succeed.
+> Relevance score: [5] – New scientific evidence for traditional Chinese medicine in cancer treatment could influence future medical guidelines worldwide; the impact is important but still early and not yet policy‑shaping.
 
-### Background of the Negotiations
-- **Location & Occasion**: Press conference at **[Mar‑a‑Lago](https://en.wikipedia.org/wiki/Mar-a-Lago)**, Florida; the goal is to launch the second phase of President **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)**’s peace plan for the **[Gaza Strip](https://en.wikipedia.org/wiki/Gaza_Strip)**.  
-- **Previous Meetings**: The two leaders have already met six times since 2023.  
+## Coop discount changes: What does this mean for other retailers and customers?
 
-### Participants and Symbolism
-- **Israel’s Prime Minister**: **[Benjamin Netanyahu](https://en.wikipedia.org/wiki/Benjamin_Netanyahu)** (“Bibi”) travelled without Israeli press, accompanied by **Talik Gvili**, whose son **Ran Gvili** was killed by the **[Hamas](https://en.wikipedia.org/wiki/Hamas)** on 7 October 2023.  
-- **Symbolic Message**: Gvili’s presence is meant to show that Israel does **not consider the first phase of the peace plan – especially the release of all hostages – to be completed**.  
+[20 Min](https://www.20min.ch/story/schluss-mit-50-prozent-coop-senkt-rabatte-so-sparst-du-bei-anderen-detailhaendlern-103477439) • *Tuesday, 30 December 2026, 19:19*
 
-### Second Phase of the Peace Plan (20‑Point Plan)
-- **Core Points**:  
-  - **Disarmament of Hamas**  
-  - **Major Israeli withdrawal** from the Gaza Strip  
-  - **Deployment of an international stabilization force** to coordinate and monitor the process  
-- **Timeline**: President Trump announced the start would be **after Christmas 2025** and expects to apply pressure in the coming weeks.  
+Coop lowers discounts on fresh products. What strategies are other retailers pursuing in the fight against food waste?
 
-### Open Questions and Disputes
-- **Disarmament**:  
-  - Israel demands **complete** disarmament – a clear deadline from the U.S. is desired.  
-  - The U.S. prefers a **phased** demilitarisation (heavy → light weapons).  
-- **Stabilisation Force**:  
-  - Israel rejects **Turkish** participation.  
-  - The U.S. supports a Turkish component.  
-- **Technocratic Palestinian Administration**: The U.S. plans such a body for reconstruction.  
-- **“Board of Peace”**: Planned creation at the **[World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum)** in **[Davos](https://en.wikipedia.org/wiki/Davos)**, including reconstruction of **[Rafah](https://en.wikipedia.org/wiki/Rafah)** on the Egyptian border.  
+Coop is adjusting its discount practice. Starting 6 January the retailer will grant a maximum of 40 percent discount on fresh products using the red stickers. Discounts will no longer be limited to the last few hours before closing but will be displayed earlier ... [read more](https://www.20min.ch/story/schluss-mit-50-prozent-coop-senkt-rabatte-so-sparst-du-bei-anderen-detailhaendlern-103477439)
 
-### Additional Geopolitical Topics
-- **Lebanon & Hezbollah**: Possible Israel‑U.S. talks about military actions against the **[Hezbollah](https://en.wikipedia.org/wiki/Hezbollah)**, which retains its resistance and disarmament stance despite Israeli strikes.  
-- **Iran**: Discussion of possible U.S‑backed Israeli attacks on Iranian missile and nuclear facilities; Trump signalled willingness to respond to Iranian re‑armament.  
+> Relevance score: [5] – Changes to Coop’s discount policy affect Swiss consumers and may influence retail competition, offering moderate economic relevance within Switzerland.
 
-### Current Concerns in Israel
-- **US Coordinators’ Dissatisfaction**: Representatives at the military coordination centre in **[Kiryat Gat](https://en.wikipedia.org/wiki/Kiryat_Gat)** are showing growing impatience with Netanyahu.  
-- **Delays**: Key issues such as opening the Rafah crossing and increasing aid to Gaza are stalled.  
-- **Risk of a Political “Freeze”**: There are fears that Trump’s attention may shift away from Gaza, cementing the status‑quo and giving Israel room for another military operation in the strip.  
+## Vitamin D: new study shows exercise is the key
 
-> Relevance score: [7] – Potential progress on the Israel‑Gaza conflict has broad geopolitical importance and humanitarian stakes; a successful outcome could shift regional dynamics.
+[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/vitamin-d-neue-studie-zeigt-bewegung-ist-der-schluessel/68442249) • *Tuesday, 30 December 2026, 21:03*
 
-## After Meeting with Netanyahu: Trump Threatens Hamas and Iran
+A recent meta‑analysis proves that Vitamin D only exerts its full effect on muscles when combined with physical activity. Experts also warn against dangerous high‑dose trends on social media.
 
-[20 Min](https://www.20min.ch/story/nahost-konflikt-nach-treffen-mit-natanjahu-trump-droht-hamas-und-dem-iran-566174374995) • *Monday, December 29, 2026, 10:52 p.m.*
+The new study shows: Vitamin D alone does little – only with exercise does it unleash its full power. At the same time, experts warn about risky high‑dose trends spreading via social media.  
+A timely meta‑analysis ... [read more](https://www.ad-hoc-news.de/boerse/news/ueberblick/vitamin-d-neue-studie-zeigt-bewegung-ist-der-schluessel/68442249)
 
-The Middle East remains marked by ongoing conflicts. A cease‑fire between Israel and Hamas is crumbling. All this in the ticker.
+> Relevance score: [4] – A meta‑analysis on vitamin D and exercise adds to public‑health knowledge but is unlikely to cause immediate large‑scale policy or behavioral change.
 
-### Houthi Threat After Somaliland Recognition
-- The leader of the **[Iran](https://en.wikipedia.org/wiki/Iran)**‑backed **[Houthi militia](https://en.wikipedia.org/wiki/Houthi_rebellion)**, **[Abdul‑Malik al‑Houthi](https://en.wikipedia.org/wiki/Abdul-Malik_al-Huthi)**, warned **[Israel](https://en.wikipedia.org/wiki/Israel)** after its recognition of **[Somaliland](https://en.wikipedia.org/wiki/Somaliland)** as a sovereign state.  
-  - Any Israeli presence in Somaliland is “a military target” and constitutes aggression against **[Somalia](https://en.wikipedia.org/wiki/Somalia)** and Yemen.  
-  - He views this as a threat to the security of the whole region.  
-- Background:  
-  - Somaliland lies near the strategically important strait of **[Bab al‑Mandab](https://en.wikipedia.org/wiki/Bab_al-Mandab)**, where the Houthi militia has repeatedly attacked ships it claims have Israeli connections.  
-  - **[Times of Israel](https://www.timesofisrael.com/)** reports that access to Somaliland could help Israel counter the militia and monitor its activities more effectively.  
+## Escalation instead of peace – analysis of the attack on Putin
 
-### Course of the Conflict and Recent Developments
-- Since the start of the **[Gaza war](https://en.wikipedia.org/wiki/Gaza_War)**, the Houthi militia has acted in solidarity with **[Hamas](https://en.wikipedia.org/wiki/Hamas)**, attacking Israel with rockets and drones.  
-  - The Israeli air force responded with strikes on militia targets in Yemen, roughly 2 000 km away.  
-  - After the Gaza cease‑fire on 10 October, the Houthi rebels kept their fire‑pause, but have now again issued threats.  
-- Israel’s recognition of Somaliland is the first time a country has acknowledged the region as an independent state; **[Somalia](https://en.wikipedia.org/wiki/Somalia)** strictly rejects the recognition.  
+[Blick](https://www.blick.ch/ausland/nach-der-propaganda-offensive-schwinden-die-hoffnungen-auf-frieden-wie-putin-mit-seiner-jammer-taktik-trump-um-den-finger-wickelt-id21558978.html) • *Tuesday, 30 December 2026, 20:18*
 
-### International Reactions
-- The **[UN Security Council](https://en.wikipedia.org/wiki/United_Nations_Security_Council)** is convening today for an emergency session to discuss the consequences of Israel’s step.  
-- Twenty‑one predominantly Muslim nations have already warned in a joint statement of “serious consequences” for peace and security in the Horn of Africa, the Red Sea, and international stability.  
+Putin’s lament over an alleged attack on his residence destroys the budding hope for peace in Ukraine. Instead of de‑escalation, another escalation may come in the new year.
 
-### Planned Meeting of Trump and Netanyahu
-- While the UN Security Council meets in New York, **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** and **[Benjamin Netanyahu](https://en.wikipedia.org/wiki/Benjamin_Netanyahu)** will meet at Mar‑a‑Lago in Florida.  
-  - The goal is to discuss the next steps of the U.S.–led plan to permanently end the Gaza war.  
+Moscow denounces “state terrorism”.  
+The latest clash stems from a Kremlin report. On Monday Moscow claimed its air defence shot down 91 Ukrainian drones that targeted Putin’s forest residence in Nogród … [read more](https://www.blick.ch/ausland/nach-der-propaganda-offensive-schwinden-die-hoffnungen-auf-frieden-wie-putin-mit-seiner-jammer-taktik-trump-um-den-finger-wickelt-id21558978.html)
 
-> Relevance score: [6] – US president’s threats to Hamas and Iran could influence Middle‑East tensions and global security, but the immediate effect is limited and largely rhetorical.
+> Relevance score: [4] – Analysis of a claimed attack on Putin relates to the Ukraine conflict and geopolitical tensions; it provides insight but does not represent a concrete shift in policy.
 
-<details><summary markdown="span">Show Less Important Events</summary>
+## Small‑saver alert! First banks stop accepting coins
 
-## Swiss Cancer Research: Why a 100 % Cure Remains Unrealistic
+[Blick](https://www.blick.ch/wirtschaft/das-sparschwein-ist-tot-erste-schweizer-banken-nehmen-kein-muenz-mehr-an-id21558109.html) • *Tuesday, 30 December 2026, 18:33*
 
-[20 Min](https://www.20min.ch/story/krebsforschung-schweiz-krebs-wird-wohl-nie-zu-hundert-prozent-heilbar-sein-103471577) • *Tuesday, December 30, 2026, 4:56 a.m.*
+Depositing coins is becoming a test of patience: Some banks no longer accept small change, others charge hefty fees. Migros Bank completely rejects coins. At other banks savers must roll the change before they can deposit it.
 
-Despite therapeutic advances, cancer remains a complex challenge for research.
+Patrik Berger, Business Editor  
+The days between Christmas and New Year are perfect for a look at finances. Quickly it becomes clear: a lot of coins have accumulated. So off to the bank! If you want to deposit them, … [read more](https://www.blick.ch/wirtschaft/das-sparschwein-ist-tot-erste-schweizer-banken-nehmen-kein-muenz-mehr-an-id21558109.html)
 
-Felix Niggli, why has cancer still not been cured?  
-Every tumor is unique and there is no “one” therapy. Cancer cells are clever and change their properties. Some cells survive and become resistant. Other cells… [read more](https://www.20min.ch/story/krebsforschung-schweiz-krebs-wird-wohl-nie-zu-hundert-prozent-heilbar-sein-103471577)
+> Relevance score: [4] – Bank policy changes regarding coin deposits affect everyday savers in Switzerland; while notable for personal finance, the systemic impact is modest.
 
-> Relevance score: [5] – Discusses fundamental limits of a cancer cure in Switzerland; important for health policy and research funding but does not report a breakthrough or immediate societal change. Moderate national relevance.
+## European heads of state warn behind the scenes about Ukraine
 
-## Drone Attack on Putin’s Residence: Staging or Reality?
+[Nau.ch](https://www.nau.ch/news/europa/europaische-staatschefs-warnen-hinter-kulissen-ukraine-67080572) • *Wednesday, 31 December 2026, 03:20*
 
-[20 Min](https://www.20min.ch/story/osteuropa-experte-angriff-auf-putins-anwesen-sieht-nach-false-flag-operation-aus-103477541) • *Monday, December 29, 2026, 6:24 p.m.*
+Before the meeting with Trump, European heads of state warned Zelensky. He should be careful and not go too far. At the same time Macron demands more speed.
 
-Russia speaks of a terrorist attack on Putin’s residence. An expert finds the accusations dubious and suspects a Russian false‑flag operation.
+Etienne Sticher  
+Germany, 31.12.2025 – 03:20  
+Before the meeting with Trump European heads of state warned Zelensky. He should be careful and not go too far. At the same time Macron demands more speed.  
+The most important points … [read more](https://www.nau.ch/news/europa/europaische-staatschefs-warnen-hinter-kulissen-ukraine-67080572)
 
-Ukraine allegedly tried Thursday night to attack a Kremlin chief’s residence with 91 drones, says Russian Foreign Minister Sergei Lavrov, labeling it a “terrorist attack”. Ukrainian President … [read more](https://www.20min.ch/story/osteuropa-experte-angriff-auf-putins-anwesen-sieht-nach-false-flag-operation-aus-103477541)
+> Relevance score: [3] – Behind‑the‑scenes diplomatic warnings concerning Ukraine are of some political interest but lack concrete policy changes or broad impact; relevance to Swiss citizens is modest.
 
-> Relevance score: [5] – Claims of a drone attack on the Russian leader touch on the Russia‑Ukraine war narrative; while potentially influential, the evidence is uncertain, giving it moderate relevance.
+## Coup in Gelsenkirchen: armored robbers still on the run
 
-## Beyond Flu and Colds, Adenoviruses Roam Britain
+[Blick](https://www.blick.ch/ausland/spektakulaerer-millionen-coup-in-gelsenkirchen-panzerknacker-auf-der-flucht-bankkunden-in-panik-id21559411.html) • *Wednesday, 31 December 2026, 05:49*
 
-[Blick](https://www.blick.ch/schweiz/ausbruch-in-grossbritannien-treiben-adenoviren-auch-in-der-schweiz-ihren-unwesen-id21556384.html) • *Monday, December 29, 2026, 6:54 p.m.*
+In Gelsenkirchen unknown perpetrators broke into a savings bank branch and emptied 3 250 safety deposit boxes. The loot could exceed €30 million. Police are searching for the masked thieves and analysing video footage from the parking garage.
 
-In Britain the adenovirus has taken hold. Symptoms resemble flu but can be much more persistent. What is the situation in Switzerland?
+After the spectacular multi‑million euro heist in a Gelsenkirchen savings‑bank branch, police are hunting the fleeing armored robbers. They apparently used a special drill over the weekend to bore into the vault and then emptied almost all of the 3 250 … [read more](https://www.blick.ch/ausland/spektakulaerer-millionen-coup-in-gelsenkirchen-panzerknacker-auf-der-flucht-bankkunden-in-panik-id21559411.html)
 
-Mattia Jutzeler, News editor  
-A disease wave has Britain firmly in its grip. Alongside typical cold‑ and flu‑causing pathogens, the little‑known adenoviruses are now also causing trouble. Fortunately, infections … [read more](https://www.blick.ch/schweiz/ausbruch-in-grossbritannien-treiben-adenoviren-auch-in-der-schweiz-ihren-unwesen-id21556384.html)
+> Relevance score: [2] – A spectacular bank robbery in Germany involving €30 million is noteworthy but has limited structural or civic impact beyond local security concerns and does not affect Swiss or global systems.
 
-> Relevance score: [4] – Adenovirus wave in the UK is a public‑health issue of regional concern; limited direct effects on Switzerland or broader global structures.
+## Train accident in Peru – collision of two trains near Machu Picchu, one fatality
 
-## “Big Explosion”: Trump Talks of US Attack in Venezuela
+[Swiss Radio and Television](https://www.srf.ch/news/international/zugungueck-in-peru-kollision-zweier-zuege-bei-machu-picchu-ein-todesopfer) • *Wednesday, 31 December 2026, 01:17*
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/laut-aussage-des-praesidenten-grosse-explosion-trump-spricht-von-us-angriff-in-venezuela) • *Monday, December 29, 2026, 9:27 p.m.*
+Two trains collided head‑on near the Inca ruin city of Machu Picchu. Dozens are injured.
 
-The United States, according to the president, attacked an alleged “drug transshipment point” in Venezuela.
+Two trains in southern Peru collided head‑on, police and the railway operator reported. Several people were injured. Media currently report one fatality. The accident occurred on the line … [read more](https://www.srf.ch/news/international/zugungueck-in-peru-kollision-zweier-zuege-bei-machu-picchu-ein-todesopfer)
 
-“The United States has, according to President Donald Trump, attacked an alleged ‘drug transshipment point’ in Venezuela.  
-‘There was a big explosion in the port area where boats loaded with drugs are stationed,’ Trump said.  
-On Friday Trump …” [read more](https://www.srf.ch/news/international/laut-aussage-des-praesidenten-grosse-explosion-trump-spricht-von-us-angriff-in-venezuela)
+> Relevance score: [2] – A train accident in Peru is a tragic local event with no direct effect on Swiss or global systems beyond occasional news interest.
 
-> Relevance score: [3] – Claims of a US strike in Venezuela are unverified and primarily political rhetoric; limited concrete impact on international relations or Swiss interests.
+## Fire in Beringen: recycling plant ablaze – Alertswiss warns of smoke
 
-## How JD Vance Saved the Trump‑Musk Relationship
+[20 Min](https://www.20min.ch/story/beringen-schaffhausen-brand-bei-recyclinganlage-alertswiss-warnt-vor-rauch-103478119) • *Tuesday, 30 December 2026, 20:28*
 
-[Watson](https://www.watson.ch/international/analyse/354662087-wie-jd-vance-die-beziehung-zwischen-trump-und-musk-rettete) • *Tuesday, December 30, 2026, 4:47 a.m.*
+In Beringen, Schaffhausen, a recycling plant is on fire. Residents are advised to close windows to avoid smoke.
 
-At the end of Trump’s first term, the MAGA movement faced a breaking point that did not come from political opponents.
+Published 30 December 2025, 20:28  
+Beringen SH: Fire at recycling plant – Alertswiss warns of smoke  
+On Tuesday evening a fire broke out at a recycling plant in Beringen. Police confirm the incident.  
+Here’s what’s happening … [read more](https://www.20min.ch/story/beringen-schaffhausen-brand-bei-recyclinganlage-alertswiss-warnt-vor-rauch-103478119)
 
-**Analysis**  
-J.D. Vance brought Musk back to MAGA – positioning himself for 2028. When a clash erupted between Elon Musk and Donald Trump, the US vice‑president acted as the firefighter. J.D. Vance aims to keep the Republican Party unified ahead of the 2028 elections… [read more](https://www.watson.ch/international/analyse/354662087-wie-jd-vance-die-beziehung-zwischen-trump-und-musk-rettete)
+> Relevance score: [2] – A local industrial fire poses short‑term health concerns for nearby residents but lacks broader structural impact.
 
-> Relevance score: [2] – Focuses on US political drama with little direct impact on Swiss or global structural issues. Mostly celebrity‑politics, low civic relevance.
+## Eurostar outage frustrates travelers: New Year’s plans go down the drain
+
+[20 Min](https://www.20min.ch/story/paris-alles-bricht-zusammen-eurostar-ausfall-frustriert-reisende-103478055) • *Tuesday, 30 December 2026, 19:47*
+
+A power outage in the Eurotunnel halted Eurostar traffic and frustrated travelers at Paris’s Gare du Nord.
+
+A power outage in the Channel tunnel on Tuesday stopped Eurostar services. The disappointment at Paris’s Gare du Nord is huge: “Le Parisien” spoke to several affected people about their ruined New‑Year plans.  
+“I … [read more](https://www.20min.ch/story/paris-alles-bricht-zusammen-eurostar-ausfall-frustriert-reisende-103478055)
+
+> Relevance score: [2] – A transport disruption affecting travelers in Europe is inconvenient but limited in scope and impact on Swiss or global systems.
+
+## Brigitte Bardot: Le Pen attends funeral – Macron stays away
+
+[Watson](https://www.watson.ch/international/frankreich/271944961-brigitte-bardot-le-pen-kommt-zur-beerdigung-macron-bleibt-fern) • *Wednesday, 31 December 2026, 04:56*
+
+French far‑right politician Marine Le Pen will attend the funeral of Brigitte Bardot. Another statesman will not.
+
+French far‑right politician Marine Le Pen will attend the funeral of Brigitte Bardot. Another statesman will not.  
+Marine Le Pen, three‑time presidential candidate, will be present … [read more](https://www.watson.ch/international/frankreich/271944961-brigitte-bardot-le-pen-kommt-zur-beerdigung-macron-bleibt-fern)
+
+> Relevance score: [1] – A celebrity funeral with political attendance is primarily gossip‑level and holds little civic or structural significance for either global or Swiss audiences.
 
 </details>
