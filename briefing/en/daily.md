@@ -2,225 +2,133 @@
 
 ---
 
-*Updated: Wednesday, 31 December 2026, 18:22*
-
-## Politicians hide lobby remuneration: Is that a problem or not?
+_Aktualisiert: Donnerstag, 1. Januar 2026, 18:22 Uhr_  
+> **Updated:** Thursday, January 1 2026, 18:22 UTC  
 
-[20 Min](https://www.20min.ch/story/lobbywatch-kritik-20-nebenjobs-aber-beim-lohn-bleiben-viele-politiker-stumm-103477500) • *Tuesday, 30 December 2026, 21:00*
+## Why the stocks of split companies were so coveted in 2025  
 
-A new report from Lobbywatch shows that many politicians do not disclose their side‑income. Middle‑councillor Erich Ettlin explains why this is not a problem for him.
+[Watson](https://www.watson.ch/international/usa/416927628-darum-waren-die-aktien-aufgespaltener-unternehmen-2025-so-begehrt) • _Wednesday, December 31 2026, 22:23 UTC_  
 
-### Findings of the Lobbywatch report
-- The annual report of **[Lobbywatch](https://en.wikipedia.org/wiki/Lobbywatch)** shows that roughly **three‑quarters of parliamentarians** hold paid side‑jobs (e.g., on supervisory boards or associations) but often do not disclose the remuneration.  
-- By law, parliamentarians only have to indicate whether a mandate is paid or voluntary – not the exact amount.  
-- **Transparency statistics**:  
-  - **56 %** disclose at least the remuneration of a mandate.  
-  - **44 %** hide all remuneration.  
-  - Only **27 %** are fully transparent (all income disclosed).
+Switzerland and its hidden‑champion mid‑size firms are paying a steep price for Trump’s new protectionism.  
 
-### Party‑wise differences
-- **[The Greens](https://en.wikipedia.org/wiki/Green_Party_(Switzerland))**:  
-  - 88 % disclose their mandates partially or fully.  
-  - 68 % of faction members are completely transparent.  
-- **[Free Democratic Party (FDP)](https://en.wikipedia.org/wiki/Free_Democratic_Party_(Switzerland))**:  
-  - About **36 %** provide information on side‑income.  
-  - No faction member discloses all income.  
-- Other parties fall in between (exact figures are in the report).
+### Market performance 2025  
+- The **Swiss Market Index** ([SMI](https://en.wikipedia.org/wiki/Swiss_Market_Index)) delivered a 2025 annual return of roughly **14 %** (excluding dividends), while the broader **Swiss Leader Index** ([SLI](https://en.wikipedia.org/wiki/Swiss_Leader_Index)) added about **12 %**.  
+- The **Swiss Performance Index** ([SPI](https://en.wikipedia.org/wiki/Swiss_Performance_Index)) grew by roughly **18 %** over the year including dividends, but there were **118 winning stocks** versus **88 losers**, a poor ratio of **0.75 losers per winner**.  
+- In the SLI, the counterpart was **23 winning and only 9 losing titles**, underscoring the relative strength of large, globally active companies.  
 
-### The least transparent politicians
-- **[Peter Schilliger](https://en.wikipedia.org/wiki/Peter_Schilliger_(politician))** (FDP National Council):  
-  - Holds **20 mandates** – the highest number in Parliament.  
-  - Remains silent on the remuneration for **19** of them.  
-- **[Erich Ettlin](https://en.wikipedia.org/wiki/Erich_Ettlin)** (Middle Council):  
-  - Owns **15 mandates** and gives no remuneration details.  
-- **[Lorenz Hess](https://en.wikipedia.org/wiki/Lorenz_Hess)** (Middle National Council, **Visana** board president):  
-  - 16 paid mandates (10 with Visana), of which only two are disclosed.
+### Impact of Trump’s tariff policy  
+- After the first **tariff hammer** from **Donald Trump** in April 2025, the United States became a strongly protectionist market; the US import duties that followed were more than twice the level of those in the EU.  
+- Swiss sectors heavily reliant on exports suffered:  
+  - **Pharmaceutical industry** – initially spared, later hit hard.  
+  - **Watch industry** – suddenly faced a “luxury‑tax‑like” burden.  
+  - **Machinery, electrical and metal industry** – lost the ability to stay competitive because of the strong franc and precise cost calculations.  
+- Although tariffs were eased again from mid‑November 2025, the summer months left lasting traces on the Swiss market.  
 
-### Reasoning from Erich Ettlin
-- **Professional structure**:  
-  - The bulk of his income as a **tax advisor** is processed through his employer **[BDO AG](https://en.wikipedia.org/wiki/BDO_(company))**, especially board mandates for clients.  
-  - In Lobbywatch data these activities are listed as “mandates”.  
-- **Disclosure scepticism**:  
-  - Ettlin argues that publishing the remuneration would indirectly reveal his employer’s income.  
-  - He sees no need to name exact amounts as long as it is clear whether a mandate is paid.  
-- **Benefit of side‑activities**:  
-  - Member of the supervisory board of **[CSS](https://en.wikipedia.org/wiki/CSS_(company))** and of the central board of **[Spitex](https://en.wikipedia.org/wiki/Spitex)**.  
-  - These roles help him understand the health system better and spot problems – a value‑add for his parliamentary work.  
+### Why split companies were especially sought after in 2025  
+- Companies that had been **split** in recent years achieved above‑average share‑price gains because they could profit from newfound flexibility and a tighter focus on core markets.  
+- **Holcim** (formerly the **Holcim‑Cement** group) – after spinning off its North‑American business **Amrize** in June 2025 – saw its share price rise by **over 70 %**, placing it high on the performance list of the 32 largest Swiss firms.  
+- Analysts see potential in South America and Asia as well as in Europe, although the upcoming EU‑CO₂‑emissions system will impose extra costs on the cement sector; the limited availability of **emission certificates** could, however, enable price hikes from which Holcim might benefit.  
 
-### Demands from Lobbywatch
-- **Legal obligation**: Lobbywatch calls for a law that forces parliamentarians to disclose all side‑income (including amounts).  
-- Goal: Citizens should be able to see which economic interests are represented in Parliament and where potential conflicts of interest exist.  
+### Further examples of successful splits  
+- **Galderma** – originally part of **Nestlé** ([Nestlé](https://en.wikipedia.org/wiki/Nestl%C3%A9)) until 2014, then sold to Swedish private‑equity firm **EQT**, was listed in 2024 and benefited from greater entrepreneurial freedom.  
+- **Sandoz** – after being split off from **Novartis** ([Novartis](https://en.wikipedia.org/wiki/Novartis)) in October 2023, its performance has improved continuously.  
 
-> Relevance score: [7] – Revealing gaps in disclosure of politicians’ side‑payments touches on Swiss democratic transparency and could spur legislative or public scrutiny; therefore relatively high relevance.
+### Outlook: More splits and controversies  
+- The SVP veteran **Christoph Blocher** ([Christoph Blocher](https://en.wikipedia.org/wiki/Christoph_Blocher)) has debated the idea of splitting **UBS** ([UBS](https://en.wikipedia.org/wiki/UBS)) to separate its US business, reduce risk and strengthen equity.  
+  - UBS management warns of a **“massive loss of value for all stakeholder groups”**, while Blocher’s supporters anticipate added value for investors.  
+- Past experiences with corporate splits nevertheless show that **“1 minus 1 equals more than zero”** – i.e., the sum of the separated units can be greater than the original whole.  
 
-## WEF in Davos: These dangers threaten the Davos World Economic Forum
+> Relevance score: [6] – Analyzes how U.S. protectionist policies affect Swiss mid‑size “hidden champion” companies and their stock‑market performance, directly touching on Swiss economic interests and investor behaviour.  
 
-[Blick](https://www.blick.ch/wirtschaft/sicherheitschef-walter-schlegel-nennt-die-groessten-gefahren-fuers-wef-verschaerfte-bedrohungslage-in-davos-auch-wegen-trump-besuch-id21557616.html) • *Tuesday, 30 December 2026, 23:55*
+<details><summary markdown="span">Show less‑important events</summary>  
 
-Three weeks remain until the WEF opens in Davos. Yet preparations have long been underway, especially on the security side, as the World Economic Forum’s security chief Walter Schlegel tells Blick.
+## After CIA Report: Trump Shares Russia‑ and Putin‑Hostile Article  
 
-### Participants and preparation
-- **Donald Trump** ([Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)) confirms his third participation at the **World Economic Forum** ([World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum)) in **Davos** ([Davos](https://en.wikipedia.org/wiki/Davos)).  
-- Weeks before the summit, the first American delegations have already arrived in Switzerland.  
-- About **800 people** on the US side are involved in preparing Trump’s visit.  
-- Fuel for the US helicopters (and possibly for **Air Force One**) is delivered directly from **[Ramstein Air Base](https://en.wikipedia.org/wiki/Ramstein_Air_Base)** in Germany.  
-- American teams have rented their own cars, hotel rooms and security equipment and are conducting on‑site reconnaissance.  
-- Four preparatory meetings between the Swiss **Secret Service** ([United States Secret Service](https://en.wikipedia.org/wiki/United_States_Secret_Service)) and local authorities have already taken place.
+[Watson](https://www.watson.ch/international/ukraine/644597745-nach-cia-meldung-trump-teilt-russland-und-putinfeindlichen-artikel) • _Thursday, January 1 2026, 04:02 UTC_  
 
-### Security measures and costs
-- The WEF security chief, **Walter Schlegel**, commander of the **Graubünden Cantonal Police** ([Kantonspolizei Graubünden](https://en.wikipedia.org/wiki/Graub%C3%BCnden_Cantonal_Police)), leads the deployment team.  
-- Because of the US president’s visit, police staffing needs are slightly increased.  
-- Switzerland strictly defines who may carry weapons and where – to avoid confusion among multiple delegations.  
-- The entire security apparatus costs roughly **CHF 9 million**.  
-- The aim is both protection and deterrence.
+According to U.S. intelligence, there was no Ukrainian attack on Putin’s residence. The report may have triggered another shift in Donald Trump’s mindset.  
 
-### Terror and drone threats
-- Since 2015 the terror threat level for the WEF has been rated **high**.  
-- Particular attention is given to:  
-  - **Drone protection**: Long‑standing radar and counter‑measure systems are installed; detection and defence technologies are continuously upgraded.  
-  - **Lone actors** and **small groups** that could operate with simple means (e.g., suicide attacks).  
-- Security personnel strive to stay one step ahead at all times.
+In the midst of negotiations to end the Ukraine war, the U.S. president… [read more](https://www.watson.ch/international/ukraine/644597745-nach-cia-meldung-trump-teilt-russland-und-putinfeindlichen-artikel)  
 
-### Protests and further risks
-- Peaceful protests are generally allowed in Davos, but unplanned actions (e.g., the **Greenpeace** demonstration in 2025) require additional police resources.  
-- Authorities stress that peaceful demonstrations are permissible as long as they do not endanger the summit’s safety.
+> Relevance score: [5] – The report touches on U.S. intelligence, the Ukraine conflict and potential shifts in U.S. policy, which have moderate global significance. However the article is vague and the concrete impact on Swiss interests is limited.  
 
-### Outlook
-- Shortly before the summit (“16 January”, three days before the start) Walter Schlegel will present further details on the security situation at a press conference in Davos.
+## South Korea’s Exports Beat Forecasts in December and End 2025 with a Record  
 
-> Relevance score: [6] – Security preparations for the World Economic Forum in Davos directly concern Switzerland’s international profile and the safety of global leaders, giving it moderate to high relevance.
+[MarketScreener Switzerland](https://ch.marketscreener.com/boerse-nachrichten/suedkoreas-exporte-uebertreffen-im-dezember-die-prognosen-und-schliessen-2025-mit-rekordwert-ab-ce7e59d8d18ef624) • _Thursday, January 1 2026, 01:11 UTC_  
 
-<details><summary markdown="span">Show less important events</summary>
+South Korea’s exports rose for the seventh consecutive month in December and closed 2025 with a record, as shipments topped the **US$ 700 billion** mark for the first time… [read more](https://ch.marketscreener.com/boerse-nachrichten/suedkoreas-exporte-uebertreffen-im-dezember-die-prognosen-und-schliessen-2025-mit-rekordwert-ab-ce7e59d8d18ef624)  
 
-## Yemen: new fighting in the civil‑war country
+> Relevance score: [4] – Record export figures for South Korea are notable for global trade statistics and may affect market sentiment, yet the direct relevance to Swiss economic policy or society is modest.  
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/saudiarabien-bombardiert-einen-hafen-in-jemen-und-erzwingt-den-abzug-der-emirate-aus-dem-buergerkriegsland-was-steckt-dahinter-ld.1918417) • *Wednesday, 31 December 2026, 05:30*
+## New Year’s Eve in Germany: Police Call It “State of War”  
 
-In Yemen the confrontation between Riyadh and Abu Dhabi intensifies. Meanwhile the weak Yemeni central government fragments – new fighting threatens South Arabia.
+[Blick](https://www.blick.ch/ausland/kriegszustand-ueble-silvester-krawalle-in-mehreren-deutschen-staedten-chaoten-beschiessen-polizisten-mit-raketen-id21560976.html) • _Wednesday, December 31 2026, 23:36 UTC_  
 
-Hours after the Saudi‑led strike on Mukalla, smoke still rises over the silos of the southern Yemen port. The air attack by the Saudi‑led military alliance marks the provisional peak of an escalation that ... [read more](https://www.nzz.ch/international/saudiarabien-bombardiert-einen-hafen-in-jemen-und-erzwingt-den-abzug-der-emirate-aus-dem-buergerkriegsland-was-steckt-dahinter-ld.1918417)
+Rocket attacks and insults replace celebratory mood: Germany again faces New Year’s‑Eve riots. In Munich, Hamburg and Berlin, uniformed officers and passers‑by are attacked with fireworks. Police demand stricter laws against the rising violence.  
 
-> Relevance score: [5] – Escalation of the Yemen civil war has humanitarian and regional security implications, which are globally relevant, though the immediate impact on Switzerland is indirect.
+Daniel Kestenholz, Night‑Shift Editor  
+Annual New‑Year’s‑Eve riots: Germany is again in a «state of war» at the turn of the year, says the head of the German Federal Police union. «In some places we...» [read more](https://www.blick.ch/ausland/kriegszustand-ueble-silvester-krawalle-in-mehreren-deutschen-staedten-chaoten-beschiessen-polizisten-mit-raketen-id21560976.html)  
 
-## TCM studies demonstrate molecular action against cancer
+> Relevance score: [4] – Highlights a surge in violence during New Year’s celebrations in Germany and calls for stricter laws. While relevant for public‑safety debates in Europe, the impact on Switzerland is limited and the event is short‑term.  
 
-[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/tcm-studien-belegen-molekulare-wirkung-gegen-krebs/68442405) • *Tuesday, 30 December 2026, 23:27*
+## New Year’s 2025/2026 – Fireworks, Arrests and Chaos Across Europe  
 
-New research shows how traditional Chinese formulas break chemoresistance and specifically kill cancer cells. This paves the way for integration into Western treatment guidelines.
+[Swiss Radio and Television (SRF)](https://www.srf.ch/news/international/jahreswechsel-2025-2026-feiern-mit-feuerwerk-und-festnahmen-europa-startet-ins-2026) • _Thursday, January 1 2026, 03:53 UTC_  
 
-Traditional Chinese Medicine (TCM) now provides solid molecular evidence for its effectiveness in cancer therapy. Two new studies from China and the USA show how classic formulas break chemo‑resistance and target cancer ... [read more](https://www.ad-hoc-news.de/boerse/news/ueberblick/tcm-studien-belegen-molekulare-wirkung-gegen-krebs/68442405)
+The turn of the year unfolded chaotically in Germany and the Netherlands – with fires, attacks and fatalities.  
 
-> Relevance score: [5] – New scientific evidence for traditional Chinese medicine in cancer treatment could influence future medical guidelines worldwide; the impact is important but still early and not yet policy‑shaping.
+In Germany there were attacks on emergency services and several fires. Two 18‑year‑olds died in Bielefeld after accidents with homemade pyrotechnics. In Amsterdam the Vondel Church in the city centre burned down. The New Year’s celebrations in Germany were… [read more](https://www.srf.ch/news/international/jahreswechsel-2025-2026-feiern-mit-feuerwerk-und-festnahmen-europa-startet-ins-2026)  
 
-## Coop discount changes: What does this mean for other retailers and customers?
+> Relevance score: [3] – Describes a chaotic New Year’s night across parts of Germany and the Netherlands, highlighting safety issues. The events are regionally confined and do not constitute a structural change for Europe or Switzerland.  
 
-[20 Min](https://www.20min.ch/story/schluss-mit-50-prozent-coop-senkt-rabatte-so-sparst-du-bei-anderen-detailhaendlern-103477439) • *Tuesday, 30 December 2026, 19:19*
+## Supermicro Unveils High‑Density, Liquid‑ and Air‑Cooled 6U SuperBlade® with Intel® Xeon® 6900 Series for Maximum Performance and Efficiency  
 
-Coop lowers discounts on fresh products. What strategies are other retailers pursuing in the fight against food waste?
+[MarketScreener Switzerland](https://ch.marketscreener.com/boerse-nachrichten/supermicro-praesentiert-hochdichte-fluessigkeits-und-luftgekuehlte-6u-superblade-mit-intel-xeon-69-ce7e59d8d18ef127) • _Thursday, January 1 2026, 01:50 UTC_  
 
-Coop is adjusting its discount practice. Starting 6 January the retailer will grant a maximum of 40 percent discount on fresh products using the red stickers. Discounts will no longer be limited to the last few hours before closing but will be displayed earlier ... [read more](https://www.20min.ch/story/schluss-mit-50-prozent-coop-senkt-rabatte-so-sparst-du-bei-anderen-detailhaendlern-103477439)
+Supermicro, Inc. presents the latest addition to its SuperBlade family: the SBI‑622BA‑1NE12‑LCC, a high‑density, directly liquid‑cooled blade server powered by two Intel Xeon 6900 processors with up to 256 P‑cores. … [read more](https://ch.marketscreener.com/boerse-nachrichten/supermicro-praesentiert-hochdichte-fluessigkeits-und-luftgekuehlte-6u-superblade-mit-intel-xeon-69-ce7e59d8d18ef127)  
 
-> Relevance score: [5] – Changes to Coop’s discount policy affect Swiss consumers and may influence retail competition, offering moderate economic relevance within Switzerland.
+> Relevance score: [3] – A product launch in the high‑performance server market is of interest to the tech sector but represents a routine commercial announcement with limited broader economic or societal impact.  
 
-## Vitamin D: new study shows exercise is the key
+## Vitamin D May Prevent Telomere Shortening and Slow Cellular Aging  
 
-[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/vitamin-d-neue-studie-zeigt-bewegung-ist-der-schluessel/68442249) • *Tuesday, 30 December 2026, 21:03*
+[diepta.de](https://www.diepta.de/news/einfluss-auf-altersbedingte-erkrankungen-aktuelle-studie-zeigt-vitamin-d-kann-verkuerzung-der-telomerlaenge-vemindern-und-die-zellalterung-verlangsamen) • _Thursday, January 1 2026, 00:04 UTC_  
 
-A recent meta‑analysis proves that Vitamin D only exerts its full effect on muscles when combined with physical activity. Experts also warn against dangerous high‑dose trends on social media.
+Telomeres – natural protective structures at chromosome ends – preserve genetic stability. Over a lifetime they shorten through repeated cell divisions, a central marker of biological aging linked to higher risk of many diseases, such as cardiovascular, respiratory illnesses or diabetes mellitus.1,2  
 
-The new study shows: Vitamin D alone does little – only with exercise does it unleash its full power. At the same time, experts warn about risky high‑dose trends spreading via social media.  
-A timely meta‑analysis ... [read more](https://www.ad-hoc-news.de/boerse/news/ueberblick/vitamin-d-neue-studie-zeigt-bewegung-ist-der-schluessel/68442249)
+Findings could also be relevant for holistic treatment of musculoskeletal disorders because telomere shortening is a marker of cellular aging and is associated with age‑related conditions… [read more](https://www.diepta.de/news/einfluss-auf-altersbedingte-erkrankungen-aktuelle-studie-zeigt-vitamin-d-kann-verkuerzung-der-telomerlaenge-vemindern-und-die-zellalterung-verlangsamen)  
 
-> Relevance score: [4] – A meta‑analysis on vitamin D and exercise adds to public‑health knowledge but is unlikely to cause immediate large‑scale policy or behavioral change.
+> Relevance score: [3] – Scientific findings on vitamin D and telomeres are potentially valuable for health research, but they do not have immediate, large‑scale societal or policy implications.  
 
-## Escalation instead of peace – analysis of the attack on Putin
+## Trump Withdraws National Guard from Several US Metropolises  
 
-[Blick](https://www.blick.ch/ausland/nach-der-propaganda-offensive-schwinden-die-hoffnungen-auf-frieden-wie-putin-mit-seiner-jammer-taktik-trump-um-den-finger-wickelt-id21558978.html) • *Tuesday, 30 December 2026, 20:18*
+[Blick](https://www.blick.ch/ausland/nach-gerichtsentscheid-trump-zieht-nationalgarde-aus-mehreren-us-metropolen-ab-id21560934.html) • _Wednesday, December 31 2026, 22:14 UTC_  
 
-Putin’s lament over an alleged attack on his residence destroys the budding hope for peace in Ukraine. Instead of de‑escalation, another escalation may come in the new year.
+The US president pulls the National Guard out of Chicago, Los Angeles and Portland. At the same time Trump warned that renewed violence would trigger another intervention.  
 
-Moscow denounces “state terrorism”.  
-The latest clash stems from a Kremlin report. On Monday Moscow claimed its air defence shot down 91 Ukrainian drones that targeted Putin’s forest residence in Nogród … [read more](https://www.blick.ch/ausland/nach-der-propaganda-offensive-schwinden-die-hoffnungen-auf-frieden-wie-putin-mit-seiner-jammer-taktik-trump-um-den-finger-wickelt-id21558978.html)
+Janine Enderli, News Editor  
+Surprising New‑Year’s news: In a statement on Truth Social, US President Donald Trump (79) announced the withdrawal of the National Guard from three major metros – Chicago, Los Angeles and Portland.  
+«We are…» [read more](https://www.blick.ch/ausland/nach-gerichtsentscheid-trump-zieht-nationalgarde-aus-mehreren-us-metropolen-ab-id21560934.html)  
 
-> Relevance score: [4] – Analysis of a claimed attack on Putin relates to the Ukraine conflict and geopolitical tensions; it provides insight but does not represent a concrete shift in policy.
+> Relevance score: [3] – An internal US security decision with limited ramifications beyond American domestic politics; it holds minimal relevance for Swiss or global structural issues.  
 
-## Small‑saver alert! First banks stop accepting coins
+## Church in Amsterdam Ignites During New‑Year’s Eve  
 
-[Blick](https://www.blick.ch/wirtschaft/das-sparschwein-ist-tot-erste-schweizer-banken-nehmen-kein-muenz-mehr-an-id21558109.html) • *Tuesday, 30 December 2026, 18:33*
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/letzte-boellernacht-in-niederlanden-eskaliert-kirche-in-amsterdam-in-flammen-ld.1918495) • _Thursday, January 1 2026, 04:21 UTC_  
 
-Depositing coins is becoming a test of patience: Some banks no longer accept small change, others charge hefty fees. Migros Bank completely rejects coins. At other banks savers must roll the change before they can deposit it.
+During New‑Year’s Eve the Vondel Church in Amsterdam burned. The tower collapsed, forcing many residents to evacuate their homes. Firefighters battled the flames.  
 
-Patrik Berger, Business Editor  
-The days between Christmas and New Year are perfect for a look at finances. Quickly it becomes clear: a lot of coins have accumulated. So off to the bank! If you want to deposit them, … [read more](https://www.blick.ch/wirtschaft/das-sparschwein-ist-tot-erste-schweizer-banken-nehmen-kein-muenz-mehr-an-id21558109.html)
+(dpa) In Amsterdam a large church caught fire on New‑Year’s Eve. The tower of the Vondel Church in the capital’s centre collapsed, authorities said. A large number of nearby apartments were evacuated… [read more](https://www.nzz.ch/international/letzte-boellernacht-in-niederlanden-eskaliert-kirche-in-amsterdam-in-flammen-ld.1918495)  
 
-> Relevance score: [4] – Bank policy changes regarding coin deposits affect everyday savers in Switzerland; while notable for personal finance, the systemic impact is modest.
+> Relevance score: [2] – A local fire in Amsterdam causing building collapse and evacuations is a significant incident for the city but has little structural or long‑term impact beyond the Netherlands and no direct relevance to Switzerland or global affairs.  
 
-## European heads of state warn behind the scenes about Ukraine
+## Smartphone Becomes Digital Lifesaver on New Year’s Eve  
 
-[Nau.ch](https://www.nau.ch/news/europa/europaische-staatschefs-warnen-hinter-kulissen-ukraine-67080572) • *Wednesday, 31 December 2026, 03:20*
+[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/smartphone-wird-zur-digitalen-lebensretterin-an-silvester/68445915) • _Wednesday, December 31 2026, 22:52 UTC_  
 
-Before the meeting with Trump, European heads of state warned Zelensky. He should be careful and not go too far. At the same time Macron demands more speed.
+The latest iOS 19 and Android 16 operating systems provide enhanced emergency data and a new warning function via Cell Broadcast to boost safety on New Year’s Eve.  
 
-Etienne Sticher  
-Germany, 31.12.2025 – 03:20  
-Before the meeting with Trump European heads of state warned Zelensky. He should be careful and not go too far. At the same time Macron demands more speed.  
-The most important points … [read more](https://www.nau.ch/news/europa/europaische-staatschefs-warnen-hinter-kulissen-ukraine-67080572)
+During the night the smartphone becomes the most important digital companion. Users should especially check one feature: the medical emergency card. With the recent updates in iOS 19 and Android 16 and the new warning function… [read more](https://www.ad-hoc-news.de/boerse/news/ueberblick/smartphone-wird-zur-digitalen-lebensretterin-an-silvester/68445915)  
 
-> Relevance score: [3] – Behind‑the‑scenes diplomatic warnings concerning Ukraine are of some political interest but lack concrete policy changes or broad impact; relevance to Swiss citizens is modest.
-
-## Coup in Gelsenkirchen: armored robbers still on the run
-
-[Blick](https://www.blick.ch/ausland/spektakulaerer-millionen-coup-in-gelsenkirchen-panzerknacker-auf-der-flucht-bankkunden-in-panik-id21559411.html) • *Wednesday, 31 December 2026, 05:49*
-
-In Gelsenkirchen unknown perpetrators broke into a savings bank branch and emptied 3 250 safety deposit boxes. The loot could exceed €30 million. Police are searching for the masked thieves and analysing video footage from the parking garage.
-
-After the spectacular multi‑million euro heist in a Gelsenkirchen savings‑bank branch, police are hunting the fleeing armored robbers. They apparently used a special drill over the weekend to bore into the vault and then emptied almost all of the 3 250 … [read more](https://www.blick.ch/ausland/spektakulaerer-millionen-coup-in-gelsenkirchen-panzerknacker-auf-der-flucht-bankkunden-in-panik-id21559411.html)
-
-> Relevance score: [2] – A spectacular bank robbery in Germany involving €30 million is noteworthy but has limited structural or civic impact beyond local security concerns and does not affect Swiss or global systems.
-
-## Train accident in Peru – collision of two trains near Machu Picchu, one fatality
-
-[Swiss Radio and Television](https://www.srf.ch/news/international/zugungueck-in-peru-kollision-zweier-zuege-bei-machu-picchu-ein-todesopfer) • *Wednesday, 31 December 2026, 01:17*
-
-Two trains collided head‑on near the Inca ruin city of Machu Picchu. Dozens are injured.
-
-Two trains in southern Peru collided head‑on, police and the railway operator reported. Several people were injured. Media currently report one fatality. The accident occurred on the line … [read more](https://www.srf.ch/news/international/zugungueck-in-peru-kollision-zweier-zuege-bei-machu-picchu-ein-todesopfer)
-
-> Relevance score: [2] – A train accident in Peru is a tragic local event with no direct effect on Swiss or global systems beyond occasional news interest.
-
-## Fire in Beringen: recycling plant ablaze – Alertswiss warns of smoke
-
-[20 Min](https://www.20min.ch/story/beringen-schaffhausen-brand-bei-recyclinganlage-alertswiss-warnt-vor-rauch-103478119) • *Tuesday, 30 December 2026, 20:28*
-
-In Beringen, Schaffhausen, a recycling plant is on fire. Residents are advised to close windows to avoid smoke.
-
-Published 30 December 2025, 20:28  
-Beringen SH: Fire at recycling plant – Alertswiss warns of smoke  
-On Tuesday evening a fire broke out at a recycling plant in Beringen. Police confirm the incident.  
-Here’s what’s happening … [read more](https://www.20min.ch/story/beringen-schaffhausen-brand-bei-recyclinganlage-alertswiss-warnt-vor-rauch-103478119)
-
-> Relevance score: [2] – A local industrial fire poses short‑term health concerns for nearby residents but lacks broader structural impact.
-
-## Eurostar outage frustrates travelers: New Year’s plans go down the drain
-
-[20 Min](https://www.20min.ch/story/paris-alles-bricht-zusammen-eurostar-ausfall-frustriert-reisende-103478055) • *Tuesday, 30 December 2026, 19:47*
-
-A power outage in the Eurotunnel halted Eurostar traffic and frustrated travelers at Paris’s Gare du Nord.
-
-A power outage in the Channel tunnel on Tuesday stopped Eurostar services. The disappointment at Paris’s Gare du Nord is huge: “Le Parisien” spoke to several affected people about their ruined New‑Year plans.  
-“I … [read more](https://www.20min.ch/story/paris-alles-bricht-zusammen-eurostar-ausfall-frustriert-reisende-103478055)
-
-> Relevance score: [2] – A transport disruption affecting travelers in Europe is inconvenient but limited in scope and impact on Swiss or global systems.
-
-## Brigitte Bardot: Le Pen attends funeral – Macron stays away
-
-[Watson](https://www.watson.ch/international/frankreich/271944961-brigitte-bardot-le-pen-kommt-zur-beerdigung-macron-bleibt-fern) • *Wednesday, 31 December 2026, 04:56*
-
-French far‑right politician Marine Le Pen will attend the funeral of Brigitte Bardot. Another statesman will not.
-
-French far‑right politician Marine Le Pen will attend the funeral of Brigitte Bardot. Another statesman will not.  
-Marine Le Pen, three‑time presidential candidate, will be present … [read more](https://www.watson.ch/international/frankreich/271944961-brigitte-bardot-le-pen-kommt-zur-beerdigung-macron-bleibt-fern)
-
-> Relevance score: [1] – A celebrity funeral with political attendance is primarily gossip‑level and holds little civic or structural significance for either global or Swiss audiences.
+> Relevance score: [2] – Describes new mobile‑OS safety features for a specific occasion. Useful for consumers but does not constitute a structural change or broader societal impact.  
 
 </details>

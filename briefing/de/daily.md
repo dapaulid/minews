@@ -2,231 +2,145 @@
 
 ---
 
-_Aktualisiert: Mittwoch, 31. Dezember 2026, 18:22 Uhr_
+_Aktualisiert: Donnerstag, 1. Januar 2026, 18:22 Uhr_
 
-## Politiker verschweigen Lobby-Vergütungen: Ist das ein Problem oder nicht?
+## Darum waren die Aktien aufgespaltener Unternehmen 2025 so begehrt
 
-[20 Min](https://www.20min.ch/story/lobbywatch-kritik-20-nebenjobs-aber-beim-lohn-bleiben-viele-politiker-stumm-103477500) • _Dienstag, 30. Dezember 2026, 21:00 Uhr_
+[Watson](https://www.watson.ch/international/usa/416927628-darum-waren-die-aktien-aufgespaltener-unternehmen-2025-so-begehrt) • _Mittwoch, 31. Dezember 2026, 22:23 Uhr_
 
-Ein neuer Bericht von Lobbywatch zeigt, dass viele Politiker ihre Nebeneinkünfte nicht offenlegen. Mitte-Ständerat Erich Ettlin erklärt, warum das kein Problem sei für ihn.
+Die Schweiz und ihre Hidden-Champions aus dem Mittelstand bezahlen einen hohen Preis für Trumps neuen Protektionismus.
 
-### Ergebnisse des Lobbywatch-Berichts
-- Der jährliche Bericht von **[Lobbywatch](https://de.wikipedia.org/wiki/Lobbywatch)** zeigt, dass rund **¾ der Parlamentarier** bezahlte Nebentätigkeiten (z. B. in Verwaltungsräten oder Verbänden) ausüben, aber die Vergütungen häufig nicht offenlegen.  
-- Gesetzlich müssen Parlamentarier nur angeben, ob ein Mandat bezahlt oder ehrenamtlich ist – nicht die konkrete Höhe.  
-- **Transparenz‑Statistik**:  
-  - **56 %** geben mindestens die Vergütung eines Mandates an.  
-  - **44 %** verheimlichen sämtliche Vergütungen.  
-  - Nur **27 %** sind vollständig transparent (alle Einkünfte offen).
+### Marktperformance 2025  
+- Der **Swiss Market Index** ([SMI](https://en.wikipedia.org/wiki/Swiss_Market_Index)) erzielte 2025 eine Jahresrendite von rund **14 %** (ohne Dividenden), während der breitere **Swiss Leader Index** ([SLI](https://en.wikipedia.org/wiki/Swiss_Leader_Index)) um **12 %** zulegte.  
+- Der **Swiss Performance Index** ([SPI](https://en.wikipedia.org/wiki/Swiss_Performance_Index)) wuchs im Jahresverlauf um **ca. 18 %** inkl. Dividenden, jedoch gab es **118 Gewinner‑Aktien** gegenüber **88 Verlierern**, was ein schlechtes Verhältnis von **0,75 Verlierer pro Gewinner** bedeutet.  
+- Im SLI‑Index lag das Gegenstück bei **23 Gewinner‑ und nur 9 Verlierer‑Titeln**, was die relative Stärke großer, global agierender Unternehmen verdeutlicht.
 
-### Unterschiede nach Parteien
-- **[Die Grünen](https://de.wikipedia.org/wiki/Die_Grünen)**:  
-  - 88 % weisen ihre Mandate ganz oder teilweise aus.  
-  - 68 % der Fraktionsmitglieder sind komplett transparent.  
-- **[Freie Demokratische Partei (FDP)](https://de.wikipedia.org/wiki/Freie_Demokraten)**:  
-  - Rund **36 %** geben Angaben zu Nebeneinkünften.  
-  - Kein Fraktionsmitglied legt alle Einkünfte offen.  
-- Andere Parteien liegen dazwischen (genaue Werte im Bericht).
+### Auswirkungen von Trumps Zollpolitik  
+- Nach dem ersten **Zollhammer** von **Donald Trump** im April 2025 wurden die USA zu einem stark protektionistischen Markt; die daraufhin erhöhten US‑Importzölle waren mehr als doppelt so hoch wie jene der EU.  
+- Schweizer Branchen, die stark vom Export abhängig sind, litten:  
+  - **Pharmaindustrie** – zunächst verschont, später stark betroffen.  
+  - **Uhrenindustrie** – sah sich plötzlich mit einer „Luxussteuer“-ähnlichen Belastung konfrontiert.  
+  - **Maschinen‑, Elektro‑ und Metallindustrie** – verlor die Fähigkeit, dank des starken Frankens und präziser Kalkulationen wettbewerbsfähig zu bleiben.  
+- Obwohl die Zölle seit Mitte November 2025 wieder gelockert wurden, hinterließen die Sommermonate langfristige Spuren im Schweizer Markt.
 
-### Die intransparentesten Politiker
-- **[Peter Schilliger](https://de.wikipedia.org/wiki/Peter_Schilliger_(Politiker))** (FDP‑Nationalrat):  
-  - hält **20 Mandate** – höchster Wert im Parlament.  
-  - bei **19 Mandaten** schweigt er über die Vergütung.  
-- **[Erich Ettlin](https://de.wikipedia.org/wiki/Erich_Ettlin)** (Mitte‑Ständerat):  
-  - besitzt **15 Mandate** und gibt keine Vergütungsdetails preis.  
-- **[Lorenz Hess](https://de.wikipedia.org/wiki/Lorenz_Hess)** (Mitte‑Nationalrat, **Visana**‑Verwaltungsratspräsident):  
-  - 16 bezahlte Mandate (davon 10 bei Visana), von denen nur zwei offengelegt sind.
+### Warum gespaltene Unternehmen 2025 besonders gefragt waren  
+- Unternehmen, die in den letzten Jahren **aufgeteilt** wurden, erzielten überdurchschnittliche Kursgewinne, weil sie von ihrer neu gewonnenen Flexibilität und der Konzentration auf Kernmärkte profitieren konnten.  
+- **Holcim** (ehemaliger **Holcim‑Cement**‑Konzern) – nach der Abspaltung des nordamerikanischen Geschäfts **Amrize** im Juni 2025 – verzeichnete einen Kursanstieg von **über 70 %** und rangierte damit weit oben in der Performance‑Liste der 32 größten Schweizer Unternehmen.  
+- Analysten sehen Potenzial in Südamerika und Asien sowie in Europa, obwohl das kommende EU‑CO₂‑Emissionssystem die Zementbranche vor zusätzliche Kosten stellt; die begrenzte Verfügbarkeit von **Emissionszertifikaten** könnte jedoch Preiserhöhungen ermöglichen, von denen Holcim profitieren könnte.
 
-### Begründung von Erich Ettlin
-- **Berufliche Struktur**:  
-  - Der Großteil seines Einkommens als **Steuerberater** wird über seine Arbeitgeberin **[BDO AG](https://de.wikipedia.org/wiki/BDO_AG)** abgewickelt, insbesondere VR‑Mandate für Kunden.  
-  - In Lobbywatch‑Daten werden diese Tätigkeiten als „Mandate“ ausgewiesen.  
-- **Offenlegungsskepsis**:  
-  - Ettlin argumentiert, dass die Veröffentlichung der Vergütungen indirekt das Einkommen seiner Arbeitgeberin offenbaren würde.  
-  - Er sieht keine Notwendigkeit, konkrete Beträge zu nennen, solange klar ist, ob ein Mandat bezahlt ist.  
-- **Nutzen der Nebentätigkeiten**:  
-  - Mitglied im Verwaltungsrat von **[CSS](https://de.wikipedia.org/wiki/CSS_Versicherung)** und im Zentralvorstand von **[Spitex](https://de.wikipedia.org/wiki/Spitex)**.  
-  - Diese Rollen helfen ihm, das Gesundheitssystem besser zu verstehen und Probleme zu identifizieren – ein Mehrwert für seine parlamentarische Arbeit.  
+### Weitere Beispiele erfolgreicher Spaltungen  
+- **Galderma** – ursprünglich Teil von **Nestlé** ([Nestlé](https://en.wikipedia.org/wiki/Nestl%C3%A9)) bis 2014, dann an den schwedischen Finanzinvestor **EQT** verkauft, wurde 2024 an die Börse gebracht und profitierte von größerer unternehmerischer Freiheit.  
+- **Sandoz** – nach der Abspaltung von **Novartis** ([Novartis](https://en.wikipedia.org/wiki/Novartis)) im Oktober 2023 steigerte seine Performance kontinuierlich.  
 
-### Forderungen von Lobbywatch
-- **Gesetzliche Verpflichtung**: Lobbywatch verlangt ein Gesetz, das Parlamentarier zwingt, sämtliche Nebeneinkünfte (inkl. Höhe) offenzulegen.  
-- Ziel: Bürgerinnen und Bürger sollen erkennen können, welche wirtschaftlichen Interessen im Parlament vertreten werden und wo potenzielle Interessenkonflikte bestehen.  
+### Ausblick: Weitere Spaltungen und Kontroversen  
+- Der SVP‑Veteran **Christoph Blocher** ([Christoph Blocher](https://en.wikipedia.org/wiki/Christoph_Blocher)) hat die Idee einer Aufspaltung der **UBS** ([UBS](https://en.wikipedia.org/wiki/UBS)) diskutiert, um das US‑Geschäft zu trennen, Risiken zu reduzieren und das Eigenkapital zu stärken.  
+  - Das UBS‑Management warnt vor einem **„massiven Wertverlust für alle Anspruchsgruppen“**, während Befürworter von Blocher einen Mehrwert für Investoren erwarten.  
+- Die bisherigen Erfahrungen mit Unternehmensspaltungen zeigen jedoch, dass **„1 minus 1 ergibt mehr als null“** – also dass die Summe der getrennten Einheiten größer sein kann als das ursprüngliche Gesamtkonstrukt.
 
-> Relevance score: [7] - Revealing gaps in disclosure of politicians’ side‑payments touches on Swiss democratic transparency and could spur legislative or public scrutiny; therefore relatively high relevance.
-
-## WEF in Davos: Diese Gefahren drohen Davoser Weltwirtschaftsgipfel
-
-[Blick](https://www.blick.ch/wirtschaft/sicherheitschef-walter-schlegel-nennt-die-groessten-gefahren-fuers-wef-verschaerfte-bedrohungslage-in-davos-auch-wegen-trump-besuch-id21557616.html) • _Dienstag, 30. Dezember 2026, 23:55 Uhr_
-
-Noch dauert es drei Wochen, bis das WEF in Davos beginnt. Doch im Hintergrund laufen die Vorbereitungen längst, gerade im Sicherheitsbereich, wie der Sicherheitschef des Weltwirtschaftsforums, Walter Schlegel, im Gespräch mit Blick verrät.
-
-### Teilnehmer und Vorbereitung
-- **Donald Trump** ([Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)) bestätigt seine dritte Teilnahme am **World Economic Forum** ([World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum)) in **Davos** ([Davos](https://en.wikipedia.org/wiki/Davos)).
-- Bereits Wochen vor dem Gipfel sind erste amerikanische Delegationen in der Schweiz eingetroffen.
-- Auf der US‑Seite sind etwa **800 Personen** in die Vorbereitung von Trumps Besuch involviert.
-- Das Kerosin für die US‑Helikopter (und ggf. für **Air Force One**) wird direkt von der **Ramstein Air Base** ([Ramstein Air Base](https://en.wikipedia.org/wiki/Ramstein_Air_Base)) in Deutschland angeliefert.
-- Amerikanische Teams haben eigene Autos, Hotelzimmer und Sicherheitsausrüstung gemietet und führen vor Ort Erkundungen durch.
-- Vier Vorbereitungstreffen zwischen dem Schweizer **Secret Service** ([United States Secret Service](https://en.wikipedia.org/wiki/United_States_Secret_Service)) und den lokalen Behörden wurden bereits abgehalten.
-
-### Sicherheitsmaßnahmen und Kosten
-- Der Sicherheitschef des WEF, **Walter Schlegel**, Kommandant der **Kantonspolizei Graubünden** ([Kantonspolizei Graubünden](https://de.wikipedia.org/wiki/Kantonspolizei_Graub%C3%BCnden)), leitet das Einsatzteam.
-- Aufgrund des US‑Präsidenten‑Besuchs ist der Personalbedarf der Polizei leicht erhöht.
-- Die Schweiz definiert strikt, wer Waffen tragen darf und an welchen Orten – um Verwirrung bei mehreren Delegationen zu vermeiden.
-- Das gesamte Sicherheitsdispositiv kostet rund **9 Millionen Schweizer Franken**.
-- Ziel der Maßnahmen ist sowohl Schutz als auch abschreckende Wirkung.
-
-### Terror‑ und Drohnengefahr
-- Seit 2015 wird die Terrorbedrohung für das WEF als **hoch** eingestuft.
-- Besondere Aufmerksamkeit gilt:
-  - **Drohnenschutz**: Langjährige Radar‑ und Abwehrsysteme sind installiert; ständige Weiterentwicklung der Erkennungs‑ und Abwehrtechnologien.
-  - **Einzeltäter** und **kleinere Gruppen**, die mit einfachen Mitteln (z. B. Selbstmordanschläge) operieren könnten.
-- Das Sicherheitspersonal strebt an, stets einen Schritt voraus zu sein.
-
-### Proteste und weitere Risiken
-- Friedliche Proteste sind in Davos grundsätzlich erlaubt, jedoch binden ungeplante Aktionen (z. B. **Greenpeace**‑Demonstration 2025) zusätzliche Polizeikräfte.
-- Die Behörden betonen, dass friedliche Demonstrationen zulässig sind, solange sie nicht die Sicherheit des Gipfels gefährden.
-
-### Ausblick
-- Kurz vor dem Gipfel („16. Januar“, drei Tage vor Beginn) wird Walter Schlegel weitere Details zur Sicherheitslage auf einer Medienkonferenz in Davos präsentieren.
-
-> Relevance score: [6] - Security preparations for the World Economic Forum in Davos directly concern Switzerland’s international profile and the safety of global leaders, giving it moderate to high relevance.
+> Relevance score: [6] - Analyzes how U.S. protectionist policies affect Swiss mid‑size “hidden champion” companies and their stock market performance, directly touching on Swiss economic interests and investor behaviour.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Jemen: neue Kämpfe im Bürgerkriegsland
+## Nach CIA-Meldung: Trump teilt russland- und putinfeindlichen Artikel
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/saudiarabien-bombardiert-einen-hafen-in-jemen-und-erzwingt-den-abzug-der-emirate-aus-dem-buergerkriegsland-was-steckt-dahinter-ld.1918417) • _Mittwoch, 31. Dezember 2026, 05:30 Uhr_
+[Watson](https://www.watson.ch/international/ukraine/644597745-nach-cia-meldung-trump-teilt-russland-und-putinfeindlichen-artikel) • _Donnerstag, 1. Januar 2026, 04:02 Uhr_
 
-In Jemen spitzt sich die Konfrontation zwischen Riad und Abu Dhabi zu. Derweil zersplittert die schwache jemenitische Zentralregierung – es drohen neue Kämpfe in Südarabien.
+Laut dem US-Geheimdienst gab es keinen Angriff der Ukraine, auf Putins Residenz. Bei Donald Trump hat die Meldung womöglich einen Sinneswandel ausgelöst.
 
-Stunden nach dem saudisch geführten Angriff auf Mukalla steigt immer noch Rauch über den Silos des südjemenitischen Hafens auf. Der Luftangriff der von Saudiarabien geführten Militärallianz markiert den vorläufigen Höhepunkt einer Eskalation, die wei... [weiterlesen](https://www.nzz.ch/international/saudiarabien-bombardiert-einen-hafen-in-jemen-und-erzwingt-den-abzug-der-emirate-aus-dem-buergerkriegsland-was-steckt-dahinter-ld.1918417)
+Laut dem US-Geheimdienst gab es keinen Angriff der Ukraine, der auf Putins Residenz gezielt hätte. Bei Donald Trump hat die Meldung womöglich einen weiteren Sinneswandel ausgelöst.
+Inmitten der Verhandlungen um ein Ende des Ukraine-Kriegs hat US-Präs... [weiterlesen](https://www.watson.ch/international/ukraine/644597745-nach-cia-meldung-trump-teilt-russland-und-putinfeindlichen-artikel)
 
-> Relevance score: [5] - Escalation of the Yemen civil war has humanitarian and regional security implications, which are globally relevant, though the immediate impact on Switzerland is indirect.
+> Relevance score: [5] - The report touches on US intelligence, the Ukraine conflict and potential shifts in US policy, which have moderate global significance. However the article is vague and the concrete impact on Swiss interests is limited.
 
-## TCM-Studien belegen molekulare Wirkung gegen Krebs
+## Südkoreas Exporte übertreffen im Dezember die Prognosen und schließen 2025 mit Rekordwert ab
 
-[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/tcm-studien-belegen-molekulare-wirkung-gegen-krebs/68442405) • _Dienstag, 30. Dezember 2026, 23:27 Uhr_
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/suedkoreas-exporte-uebertreffen-im-dezember-die-prognosen-und-schliessen-2025-mit-rekordwert-ab-ce7e59d8d18ef624) • _Donnerstag, 1. Januar 2026, 01:11 Uhr_
 
-Neue Forschungsergebnisse zeigen, wie traditionelle chinesische Rezepturen Chemoresistenzen brechen und gezielt Krebszellen abtöten. Dies ebnet den Weg für eine Integration in westliche Behandlungsleitlinien.
+Südkoreas Exporte sind im Dezember den siebten Monat in Folge gestiegen und haben das Jahr 2025 mit einem Rekord abgeschlossen, da die Ausfuhren erstmals die Marke von 700 Milliarden US-Dollar...
+-Am 01. Januar 2026 um 01:11 Uhr
+- MarketScreener Schweiz
 
-Die Traditionelle Chinesische Medizin (TCM) liefert erstmals handfeste molekulare Beweise für ihre Wirksamkeit in der Krebstherapie. Zwei neue Studien aus China und den USA zeigen, wie klassische Rezepturen Chemo-Resistenzen brechen und gezielt Krebs... [weiterlesen](https://www.ad-hoc-news.de/boerse/news/ueberblick/tcm-studien-belegen-molekulare-wirkung-gegen-krebs/68442405)
+Südkoreas Exporte sind im Dezember den siebten Monat in Folge gestiegen und haben das Jahr 2025 mit einem Rekord abgeschlossen, da die Ausfuhren erstmals die Marke von 700 Milliarden US-Dollar überschritten haben, wie Regierungsdaten am Donnerstag ze... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/suedkoreas-exporte-uebertreffen-im-dezember-die-prognosen-und-schliessen-2025-mit-rekordwert-ab-ce7e59d8d18ef624)
 
-> Relevance score: [5] - New scientific evidence for traditional Chinese medicine in cancer treatment could influence future medical guidelines worldwide; the impact is important but still early and not yet policy‑shaping.
+> Relevance score: [4] - Record export figures for South Korea are notable for global trade statistics and may affect market sentiment, yet the direct relevance to Swiss economic policy or society is modest.
 
-## Rabattänderungen bei Coop: Was bedeutet das für andere Detailhändler und Kunden?
+## Silvester in Deutschland: Polizei spricht von "Kriegszustand"
 
-[20 Min](https://www.20min.ch/story/schluss-mit-50-prozent-coop-senkt-rabatte-so-sparst-du-bei-anderen-detailhaendlern-103477439) • _Dienstag, 30. Dezember 2026, 19:19 Uhr_
+[Blick](https://www.blick.ch/ausland/kriegszustand-ueble-silvester-krawalle-in-mehreren-deutschen-staedten-chaoten-beschiessen-polizisten-mit-raketen-id21560976.html) • _Mittwoch, 31. Dezember 2026, 23:36 Uhr_
 
-Coop senkt die Rabatte auf Frischprodukte. Welche Strategien verfolgen andere Detailhändler im Kampf gegen Food Waste?
+Raketenangriffe und Beleidigungen statt Feierlaune: Deutschland kämpft erneut mit Silvester-Randalen. In München, Hamburg und Berlin werden Uniformierte und Passanten mit Knallkörpern attackiert. Die Polizei fordert schärfere Gesetze gegen die zunehmende Gewalt.
 
-Coop passt seine Rabattpraxis an. Ab dem 6. Januar gewährt der Detailhändler auf Frischprodukte maximal noch 40 Prozent Rabatt auf den roten Stickern. Dafür sollen Rabatte nicht mehr nur wenige Stunden vor Ladenschluss, sondern auch früher ausgewiese... [weiterlesen](https://www.20min.ch/story/schluss-mit-50-prozent-coop-senkt-rabatte-so-sparst-du-bei-anderen-detailhaendlern-103477439)
+Daniel KestenholzRedaktor Nachtdienst
+Alljährliche Silvester-Randale: Deutschland befindet sich am Jahreswechsel wieder im «Kriegszustand», wie der Gewerkschaftschef der deutschen Bundespolizei sagt. «Stellenweise hatte man an gewissen Punkten unsere... [weiterlesen](https://www.blick.ch/ausland/kriegszustand-ueble-silvester-krawalle-in-mehreren-deutschen-staedten-chaoten-beschiessen-polizisten-mit-raketen-id21560976.html)
 
-> Relevance score: [5] - Changes to Coop’s discount policy affect Swiss consumers and may influence retail competition, offering moderate economic relevance within Switzerland.
+> Relevance score: [4] - Highlights a surge in violence during New Year's celebrations in Germany and calls for stricter laws. While relevant for public safety debates in Europe, the impact on Switzerland is limited and the event is short‑term.
 
-## Vitamin D: Neue Studie zeigt, Bewegung ist der Schlüssel
+## Jahreswechsel 2025/2026 - Feiern mit Feuerwerk und Festnahmen: Europa startet ins 2026
 
-[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/vitamin-d-neue-studie-zeigt-bewegung-ist-der-schluessel/68442249) • _Dienstag, 30. Dezember 2026, 21:03 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/jahreswechsel-2025-2026-feiern-mit-feuerwerk-und-festnahmen-europa-startet-ins-2026) • _Donnerstag, 1. Januar 2026, 03:53 Uhr_
 
-Eine aktuelle Meta-Analyse belegt, dass Vitamin D erst in Kombination mit körperlicher Aktivität seine volle Wirkung auf Muskeln entfaltet. Experten warnen zudem vor gefährlichen Hochdosis-Trends aus sozialen Medien.
+Der Jahreswechsel verlief in Deutschland und den Niederlanden teils chaotisch – mit Bränden, Angriffen und Todesfällen.
 
-Eine neue Studie belegt: Vitamin D allein wirkt kaum – erst mit Bewegung entfaltet es seine volle Kraft. Gleichzeitig warnen Experten vor gefährlichen Hochdosis-Trends aus den sozialen Medien.
-Pünktlich zum Jahreswechsel sorgt eine Meta-Analyse im Br... [weiterlesen](https://www.ad-hoc-news.de/boerse/news/ueberblick/vitamin-d-neue-studie-zeigt-bewegung-ist-der-schluessel/68442249)
+In Deutschland kam es zu Angriffen auf Einsatzkräfte und mehreren Bränden.
+Zwei 18-Jährige starben in Bielefeld bei Unfällen mit selbstgebauter Pyrotechnik.
+In Amsterdam brennt die Vondelkirche im Stadtzentrum.
+Der Jahreswechsel in Deutschland war ge... [weiterlesen](https://www.srf.ch/news/international/jahreswechsel-2025-2026-feiern-mit-feuerwerk-und-festnahmen-europa-startet-ins-2026)
 
-> Relevance score: [4] - A meta‑analysis on vitamin D and exercise adds to public‑health knowledge but is unlikely to cause immediate large‑scale policy or behavioral change.
+> Relevance score: [3] - Describes a chaotic New Year’s night across parts of Germany and the Netherlands, highlighting safety issues. The events are regionally confined and do not constitute a structural change for Europe or Switzerland.
 
-## Eskalation statt Frieden – Analyse zum Angriff auf Putin
+## Supermicro präsentiert hochdichte, flüssigkeits- und luftgekühlte 6U SuperBlade® mit Intel® Xeon® 6900 Serie für maximale Leistung und Effizienz
 
-[Blick](https://www.blick.ch/ausland/nach-der-propaganda-offensive-schwinden-die-hoffnungen-auf-frieden-wie-putin-mit-seiner-jammer-taktik-trump-um-den-finger-wickelt-id21558978.html) • _Dienstag, 30. Dezember 2026, 20:18 Uhr_
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/supermicro-praesentiert-hochdichte-fluessigkeits-und-luftgekuehlte-6u-superblade-mit-intel-xeon-69-ce7e59d8d18ef127) • _Donnerstag, 1. Januar 2026, 01:50 Uhr_
 
-Putins Wehklagen wegen eines angeblichen Angriffs auf seine Residenz vernichtet die aufkeimende Hoffnung auf einen Frieden in der Ukraine. Statt Entspannung könnte es im Neuen Jahr eine weitere Eskalation geben.
+Supermicro, Inc. stellt die neueste Ergänzung seiner SuperBlade-Familie vor: den SBI-622BA-1NE12-LCC, einen hochdichten, direkt flüssigkeitsgekühlten Blade-Server, der von zwei Intel Xeon 6900...
 
-Moskau kritisiert «Staatsterrorismus»
-Ursprung der jüngsten Auseinandersetzung ist eine Meldung aus dem Kreml. Am Montag behauptete Moskau, dass die russische Luftabwehr 91 ukrainische Drohnen abgeschossen habe, die Putins Waldai-Residenz in Nowgorod... [weiterlesen](https://www.blick.ch/ausland/nach-der-propaganda-offensive-schwinden-die-hoffnungen-auf-frieden-wie-putin-mit-seiner-jammer-taktik-trump-um-den-finger-wickelt-id21558978.html)
+Supermicro, Inc. stellt die neueste Ergänzung seiner SuperBlade-Familie vor: den SBI-622BA-1NE12-LCC, einen hochdichten, direkt flüssigkeitsgekühlten Blade-Server, der von zwei Intel Xeon 6900 Prozessoren mit bis zu 256 P-Kernen angetrieben wird. Die... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/supermicro-praesentiert-hochdichte-fluessigkeits-und-luftgekuehlte-6u-superblade-mit-intel-xeon-69-ce7e59d8d18ef127)
 
-> Relevance score: [4] - Analysis of a claimed attack on Putin relates to the Ukraine conflict and geopolitical tensions; it provides insight but does not represent a concrete shift in policy.
+> Relevance score: [3] - A product launch in the high‑performance server market is of interest to the tech sector but represents a routine commercial announcement with limited broader economic or societal impact.
 
-## Kleinsparer aufgepasst! Erste Banken nehmen kein Münz mehr an
+## Vitamin D kann Verkürzung der Telomerlänge vemindern und die Zellalterung verlangsamen
 
-[Blick](https://www.blick.ch/wirtschaft/das-sparschwein-ist-tot-erste-schweizer-banken-nehmen-kein-muenz-mehr-an-id21558109.html) • _Dienstag, 30. Dezember 2026, 18:33 Uhr_
+[diepta.de](https://www.diepta.de/news/einfluss-auf-altersbedingte-erkrankungen-aktuelle-studie-zeigt-vitamin-d-kann-verkuerzung-der-telomerlaenge-vemindern-und-die-zellalterung-verlangsamen) • _Donnerstag, 1. Januar 2026, 00:04 Uhr_
 
-Münzen einzahlen wird zur Geduldsprobe: Gewisse Banken akzeptieren gar kein Kleingeld mehr, andere erheben saftige Gebühren. Die Migros Bank lehnt Münz komplett ab. Bei anderen Banken müssen Sparer das Kleingeld mühsam rollen, bevor sie es aufs Konto einzahlen können.
+Telomere – die natürlichen Schutzstrukturen an Chromosomenenden – bewahren die Stabilität des Erbguts. Im Verlauf des Lebens werden sie durch wiederholte Zellteilungen kürzer, was als ein zentraler Marker des biologischen Alterns gilt und mit einem erhöhten Risiko für zahlreiche Erkrankungen, wie etwa Herz-Kreislauf-, Atemwegserkrankungen oder Diabetes mellitus, in Verbindung steht.1,2
 
-Patrik BergerRedaktor Wirtschaft
-Die Tage zwischen Weihnachten und Neujahr sind wie gemacht für einen Blick auf die Finanzen. Schnell wird klar: Da hat sich ganz schön viel Münz angesammelt. Also ab zur Bank damit! Wer es aufs Konto einzahlen will, m... [weiterlesen](https://www.blick.ch/wirtschaft/das-sparschwein-ist-tot-erste-schweizer-banken-nehmen-kein-muenz-mehr-an-id21558109.html)
+Erkenntnisse könnten auch für die ganzheitliche Therapie von Erkrankungen des Bewegungsapparates relevant sein
+Denn: Die Telomeren-Verkürzung gilt als Marker zellulärer Alterung und wird unter anderem auch mit altersbedingten Erkrankungen, wie etwa A... [weiterlesen](https://www.diepta.de/news/einfluss-auf-altersbedingte-erkrankungen-aktuelle-studie-zeigt-vitamin-d-kann-verkuerzung-der-telomerlaenge-vemindern-und-die-zellalterung-verlangsamen)
 
-> Relevance score: [4] - Bank policy changes regarding coin deposits affect everyday savers in Switzerland; while notable for personal finance, the systemic impact is modest.
+> Relevance score: [3] - Scientific findings on vitamin D and telomeres are potentially valuable for health research, but they do not have immediate, large‑scale societal or policy implications.
 
-## Europäische Staatschefs warnen hinter Kulissen Ukraine
+## Trump zieht Nationalgarde aus mehreren US-Metropolen ab
 
-[Nau.ch](https://www.nau.ch/news/europa/europaische-staatschefs-warnen-hinter-kulissen-ukraine-67080572) • _Mittwoch, 31. Dezember 2026, 03:20 Uhr_
+[Blick](https://www.blick.ch/ausland/nach-gerichtsentscheid-trump-zieht-nationalgarde-aus-mehreren-us-metropolen-ab-id21560934.html) • _Mittwoch, 31. Dezember 2026, 22:14 Uhr_
 
-Vor dem Treffen mit Trump warnten europäische Staatschefs Selenskyj. Er solle vorsichtig sein und nicht zu weit gehen. Gleichzeitig fordert Macron mehr Tempo.
+Der US-Präsident zieht die Nationalgarde aus den Städten Chicago, Los Angeles und Portland ab. Gleichzeitig drohte Trump bei einem erneuten Aufflammen von Gewalt mit erneutem Eingreifen.
 
-Etienne Sticher
-Deutschland , 31.12.2025 - 03:20
-Vor dem Treffen mit Trump warnten europäische Staatschefs Selenskyj. Er solle vorsichtig sein und nicht zu weit gehen. Gleichzeitig fordert Macron mehr Tempo.
-Das Wichtigste in Kürze
-Europäische Staats... [weiterlesen](https://www.nau.ch/news/europa/europaische-staatschefs-warnen-hinter-kulissen-ukraine-67080572)
+Janine EnderliRedaktorin News
+Überraschende Nachrichten zum Jahreswechsel: In einer Erklärung auf Truth Social verkündete US-Präsident Donald Trump (79) die Nationalgarde aus den drei Metropolen Chicago, Los Angeles und Portland abzuziehen.
+«Wir zieh... [weiterlesen](https://www.blick.ch/ausland/nach-gerichtsentscheid-trump-zieht-nationalgarde-aus-mehreren-us-metropolen-ab-id21560934.html)
 
-> Relevance score: [3] - Behind‑the‑scenes diplomatic warnings concerning Ukraine are of some political interest but lack concrete policy changes or broad impact; relevance to Swiss citizens is modest.
+> Relevance score: [3] - An internal U.S. security decision with limited ramifications beyond American domestic politics; it holds minimal relevance for Swiss or global structural issues.
 
-## Coup in Gelsenkirchen: Panzerknacker weiter auf Flucht
+## Kirche in Amsterdam während Silvesternacht in Flammen
 
-[Blick](https://www.blick.ch/ausland/spektakulaerer-millionen-coup-in-gelsenkirchen-panzerknacker-auf-der-flucht-bankkunden-in-panik-id21559411.html) • _Mittwoch, 31. Dezember 2026, 05:49 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/letzte-boellernacht-in-niederlanden-eskaliert-kirche-in-amsterdam-in-flammen-ld.1918495) • _Donnerstag, 1. Januar 2026, 04:21 Uhr_
 
-In Gelsenkirchen brachen Unbekannte in eine Sparkassenfiliale ein und räumten 3250 Schliessfächer aus. Die Beute könnte über 30 Millionen Euro betragen. Die Polizei sucht nach den maskierten Tätern und werten Videomaterial vom Parkhaus aus.
+In der Silvesternacht brennt die Vondelkirche in Amsterdam. Der Turm stürzt ein, viele Anwohner müssen ihre Wohnungen verlassen. Die Feuerwehr kämpft gegen die Flammen.
 
-Nach dem spektakulären Millionen-Coup in einer Gelsenkirchener Sparkassenfiliale sucht die Polizei die flüchtigen Panzerknacker. Die hatten sich wohl am Wochenende mit einem Spezialbohrer bis in den Tresorraum vorgebohrt und dann fast alle der 3250 K... [weiterlesen](https://www.blick.ch/ausland/spektakulaerer-millionen-coup-in-gelsenkirchen-panzerknacker-auf-der-flucht-bankkunden-in-panik-id21559411.html)
+(dpa) In Amsterdam ist in der Silvesternacht eine grosse Kirche in Brand geraten. Der Turm der Vondelkirche im Zentrum der Hauptstadt stürzte ein, teilten die Sicherheitsbehörden mit. Eine grosse Zahl von Wohnungen in der Umgebung der Kirche sei evak... [weiterlesen](https://www.nzz.ch/international/letzte-boellernacht-in-niederlanden-eskaliert-kirche-in-amsterdam-in-flammen-ld.1918495)
 
-> Relevance score: [2] - A spectacular bank robbery in Germany involving €30 million is noteworthy but has limited structural or civic impact beyond local security concerns and does not affect Swiss or global systems.
+> Relevance score: [2] - A local fire in Amsterdam causing building collapse and evacuations is a significant incident for the city but has little structural or long‑term impact beyond the Netherlands and no direct relevance to Switzerland or global affairs.
 
-## Zugunglück in Peru - Kollision zweier Züge bei Machu Picchu - ein Todesopfer
+## Smartphone wird zur digitalen Lebensretterin an Silvester
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/zugunglueck-in-peru-kollision-zweier-zuege-bei-machu-picchu-ein-todesopfer) • _Mittwoch, 31. Dezember 2026, 01:17 Uhr_
+[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/smartphone-wird-zur-digitalen-lebensretterin-an-silvester/68445915) • _Mittwoch, 31. Dezember 2026, 22:52 Uhr_
 
-Zwei Züge sind in der Nähe der Inka-Ruinenstadt Machu Picchu frontal zusammengestossen. Es gibt Dutzende Verletzte.
+Die neuesten Betriebssysteme iOS 19 und Android 16 bieten verbesserte Notfalldaten und eine neue Entwarnungsfunktion per Cell Broadcast, um die Sicherheit an Silvester zu erhöhen.
 
-Zwei Züge sind im südamerikanischen Peru frontal zusammengestossen, wie Polizei und Bahnbetreiber mitteilten.
-Mehrere Menschen sind dabei verletzt worden. Medien berichten derzeit von einem Todesopfer.
-Das Unglück ereignete sich auf der Strecke, die ... [weiterlesen](https://www.srf.ch/news/international/zugunglueck-in-peru-kollision-zweier-zuege-bei-machu-picchu-ein-todesopfer)
+In der Silvesternacht wird das Smartphone zum wichtigsten digitalen Begleiter. Nutzer sollten vor allem eine Funktion überprüfen: den medizinischen Notfallpass. Mit den jüngsten Updates in iOS 19 und Android 16 sowie der neuen Entwarnungs-Funktion be... [weiterlesen](https://www.ad-hoc-news.de/boerse/news/ueberblick/smartphone-wird-zur-digitalen-lebensretterin-an-silvester/68445915)
 
-> Relevance score: [2] - A train accident in Peru is a tragic local event with no direct effect on Swiss or global systems beyond occasional news interest.
-
-## Brand in Beringen: Recyclinganlage steht in Flammen - Alertswiss warnt vor Rauch
-
-[20 Min](https://www.20min.ch/story/beringen-schaffhausen-brand-bei-recyclinganlage-alertswiss-warnt-vor-rauch-103478119) • _Dienstag, 30. Dezember 2026, 20:28 Uhr_
-
-In Beringen, Schaffhausen, brennt eine Recyclinganlage. Anwohner sollen Fenster schliessen, um Rauch zu vermeiden.
-
-Publiziert30. Dezember 2025, 20:28
-Beringen SH: Brand bei Recyclinganlage – Alertswiss warnt vor Rauch
-Am Dienstagabend kommt es bei einer Recyclinganlage in Beringen zu einem Brand. Die Polizei bestätigt einen Einsatz.
-Darum gehts
-Am Dienstagabend b... [weiterlesen](https://www.20min.ch/story/beringen-schaffhausen-brand-bei-recyclinganlage-alertswiss-warnt-vor-rauch-103478119)
-
-> Relevance score: [2] - A local industrial fire poses short‑term health concerns for nearby residents but lacks broader structural impact.
-
-## Eurostar-Ausfall frustriert Reisende: Silvesterpläne fallen ins Wasser
-
-[20 Min](https://www.20min.ch/story/paris-alles-bricht-zusammen-eurostar-ausfall-frustriert-reisende-103478055) • _Dienstag, 30. Dezember 2026, 19:47 Uhr_
-
-Ein Stromausfall im Eurotunnel legt den Eurostar-Verkehr lahm und frustriert Reisende am Gare du Nord in Paris.
-
-Ein Stromausfall im Eurotunnel unter dem Ärmelkanal hat am Dienstag den Eurostar-Verkehr lahmgelegt. Die Enttäuschung am Pariser Gare du Nord ist gross: «Le Parisien» hat mit mehreren Betroffenen über ihre verpfuschten Silvesterpläne gesprochen.
-«Ich... [weiterlesen](https://www.20min.ch/story/paris-alles-bricht-zusammen-eurostar-ausfall-frustriert-reisende-103478055)
-
-> Relevance score: [2] - A transport disruption affecting travelers in Europe is inconvenient but limited in scope and impact on Swiss or global systems.
-
-## Brigitte Bardot: Le Pen kommt zur Beerdigung - Macron bleibt fern
-
-[Watson](https://www.watson.ch/international/frankreich/271944961-brigitte-bardot-le-pen-kommt-zur-beerdigung-macron-bleibt-fern) • _Mittwoch, 31. Dezember 2026, 04:56 Uhr_
-
-Die französische Rechtspopulistin Marine Le Pen wird an der Beerdigung von Brigitte Bardot teilnehmen. Ein anderer Staatsmann kommt dagegen nicht.
-
-Die französische Rechtspopulistin Marine Le Pen wird an der Beerdigung von Brigitte Bardot teilnehmen. Ein anderer Staatsmann kommt dagegen nicht.
-Die französische Rechtspopulistin und dreimalige Präsidentschaftkandidatin Marine Le Pen wird in der ko... [weiterlesen](https://www.watson.ch/international/frankreich/271944961-brigitte-bardot-le-pen-kommt-zur-beerdigung-macron-bleibt-fern)
-
-> Relevance score: [1] - A celebrity funeral with political attendance is primarily gossip‑level and holds little civic or structural significance for either global or Swiss audiences.
+> Relevance score: [2] - Describes new mobile‑OS safety features for a specific occasion. Useful for consumers but does not constitute a structural change or broader societal impact.
 
 
 </details>
