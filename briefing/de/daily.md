@@ -2,145 +2,135 @@
 
 ---
 
-_Aktualisiert: Donnerstag, 1. Januar 2026, 18:22 Uhr_
+_Aktualisiert: Freitag, 2. Januar 2026, 18:21 Uhr_
 
-## Darum waren die Aktien aufgespaltener Unternehmen 2025 so begehrt
+## SVP im Fokus: 2026 wird ein heisses Schweizer Politikjahr
 
-[Watson](https://www.watson.ch/international/usa/416927628-darum-waren-die-aktien-aufgespaltener-unternehmen-2025-so-begehrt) • _Mittwoch, 31. Dezember 2026, 22:23 Uhr_
+[Watson](https://www.watson.ch/schweiz/svp/726086985-svp-im-fokus-2026-wird-ein-heisses-schweizer-politikjahr) • _Donnerstag, 1. Januar 2026, 19:23 Uhr_
 
-Die Schweiz und ihre Hidden-Champions aus dem Mittelstand bezahlen einen hohen Preis für Trumps neuen Protektionismus.
+Im neuen Jahr werden mehrere Volksinitiativen mit SVP-Bezug die Schweiz in Atem halten. Auch in anderen Bereichen sind Auseinandersetzungen programmiert.
 
-### Marktperformance 2025  
-- Der **Swiss Market Index** ([SMI](https://en.wikipedia.org/wiki/Swiss_Market_Index)) erzielte 2025 eine Jahresrendite von rund **14 %** (ohne Dividenden), während der breitere **Swiss Leader Index** ([SLI](https://en.wikipedia.org/wiki/Swiss_Leader_Index)) um **12 %** zulegte.  
-- Der **Swiss Performance Index** ([SPI](https://en.wikipedia.org/wiki/Swiss_Performance_Index)) wuchs im Jahresverlauf um **ca. 18 %** inkl. Dividenden, jedoch gab es **118 Gewinner‑Aktien** gegenüber **88 Verlierern**, was ein schlechtes Verhältnis von **0,75 Verlierer pro Gewinner** bedeutet.  
-- Im SLI‑Index lag das Gegenstück bei **23 Gewinner‑ und nur 9 Verlierer‑Titeln**, was die relative Stärke großer, global agierender Unternehmen verdeutlicht.
+### Volksabstimmungen 2026
+- **8. März**: Vier Vorlagen werden abgefragt  
+  - *Individualbesteuerung*: links‑liberales Prestigeprojekt, Gefahr des Scheiterns wegen kantonaler Opposition.  
+  - *SRG‑Gebühren*: **SVP‑Initiative** zur **„Halbierung“** der Gebühren steht im Fokus.  
+- **14. Juni**: **10‑Millionen‑Initiative** zur Beschränkung der Zuwanderung – die zentrale Wahlkampfthematik 2026.  
+- **27. September (möglich)**:  
+  - **Neutralitätsinitiative** (geistiger Vater: [Christoph Blocher](https://en.wikipedia.org/wiki/Christoph_Blocher)).  
+  - Parallel dazu die Lockerung des **Kriegsmaterialgesetzes**, von Links‑Grün mit Referendum bekämpft.  
+- **Ende 2026 / Anfang 2027**: Neutralitätsinitiative könnte aufgrund eines Gegenvorschlags im Parlament verschoben werden.  
 
-### Auswirkungen von Trumps Zollpolitik  
-- Nach dem ersten **Zollhammer** von **Donald Trump** im April 2025 wurden die USA zu einem stark protektionistischen Markt; die daraufhin erhöhten US‑Importzölle waren mehr als doppelt so hoch wie jene der EU.  
-- Schweizer Branchen, die stark vom Export abhängig sind, litten:  
-  - **Pharmaindustrie** – zunächst verschont, später stark betroffen.  
-  - **Uhrenindustrie** – sah sich plötzlich mit einer „Luxussteuer“-ähnlichen Belastung konfrontiert.  
-  - **Maschinen‑, Elektro‑ und Metallindustrie** – verlor die Fähigkeit, dank des starken Frankens und präziser Kalkulationen wettbewerbsfähig zu bleiben.  
-- Obwohl die Zölle seit Mitte November 2025 wieder gelockert wurden, hinterließen die Sommermonate langfristige Spuren im Schweizer Markt.
+### Außenpolitik
+- **Geopolitische und wirtschaftliche Lage**: betont von Bundespräsident **[Guy Parmelin](https://en.wikipedia.org/wiki/Guy_Parmelin)** als wichtigste Herausforderung 2026.  
+- **OSZE**: Der **[Organisation for Security and Co-operation in Europe](https://en.wikipedia.org/wiki/Organization_for_Security_and_Co-operation_in_Europe)** wird wegen des Einstimmigkeitsprinzips kaum Einfluss haben, selbst bei einem Friedensschluss in der Ukraine.  
+- **Zollstreit mit den USA**:  
+  - USA drängen auf ein verbindliches Handelsabkommen, um mögliche Eingriffe des **[Supreme Court](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)** gegen frühere Zollpolitik zu vermeiden.  
+  - Geplantes Gespräch zwischen **Parmelin** und dem US‑Präsidenten beim **WEF in Davos** (vorausgesetzt, der Präsident erscheint).  
 
-### Warum gespaltene Unternehmen 2025 besonders gefragt waren  
-- Unternehmen, die in den letzten Jahren **aufgeteilt** wurden, erzielten überdurchschnittliche Kursgewinne, weil sie von ihrer neu gewonnenen Flexibilität und der Konzentration auf Kernmärkte profitieren konnten.  
-- **Holcim** (ehemaliger **Holcim‑Cement**‑Konzern) – nach der Abspaltung des nordamerikanischen Geschäfts **Amrize** im Juni 2025 – verzeichnete einen Kursanstieg von **über 70 %** und rangierte damit weit oben in der Performance‑Liste der 32 größten Schweizer Unternehmen.  
-- Analysten sehen Potenzial in Südamerika und Asien sowie in Europa, obwohl das kommende EU‑CO₂‑Emissionssystem die Zementbranche vor zusätzliche Kosten stellt; die begrenzte Verfügbarkeit von **Emissionszertifikaten** könnte jedoch Preiserhöhungen ermöglichen, von denen Holcim profitieren könnte.
+### Parlamentarische Entwicklungen
+- **Entlastungspaket 27**: Vom Ständerat bereits „gerupft“, jetzt im Nationalrat mit weiteren Kürzungen.  
+- **Armeebudget 2022‑2032**: Grundsatzbeschluss liegt vor, aber Finanzierung bleibt unklar.  
+- **Bilaterale III** (neues EU‑Vertragspaket): Ständerat debattiert als Erstrat; fehlende Einigung über den Zeitplan macht eine Abstimmung vor den Bundesratswahlen 2027 unwahrscheinlich.  
+- **Bankenregulierung**:  
+  - Finanzministerin **[Karin Keller‑Sutter](https://en.wikipedia.org/wiki/Karin_Keller-Sutter)** fordert strengere Eigenkapitalvorgaben für **[UBS](https://en.wikipedia.org/wiki/UBS)**, die mit intensivem Lobbying und drohenden Wegzügen in die USA reagiert.  
+  - Die Bundesrat‑Mehrheit tendiert zu einer Abschwächung der Regeln.  
 
-### Weitere Beispiele erfolgreicher Spaltungen  
-- **Galderma** – ursprünglich Teil von **Nestlé** ([Nestlé](https://en.wikipedia.org/wiki/Nestl%C3%A9)) bis 2014, dann an den schwedischen Finanzinvestor **EQT** verkauft, wurde 2024 an die Börse gebracht und profitierte von größerer unternehmerischer Freiheit.  
-- **Sandoz** – nach der Abspaltung von **Novartis** ([Novartis](https://en.wikipedia.org/wiki/Novartis)) im Oktober 2023 steigerte seine Performance kontinuierlich.  
+### Bundesrat & Regierungsdynamik
+- **Neues Mitglied**: **Martin Pfister** (Mitte) bringt gewisse Beruhigung, doch sein interner Vorschlag zur **Mehrwertsteuer‑Erhöhung um 0,5 %** wurde geleakt – ein Warnsignal.  
+- **Rücktrittsgerüchte**:  
+  - **Karin Keller‑Sutter** nach einem schwierigen Präsidialjahr und Konflikten um die Bankenregulierung.  
+  - **[Guy Parmelin](https://en.wikipedia.org/wiki/Guy_Parmelin)** (ältester Bundesrat) äußert den Wunsch, bis Ende der Legislatur zu bleiben, könnte aber zum Jahresende zurücktreten.  
+  - **[Ignazio Cassis](https://en.wikipedia.org/wiki/Ignazio_Cassis)** wird als möglicher Rücktrittskandidat genannt, wirkt jedoch motiviert und soll 2027 erneut Bundespräsident sein.  
+- **Viola Amherd** (Mitte) hat bereits im Vorjahr überraschend zurückgetreten; ihr Beispiel zeigt die Unvorhersehbarkeit von Bundesratswechseln.  
 
-### Ausblick: Weitere Spaltungen und Kontroversen  
-- Der SVP‑Veteran **Christoph Blocher** ([Christoph Blocher](https://en.wikipedia.org/wiki/Christoph_Blocher)) hat die Idee einer Aufspaltung der **UBS** ([UBS](https://en.wikipedia.org/wiki/UBS)) diskutiert, um das US‑Geschäft zu trennen, Risiken zu reduzieren und das Eigenkapital zu stärken.  
-  - Das UBS‑Management warnt vor einem **„massiven Wertverlust für alle Anspruchsgruppen“**, während Befürworter von Blocher einen Mehrwert für Investoren erwarten.  
-- Die bisherigen Erfahrungen mit Unternehmensspaltungen zeigen jedoch, dass **„1 minus 1 ergibt mehr als null“** – also dass die Summe der getrennten Einheiten größer sein kann als das ursprüngliche Gesamtkonstrukt.
+### Fazit
+- Das Jahr 2026 verspricht ein **„heißes“ Politikjahr** zu werden, in dem fast **alle Parteien gegen die **[Schweizerische Volkspartei](https://en.wikipedia.org/wiki/Swiss_People%27s_Party)** (SVP) positioniert sind.  
+- Während die SVP mit Initiativen zur Gebühren‑Halbierung, Neutralität und Zuwanderungsbegrenzung die Agenda dominiert, könnte das umfangreiche Gegenprogramm von anderen Kräften zu einem **politischen Triumph** oder einer **signifikanten Niederlage** für die Rechtspopulisten führen.  
 
-> Relevance score: [6] - Analyzes how U.S. protectionist policies affect Swiss mid‑size “hidden champion” companies and their stock market performance, directly touching on Swiss economic interests and investor behaviour.
+> Relevance score: [7] - A series of high‑profile Swiss popular initiatives linked to the SVP will dominate the national political agenda in 2026, potentially reshaping legislation and public policy, making it highly relevant for the country.
+
+## So dreist werben Zuger Vermieter Steuerflüchtlinge an
+
+[Blick](https://www.blick.ch/politik/steuern-sparen-dank-zuger-wg-zimmer-sozialhilfebezueger-werden-mit-detektiven-beschattet-bei-den-reichsten-schauen-wir-weg-id21561287.html) • _Freitag, 2. Januar 2026, 00:34 Uhr_
+
+Wer in Zug wohnt, spart Steuern: Das versuchen auch findige Vermieter für sich zu nutzen. Sie bieten WG-Zimmer als Briefkastenadressen an für Leute, die nie an ihrer Adresse auftauchen sollen. Die Behörden kennen das Spiel inzwischen.
+
+### Problemstellung  
+- In Zug werden **WG‑Zimmer** als reine **Briefkastenadressen** angeboten, um einen **Scheinwohnsitz** im steuergünstigen Kanton zu ermöglichen.  
+- Ziel ist, die Steuerlast an den tatsächlichen Lebensmittelpunkt zu entziehen, während die Mieten in Zug gleichzeitig sehr hoch bleiben.  
+
+### Praxis der Vermieter  
+- Inserate auf gängigen Immobilienportalen bewerben:  
+  - „möbliertes WG‑Zimmer + Briefkasten“  
+  - „Untermieter, der sich nur selten im Zimmer aufhält“  
+  - „digitaler Nomade / beruflich viel auf Reisen“  
+- Zusätzliche Services werden beworben, z. B.:  
+  - digitale Postzustellung  
+- Beispiel (anonymisiert):  
+  - Ein Vermieter (`Andreas`) vermietete ein Zimmer an einen deutschen Millionär, der nie die Wohnung betrat; die Miete war niedriger, dafür blieb die Wohnung vollständig für den Vermieter verfügbar.  
+
+### Politische Reaktionen  
+- **Luzian Franzini** (Kantonsrat, *Grün‑Alternativen*) bezeichnet das Vorgehen als **Wohnsitzbetrug** und kritisiert:  
+  - Missbrauch des Wohnungsmarktes für reine Steuerzwecke  
+  - Fehlende Wohnraum für tatsächliche Zug‑Bewohner  
+- Franzini fordert:  
+  - Strengere Kontrollen durch den Regierungsrat des Kantons Zug  
+  - Konsequente Ablehnung von Scheinwohnsitzen in den Behörden  
+
+### Behördliche Kontrollen und Fälle  
+- Der Zuger **Finanzdirektor Heinz Tännler** (SVP) gibt an, dass die **Einwohnerkontrollen** bei Anmeldungen aus anderen Kantonen intensiver Prüfungen durchführen.  
+  - 2022 wurden in der Stadt Zug rund **30 Anmeldungen** zurückgewiesen.  
+  - In Baar erfolgen ein bis zwei Ablehnungen pro Monat.  
+- Bei Verdacht verlangt die Behörde u. a.:  
+  - Kreditkarten‑ bzw. Bankauszüge  
+  - Strom‑ und Wasserrechnungen  
+  - Nachweise zu öffentlichen Verkehrsmitteln und ÖV‑Abos  
+
+### Beispiel: Daniel Vasella  
+- Der ehemalige Novartis‑Chef **[Daniel Vasella](https://en.wikipedia.org/wiki/Daniel_Vasella)** wurde 2013 nach einer umfassenden Prüfung (Wasser‑/Stromrechnungen, Flug‑ und Kreditkartendaten, Kunstwerke) als tatsächlicher Bewohner von **[Zug](https://en.wikipedia.org/wiki/Zug)** identifiziert.  
+- Das Verfahren zeigte, dass er nicht, wie angegeben, in Monaco wohnhaft war, sondern in Zug Steuern zahlen musste.  
+
+### Fazit  
+- Das Angebot von **Scheinwohnsitzen** in Zug stellt ein wachsendes Problem dar, das sowohl den Wohnungsmarkt belastet als auch die Steuergerechtigkeit untergräbt.  
+- Politiker und Behörden fordern intensivere Kontrollen, während einzelne Fälle (z. B. Vasella) die Wirksamkeit bestehender Prüfungen demonstrieren, jedoch gleichzeitig den Handlungsbedarf verdeutlichen.
+
+> Relevance score: [6] - The scheme of offering ‘mailbox‑addresses’ for tax‑evading non‑residents directly concerns Switzerland’s reputation as a tax haven and may prompt legal or regulatory actions, affecting domestic tax policy and public debate.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Nach CIA-Meldung: Trump teilt russland- und putinfeindlichen Artikel
+## Moskau übergibt USA Material zu angeblichem Putin
 
-[Watson](https://www.watson.ch/international/ukraine/644597745-nach-cia-meldung-trump-teilt-russland-und-putinfeindlichen-artikel) • _Donnerstag, 1. Januar 2026, 04:02 Uhr_
+[Blick](https://www.blick.ch/ausland/residenz-von-kreml-chef-im-visier-moskau-uebergibt-usa-beweismaterial-zu-drohnenangriff-auf-putin-id21562627.html) • _Freitag, 2. Januar 2026, 04:32 Uhr_
 
-Laut dem US-Geheimdienst gab es keinen Angriff der Ukraine, auf Putins Residenz. Bei Donald Trump hat die Meldung womöglich einen Sinneswandel ausgelöst.
-
-Laut dem US-Geheimdienst gab es keinen Angriff der Ukraine, der auf Putins Residenz gezielt hätte. Bei Donald Trump hat die Meldung womöglich einen weiteren Sinneswandel ausgelöst.
-Inmitten der Verhandlungen um ein Ende des Ukraine-Kriegs hat US-Präs... [weiterlesen](https://www.watson.ch/international/ukraine/644597745-nach-cia-meldung-trump-teilt-russland-und-putinfeindlichen-artikel)
-
-> Relevance score: [5] - The report touches on US intelligence, the Ukraine conflict and potential shifts in US policy, which have moderate global significance. However the article is vague and the concrete impact on Swiss interests is limited.
-
-## Südkoreas Exporte übertreffen im Dezember die Prognosen und schließen 2025 mit Rekordwert ab
-
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/suedkoreas-exporte-uebertreffen-im-dezember-die-prognosen-und-schliessen-2025-mit-rekordwert-ab-ce7e59d8d18ef624) • _Donnerstag, 1. Januar 2026, 01:11 Uhr_
-
-Südkoreas Exporte sind im Dezember den siebten Monat in Folge gestiegen und haben das Jahr 2025 mit einem Rekord abgeschlossen, da die Ausfuhren erstmals die Marke von 700 Milliarden US-Dollar...
--Am 01. Januar 2026 um 01:11 Uhr
-- MarketScreener Schweiz
-
-Südkoreas Exporte sind im Dezember den siebten Monat in Folge gestiegen und haben das Jahr 2025 mit einem Rekord abgeschlossen, da die Ausfuhren erstmals die Marke von 700 Milliarden US-Dollar überschritten haben, wie Regierungsdaten am Donnerstag ze... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/suedkoreas-exporte-uebertreffen-im-dezember-die-prognosen-und-schliessen-2025-mit-rekordwert-ab-ce7e59d8d18ef624)
-
-> Relevance score: [4] - Record export figures for South Korea are notable for global trade statistics and may affect market sentiment, yet the direct relevance to Swiss economic policy or society is modest.
-
-## Silvester in Deutschland: Polizei spricht von "Kriegszustand"
-
-[Blick](https://www.blick.ch/ausland/kriegszustand-ueble-silvester-krawalle-in-mehreren-deutschen-staedten-chaoten-beschiessen-polizisten-mit-raketen-id21560976.html) • _Mittwoch, 31. Dezember 2026, 23:36 Uhr_
-
-Raketenangriffe und Beleidigungen statt Feierlaune: Deutschland kämpft erneut mit Silvester-Randalen. In München, Hamburg und Berlin werden Uniformierte und Passanten mit Knallkörpern attackiert. Die Polizei fordert schärfere Gesetze gegen die zunehmende Gewalt.
+Russland präsentiert den USA angebliche Drohnen-Beweise für einen mutmasslichen Ukraine-Angriff auf Putins Residenz. Es handelt sich um Navigationsdaten auf einer abgeschossenen Drohne, die eine entsprechende Route erkennen lassen.
 
 Daniel KestenholzRedaktor Nachtdienst
-Alljährliche Silvester-Randale: Deutschland befindet sich am Jahreswechsel wieder im «Kriegszustand», wie der Gewerkschaftschef der deutschen Bundespolizei sagt. «Stellenweise hatte man an gewissen Punkten unsere... [weiterlesen](https://www.blick.ch/ausland/kriegszustand-ueble-silvester-krawalle-in-mehreren-deutschen-staedten-chaoten-beschiessen-polizisten-mit-raketen-id21560976.html)
+Russland hat den USA angebliches Beweismaterial übergeben, das einen mutmasslichen ukrainischen Drohnenangriff auf Präsident Wladimir Putin (73) belegen soll. Wie das russische Verteidigungsministerium mitteilte,... [weiterlesen](https://www.blick.ch/ausland/residenz-von-kreml-chef-im-visier-moskau-uebergibt-usa-beweismaterial-zu-drohnenangriff-auf-putin-id21562627.html)
 
-> Relevance score: [4] - Highlights a surge in violence during New Year's celebrations in Germany and calls for stricter laws. While relevant for public safety debates in Europe, the impact on Switzerland is limited and the event is short‑term.
+> Relevance score: [5] - The alleged evidence of a Ukrainian drone attack on Putin’s residence could influence US‑Russia diplomatic narratives and perceptions of the Ukraine war, but it is unlikely to trigger immediate policy changes or large‑scale geopolitical shifts.
 
-## Jahreswechsel 2025/2026 - Feiern mit Feuerwerk und Festnahmen: Europa startet ins 2026
+## Protestwelle im Iran: Mehrere Tote
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/jahreswechsel-2025-2026-feiern-mit-feuerwerk-und-festnahmen-europa-startet-ins-2026) • _Donnerstag, 1. Januar 2026, 03:53 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/wachsende-unzufriedenheit-mehrere-tote-bei-neuer-protestwelle-im-iran) • _Donnerstag, 1. Januar 2026, 20:47 Uhr_
 
-Der Jahreswechsel verlief in Deutschland und den Niederlanden teils chaotisch – mit Bränden, Angriffen und Todesfällen.
+Inmitten einer schweren Wirtschaftskrise zieht es bereits fünf Tage in Folge Menschenmassen auf die Strassen im Iran.
 
-In Deutschland kam es zu Angriffen auf Einsatzkräfte und mehreren Bränden.
-Zwei 18-Jährige starben in Bielefeld bei Unfällen mit selbstgebauter Pyrotechnik.
-In Amsterdam brennt die Vondelkirche im Stadtzentrum.
-Der Jahreswechsel in Deutschland war ge... [weiterlesen](https://www.srf.ch/news/international/jahreswechsel-2025-2026-feiern-mit-feuerwerk-und-festnahmen-europa-startet-ins-2026)
+Den fünften Tag in Folge sind Menschenmassen im Iran angesichts der schweren Wirtschaftskrise gegen die autoritäre Staatsführung auf die Strasse gegangen.
+Während Augenzeugen zufolge in den Metropolen Sicherheitskräfte mit einem massiven Aufgebot anr... [weiterlesen](https://www.srf.ch/news/international/wachsende-unzufriedenheit-mehrere-tote-bei-neuer-protestwelle-im-iran)
 
-> Relevance score: [3] - Describes a chaotic New Year’s night across parts of Germany and the Netherlands, highlighting safety issues. The events are regionally confined and do not constitute a structural change for Europe or Switzerland.
+> Relevance score: [5] - Mass protests and fatalities in Iran are significant for regional stability and human‑rights concerns, yet they have limited immediate impact on Swiss or global structural developments.
 
-## Supermicro präsentiert hochdichte, flüssigkeits- und luftgekühlte 6U SuperBlade® mit Intel® Xeon® 6900 Serie für maximale Leistung und Effizienz
+## Legende Warren Buffett tritt zurück
 
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/supermicro-praesentiert-hochdichte-fluessigkeits-und-luftgekuehlte-6u-superblade-mit-intel-xeon-69-ce7e59d8d18ef127) • _Donnerstag, 1. Januar 2026, 01:50 Uhr_
+[Blick](https://www.blick.ch/wirtschaft/werde-nur-noch-herumhaengen-investoren-legende-warren-buffet-95-raeumt-sein-buero-anleger-gespannt-id21561964.html) • _Donnerstag, 1. Januar 2026, 19:45 Uhr_
 
-Supermicro, Inc. stellt die neueste Ergänzung seiner SuperBlade-Familie vor: den SBI-622BA-1NE12-LCC, einen hochdichten, direkt flüssigkeitsgekühlten Blade-Server, der von zwei Intel Xeon 6900...
+Nach über 60 Jahren an der Spitze von Berkshire Hathaway zieht sich Warren Buffett zurück. Der 95-jährige Milliardär will in Zukunft «nur noch herumhängen». Buffett und seine nüchterne Art sind Kult. Seine Investments legendär.
 
-Supermicro, Inc. stellt die neueste Ergänzung seiner SuperBlade-Familie vor: den SBI-622BA-1NE12-LCC, einen hochdichten, direkt flüssigkeitsgekühlten Blade-Server, der von zwei Intel Xeon 6900 Prozessoren mit bis zu 256 P-Kernen angetrieben wird. Die... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/supermicro-praesentiert-hochdichte-fluessigkeits-und-luftgekuehlte-6u-superblade-mit-intel-xeon-69-ce7e59d8d18ef127)
+Patrik BergerRedaktor Wirtschaft
+Es ist ein historischer Moment für die Wall Street: Warren Buffett (95) räumt sein Büro. Er zieht sich aus dem operativen Tagesgeschäft seines Investmentgiganten Berkshire Hathaway zurück. Nach Jahrzehnten an der Spit... [weiterlesen](https://www.blick.ch/wirtschaft/werde-nur-noch-herumhaengen-investoren-legende-warren-buffet-95-raeumt-sein-buero-anleger-gespannt-id21561964.html)
 
-> Relevance score: [3] - A product launch in the high‑performance server market is of interest to the tech sector but represents a routine commercial announcement with limited broader economic or societal impact.
-
-## Vitamin D kann Verkürzung der Telomerlänge vemindern und die Zellalterung verlangsamen
-
-[diepta.de](https://www.diepta.de/news/einfluss-auf-altersbedingte-erkrankungen-aktuelle-studie-zeigt-vitamin-d-kann-verkuerzung-der-telomerlaenge-vemindern-und-die-zellalterung-verlangsamen) • _Donnerstag, 1. Januar 2026, 00:04 Uhr_
-
-Telomere – die natürlichen Schutzstrukturen an Chromosomenenden – bewahren die Stabilität des Erbguts. Im Verlauf des Lebens werden sie durch wiederholte Zellteilungen kürzer, was als ein zentraler Marker des biologischen Alterns gilt und mit einem erhöhten Risiko für zahlreiche Erkrankungen, wie etwa Herz-Kreislauf-, Atemwegserkrankungen oder Diabetes mellitus, in Verbindung steht.1,2
-
-Erkenntnisse könnten auch für die ganzheitliche Therapie von Erkrankungen des Bewegungsapparates relevant sein
-Denn: Die Telomeren-Verkürzung gilt als Marker zellulärer Alterung und wird unter anderem auch mit altersbedingten Erkrankungen, wie etwa A... [weiterlesen](https://www.diepta.de/news/einfluss-auf-altersbedingte-erkrankungen-aktuelle-studie-zeigt-vitamin-d-kann-verkuerzung-der-telomerlaenge-vemindern-und-die-zellalterung-verlangsamen)
-
-> Relevance score: [3] - Scientific findings on vitamin D and telomeres are potentially valuable for health research, but they do not have immediate, large‑scale societal or policy implications.
-
-## Trump zieht Nationalgarde aus mehreren US-Metropolen ab
-
-[Blick](https://www.blick.ch/ausland/nach-gerichtsentscheid-trump-zieht-nationalgarde-aus-mehreren-us-metropolen-ab-id21560934.html) • _Mittwoch, 31. Dezember 2026, 22:14 Uhr_
-
-Der US-Präsident zieht die Nationalgarde aus den Städten Chicago, Los Angeles und Portland ab. Gleichzeitig drohte Trump bei einem erneuten Aufflammen von Gewalt mit erneutem Eingreifen.
-
-Janine EnderliRedaktorin News
-Überraschende Nachrichten zum Jahreswechsel: In einer Erklärung auf Truth Social verkündete US-Präsident Donald Trump (79) die Nationalgarde aus den drei Metropolen Chicago, Los Angeles und Portland abzuziehen.
-«Wir zieh... [weiterlesen](https://www.blick.ch/ausland/nach-gerichtsentscheid-trump-zieht-nationalgarde-aus-mehreren-us-metropolen-ab-id21560934.html)
-
-> Relevance score: [3] - An internal U.S. security decision with limited ramifications beyond American domestic politics; it holds minimal relevance for Swiss or global structural issues.
-
-## Kirche in Amsterdam während Silvesternacht in Flammen
-
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/letzte-boellernacht-in-niederlanden-eskaliert-kirche-in-amsterdam-in-flammen-ld.1918495) • _Donnerstag, 1. Januar 2026, 04:21 Uhr_
-
-In der Silvesternacht brennt die Vondelkirche in Amsterdam. Der Turm stürzt ein, viele Anwohner müssen ihre Wohnungen verlassen. Die Feuerwehr kämpft gegen die Flammen.
-
-(dpa) In Amsterdam ist in der Silvesternacht eine grosse Kirche in Brand geraten. Der Turm der Vondelkirche im Zentrum der Hauptstadt stürzte ein, teilten die Sicherheitsbehörden mit. Eine grosse Zahl von Wohnungen in der Umgebung der Kirche sei evak... [weiterlesen](https://www.nzz.ch/international/letzte-boellernacht-in-niederlanden-eskaliert-kirche-in-amsterdam-in-flammen-ld.1918495)
-
-> Relevance score: [2] - A local fire in Amsterdam causing building collapse and evacuations is a significant incident for the city but has little structural or long‑term impact beyond the Netherlands and no direct relevance to Switzerland or global affairs.
-
-## Smartphone wird zur digitalen Lebensretterin an Silvester
-
-[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/smartphone-wird-zur-digitalen-lebensretterin-an-silvester/68445915) • _Mittwoch, 31. Dezember 2026, 22:52 Uhr_
-
-Die neuesten Betriebssysteme iOS 19 und Android 16 bieten verbesserte Notfalldaten und eine neue Entwarnungsfunktion per Cell Broadcast, um die Sicherheit an Silvester zu erhöhen.
-
-In der Silvesternacht wird das Smartphone zum wichtigsten digitalen Begleiter. Nutzer sollten vor allem eine Funktion überprüfen: den medizinischen Notfallpass. Mit den jüngsten Updates in iOS 19 und Android 16 sowie der neuen Entwarnungs-Funktion be... [weiterlesen](https://www.ad-hoc-news.de/boerse/news/ueberblick/smartphone-wird-zur-digitalen-lebensretterin-an-silvester/68445915)
-
-> Relevance score: [2] - Describes new mobile‑OS safety features for a specific occasion. Useful for consumers but does not constitute a structural change or broader societal impact.
+> Relevance score: [4] - Buffett’s retirement is notable for investors and Wall Street history, but it does not constitute a major structural change in the global economy or financial system.
 
 
 </details>
