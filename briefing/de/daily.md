@@ -2,135 +2,167 @@
 
 ---
 
-_Aktualisiert: Freitag, 2. Januar 2026, 18:21 Uhr_
+_Aktualisiert: Samstag, 3. Januar 2026, 18:20 Uhr_
 
-## SVP im Fokus: 2026 wird ein heisses Schweizer Politikjahr
+## Massenproteste im Iran weiten sich auf Hauptstadt Teheran aus
 
-[Watson](https://www.watson.ch/schweiz/svp/726086985-svp-im-fokus-2026-wird-ein-heisses-schweizer-politikjahr) • _Donnerstag, 1. Januar 2026, 19:23 Uhr_
+[Blick](https://www.blick.ch/ausland/mullah-regime-unter-druck-massenproteste-im-iran-weiten-sich-auf-teheran-aus-id21564490.html) • _Samstag, 3. Januar 2026, 02:00 Uhr_
 
-Im neuen Jahr werden mehrere Volksinitiativen mit SVP-Bezug die Schweiz in Atem halten. Auch in anderen Bereichen sind Auseinandersetzungen programmiert.
+Das Regime von Ajatollah Ali Khamenei gerät zunehmend unter Druck. Reza Pahlavi, der Sohn des gestürzten Schahs, ruft zu weiteren Protesten in der Hauptstadt Teheran auf.
 
-### Volksabstimmungen 2026
-- **8. März**: Vier Vorlagen werden abgefragt  
-  - *Individualbesteuerung*: links‑liberales Prestigeprojekt, Gefahr des Scheiterns wegen kantonaler Opposition.  
-  - *SRG‑Gebühren*: **SVP‑Initiative** zur **„Halbierung“** der Gebühren steht im Fokus.  
-- **14. Juni**: **10‑Millionen‑Initiative** zur Beschränkung der Zuwanderung – die zentrale Wahlkampfthematik 2026.  
-- **27. September (möglich)**:  
-  - **Neutralitätsinitiative** (geistiger Vater: [Christoph Blocher](https://en.wikipedia.org/wiki/Christoph_Blocher)).  
-  - Parallel dazu die Lockerung des **Kriegsmaterialgesetzes**, von Links‑Grün mit Referendum bekämpft.  
-- **Ende 2026 / Anfang 2027**: Neutralitätsinitiative könnte aufgrund eines Gegenvorschlags im Parlament verschoben werden.  
+### Ausweitung der Proteste  
+- Die massiven Demonstrationen gegen das Regime von **[Ajatollah Ali Khamenei](https://de.wikipedia.org/wiki/Ali_Khamenei)** haben sich von ländlichen Regionen in die Hauptstadt **[Teheran](https://de.wikipedia.org/wiki/Teheran)** verlagert.  
+- In dem südlichen Stadtviertel **Nasi Abad** kam es zu Ausschreitungen: Menschen zogen durch die Straßen, skandierten Slogans gegen die **[Islamische Republik Iran](https://de.wikipedia.org/wiki/Islamische_Republik_Iran)** und brennende Müllcontainer wurden gesichtet (die Echtheit der Aufnahmen konnte zunächst nicht bestätigt werden).  
 
-### Außenpolitik
-- **Geopolitische und wirtschaftliche Lage**: betont von Bundespräsident **[Guy Parmelin](https://en.wikipedia.org/wiki/Guy_Parmelin)** als wichtigste Herausforderung 2026.  
-- **OSZE**: Der **[Organisation for Security and Co-operation in Europe](https://en.wikipedia.org/wiki/Organization_for_Security_and_Co-operation_in_Europe)** wird wegen des Einstimmigkeitsprinzips kaum Einfluss haben, selbst bei einem Friedensschluss in der Ukraine.  
-- **Zollstreit mit den USA**:  
-  - USA drängen auf ein verbindliches Handelsabkommen, um mögliche Eingriffe des **[Supreme Court](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)** gegen frühere Zollpolitik zu vermeiden.  
-  - Geplantes Gespräch zwischen **Parmelin** und dem US‑Präsidenten beim **WEF in Davos** (vorausgesetzt, der Präsident erscheint).  
+### Aufruf von Reza Pahlavi  
+- **[Reza Pahlavi](https://de.wikipedia.org/wiki/Reza_Pahlavi)**, 65‑jähriger Sohn des 1979 gestürzten Schahs, forderte in einem Beitrag auf der Plattform X:  
+  - „Millionenfache Präsenz“ der Menschen in Teheran.  
+  - **Errichtung von Straßensperren** auf Schlüsselachsen und Hauptverkehrsstraßen.  
+- Pahlavi lebt im Exil; sein tatsächlicher Einfluss auf die Proteste bleibt unklar, während die iranische Opposition im Ausland als zersplittert gilt.  
 
-### Parlamentarische Entwicklungen
-- **Entlastungspaket 27**: Vom Ständerat bereits „gerupft“, jetzt im Nationalrat mit weiteren Kürzungen.  
-- **Armeebudget 2022‑2032**: Grundsatzbeschluss liegt vor, aber Finanzierung bleibt unklar.  
-- **Bilaterale III** (neues EU‑Vertragspaket): Ständerat debattiert als Erstrat; fehlende Einigung über den Zeitplan macht eine Abstimmung vor den Bundesratswahlen 2027 unwahrscheinlich.  
-- **Bankenregulierung**:  
-  - Finanzministerin **[Karin Keller‑Sutter](https://en.wikipedia.org/wiki/Karin_Keller-Sutter)** fordert strengere Eigenkapitalvorgaben für **[UBS](https://en.wikipedia.org/wiki/UBS)**, die mit intensivem Lobbying und drohenden Wegzügen in die USA reagiert.  
-  - Die Bundesrat‑Mehrheit tendiert zu einer Abschwächung der Regeln.  
+### Ausmaß und Orte der Unruhen  
+- Neben Teheran berichteten verschiedene Regionen über Demonstrationen, unter anderem:  
+  - **Ghom**  
+  - **Marwdascht**  
+  - **Maschhad**  
+  - **Hamedan**  
+- Die staatliche Nachrichtenagentur **IRNA** bestätigte die Proteste in diesen Städten.  
 
-### Bundesrat & Regierungsdynamik
-- **Neues Mitglied**: **Martin Pfister** (Mitte) bringt gewisse Beruhigung, doch sein interner Vorschlag zur **Mehrwertsteuer‑Erhöhung um 0,5 %** wurde geleakt – ein Warnsignal.  
-- **Rücktrittsgerüchte**:  
-  - **Karin Keller‑Sutter** nach einem schwierigen Präsidialjahr und Konflikten um die Bankenregulierung.  
-  - **[Guy Parmelin](https://en.wikipedia.org/wiki/Guy_Parmelin)** (ältester Bundesrat) äußert den Wunsch, bis Ende der Legislatur zu bleiben, könnte aber zum Jahresende zurücktreten.  
-  - **[Ignazio Cassis](https://en.wikipedia.org/wiki/Ignazio_Cassis)** wird als möglicher Rücktrittskandidat genannt, wirkt jedoch motiviert und soll 2027 erneut Bundespräsident sein.  
-- **Viola Amherd** (Mitte) hat bereits im Vorjahr überraschend zurückgetreten; ihr Beispiel zeigt die Unvorhersehbarkeit von Bundesratswechseln.  
+### Gewalt und Opfer  
+- Auf dem Land kam es zu heftigen Zusammenstößen zwischen Sicherheitskräften und Demonstranten.  
+- Menschenrechtsaktivisten melden mindestens **zehn Todesopfer** seit Beginn der jüngsten Unruhen.  
 
-### Fazit
-- Das Jahr 2026 verspricht ein **„heißes“ Politikjahr** zu werden, in dem fast **alle Parteien gegen die **[Schweizerische Volkspartei](https://en.wikipedia.org/wiki/Swiss_People%27s_Party)** (SVP) positioniert sind.  
-- Während die SVP mit Initiativen zur Gebühren‑Halbierung, Neutralität und Zuwanderungsbegrenzung die Agenda dominiert, könnte das umfangreiche Gegenprogramm von anderen Kräften zu einem **politischen Triumph** oder einer **signifikanten Niederlage** für die Rechtspopulisten führen.  
+### Kontext  
+- Die Proteste entstehen in einem Umfeld zunehmenden Drucks auf das Regime von Khamenei.  
+- Die Aufforderung von Reza Pahlavi markiert eine neue Phase, in der Opposition im Exil aktiv versucht, die Demonstrationen in die Hauptstadt zu lenken.
 
-> Relevance score: [7] - A series of high‑profile Swiss popular initiatives linked to the SVP will dominate the national political agenda in 2026, potentially reshaping legislation and public policy, making it highly relevant for the country.
+> Relevance score: [7] - Large‑scale protests in Iran have significant geopolitical ramifications, influencing regional stability, human‑rights discourse, and international diplomatic relations.
 
-## So dreist werben Zuger Vermieter Steuerflüchtlinge an
+## BYD überholt Tesla bei weltweiten Elektroauto-Verkäufen
 
-[Blick](https://www.blick.ch/politik/steuern-sparen-dank-zuger-wg-zimmer-sozialhilfebezueger-werden-mit-detektiven-beschattet-bei-den-reichsten-schauen-wir-weg-id21561287.html) • _Freitag, 2. Januar 2026, 00:34 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/byd-neu-an-spitze-tesla-ist-nicht-mehr-fuehrend-bei-weltweiten-elektroauto-verkaeufen) • _Freitag, 2. Januar 2026, 20:46 Uhr_
 
-Wer in Zug wohnt, spart Steuern: Das versuchen auch findige Vermieter für sich zu nutzen. Sie bieten WG-Zimmer als Briefkastenadressen an für Leute, die nie an ihrer Adresse auftauchen sollen. Die Behörden kennen das Spiel inzwischen.
+Ein Grund für den Verkaufsrückgang waren die Steuervergünstigungen für Elektroautos, welche Trump auslaufen liess.
 
-### Problemstellung  
-- In Zug werden **WG‑Zimmer** als reine **Briefkastenadressen** angeboten, um einen **Scheinwohnsitz** im steuergünstigen Kanton zu ermöglichen.  
-- Ziel ist, die Steuerlast an den tatsächlichen Lebensmittelpunkt zu entziehen, während die Mieten in Zug gleichzeitig sehr hoch bleiben.  
+### Verkaufszahlen 2024  
+- Der chinesische Hersteller **[BYD](https://en.wikipedia.org/wiki/BYD_(company))** verkaufte 2024 rund **2,2 Mio.** Elektrofahrzeuge und überholte damit **[Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.)**.  
+- **Tesla** verzeichnete im selben Jahr nur **1,6 Mio.** verkaufte Fahrzeuge.  
 
-### Praxis der Vermieter  
-- Inserate auf gängigen Immobilienportalen bewerben:  
-  - „möbliertes WG‑Zimmer + Briefkasten“  
-  - „Untermieter, der sich nur selten im Zimmer aufhält“  
-  - „digitaler Nomade / beruflich viel auf Reisen“  
-- Zusätzliche Services werden beworben, z. B.:  
-  - digitale Postzustellung  
-- Beispiel (anonymisiert):  
-  - Ein Vermieter (`Andreas`) vermietete ein Zimmer an einen deutschen Millionär, der nie die Wohnung betrat; die Miete war niedriger, dafür blieb die Wohnung vollständig für den Vermieter verfügbar.  
+### Ursachen des Rückgangs  
+- Das Jahresende brachte für Tesla die Erkenntnis, dass **ohne staatliche Subventionen** die Nachfrage stark zurückgeht.  
+- Ende September ließ **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** die US‑Steuervergünstigung von **7 500 $** auslaufen.  
+- In den darauf folgenden drei Monaten fielen die weltweiten Auslieferungen von Tesla um **15,6 %** auf **418 227 Fahrzeuge**.  
+- Gesamtjahreslieferungen sanken um **8,5 %** auf **1,636 Mio.**, damit der **zweite Rückgang in Folge** nach dem Höchststand von 2023 (etwa 1,8 Mio.).  
 
-### Politische Reaktionen  
-- **Luzian Franzini** (Kantonsrat, *Grün‑Alternativen*) bezeichnet das Vorgehen als **Wohnsitzbetrug** und kritisiert:  
-  - Missbrauch des Wohnungsmarktes für reine Steuerzwecke  
-  - Fehlende Wohnraum für tatsächliche Zug‑Bewohner  
-- Franzini fordert:  
-  - Strengere Kontrollen durch den Regierungsrat des Kantons Zug  
-  - Konsequente Ablehnung von Scheinwohnsitzen in den Behörden  
+### Marktentwicklung & Prognosen  
+- Analyst **[Gene Munster](https://en.wikipedia.org/wiki/Gene_Munster)** wies darauf hin, dass die EV‑Verkäufe in den USA im Oktober um rund **30 %** gefallen sind.  
+- Für das laufende Jahr prognostiziert er eine **etwa 5 %ige Erholung** der Tesla‑Auslieferungen.  
 
-### Behördliche Kontrollen und Fälle  
-- Der Zuger **Finanzdirektor Heinz Tännler** (SVP) gibt an, dass die **Einwohnerkontrollen** bei Anmeldungen aus anderen Kantonen intensiver Prüfungen durchführen.  
-  - 2022 wurden in der Stadt Zug rund **30 Anmeldungen** zurückgewiesen.  
-  - In Baar erfolgen ein bis zwei Ablehnungen pro Monat.  
-- Bei Verdacht verlangt die Behörde u. a.:  
-  - Kreditkarten‑ bzw. Bankauszüge  
-  - Strom‑ und Wasserrechnungen  
-  - Nachweise zu öffentlichen Verkehrsmitteln und ÖV‑Abos  
+### Musks Zukunftsstrategie  
+- **[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)** stellt den reinen Autoverkauf in den Hintergrund und betont das Potenzial von **selbstfahrenden Robotaxis** und **humanoiden Robotern**.  
+- Bisher betreibt Tesla nur einige Dutzend Robotaxis in **Austin, Texas**, meist mit Aufpassern im Beifahrersitz.  
 
-### Beispiel: Daniel Vasella  
-- Der ehemalige Novartis‑Chef **[Daniel Vasella](https://en.wikipedia.org/wiki/Daniel_Vasella)** wurde 2013 nach einer umfassenden Prüfung (Wasser‑/Stromrechnungen, Flug‑ und Kreditkartendaten, Kunstwerke) als tatsächlicher Bewohner von **[Zug](https://en.wikipedia.org/wiki/Zug)** identifiziert.  
-- Das Verfahren zeigte, dass er nicht, wie angegeben, in Monaco wohnhaft war, sondern in Zug Steuern zahlen musste.  
+### Wettbewerb & Technologiedebatte  
+- **[Waymo](https://en.wikipedia.org/wiki/Waymo)** (Google‑Tochter) fährt bereits mit **über 2 500 fahrerlosen Fahrzeugen** in mehreren US‑Städten und expandiert weiter.  
+- Musk behauptet, Teslas Autonomie könne allein mit **Kameras** erreicht werden, während Konkurrenten zusätzlich **Lidar‑ und Radarsensoren** einsetzen.  
+- Sollte Musks Ansatz funktionieren, könnte Tesla einen **großen Kostenvorteil** im Robotaxi‑Markt erlangen, doch **Experten zweifeln an Zuverlässigkeit und Sicherheit** dieser rein kamerabasierten Lösung.  
 
-### Fazit  
-- Das Angebot von **Scheinwohnsitzen** in Zug stellt ein wachsendes Problem dar, das sowohl den Wohnungsmarkt belastet als auch die Steuergerechtigkeit untergräbt.  
-- Politiker und Behörden fordern intensivere Kontrollen, während einzelne Fälle (z. B. Vasella) die Wirksamkeit bestehender Prüfungen demonstrieren, jedoch gleichzeitig den Handlungsbedarf verdeutlichen.
+### Humanoide Roboter & Zukunftsaussichten  
+- Zahlreiche chinesische Unternehmen sowie US‑Firmen wie **Agility Robotics** und **Figure AI** entwickeln bereits **humanoide Roboter** für industrielle Anwendungen.  
+- Laut Munster wird die Börse Musk Spielraum für diese zukunftsweisenden Projekte geben, **solange die Tesla‑Absatzzahlen einigermaßen stabil bleiben**.  
 
-> Relevance score: [6] - The scheme of offering ‘mailbox‑addresses’ for tax‑evading non‑residents directly concerns Switzerland’s reputation as a tax haven and may prompt legal or regulatory actions, affecting domestic tax policy and public debate.
+> Relevance score: [7] - The overtaking of Tesla by BYD signals a shift in the global electric‑vehicle market, affecting competition, supply chains, and climate‑policy objectives worldwide.
+
+## HPAI-Impfprogramme: WEO benennt Voraussetzungen für den Einsatz
+
+[DGS MAGAZIN](https://www.dgs-magazin.de/aktuelles/news/article-8339829-4627/hpai-impfprogramme-weo-benennt-voraussetzungen-fuer-den-einsatz-.html) • _Samstag, 3. Januar 2026, 04:01 Uhr_
+
+Die hochpathogene Aviäre Influenza breitet sich weltweit weiter aus. Die World Egg Organization legt zentrale Anforderungen für Impfprogramme in der Geflügelhaltung vor.
+
+### Hintergrund und Zielsetzung der WEO‑Studie
+- Die anhaltende Verbreitung von **[hochpathogener Aviärer Influenza (HPAI)](https://de.wikipedia.org/wiki/Vogelgrippe)** stellt die weltweite Geflügelhaltung vor große Herausforderungen.  
+- Neben Biosicherheitsmaßnahmen und Monitoring prüfen immer mehr Länder den Einsatz von Impfprogrammen.  
+- Die **[World Egg Organization (WEO)](https://en.wikipedia.org/wiki/World_Egg_Organization)** hat im Dezember 2025 einen Fachbericht veröffentlicht, der staatlichen Stellen, Branchenvertretern und der Geflügelwirtschaft klare Rahmenbedingungen für ein fachlich belastbares Impfprogramm liefert.  
+
+### Zentrale Voraussetzungen für ein wirksames HPAI‑Impfprogramm
+- **Integration in bestehende Konzepte**  
+  - Impfung gilt als ergänzende Schutzmaßnahme zu bestehenden Biosicherheits‑ und Präventionsstrategien.  
+- **Verfügbarkeit geeigneter Impfstoffe**  
+  - Nationale oder regionale Notfall‑Impfstoffreserven bzw. kommerzielle Impfstoffe, die auf die zirkulierenden Feldviren abgestimmt sind.  
+  - Einsatz ausschließlich qualitativ hochwertiger Impfstoffe, die Infektionen verhindern oder die Virusausscheidung deutlich reduzieren.  
+- **Qualität und Wirksamkeit**  
+  - Impfstoffe müssen im Labor geprüft und ihre Wirksamkeit unter Praxisbedingungen mit etablierten Methoden bewertet sein.  
+  - **Antigen‑Übereinstimmung** zwischen Impfstoffstämmen und Feldviren (besonders bei inaktivierten Impfstoffen).  
+  - Nutzung von **Kassettensystemen**, die eine Aktualisierung ohne komplettes Neuzulassungsverfahren ermöglichen.  
+- **Anwendung und Überwachung**  
+  - Anwendung gemäß Herstellerangaben bei Einhaltung strenger Hygiene‑ und Biosicherheitsstandards.  
+  - Regelmäßige Kontrolle der Immunantwort in geimpften Beständen; Nachimpfungen bei unzureichender Durchimpfung.  
+  - Kontinuierliche Bewertung des Impfprogramms anhand klar definierter Ziele und fachlich begründeter Entscheidung über dessen Beendigung.  
+
+### Mögliche Einsatzformen der Impfungen
+- **Präventive Impfungen** in Regionen mit erhöhtem Ausbruchsrisiko.  
+- **Impfungen zur Unterstützung der Seuchenbekämpfung** bei akuten Ausbrüchen.  
+- **Regelmäßige Impfungen** in Ländern mit endemischem HPAI‑Vorkommen.  
+
+### Ausblick und Empfehlung des WEO‑Beraters
+- Laut **Dr. Olivier Espeisse**, HPAI‑Berater der WEO, haben sich Ausbreitungsmuster und Epidemiologie der HPAI in den letzten Jahren deutlich gewandelt, wodurch klassische Präventions‑ und Bekämpfungsmaßnahmen allein an ihre Grenzen stoßen.  
+- Die WEO sieht die Impfung von Geflügel daher als **Baustein eines umfassenden Maßnahmenpakets**, das Tierbestände, wirtschaftliche Grundlagen und die Versorgung mit Geflügelprodukten nachhaltig schützen soll.  
+
+> Relevance score: [6] - Guidelines for avian‑influenza vaccination influence worldwide poultry production and food‑security policies, which are important for global agriculture and trade.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Moskau übergibt USA Material zu angeblichem Putin
+## Punkt MC03: Neues Schweizer Smartphone will Sicherheit und Alltag versöhnen
 
-[Blick](https://www.blick.ch/ausland/residenz-von-kreml-chef-im-visier-moskau-uebergibt-usa-beweismaterial-zu-drohnenangriff-auf-putin-id21562627.html) • _Freitag, 2. Januar 2026, 04:32 Uhr_
+[BornCity](https://borncity.com/news/punkt-mc03-neues-schweizer-smartphone-will-sicherheit-und-alltag-versoehnen/) • _Samstag, 3. Januar 2026, 02:44 Uhr_
 
-Russland präsentiert den USA angebliche Drohnen-Beweise für einen mutmasslichen Ukraine-Angriff auf Putins Residenz. Es handelt sich um Navigationsdaten auf einer abgeschossenen Drohne, die eine entsprechende Route erkennen lassen.
+Das MC03 von Punkt Tronics trennt das System in eine sichere Proton-Umgebung und eine sandboxierte Android-Umgebung. Das Premium-Gerät wird über ein Abo-Modell vertrieben und zielt auf Professionals.
 
-Daniel KestenholzRedaktor Nachtdienst
-Russland hat den USA angebliches Beweismaterial übergeben, das einen mutmasslichen ukrainischen Drohnenangriff auf Präsident Wladimir Putin (73) belegen soll. Wie das russische Verteidigungsministerium mitteilte,... [weiterlesen](https://www.blick.ch/ausland/residenz-von-kreml-chef-im-visier-moskau-uebergibt-usa-beweismaterial-zu-drohnenangriff-auf-putin-id21562627.html)
+Ein Schweizer Hersteller lanciert ein Smartphone mit zwei getrennten Betriebsumgebungen – eine radikale Antwort auf die Datenschutz-Debatte. Punkt Tronics stellte am Freitag das Flaggschiff MC03 vor. Das Gerät soll den Dauerkonflikt zwischen Privatsp... [weiterlesen](https://borncity.com/news/punkt-mc03-neues-schweizer-smartphone-will-sicherheit-und-alltag-versoehnen/)
 
-> Relevance score: [5] - The alleged evidence of a Ukrainian drone attack on Putin’s residence could influence US‑Russia diplomatic narratives and perceptions of the Ukraine war, but it is unlikely to trigger immediate policy changes or large‑scale geopolitical shifts.
+> Relevance score: [5] - A new Swiss‑made smartphone with a novel dual‑environment architecture represents a notable technological innovation from Switzerland, potentially affecting domestic tech markets and data‑privacy debates.
 
-## Protestwelle im Iran: Mehrere Tote
+## Chaos 2026: AfD nutzt Eskalation für Wahlkampf
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/wachsende-unzufriedenheit-mehrere-tote-bei-neuer-protestwelle-im-iran) • _Donnerstag, 1. Januar 2026, 20:47 Uhr_
+[Blick](https://www.blick.ch/ausland/silvesterchaos-als-auftakt-ins-wichtige-wahljahr-wie-friedrich-merz-den-afd-aufstieg-begrenzen-koennte-id21564039.html) • _Freitag, 2. Januar 2026, 19:13 Uhr_
 
-Inmitten einer schweren Wirtschaftskrise zieht es bereits fünf Tage in Folge Menschenmassen auf die Strassen im Iran.
+Gewaltbilder und die Eskalationen an Silvester liefern der AfD Material für den Wahlkampf. Die fünf anstehende Landtagswahlen bringen die Union von Friedrich Merz zudem in Bedrängnis.
 
-Den fünften Tag in Folge sind Menschenmassen im Iran angesichts der schweren Wirtschaftskrise gegen die autoritäre Staatsführung auf die Strasse gegangen.
-Während Augenzeugen zufolge in den Metropolen Sicherheitskräfte mit einem massiven Aufgebot anr... [weiterlesen](https://www.srf.ch/news/international/wachsende-unzufriedenheit-mehrere-tote-bei-neuer-protestwelle-im-iran)
+Ein Wahljahr unter Hochdruck
+Denn 2026 wird für Bundeskanzler Friedrich Merz und seine CDU zum Stresstest. Fünf Landtagswahlen stehen an, während die AfD weiter zulegt und Koalitionen ohne sie rechnerisch immer schwieriger werden. Besonders in Sachse... [weiterlesen](https://www.blick.ch/ausland/silvesterchaos-als-auftakt-ins-wichtige-wahljahr-wie-friedrich-merz-den-afd-aufstieg-begrenzen-koennte-id21564039.html)
 
-> Relevance score: [5] - Mass protests and fatalities in Iran are significant for regional stability and human‑rights concerns, yet they have limited immediate impact on Swiss or global structural developments.
+> Relevance score: [5] - The AfD’s exploitation of social unrest for German elections could influence the political landscape of the EU, with indirect relevance for Switzerland’s foreign‑policy environment.
 
-## Legende Warren Buffett tritt zurück
+## Zohran Mamdani fährt mit der U-Bahn: Ein symbolischer Start als Bürgermeister von New York
 
-[Blick](https://www.blick.ch/wirtschaft/werde-nur-noch-herumhaengen-investoren-legende-warren-buffet-95-raeumt-sein-buero-anleger-gespannt-id21561964.html) • _Donnerstag, 1. Januar 2026, 19:45 Uhr_
+[20 Min](https://www.20min.ch/story/new-york-mamdani-faehrt-am-ersten-tag-im-amt-mit-der-u-bahn-103479530) • _Samstag, 3. Januar 2026, 05:45 Uhr_
 
-Nach über 60 Jahren an der Spitze von Berkshire Hathaway zieht sich Warren Buffett zurück. Der 95-jährige Milliardär will in Zukunft «nur noch herumhängen». Buffett und seine nüchterne Art sind Kult. Seine Investments legendär.
+Am ersten Tag im Amt zeigt Zohran Mamdani seine Verbundenheit mit den Bürgern. Doch die ersten Kritiken lassen nicht lange auf sich warten.
 
-Patrik BergerRedaktor Wirtschaft
-Es ist ein historischer Moment für die Wall Street: Warren Buffett (95) räumt sein Büro. Er zieht sich aus dem operativen Tagesgeschäft seines Investmentgiganten Berkshire Hathaway zurück. Nach Jahrzehnten an der Spit... [weiterlesen](https://www.blick.ch/wirtschaft/werde-nur-noch-herumhaengen-investoren-legende-warren-buffet-95-raeumt-sein-buero-anleger-gespannt-id21561964.html)
+Weniger als 24 Stunden nachdem Scharen begeisterter Fans zu seiner historischen Amtseinführung nach Manhattan geströmt waren, begann Zohran Mamdani seinen ersten vollen Arbeitstag als New Yorks Bürgermeister mit einer Routine, die vielen Bewohnern de... [weiterlesen](https://www.20min.ch/story/new-york-mamdani-faehrt-am-ersten-tag-im-amt-mit-der-u-bahn-103479530)
 
-> Relevance score: [4] - Buffett’s retirement is notable for investors and Wall Street history, but it does not constitute a major structural change in the global economy or financial system.
+> Relevance score: [3] - A mayoral inauguration in a single U.S. city has limited structural impact outside New York; it is mainly symbolic and does not affect global or Swiss affairs in a substantive way.
+
+## Apples Preview-App: Die neue PDF-Revolution auf dem iPhone
+
+[it boltwise](https://www.it-boltwise.de/apples-preview-app-die-neue-pdf-revolution-auf-dem-iphone.html) • _Freitag, 2. Januar 2026, 22:45 Uhr_
+
+Apples Preview-App für iOS 26 macht das iPhone zur vollwertigen Dokumentenstation. Mit Funktionen wie Passwortschutz und nativen Kommentaren wird die App zum unverzichtbaren Werkzeug.
+
+LONDON (IT BOLTWISE) – Apples neue Preview-App für iOS 26 verwandelt das iPhone in eine vollwertige Dokumentenstation. Mit Funktionen wie Passwortschutz und nativen Kommentaren wird die Abhängigkeit von teuren Zusatz-Apps reduziert. Die App integrier... [weiterlesen](https://www.it-boltwise.de/apples-preview-app-die-neue-pdf-revolution-auf-dem-iphone.html)
+
+> Relevance score: [3] - The release is a functional update to a consumer app; it improves user experience but lacks broader societal or economic impact.
+
+## Veganuary 2026: Ernährungsmediziner warnen vor B12-Mangel fürs Gehirn
+
+[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/veganuary-2026-ernaehrungsmediziner-warnen-vor-b12-mangel-fuers-gehirn/68452804) • _Freitag, 2. Januar 2026, 23:10 Uhr_
+
+Neurologen und Ernährungsgesellschaften betonen die essentielle Rolle von Vitamin B12 für den Schutz vor neurodegenerativen Schäden und fordern frühzeitige Supplementierung.
+
+Führende Neurologen und Ernährungsgesellschaften starten mit einer eindringlichen Warnung ins neue Jahr. Ihr Appell richtet sich an Millionen Teilnehmer der “Veganuary”-Kampagne: Vernachlässigt nicht das Vitamin B12. Der Fokus hat sich verschoben. Es... [weiterlesen](https://www.ad-hoc-news.de/boerse/news/ueberblick/veganuary-2026-ernaehrungsmediziner-warnen-vor-b12-mangel-fuers-gehirn/68452804)
+
+> Relevance score: [2] - While health‑related warnings are useful, the advice targets a niche audience of Veganuary participants and does not constitute a major public‑health policy shift.
 
 
 </details>
