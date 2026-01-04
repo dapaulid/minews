@@ -2,165 +2,139 @@
 
 ---
 
-_Updated: Saturday, January 3 2026, 18:20 CET_
+_Updated: Sunday, 4 January 2026, 06:29 AM_
 
-## Mass protests in Iran spread to the capital Tehran
+## SVP does not aim for a third Federal Council seat – but wants to crack 30 percent
 
-[Blick](https://www.blick.ch/ausland/mullah-regime-unter-druck-massenproteste-im-iran-weiten-sich-auf-teheran-aus-id21564490.html) • _Saturday, January 3 2026, 02:00 CET_
+[Watson](https://www.watson.ch/schweiz/svp/901756897-svp-strebt-keinen-3-bundesratssitz-an-will-aber-30-prozent-knacken) • *Saturday, 3 January 2026, 08:03 AM*
 
-The regime of **Ali Khamenei** is coming under increasing pressure. Reza Pahlavi, the son of the deposed Shah, is calling for further protests in the capital Tehran.
+A third Federal Council seat is, according to the SVP’s own statements, not on the agenda for the 2027 federal elections.
 
-### Expansion of the protests  
-- The massive demonstrations against the regime of **[Ali Khamenei](https://en.wikipedia.org/wiki/Ali_Khamenei)** have moved from rural areas into the capital **[Tehran](https://en.wikipedia.org/wiki/Tehran)**.  
-- In the southern district **Nasi Abad** there were riots: people took to the streets, chanting slogans against the **[Islamic Republic of Iran](https://en.wikipedia.org/wiki/Islamic_Republic_of_Iran)** and burning trash containers were spotted (the authenticity of the footage could not initially be verified).  
+### Position on the Federal Council seat allocation
+- The **[Swiss People’s Party] (SVP)** (https://en.wikipedia.org/wiki/Swiss_People%27s_Party) will not pursue a third seat in the **[Federal Council (Switzerland)]** (https://en.wikipedia.org/wiki/Federal_Council_(Switzerland)); it remains committed to the current **[Magic formula (Swiss politics)]** (https://en.wikipedia.org/wiki/Magic_formula_(Swiss_politics)).  
+- Campaign manager **Manuel Strupler** emphasises: “We stand by the current Magic formula.”  
+- An additional seat would only be considered if the vote share justified it – which is not a current goal.  
 
-### Call from Reza Pahlavi  
-- **[Reza Pahlavi](https://en.wikipedia.org/wiki/Reza_Pahlavi)**, the 65‑year‑old son of the Shah ousted in 1979, wrote in a post on X:  
-  - “Millions‑strong presence” of people in Tehran.  
-  - ** erection of roadblocks** on key corridors and main thoroughfares.  
-- Pahlavi lives in exile; his actual influence on the protests remains unclear, while the Iranian opposition abroad is considered fragmented.  
+### Goal for the 2027 Federal Council elections
+- The SVP wants to increase its vote share and aims to surpass the **30 percent mark**.  
+- Strupler does not quote an exact figure but stresses a desire for growth.  
 
-### Scale and locations of the unrest  
-- Apart from Tehran, various regions reported demonstrations, including:  
-  - **Qom**  
-  - **Marvdasht**  
-  - **Mashhad**  
-  - **Hamadan**  
-- The state news agency **IRNA** confirmed the protests in these cities.  
+### Election poll result (October 2025)  
+- The **Sotomo** polling barometer for **[SRG SSR]** (https://en.wikipedia.org/wiki/SRG_SSR) surveyed about 32 000 eligible voters (25 Aug.–11 Sep 2025).  
+  - In a hypothetical autumn‑2025 election, the SVP would have received **30.4 %** (up 2.5 percentage points).  
+  - The **[Social Democratic Party of Switzerland]** (https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland) and **[The Greens (Switzerland)]** (https://en.wikipedia.org/wiki/The_Greens_(Switzerland)) were also recorded as winners in the poll.  
+- Thus, the 30‑percent threshold for the SVP is “within reach”.  
 
-### Violence and casualties  
-- In the countryside there were fierce clashes between security forces and demonstrators.  
-- Human‑rights activists report at least **ten deaths** since the start of the latest unrest.  
+### Current Federal Council composition according to the Magic formula  
+- Since 1943 the four strongest parties have been represented in the Federal Council.  
+- Today (according to the **Magic formula** of 1959):  
+  - **SVP**, **Social Democrats (SP)** and **FDP** each hold **two** seats.  
+  - **The Centre** (formerly CVP) holds **one** seat.  
+- Although the representativeness of the Magic formula is repeatedly debated, the seat distribution remains unchanged so far.  
 
-### Context  
-- The protests arise in an environment of growing pressure on Khamenei’s regime.  
-- Reza Pahlavi’s appeal marks a new phase in which the exiled opposition is actively trying to steer the demonstrations toward the capital.
+> Relevance score: [7] – A major Swiss party’s electoral strategy could shape the composition of the federal government after the 2027 elections, directly affecting national politics.
 
-> Relevance score: [7] – Large‑scale protests in Iran have significant geopolitical ramifications, influencing regional stability, human‑rights discourse, and international diplomatic relations.
+## Oil, Economy, Inflation and Maduro’s Arrest
 
-## BYD overtakes Tesla in global electric‑vehicle sales
+[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/us-angriffe-auf-venezuela-oel-wirtschaft-inflation-und-maduros-verhaftung-ld.1918665) • *Saturday, 3 January 2026, 14:48 PM*
 
-[Swiss Radio and Television](https://www.srf.ch/news/international/byd-neu-an-spitze-tesla-ist-nicht-mehr-fuehrend-bei-weltweiten-elektroauto-verkaeufen) • _Friday, January 2 2026, 20:46 CET_
+President Maduro has driven Venezuela into a deep crisis. The consequences of his removal for the country’s economy and for financial markets remain unclear.
 
-One reason for the sales decline was the expiration of electric‑vehicle tax credits that Trump let lapse.
+### US intervention and political developments
+- **Donald Trump** announced that the **USA** will take control of **Venezuela** after the arrest of **Nicolás Maduro** and his wife **Cilia Flores**, until a “safe, correct and considered transition” is possible.  
+- The **US military** detained Maduro and Flores on Saturday; they are now aboard a US warship and being taken to New York, where they have been charged with **drug trafficking** and **machine‑gun possession** (announcement by **Pam Bondi**).  
+- **Marco Rubio** called Maduro “the chief of a drug cartel” and accused him of **2024 election fraud**, stressing that Maduro is not a legitimate president.  
+- The Venezuelan government claimed the US attacks violate the **[Charter of the United Nations]** (https://en.wikipedia.org/wiki/Charter_of_the_United_Nations) and demanded an emergency session of the **[United Nations Security Council]** (https://en.wikipedia.org/wiki/United_Nations_Security_Council).  
 
-### 2024 sales figures  
-- The Chinese manufacturer **[BYD](https://en.wikipedia.org/wiki/BYD_(company))** sold roughly **2.2 million** electric vehicles in 2024, overtaking **[Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.)**.  
-- **Tesla** recorded only **1.6 million** vehicles sold in the same year.  
+### Oil industry and economy
+- Despite large **oil reserves**, Venezuelan production is far below potential (pre‑blockade < 1 million bbl/day, a decade ago almost 2.5 million bbl/day).  
+- **Trump** promised that US oil companies will invest billions to rebuild the **oil infrastructure** and generate revenue for the country; the **US embargo** will remain until US demands are met.  
+- According to **Bloomberg**, the oil infrastructure was not damaged by the US attacks; **Chevron** (operating under a special US licence) continues joint‑ventures in Venezuela with roughly 3 000 employees and production of about 250 000 bbl/day.  
+- Under Maduro’s presidency there was **high inflation**, food and medicine shortages, and a deep economic crisis.  
 
-### Reasons for the decline  
-- The end of the year showed Tesla that **without government subsidies** demand drops sharply.  
-- At the end of September **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** let the US tax credit of **$7,500** expire.  
-- In the following three months worldwide Tesla deliveries fell **15.6 %** to **418,227 vehicles**.  
-- Full‑year deliveries dropped **8.5 %** to **1.636 million**, marking the **second consecutive decline** after the 2023 peak (around 1.8 million).  
+### Market reactions
+- Oil markets were closed at the time of writing; the exact impact of the US attacks and the arrest on prices remains unclear.  
+- An **OPEC+** virtual meeting is upcoming; observers expect output for Q1 2026 to stay unchanged.  
+- Oil prices slightly down: **WTI** $57.32 / bbl, **Brent** $60.75 / bbl (each ‑0.2 %).  
+- **Gold** continued its rise, at $4 332 / oz (+0.3 %).  
+- Equity markets opened positive: **Euro‑Stoxx‑50** hit a record high (+~1 %), **FTSE 100** briefly crossed the 10 000 mark, and the **Dow Jones** rose about 0.7 %.  
 
-### Market development & forecasts  
-- Analyst **[Gene Munster](https://en.wikipedia.org/wiki/Gene_Munster)** noted that US EV sales fell about **30 %** in October.  
-- For the current year he forecasts roughly a **5 % recovery** in Tesla deliveries.  
+> Relevance score: [6] – The arrest of Venezuela’s leader and ensuing US actions could influence global oil markets and inflation, which have indirect effects on the Swiss economy and financial markets.
 
-### Musk’s future strategy  
-- **[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)** is shifting focus away from pure car sales and emphasizing the potential of **self‑driving robotaxis** and **humanoid robots**.  
-- So far Tesla operates only a few dozen robotaxis in **Austin, Texas**, usually with a safety driver in the front seat.  
+<details><summary markdown="span">Show less important events</summary>
 
-### Competition & technology debate  
-- **[Waymo](https://en.wikipedia.org/wiki/Waymo)** (Google’s subsidiary) already runs **over 2,500 driver‑less vehicles** in several US cities and continues to expand.  
-- Musk claims Tesla’s autonomy can be achieved with **cameras alone**, while rivals also use **lidar and radar sensors**.  
-- If Musk’s approach works, Tesla could gain a **significant cost advantage** in the robotaxi market, but **experts doubt the reliability and safety** of a purely camera‑based solution.  
+## Lucerne homeowners balk at the solar obligation
 
-### Humanoid robots & future outlook  
-- Numerous Chinese firms and US companies such as **Agility Robotics** and **Figure AI** are already developing **humanoid robots** for industrial use.  
-- According to Munster, the market will give Musk room for these forward‑looking projects **as long as Tesla’s sales remain reasonably stable**.  
+[Swiss Radio and Television (SRF)](https://www.srf.ch/news/schweiz/energiewende-luzerner-hauseigentuemer-hadern-mit-der-solarpflicht) • *Saturday, 3 January 2026, 17:37 PM*
 
-> Relevance score: [7] – The overtaking of Tesla by BYD signals a shift in the global electric‑vehicle market, affecting competition, supply chains, and climate‑policy objectives worldwide.
+The canton of Lucerne is ahead of other regions in solar energy. Yet doubts about solar expansion have emerged precisely there.
 
-## HPAI vaccination programmes: WEO sets conditions for use
+In the canton of Lucerne, solar electricity generation per capita is roughly twice the national average. Especially in rural areas, many large roofs on farms and commercial buildings are equipped with photovoltaic systems… [read more](https://www.srf.ch/news/schweiz/energiewende-luzerner-hauseigentuemer-hadern-mit-der-solarpflicht)
 
-[DGS MAGAZIN](https://www.dgs-magazin.de/aktuelles/news/article-8339829-4627/hpai-impfprogramme-weo-benennt-voraussetzungen-fuer-den-einsatz-.html) • _Saturday, January 3 2026, 04:01 CET_
+> Relevance score: [5] – Shows resistance to a cantonal renewable‑energy mandate. Relevant to Switzerland’s energy transition and local governance, but limited to one canton with modest immediate impact.
 
-High‑pathogenic avian influenza continues to spread worldwide. The World Egg Organization (WEO) outlines key requirements for vaccination programmes in poultry production.
+## Reports of explosions in Venezuela's capital Caracas
 
-### Background and objectives of the WEO study
-- The ongoing spread of **[high‑pathogenic avian influenza (HPAI)](https://en.wikipedia.org/wiki/Avian_influenza)** poses major challenges to global poultry farming.  
-- In addition to bio‑security measures and monitoring, more countries are examining the use of vaccination programmes.  
-- The **[World Egg Organization (WEO)](https://en.wikipedia.org/wiki/World_Egg_Organization)** published a specialist report in December 2025 that provides governments, industry representatives and the poultry sector with clear framework conditions for a scientifically sound vaccination programme.  
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/berichte-ueber-explosionen-in-venezuelas-hauptstadt-caracas-ld.1918653) • *Saturday, 3 January 2026, 08:38 AM*
 
-### Key prerequisites for an effective HPAI vaccination programme
-- **Integration into existing concepts**  
-  - Vaccination is regarded as a complementary protective measure to existing bio‑security and prevention strategies.  
-- **Availability of suitable vaccines**  
-  - National or regional emergency‑vaccine reserves or commercial vaccines matched to circulating field strains.  
-  - Use only of high‑quality vaccines that prevent infection or markedly reduce virus shedding.  
-- **Quality and efficacy**  
-  - Vaccines must be laboratory‑tested and their efficacy evaluated under field conditions with established methods.  
-  - **Antigenic match** between vaccine strains and field viruses (especially for inactivated vaccines).  
-  - Use of **cassette systems** that allow updates without a full new‑approval process.  
-- **Application and monitoring**  
-  - Administration according to manufacturer instructions while observing strict hygiene and bio‑security standards.  
-  - Regular monitoring of immune response in vaccinated flocks; revaccination where coverage is insufficient.  
-  - Continuous assessment of the programme against clearly defined goals and a scientifically justified decision on its termination.  
+Images show fire and smoke. The Venezuelan government confirmed the attack and declared a state of emergency.
 
-### Possible vaccination use cases
-- **Preventive vaccinations** in regions with elevated outbreak risk.  
-- **Vaccinations to support disease control** during acute outbreaks.  
-- **Routine vaccinations** in countries with endemic HPAI presence.  
+Videos from 3 January show helicopters and explosions in Caracas.  
+Reuters: “The United States of America has successfully carried out a large‑scale strike against Venezuela and its leader, President Nicolás Maduro…” [read more](https://www.nzz.ch/international/berichte-ueber-explosionen-in-venezuelas-hauptstadt-caracas-ld.1918653)
 
-### Outlook and recommendation from the WEO adviser
-- According to **Dr. Olivier Espeisse**, WEO HPAI adviser, spread patterns and epidemiology have changed markedly in recent years, rendering classic prevention and control measures alone insufficient.  
-- The WEO therefore sees poultry vaccination as a **building block of a comprehensive measures package** that sustainably protects animal stocks, economic foundations and the supply of poultry products.  
+> Relevance score: [5] – Reports of attacks in Caracas add to geopolitical instability in an oil‑producing region; may affect markets and diplomatic stances, but direct relevance to Switzerland is limited.
 
-> Relevance score: [6] – Guidelines for avian‑influenza vaccination influence worldwide poultry production and food‑security policies, which are important for global agriculture and trade.
+## Virus variant triggers emergency: Hospitals in Italy overcrowded – doctor warns
 
-<details><summary markdown="span">Show less‑important events</summary>
+[Frankfurter Rundschau](https://www.fr.de/panorama/virus-variante-loest-notlage-aus-krankenhaeuser-in-italien-ueberfuellt-mediziner-warnt-94107472.html) • *Saturday, 3 January 2026, 04:28 PM*
 
-## Item MC03: New Swiss smartphone aims to reconcile security and everyday use
+The new flu mutation is overwhelming emergency rooms in northern Italy. Doctors warn of dangerous pneumonia across all age groups.
 
-[BornCity](https://borncity.com/news/punkt-mc03-neues-schweizer-smartphone-will-sicherheit-und-alltag-versoehnen/) • _Saturday, January 3 2026, 02:44 CET_
+Home page → Panorama → Virus variant triggers emergency: Hospitals in Italy overcrowded – doctor warns  
+By Christoph Gschoßmann  
+The new flu mutation is overwhelming emergency rooms in northern Italy. Doctors warn of dangerous pneumonia… [read more](https://www.fr.de/panorama/virus-variante-loest-notlage-aus-krankenhaeuser-in-italien-ueberfuellt-mediziner-warnt-94107472.html)
 
-The MC03 from Punkt Tronics separates the system into a secure Proton environment and a sandboxed Android environment. The premium device is sold via a subscription model and targets professionals.
+> Relevance score: [3] – A health emergency in Italy may have cross‑border implications, yet it does not directly affect Swiss public policy or society at this stage.
 
-A Swiss manufacturer launches a smartphone with two separated operating environments – a radical response to the data‑privacy debate. Punkt Tronics unveiled its flagship MC03 on Friday. The device is intended to reconcile the constant conflict between private and work usage… [read more](https://borncity.com/news/punkt-mc03-neues-schweizer-smartphone-will-sicherheit-und-alltag-versoehnen/)
+## ECB chief Christine Lagarde likely earns far more than known
 
-> Relevance score: [5] – A new Swiss‑made smartphone with a novel dual‑environment architecture represents a notable technological innovation from Switzerland, potentially affecting domestic tech markets and data‑privacy debates.
+[Watson](https://www.watson.ch/international/gesellschaft-politik/772371140-ezb-chefin-christine-lagarde-verdient-wohl-deutlich-mehr-als-bekannt) • *Saturday, 3 January 2026, 08:09 AM*
 
-## Chaos 2026: AfD exploits escalation for election campaign
+ECB President Christine Lagarde reportedly earns far more than officially disclosed. The European Central Bank faces criticism for a lack of transparency.
 
-[Blick](https://www.blick.ch/ausland/silvesterchaos-als-auftakt-ins-wichtige-wahljahr-wie-friedrich-merz-den-afd-aufstieg-begrenzen-koennte-id21564039.html) • _Friday, January 2 2026, 19:13 CET_
+The President of the European Central Bank (ECB), Christine L… [read more](https://www.watson.ch/international/gesellschaft-politik/772371140-ezb-chefin-christine-lagarde-verdient-wohl-deutlich-mehr-als-bekannt)
 
-Images of violence and the New Year’s Eve escalations give the AfD material for its election campaign. The five upcoming state elections also put Friedrich Merz’s union under pressure.
+> Relevance score: [3] – Transparency issues at the ECB touch European financial governance, yet the news does not alter policy or have immediate consequences for Switzerland.
 
-A high‑pressure election year  
-2026 will be a stress test for Chancellor Friedrich Merz and his CDU. Five state elections are pending, while the AfD continues to gain ground and coalitions without it become mathematically more difficult. Especially in Saxony… [read more](https://www.blick.ch/ausland/silvesterchaos-als-auftakt-ins-wichtige-wahljahr-wie-friedrich-merz-den-afd-aufstieg-begrenzen-koennte-id21564039.html)
+## Four years of James Webb: ESA invites virtual flight through real space data
 
-> Relevance score: [5] – The AfD’s exploitation of social unrest for German elections could influence the political landscape of the EU, with indirect relevance for Switzerland’s foreign‑policy environment.
+[t3n – digital pioneers](https://t3n.de/news/james-webb-teleskop-esa-video-flug-weltraumdaten-1723167/) • *Saturday, 3 January 2026, 09:20 AM*
 
-## Zohran Mamdani rides the subway: a symbolic start as New York mayor
+To mark the fourth anniversary of the James Webb Space Telescope, ESA released a spectacular video: a 45‑minute fly‑through of genuine scientific data.
 
-[20 Min](https://www.20min.ch/story/new-york-mamdani-faehrt-am-ersten-tag-im-amt-mit-der-u-bahn-103479530) • _Saturday, January 3 2026, 05:45 CET_
+On the fourth anniversary of the launch of the James Webb Space Telescope (JWST), the European Space Agency, based in Paris, published a remarkable video titled “Fly through Webb’s cosmic vistas”… [read more](https://t3n.de/news/james-webb-teleskop-esa-video-flug-weltraumdaten-1723167/)
 
-On his first day in office, Zohran Mamdani shows his connection with citizens. Yet the first criticisms did not take long to appear.
+> Relevance score: [2] – A scientific outreach video from ESA is interesting but has little structural or civic impact on Switzerland or the wider world.
 
-Less than 24 hours after crowds of enthusiastic fans streamed to Manhattan for his historic inauguration, Zohran Mamdani began his first full workday as New York’s mayor with a routine that many residents … [read more](https://www.20min.ch/story/new-york-mamdani-faehrt-am-ersten-tag-im-amt-mit-der-u-bahn-103479530)
+## This is the world's fastest‑growing airline
 
-> Relevance score: [3] – A mayoral inauguration in a single U.S. city has limited structural impact outside New York; it is mainly symbolic and does not affect global or Swiss affairs in a substantive way.
+[aeroTELEGRAPH](https://www.aerotelegraph.com/airlines/das-ist-die-am-schnellsten-wachsende-airline-der-welt/0cv6l6c) • *Saturday, 3 January 2026, 08:16 AM*
 
-## Apple’s Preview app: the new PDF revolution on the iPhone
+A legal dispute with EasyJet forced Colombia’s first low‑cost airline to change its name. It didn’t hurt its growth: Clic Air left all competitors behind in 2025.
 
-[it boltwise](https://www.it-boltwise.de/apples-preview-app-die-neue-pdf-revolution-auf-dem-iphone.html) • _Friday, January 2 2026, 22:45 CET_
+Five years ago the airline’s management was sued by the lawyers of Stelios Haji‑Ioannou, founder of EasyJet, who still owns the brand rights. He claimed Easyfly was a copy of… [read more](https://www.aerotelegraph.com/airlines/das-ist-die-am-schnellsten-wachsende-airline-der-welt/0cv6l6c)
 
-Apple’s Preview app for iOS 26 turns the iPhone into a full‑featured document station. With features like password protection and native comments, the app becomes an indispensable tool.
+> Relevance score: [2] – Growth of a Colombian low‑cost carrier is noteworthy for the aviation sector but carries no significant impact on Swiss interests.
 
-LONDON (IT BOLTWISE) – Apple’s new Preview app for iOS 26 transforms the iPhone into a complete document hub. With functions such as password protection and native commenting, reliance on costly third‑party apps is reduced. The app integrates … [read more](https://www.it-boltwise.de/apples-preview-app-die-neue-pdf-revolution-auf-dem-iphone.html)
+## ‘Constellation’ boss sat for kidnapping in prison
 
-> Relevance score: [3] – The release is a functional update to a consumer app; it improves user experience but lacks broader societal or economic impact.
+[Inside Paradeplatz](https://insideparadeplatz.ch/2026/01/03/constellation-chef-sass-wegen-entfuehrung-im-gefaengnis/) • *Saturday, 3 January 2026, 07:59 AM*
 
-## Veganuary 2026: Nutrition physicians warn of B12 deficiency for the brain
+Owner of the Death Bar in Crans, a corset, was involved in pimping cases decades ago, according to the newspaper. The Wallis government recently in Corsica.
 
-[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/veganuary-2026-ernaehrungsmediziner-warnen-vor-b12-mangel-fuers-gehirn/68452804) • _Friday, January 2 2026, 23:10 CET_
+Switzerland experiences its worst nightmare. The most severely injured or dead youths could lead to an unprecedented wave of lawsuits.  
+Now the newspaper Le Parisien reports that the owner of “L… [read more](https://insideparadeplatz.ch/2026/01/03/constellation-chef-sass-wegen-entfuehrung-im-gefaengnis/)
 
-Neurologists and nutrition societies stress the essential role of vitamin B12 in protecting against neurodegenerative damage and call for early supplementation.
-
-Leading neurologists and nutrition societies launch a stark warning at the start of the new year. Their appeal is directed at the millions participating in the “Veganuary” campaign: do not neglect vitamin B12. The focus has shifted. It … [read more](https://www.ad-hoc-news.de/boerse/news/ueberblick/veganuary-2026-ernaehrungsmediziner-warnen-vor-b12-mangel-fuers-gehirn/68452804)
-
-> Relevance score: [2] – While health‑related warnings are useful, the advice targets a niche audience of Veganuary participants and does not constitute a major public‑health policy shift.
+> Relevance score: [1] – Local scandal involving a bar owner; lacks broader civic, economic, or political significance.
 
 </details>

@@ -2,167 +2,145 @@
 
 ---
 
-_Aktualisiert: Samstag, 3. Januar 2026, 18:20 Uhr_
+_Aktualisiert: Sonntag, 4. Januar 2026, 06:29 Uhr_
 
-## Massenproteste im Iran weiten sich auf Hauptstadt Teheran aus
+## SVP strebt keinen 3. Bundesratssitz an - will aber 30 Prozent knacken
 
-[Blick](https://www.blick.ch/ausland/mullah-regime-unter-druck-massenproteste-im-iran-weiten-sich-auf-teheran-aus-id21564490.html) • _Samstag, 3. Januar 2026, 02:00 Uhr_
+[Watson](https://www.watson.ch/schweiz/svp/901756897-svp-strebt-keinen-3-bundesratssitz-an-will-aber-30-prozent-knacken) • _Samstag, 3. Januar 2026, 08:03 Uhr_
 
-Das Regime von Ajatollah Ali Khamenei gerät zunehmend unter Druck. Reza Pahlavi, der Sohn des gestürzten Schahs, ruft zu weiteren Protesten in der Hauptstadt Teheran auf.
+Ein dritter Bundesratssitz ist für die SVP bei den eidgenössischen Wahlen 2027 nach eigenen Angaben kein Thema.
 
-### Ausweitung der Proteste  
-- Die massiven Demonstrationen gegen das Regime von **[Ajatollah Ali Khamenei](https://de.wikipedia.org/wiki/Ali_Khamenei)** haben sich von ländlichen Regionen in die Hauptstadt **[Teheran](https://de.wikipedia.org/wiki/Teheran)** verlagert.  
-- In dem südlichen Stadtviertel **Nasi Abad** kam es zu Ausschreitungen: Menschen zogen durch die Straßen, skandierten Slogans gegen die **[Islamische Republik Iran](https://de.wikipedia.org/wiki/Islamische_Republik_Iran)** und brennende Müllcontainer wurden gesichtet (die Echtheit der Aufnahmen konnte zunächst nicht bestätigt werden).  
+### Haltung zur Bundesratszahldarstellung
+- Die **[Schweizerische Volkspartei] (SVP)** will keinen dritten Sitz im **[Bundesrat]** anstreben; sie bleibt bei der aktuellen **[Zauberformel]**.  
+- Wahlkampfleiter **[Manuel Strupler]** betont: „Wir stehen zur aktuellen Zauberformel.“  
+- Ein zusätzlicher Sitz würde nur in Betracht kommen, wenn der Stimmenanteil dies rechtfertigen würde – das ist jedoch kein derzeitiges Ziel.  
 
-### Aufruf von Reza Pahlavi  
-- **[Reza Pahlavi](https://de.wikipedia.org/wiki/Reza_Pahlavi)**, 65‑jähriger Sohn des 1979 gestürzten Schahs, forderte in einem Beitrag auf der Plattform X:  
-  - „Millionenfache Präsenz“ der Menschen in Teheran.  
-  - **Errichtung von Straßensperren** auf Schlüsselachsen und Hauptverkehrsstraßen.  
-- Pahlavi lebt im Exil; sein tatsächlicher Einfluss auf die Proteste bleibt unklar, während die iranische Opposition im Ausland als zersplittert gilt.  
+### Zielsetzung bei den Bundesratswahlen 2027
+- Die SVP will ihren Stimmenanteil erhöhen und strebt das Überschreiten der **30‑Prozent‑Marke** an.  
+- Strupler nennt keine genaue Prozentzahl, verdeutlicht jedoch den Wunsch nach Wachstum.  
 
-### Ausmaß und Orte der Unruhen  
-- Neben Teheran berichteten verschiedene Regionen über Demonstrationen, unter anderem:  
-  - **Ghom**  
-  - **Marwdascht**  
-  - **Maschhad**  
-  - **Hamedan**  
-- Die staatliche Nachrichtenagentur **IRNA** bestätigte die Proteste in diesen Städten.  
+### Wahlumfrage‑Ergebnis (Oktober 2025)  
+- Das **Sotomo**‑Wahlbarometer für die **[SRG]** befragte rund 32 000 Stimmberechtigte (25. Aug.–11. Sep. 2025).  
+  - Bei einer hypothetischen Wahl im Herbst 2025 hätte die SVP **30,4 %** erhalten (plus 2,5 Prozentpunkte).  
+  - Auch die **[Sozialdemokratische Partei] (SP)** und **[Die Grünen]** wurden laut Umfrage als Gewinner verzeichnet.  
+- Damit liegt die 30‑Prozent‑Marke für die SVP „in Reichweite“.  
 
-### Gewalt und Opfer  
-- Auf dem Land kam es zu heftigen Zusammenstößen zwischen Sicherheitskräften und Demonstranten.  
-- Menschenrechtsaktivisten melden mindestens **zehn Todesopfer** seit Beginn der jüngsten Unruhen.  
+### Aktuelle Bundesratszusammensetzung nach der Zauberformel  
+- Seit 1943 sind die vier wählerstärksten Parteien im Bundesrat vertreten.  
+- Derzeit (nach der **Zauberformel** von 1959):  
+  - **SVP**, **SP** und **FDP** erhalten jeweils **zwei** Sitze.  
+  - **Die Mitte** (ehemals CVP) stellt **einen** Sitz.  
+- Obwohl die Repräsentativität der Zauberformel immer wieder diskutiert wird, bleibt die Sitzverteilung bislang unverändert.  
 
-### Kontext  
-- Die Proteste entstehen in einem Umfeld zunehmenden Drucks auf das Regime von Khamenei.  
-- Die Aufforderung von Reza Pahlavi markiert eine neue Phase, in der Opposition im Exil aktiv versucht, die Demonstrationen in die Hauptstadt zu lenken.
+> Relevance score: [7] - A major Swiss party’s electoral strategy could shape the composition of the federal government after the 2027 elections, directly affecting national politics.
 
-> Relevance score: [7] - Large‑scale protests in Iran have significant geopolitical ramifications, influencing regional stability, human‑rights discourse, and international diplomatic relations.
+## Öl, Wirtschaft, Inflation und Maduros Verhaftung
 
-## BYD überholt Tesla bei weltweiten Elektroauto-Verkäufen
+[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/us-angriffe-auf-venezuela-oel-wirtschaft-inflation-und-maduros-verhaftung-ld.1918665) • _Samstag, 3. Januar 2026, 14:48 Uhr_
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/byd-neu-an-spitze-tesla-ist-nicht-mehr-fuehrend-bei-weltweiten-elektroauto-verkaeufen) • _Freitag, 2. Januar 2026, 20:46 Uhr_
+Staatspräsident Maduro hat Venezuela in eine tiefe Krise geführt. Welche Folgen sein Sturz für die Wirtschaft des lateinamerikanischen Landes und für die Finanzmärkte haben wird, ist noch unklar.
 
-Ein Grund für den Verkaufsrückgang waren die Steuervergünstigungen für Elektroautos, welche Trump auslaufen liess.
+### US‑Intervention und politische Entwicklungen
+- **Donald Trump** kündigte an, dass die **USA** nach der Verhaftung von **Nicolás Maduro** und seiner Frau **Cilia Flores** die Kontrolle über **Venezuela** übernehmen sollen, bis ein „sicherer, korrekter und überlegter Übergang“ möglich ist.  
+- Das **US‑Militär** hat Maduro und Flores am Samstag festgenommen; sie befinden sich jetzt auf einem US‑Krigsschiff und werden nach New York gebracht, wo sie wegen **Drogenhandels** und Besitz von **Maschinengewehren** angeklagt wurden (Bekanntmachung durch **Pam Bondi**).  
+- **Marco Rubio** bezeichnete Maduro als „Chef eines Drogenkartells“ und warf ihm **Wahlbetrug 2024** vor; er betonte, dass Maduro kein rechtmäßiger Präsident sei.  
+- Die venezolanische Regierung behauptete, die US‑Angriffe verletzen die **UN‑Charta** und forderte eine Krisensitzung des **UN‑Sicherheitsrates**.  
 
-### Verkaufszahlen 2024  
-- Der chinesische Hersteller **[BYD](https://en.wikipedia.org/wiki/BYD_(company))** verkaufte 2024 rund **2,2 Mio.** Elektrofahrzeuge und überholte damit **[Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc.)**.  
-- **Tesla** verzeichnete im selben Jahr nur **1,6 Mio.** verkaufte Fahrzeuge.  
+### Ölindustrie und Wirtschaft
+- Trotz großer **Ölreserven** liegt die venezolanische Förderung stark unter dem Potenzial (vor der Blockade < 1 Mio Barrel/Tag, vor einem Jahrzehnt noch fast 2,5 Mio Barrel/Tag).  
+- **Trump** versprach, dass US‑Ölkonzerne Milliarden Dollar investieren, um die zerstörte **Ölinfrastruktur** zu reparieren und Einnahmen für das Land zu generieren; das **US‑Embargo** bleibt jedoch bestehen, bis die US‑Forderungen erfüllt sind.  
+- Laut **Bloomberg** wurde die Öl‑Infrastruktur bei den US‑Angriffen nicht beschädigt; **Chevron** (unter einer speziellen US‑Lizenz) betreibt weiter Joint‑Ventures in Venezuela mit rund 3 000 Mitarbeitenden und einer Produktion von ca. 250 000 Barrel/Tag.  
+- Unter Madurós Präsidentschaft kam es zu **hoher Inflation**, Lebensmittel‑ und Medikamentenknappheit sowie einer tiefen Wirtschaftskrise.  
 
-### Ursachen des Rückgangs  
-- Das Jahresende brachte für Tesla die Erkenntnis, dass **ohne staatliche Subventionen** die Nachfrage stark zurückgeht.  
-- Ende September ließ **[Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)** die US‑Steuervergünstigung von **7 500 $** auslaufen.  
-- In den darauf folgenden drei Monaten fielen die weltweiten Auslieferungen von Tesla um **15,6 %** auf **418 227 Fahrzeuge**.  
-- Gesamtjahreslieferungen sanken um **8,5 %** auf **1,636 Mio.**, damit der **zweite Rückgang in Folge** nach dem Höchststand von 2023 (etwa 1,8 Mio.).  
+### Marktreaktionen
+- Die **Ölmärkte** waren zum Zeitpunkt des Artikels geschlossen; die genauen Auswirkungen der US‑Angriffe und der Verhaftung auf die Preise bleiben unklar.  
+- **OPEC+**‑Treffen (virtuell) steht bevor; Beobachter erwarten, dass die Fördermenge für das erste Quartal 2026 unverändert bleibt.  
+- Ölpreise leicht rückläufig: **WTI** 57,32 $ / Barrel, **Brent** 60,75 $ / Barrel (je –0,2 %).  
+- **Gold** setzte seinen Aufwärtstrend fort und lag bei 4 332 $ / Unze (+0,3 %).  
+- Aktienmärkte eröffneten positiv: **Euro‑Stoxx‑50** erreichte ein Rekordhoch (+~1 %), **FTSE‑100** überschritt kurzzeitig die 10 000‑Marke, und der **Dow Jones** stieg um etwa 0,7 %.  
 
-### Marktentwicklung & Prognosen  
-- Analyst **[Gene Munster](https://en.wikipedia.org/wiki/Gene_Munster)** wies darauf hin, dass die EV‑Verkäufe in den USA im Oktober um rund **30 %** gefallen sind.  
-- Für das laufende Jahr prognostiziert er eine **etwa 5 %ige Erholung** der Tesla‑Auslieferungen.  
-
-### Musks Zukunftsstrategie  
-- **[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)** stellt den reinen Autoverkauf in den Hintergrund und betont das Potenzial von **selbstfahrenden Robotaxis** und **humanoiden Robotern**.  
-- Bisher betreibt Tesla nur einige Dutzend Robotaxis in **Austin, Texas**, meist mit Aufpassern im Beifahrersitz.  
-
-### Wettbewerb & Technologiedebatte  
-- **[Waymo](https://en.wikipedia.org/wiki/Waymo)** (Google‑Tochter) fährt bereits mit **über 2 500 fahrerlosen Fahrzeugen** in mehreren US‑Städten und expandiert weiter.  
-- Musk behauptet, Teslas Autonomie könne allein mit **Kameras** erreicht werden, während Konkurrenten zusätzlich **Lidar‑ und Radarsensoren** einsetzen.  
-- Sollte Musks Ansatz funktionieren, könnte Tesla einen **großen Kostenvorteil** im Robotaxi‑Markt erlangen, doch **Experten zweifeln an Zuverlässigkeit und Sicherheit** dieser rein kamerabasierten Lösung.  
-
-### Humanoide Roboter & Zukunftsaussichten  
-- Zahlreiche chinesische Unternehmen sowie US‑Firmen wie **Agility Robotics** und **Figure AI** entwickeln bereits **humanoide Roboter** für industrielle Anwendungen.  
-- Laut Munster wird die Börse Musk Spielraum für diese zukunftsweisenden Projekte geben, **solange die Tesla‑Absatzzahlen einigermaßen stabil bleiben**.  
-
-> Relevance score: [7] - The overtaking of Tesla by BYD signals a shift in the global electric‑vehicle market, affecting competition, supply chains, and climate‑policy objectives worldwide.
-
-## HPAI-Impfprogramme: WEO benennt Voraussetzungen für den Einsatz
-
-[DGS MAGAZIN](https://www.dgs-magazin.de/aktuelles/news/article-8339829-4627/hpai-impfprogramme-weo-benennt-voraussetzungen-fuer-den-einsatz-.html) • _Samstag, 3. Januar 2026, 04:01 Uhr_
-
-Die hochpathogene Aviäre Influenza breitet sich weltweit weiter aus. Die World Egg Organization legt zentrale Anforderungen für Impfprogramme in der Geflügelhaltung vor.
-
-### Hintergrund und Zielsetzung der WEO‑Studie
-- Die anhaltende Verbreitung von **[hochpathogener Aviärer Influenza (HPAI)](https://de.wikipedia.org/wiki/Vogelgrippe)** stellt die weltweite Geflügelhaltung vor große Herausforderungen.  
-- Neben Biosicherheitsmaßnahmen und Monitoring prüfen immer mehr Länder den Einsatz von Impfprogrammen.  
-- Die **[World Egg Organization (WEO)](https://en.wikipedia.org/wiki/World_Egg_Organization)** hat im Dezember 2025 einen Fachbericht veröffentlicht, der staatlichen Stellen, Branchenvertretern und der Geflügelwirtschaft klare Rahmenbedingungen für ein fachlich belastbares Impfprogramm liefert.  
-
-### Zentrale Voraussetzungen für ein wirksames HPAI‑Impfprogramm
-- **Integration in bestehende Konzepte**  
-  - Impfung gilt als ergänzende Schutzmaßnahme zu bestehenden Biosicherheits‑ und Präventionsstrategien.  
-- **Verfügbarkeit geeigneter Impfstoffe**  
-  - Nationale oder regionale Notfall‑Impfstoffreserven bzw. kommerzielle Impfstoffe, die auf die zirkulierenden Feldviren abgestimmt sind.  
-  - Einsatz ausschließlich qualitativ hochwertiger Impfstoffe, die Infektionen verhindern oder die Virusausscheidung deutlich reduzieren.  
-- **Qualität und Wirksamkeit**  
-  - Impfstoffe müssen im Labor geprüft und ihre Wirksamkeit unter Praxisbedingungen mit etablierten Methoden bewertet sein.  
-  - **Antigen‑Übereinstimmung** zwischen Impfstoffstämmen und Feldviren (besonders bei inaktivierten Impfstoffen).  
-  - Nutzung von **Kassettensystemen**, die eine Aktualisierung ohne komplettes Neuzulassungsverfahren ermöglichen.  
-- **Anwendung und Überwachung**  
-  - Anwendung gemäß Herstellerangaben bei Einhaltung strenger Hygiene‑ und Biosicherheitsstandards.  
-  - Regelmäßige Kontrolle der Immunantwort in geimpften Beständen; Nachimpfungen bei unzureichender Durchimpfung.  
-  - Kontinuierliche Bewertung des Impfprogramms anhand klar definierter Ziele und fachlich begründeter Entscheidung über dessen Beendigung.  
-
-### Mögliche Einsatzformen der Impfungen
-- **Präventive Impfungen** in Regionen mit erhöhtem Ausbruchsrisiko.  
-- **Impfungen zur Unterstützung der Seuchenbekämpfung** bei akuten Ausbrüchen.  
-- **Regelmäßige Impfungen** in Ländern mit endemischem HPAI‑Vorkommen.  
-
-### Ausblick und Empfehlung des WEO‑Beraters
-- Laut **Dr. Olivier Espeisse**, HPAI‑Berater der WEO, haben sich Ausbreitungsmuster und Epidemiologie der HPAI in den letzten Jahren deutlich gewandelt, wodurch klassische Präventions‑ und Bekämpfungsmaßnahmen allein an ihre Grenzen stoßen.  
-- Die WEO sieht die Impfung von Geflügel daher als **Baustein eines umfassenden Maßnahmenpakets**, das Tierbestände, wirtschaftliche Grundlagen und die Versorgung mit Geflügelprodukten nachhaltig schützen soll.  
-
-> Relevance score: [6] - Guidelines for avian‑influenza vaccination influence worldwide poultry production and food‑security policies, which are important for global agriculture and trade.
+> Relevance score: [6] - The arrest of Venezuela’s leader and ensuing US actions could influence global oil markets and inflation, which have indirect effects on the Swiss economy and financial markets.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Punkt MC03: Neues Schweizer Smartphone will Sicherheit und Alltag versöhnen
+## Luzerner Hauseigentümer hadern mit der Solarpflicht
 
-[BornCity](https://borncity.com/news/punkt-mc03-neues-schweizer-smartphone-will-sicherheit-und-alltag-versoehnen/) • _Samstag, 3. Januar 2026, 02:44 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/energiewende-luzerner-hauseigentuemer-hadern-mit-der-solarpflicht) • _Samstag, 3. Januar 2026, 17:37 Uhr_
 
-Das MC03 von Punkt Tronics trennt das System in eine sichere Proton-Umgebung und eine sandboxierte Android-Umgebung. Das Premium-Gerät wird über ein Abo-Modell vertrieben und zielt auf Professionals.
+Der Kanton Luzern ist punkto Solarenergie weiter als andere. Doch nun gibt es ausgerechnet dort Zweifel am Solarausbau.
 
-Ein Schweizer Hersteller lanciert ein Smartphone mit zwei getrennten Betriebsumgebungen – eine radikale Antwort auf die Datenschutz-Debatte. Punkt Tronics stellte am Freitag das Flaggschiff MC03 vor. Das Gerät soll den Dauerkonflikt zwischen Privatsp... [weiterlesen](https://borncity.com/news/punkt-mc03-neues-schweizer-smartphone-will-sicherheit-und-alltag-versoehnen/)
+Im Kanton Luzern ist die Solarstromleistung pro Kopf gut doppelt so hoch wie im nationalen Durchschnitt. Vor allem in den ländlich geprägten Gebieten sind zahlreiche grosse Dächer von Bauernhöfen und Gewerbegebäuden mit Photovoltaikanlagen ausgerüste... [weiterlesen](https://www.srf.ch/news/schweiz/energiewende-luzerner-hauseigentuemer-hadern-mit-der-solarpflicht)
 
-> Relevance score: [5] - A new Swiss‑made smartphone with a novel dual‑environment architecture represents a notable technological innovation from Switzerland, potentially affecting domestic tech markets and data‑privacy debates.
+> Relevance score: [5] - Shows resistance to a cantonal renewable‑energy mandate. Relevant to Switzerland’s energy transition and local governance, but limited to one canton with modest immediate impact.
 
-## Chaos 2026: AfD nutzt Eskalation für Wahlkampf
+## Berichte über Explosionen in Venezuelas Hauptstadt Caracas
 
-[Blick](https://www.blick.ch/ausland/silvesterchaos-als-auftakt-ins-wichtige-wahljahr-wie-friedrich-merz-den-afd-aufstieg-begrenzen-koennte-id21564039.html) • _Freitag, 2. Januar 2026, 19:13 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/berichte-ueber-explosionen-in-venezuelas-hauptstadt-caracas-ld.1918653) • _Samstag, 3. Januar 2026, 08:38 Uhr_
 
-Gewaltbilder und die Eskalationen an Silvester liefern der AfD Material für den Wahlkampf. Die fünf anstehende Landtagswahlen bringen die Union von Friedrich Merz zudem in Bedrängnis.
+Auf Bildern sind Feuer und Rauchwolken zu sehen. Die venezolanische Regierung bestätigte den Angriff und rief den Notstand aus.
 
-Ein Wahljahr unter Hochdruck
-Denn 2026 wird für Bundeskanzler Friedrich Merz und seine CDU zum Stresstest. Fünf Landtagswahlen stehen an, während die AfD weiter zulegt und Koalitionen ohne sie rechnerisch immer schwieriger werden. Besonders in Sachse... [weiterlesen](https://www.blick.ch/ausland/silvesterchaos-als-auftakt-ins-wichtige-wahljahr-wie-friedrich-merz-den-afd-aufstieg-begrenzen-koennte-id21564039.html)
+Videos vom 3. Januar zeigen Helikopter und Explosionen in der venezolanischen Hauptstadt Caracas.
+Reuters
+«Die Vereinigten Staaten von Amerika haben erfolgreich einen gross angelegten Schlag gegen Venezuela und seinen Anführer, Präsident Nicolás Madu... [weiterlesen](https://www.nzz.ch/international/berichte-ueber-explosionen-in-venezuelas-hauptstadt-caracas-ld.1918653)
 
-> Relevance score: [5] - The AfD’s exploitation of social unrest for German elections could influence the political landscape of the EU, with indirect relevance for Switzerland’s foreign‑policy environment.
+> Relevance score: [5] - Reports of attacks in Caracas add to geopolitical instability in a oil‑producing region; may affect markets and diplomatic stances, but direct relevance to Switzerland is limited.
 
-## Zohran Mamdani fährt mit der U-Bahn: Ein symbolischer Start als Bürgermeister von New York
+## Virus-Variante löst Notlage aus: Krankenhäuser in Italien überfüllt - Mediziner warnt
 
-[20 Min](https://www.20min.ch/story/new-york-mamdani-faehrt-am-ersten-tag-im-amt-mit-der-u-bahn-103479530) • _Samstag, 3. Januar 2026, 05:45 Uhr_
+[Frankfurter Rundschau](https://www.fr.de/panorama/virus-variante-loest-notlage-aus-krankenhaeuser-in-italien-ueberfuellt-mediziner-warnt-94107472.html) • _Samstag, 3. Januar 2026, 16:28 Uhr_
 
-Am ersten Tag im Amt zeigt Zohran Mamdani seine Verbundenheit mit den Bürgern. Doch die ersten Kritiken lassen nicht lange auf sich warten.
+Die neue Grippe-Mutation überfüllt die Notaufnahmen in Norditalien. Ärzte warnen vor gefährlichen Lungenentzündungen bei allen Altersgruppen.
 
-Weniger als 24 Stunden nachdem Scharen begeisterter Fans zu seiner historischen Amtseinführung nach Manhattan geströmt waren, begann Zohran Mamdani seinen ersten vollen Arbeitstag als New Yorks Bürgermeister mit einer Routine, die vielen Bewohnern de... [weiterlesen](https://www.20min.ch/story/new-york-mamdani-faehrt-am-ersten-tag-im-amt-mit-der-u-bahn-103479530)
+Startseite
+Panorama
+Virus-Variante löst Notlage aus: Krankenhäuser in Italien überfüllt – Mediziner warnt
+Von: Christoph Gschoßmann
+Die neue Grippe-Mutation überfüllt die Notaufnahmen in Norditalien. Ärzte warnen vor gefährlichen Lungenentzündungen b... [weiterlesen](https://www.fr.de/panorama/virus-variante-loest-notlage-aus-krankenhaeuser-in-italien-ueberfuellt-mediziner-warnt-94107472.html)
 
-> Relevance score: [3] - A mayoral inauguration in a single U.S. city has limited structural impact outside New York; it is mainly symbolic and does not affect global or Swiss affairs in a substantive way.
+> Relevance score: [3] - A health emergency in Italy may have cross‑border implications, yet it does not directly affect Swiss public policy or society at this stage.
 
-## Apples Preview-App: Die neue PDF-Revolution auf dem iPhone
+## EZB-Chefin Christine Lagarde verdient wohl deutlich mehr als bekannt
 
-[it boltwise](https://www.it-boltwise.de/apples-preview-app-die-neue-pdf-revolution-auf-dem-iphone.html) • _Freitag, 2. Januar 2026, 22:45 Uhr_
+[Watson](https://www.watson.ch/international/gesellschaft-politik/772371140-ezb-chefin-christine-lagarde-verdient-wohl-deutlich-mehr-als-bekannt) • _Samstag, 3. Januar 2026, 08:09 Uhr_
 
-Apples Preview-App für iOS 26 macht das iPhone zur vollwertigen Dokumentenstation. Mit Funktionen wie Passwortschutz und nativen Kommentaren wird die App zum unverzichtbaren Werkzeug.
+EZB-Chefin Christine Lagarde verdient wohl deutlich mehr als bekannt
 
-LONDON (IT BOLTWISE) – Apples neue Preview-App für iOS 26 verwandelt das iPhone in eine vollwertige Dokumentenstation. Mit Funktionen wie Passwortschutz und nativen Kommentaren wird die Abhängigkeit von teuren Zusatz-Apps reduziert. Die App integrier... [weiterlesen](https://www.it-boltwise.de/apples-preview-app-die-neue-pdf-revolution-auf-dem-iphone.html)
+EZB-Präsidentin Christine Lagarde verdient laut einer Analyse deutlich mehr als offiziell ausgewiesen. Die Europäische Zentralbank gerät damit wegen mangelnder Transparenz in die Kritik.
+Die Präsidentin der Europäischen Zentralbank (EZB), Christine L... [weiterlesen](https://www.watson.ch/international/gesellschaft-politik/772371140-ezb-chefin-christine-lagarde-verdient-wohl-deutlich-mehr-als-bekannt)
 
-> Relevance score: [3] - The release is a functional update to a consumer app; it improves user experience but lacks broader societal or economic impact.
+> Relevance score: [3] - Transparency issues at the ECB touch European financial governance, yet the news does not alter policy or have immediate consequences for Switzerland.
 
-## Veganuary 2026: Ernährungsmediziner warnen vor B12-Mangel fürs Gehirn
+## Vier Jahre James Webb: ESA lädt zum virtuellen Flug durch echte Weltraumdaten ein
 
-[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/veganuary-2026-ernaehrungsmediziner-warnen-vor-b12-mangel-fuers-gehirn/68452804) • _Freitag, 2. Januar 2026, 23:10 Uhr_
+[t3n – digital pioneers](https://t3n.de/news/james-webb-teleskop-esa-video-flug-weltraumdaten-1723167/) • _Samstag, 3. Januar 2026, 09:20 Uhr_
 
-Neurologen und Ernährungsgesellschaften betonen die essentielle Rolle von Vitamin B12 für den Schutz vor neurodegenerativen Schäden und fordern frühzeitige Supplementierung.
+Zum vierten Jahrestag des James-Webb-Teleskops zeigt die ESA ein spektakuläres Video: Ein 45-minütiger Flug durch echte wissenschaftliche Daten.
 
-Führende Neurologen und Ernährungsgesellschaften starten mit einer eindringlichen Warnung ins neue Jahr. Ihr Appell richtet sich an Millionen Teilnehmer der “Veganuary”-Kampagne: Vernachlässigt nicht das Vitamin B12. Der Fokus hat sich verschoben. Es... [weiterlesen](https://www.ad-hoc-news.de/boerse/news/ueberblick/veganuary-2026-ernaehrungsmediziner-warnen-vor-b12-mangel-fuers-gehirn/68452804)
+Pünktlich zum vierten Jahrestag des Starts des James-Webb-Weltraumteleskops (JWST) hat die Europäische Weltraumorganisation mit Sitz im französischen Paris ein bemerkenswertes Video veröffentlicht. Unter dem Titel „Fly through Webb’s cosmic vistas“ p... [weiterlesen](https://t3n.de/news/james-webb-teleskop-esa-video-flug-weltraumdaten-1723167/)
 
-> Relevance score: [2] - While health‑related warnings are useful, the advice targets a niche audience of Veganuary participants and does not constitute a major public‑health policy shift.
+> Relevance score: [2] - A scientific outreach video from ESA is interesting but has little structural or civic impact on Switzerland or the wider world.
+
+## Das ist die am schnellsten wachsende Airline der Welt
+
+[aeroTELEGRAPH](https://www.aerotelegraph.com/airlines/das-ist-die-am-schnellsten-wachsende-airline-der-welt/0cv6l6c) • _Samstag, 3. Januar 2026, 08:16 Uhr_
+
+Ein Rechtsstreit mit Easyjet bewog Kolumbiens erste Billigairline einst zur Namensänderung. Geschadet hat das nicht: Clic Air ließ in puncto Wachstum im Jahr 2025 alle hinter sich.
+
+Vor fünf Jahren bekam die Führungsriege der Fluggesellschaft Post von den Anwälten von Stelios Haji-Ioannou. Der schillernde Gründer von Easyjet, der bis heute die Rechte an der Marke besitzt, verklagte sie. Er erklärte, Easyfly sei eine Kopie des Na... [weiterlesen](https://www.aerotelegraph.com/airlines/das-ist-die-am-schnellsten-wachsende-airline-der-welt/0cv6l6c)
+
+> Relevance score: [2] - Growth of a Colombian low‑cost carrier is noteworthy for the aviation sector but carries no significant impact on Swiss interests.
+
+## „Constellation“-Chef sass wegen Entführung im Gefängnis
+
+[Inside Paradeplatz](https://insideparadeplatz.ch/2026/01/03/constellation-chef-sass-wegen-entfuehrung-im-gefaengnis/) • _Samstag, 3. Januar 2026, 07:59 Uhr_
+
+Betreiber der Todes-Bar in Crans, ein Korse, war vor Jahrzehnten in Zuhälterei-Fälle verwickelt, so Zeitung. Wallis-Regierung kürzlich in Korsika.
+
+Die Schweiz erlebt ihren schlimmsten Albtraum. Die auf schrecklichste Weise verstorbenen oder schwerst verletzten Jugendlichen dürften zu einer Klagewelle unvorstellbaren Ausmasses führen.
+Jetzt meldet die Zeitung Le Parisien, dass der Inhaber der „L... [weiterlesen](https://insideparadeplatz.ch/2026/01/03/constellation-chef-sass-wegen-entfuehrung-im-gefaengnis/)
+
+> Relevance score: [1] - Local scandal involving a bar owner; lacks broader civic, economic, or political significance.
 
 
 </details>
