@@ -2,145 +2,126 @@
 
 ---
 
-_Aktualisiert: Sonntag, 4. Januar 2026, 06:29 Uhr_
+_Aktualisiert: Sonntag, 4. Januar 2026, 18:20 Uhr_
 
-## SVP strebt keinen 3. Bundesratssitz an - will aber 30 Prozent knacken
+## KI im Asylprozess: Effizienz gegen Grundrechte
 
-[Watson](https://www.watson.ch/schweiz/svp/901756897-svp-strebt-keinen-3-bundesratssitz-an-will-aber-30-prozent-knacken) • _Samstag, 3. Januar 2026, 08:03 Uhr_
+[20 Min](https://www.20min.ch/story/alterserkennung-co-bundesrat-will-projekt-entscheidet-bald-ki-wer-asyl-bekommt-103459460) • _Sonntag, 4. Januar 2026, 04:37 Uhr_
 
-Ein dritter Bundesratssitz ist für die SVP bei den eidgenössischen Wahlen 2027 nach eigenen Angaben kein Thema.
+Während FDP und Bundesrat auf Entlastung hoffen, warnen Kritiker vor Bias und automatisierten Fehlentscheiden.
 
-### Haltung zur Bundesratszahldarstellung
-- Die **[Schweizerische Volkspartei] (SVP)** will keinen dritten Sitz im **[Bundesrat]** anstreben; sie bleibt bei der aktuellen **[Zauberformel]**.  
-- Wahlkampfleiter **[Manuel Strupler]** betont: „Wir stehen zur aktuellen Zauberformel.“  
-- Ein zusätzlicher Sitz würde nur in Betracht kommen, wenn der Stimmenanteil dies rechtfertigen würde – das ist jedoch kein derzeitiges Ziel.  
+### Vorgeschlagenes Pilotprogramm  
 
-### Zielsetzung bei den Bundesratswahlen 2027
-- Die SVP will ihren Stimmenanteil erhöhen und strebt das Überschreiten der **30‑Prozent‑Marke** an.  
-- Strupler nennt keine genaue Prozentzahl, verdeutlicht jedoch den Wunsch nach Wachstum.  
+- Die **[Freie Demokratische Partei (FDP)](https://de.wikipedia.org/wiki/Freie_Demokratische_Partei_Deutschlands)** will ein Pilotprojekt für den Einsatz von **[Künstlicher Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz)** im Asylwesen starten.  
+- Das Projekt soll im **[Staatssekretariat für Migration (SEM)](https://de.wikipedia.org/wiki/Staatssekretariat_f%C3%BCr_Migration)** und beim **[Bundesamt für Zoll und Grenzschutz (BAZG)](https://de.wikipedia.org/wiki/Bundesamt_f%C3%BCr_Zoll_und_Gr%C3%9Fschutz)** durchgeführt werden.  
+- Ziel: KI‑gestützte Assistenzsysteme in ausgewählten Bereichen der Asylaufnahme zu erproben, insbesondere bei:  
+  - **Dokumentenprüfung** (Erkennung von **[Dokumentenbetrug](https://de.wikipedia.org/wiki/Dokumentenf%C3%A4lschung)**)  
+  - Optimierter Einsatz von **[Dolmetschern](https://de.wikipedia.org/wiki/Dolmetscher)**  
+  - Schnellere **Fallselektion** (erste Triage)  
 
-### Wahlumfrage‑Ergebnis (Oktober 2025)  
-- Das **Sotomo**‑Wahlbarometer für die **[SRG]** befragte rund 32 000 Stimmberechtigte (25. Aug.–11. Sep. 2025).  
-  - Bei einer hypothetischen Wahl im Herbst 2025 hätte die SVP **30,4 %** erhalten (plus 2,5 Prozentpunkte).  
-  - Auch die **[Sozialdemokratische Partei] (SP)** und **[Die Grünen]** wurden laut Umfrage als Gewinner verzeichnet.  
-- Damit liegt die 30‑Prozent‑Marke für die SVP „in Reichweite“.  
+### Unterstützende Positionen  
 
-### Aktuelle Bundesratszusammensetzung nach der Zauberformel  
-- Seit 1943 sind die vier wählerstärksten Parteien im Bundesrat vertreten.  
-- Derzeit (nach der **Zauberformel** von 1959):  
-  - **SVP**, **SP** und **FDP** erhalten jeweils **zwei** Sitze.  
-  - **Die Mitte** (ehemals CVP) stellt **einen** Sitz.  
-- Obwohl die Repräsentativität der Zauberformel immer wieder diskutiert wird, bleibt die Sitzverteilung bislang unverändert.  
+- Der **[Bundesrat](https://de.wikipedia.org/wiki/Bundesrat_(Deutschland))** und der **[Nationalrat](https://de.wikipedia.org/wiki/Nationalrat_(Schweiz))** unterstützen den Vorstoß.  
+- Bei Zustimmung des Ständerates soll das Pilotprogramm innerhalb von 24 Monaten starten, um die nötigen rechtlichen Grundlagen zu schaffen.  
+- Die FDP beruft sich auf internationale Vorbilder:  
+  - **[Kanada](https://de.wikipedia.org/wiki/Kanada)** nutzt bereits KI für Triage und digitale Assistenz im Asylverfahren.  
+  - In mehreren **[EU](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union)**‑Staaten wird KI für Dokumentenprüfung und **Altersabschätzung** eingesetzt.  
 
-> Relevance score: [7] - A major Swiss party’s electoral strategy could shape the composition of the federal government after the 2027 elections, directly affecting national politics.
+### Kritische Stimmen  
 
-## Öl, Wirtschaft, Inflation und Maduros Verhaftung
+- **[Balthasar Glättli](https://de.wikipedia.org/wiki/Balthasar_Gl%C3%A4ttli)** (Grüne‑Nationalrat) warnt:  
+  - Entscheidungen über wesentliche Rechtsgüter, insbesondere Grundrechte, dürfen **nicht von KI getroffen** werden.  
+  - Beamte könnten KI‑Vorschläge unkritisch übernehmen, obwohl KI‑Systeme bekanntermaßen **[Bias](https://de.wikipedia.org/wiki/Bias_(Statistik))** enthalten.  
+  - Verweist auf den **Kindergeldskandal in den Niederlanden** als Beispiel für fehlerhafte automatisierte Entscheidungen.  
+- Glättli fordert:  
+  - Vor dem KI‑Einsatz massive Hausaufgaben bei der **Digitalisierung** und Datenqualität.  
+  - Nur qualitativ hochwertige Ausgangsdaten ermöglichen ein brauchbares KI‑Training.  
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/us-angriffe-auf-venezuela-oel-wirtschaft-inflation-und-maduros-verhaftung-ld.1918665) • _Samstag, 3. Januar 2026, 14:48 Uhr_
+### Mögliche Auswirkungen & Bedenken  
 
-Staatspräsident Maduro hat Venezuela in eine tiefe Krise geführt. Welche Folgen sein Sturz für die Wirtschaft des lateinamerikanischen Landes und für die Finanzmärkte haben wird, ist noch unklar.
+- **Effizienzgewinne**: Routineaufgaben könnten schneller erledigt werden, was Personal für komplexere Entscheidungen freisetzt.  
+- **Risiken für Menschenrechte**:  
+  - Fehlentscheidungen bei **[Asylverfahren](https://de.wikipedia.org/wiki/Asylverfahren)** könnten zu ungerechtfertigten Ablehnungen führen.  
+  - Bias und mangelnde Transparenz könnten bestehende Vorurteile verstärken.  
+- **Kostenersparnis**: Durch Automatisierung könnten Verwaltungskosten reduziert werden, solange die Kontrolle durch Menschen gewährleistet bleibt.  
 
-### US‑Intervention und politische Entwicklungen
-- **Donald Trump** kündigte an, dass die **USA** nach der Verhaftung von **Nicolás Maduro** und seiner Frau **Cilia Flores** die Kontrolle über **Venezuela** übernehmen sollen, bis ein „sicherer, korrekter und überlegter Übergang“ möglich ist.  
-- Das **US‑Militär** hat Maduro und Flores am Samstag festgenommen; sie befinden sich jetzt auf einem US‑Krigsschiff und werden nach New York gebracht, wo sie wegen **Drogenhandels** und Besitz von **Maschinengewehren** angeklagt wurden (Bekanntmachung durch **Pam Bondi**).  
-- **Marco Rubio** bezeichnete Maduro als „Chef eines Drogenkartells“ und warf ihm **Wahlbetrug 2024** vor; er betonte, dass Maduro kein rechtmäßiger Präsident sei.  
-- Die venezolanische Regierung behauptete, die US‑Angriffe verletzen die **UN‑Charta** und forderte eine Krisensitzung des **UN‑Sicherheitsrates**.  
+> Relevance score: [7] - A pilot program introducing AI into the Swiss asylum system touches on fundamental rights, governmental workload, and future migration policy. It could affect a sizable number of asylum seekers and set precedents for AI use in public administration, making it structurally significant for Switzerland.
 
-### Ölindustrie und Wirtschaft
-- Trotz großer **Ölreserven** liegt die venezolanische Förderung stark unter dem Potenzial (vor der Blockade < 1 Mio Barrel/Tag, vor einem Jahrzehnt noch fast 2,5 Mio Barrel/Tag).  
-- **Trump** versprach, dass US‑Ölkonzerne Milliarden Dollar investieren, um die zerstörte **Ölinfrastruktur** zu reparieren und Einnahmen für das Land zu generieren; das **US‑Embargo** bleibt jedoch bestehen, bis die US‑Forderungen erfüllt sind.  
-- Laut **Bloomberg** wurde die Öl‑Infrastruktur bei den US‑Angriffen nicht beschädigt; **Chevron** (unter einer speziellen US‑Lizenz) betreibt weiter Joint‑Ventures in Venezuela mit rund 3 000 Mitarbeitenden und einer Produktion von ca. 250 000 Barrel/Tag.  
-- Unter Madurós Präsidentschaft kam es zu **hoher Inflation**, Lebensmittel‑ und Medikamentenknappheit sowie einer tiefen Wirtschaftskrise.  
+## Die EU erhebt neu eine Klimaabgabe auf Importe
 
-### Marktreaktionen
-- Die **Ölmärkte** waren zum Zeitpunkt des Artikels geschlossen; die genauen Auswirkungen der US‑Angriffe und der Verhaftung auf die Preise bleiben unklar.  
-- **OPEC+**‑Treffen (virtuell) steht bevor; Beobachter erwarten, dass die Fördermenge für das erste Quartal 2026 unverändert bleibt.  
-- Ölpreise leicht rückläufig: **WTI** 57,32 $ / Barrel, **Brent** 60,75 $ / Barrel (je –0,2 %).  
-- **Gold** setzte seinen Aufwärtstrend fort und lag bei 4 332 $ / Unze (+0,3 %).  
-- Aktienmärkte eröffneten positiv: **Euro‑Stoxx‑50** erreichte ein Rekordhoch (+~1 %), **FTSE‑100** überschritt kurzzeitig die 10 000‑Marke, und der **Dow Jones** stieg um etwa 0,7 %.  
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/klima-grenzschutz-die-eu-erhebt-neu-eine-klimaabgabe-auf-importe-was-das-heisst) • _Samstag, 3. Januar 2026, 18:25 Uhr_
 
-> Relevance score: [6] - The arrest of Venezuela’s leader and ensuing US actions could influence global oil markets and inflation, which have indirect effects on the Swiss economy and financial markets.
+Ab dem 1. Januar 2026 führt die EU stufenweise ihren CO₂-Grenzschutzmechanismus ein. International sorgt das für Kritik.
+
+### Hintergrund und Ziel des CBAM
+- Die [Europäische Union](https://en.wikipedia.org/wiki/European_Union) führt ab **1. Januar 2026** schrittweise den **Carbon Border Adjustment Mechanism (CBAM)** ein.  
+- Ziel: Verhindern, dass EU‑Industrien wegen strengerer Klimaschutzmaßnahmen gegenüber Importen aus Ländern ohne CO₂‑Preis benachteiligt werden.  
+- Der CBAM ergänzt das **Emissions‑Handelssystem (EU‑ETS)**, dessen Gratiszertifikate künftig reduziert werden, wodurch zusätzliche Klimakosten für Importe entstehen.
+
+### Betroffene Produkte und Schwellenwert
+- Anfangs gilt der CBAM für:
+  - **Eisen, Stahl, Aluminium, Zement, Düngemittel, Strom und Wasserstoff**.  
+- Anwendung erst ab einer Importmenge von **über 50 t**.  
+- Die EU‑Kommission plant, den Mechanismus später auf verarbeitete Produkte auszuweiten, die größtenteils aus Stahl und Aluminium bestehen.
+
+### Reaktionen der Handelspartner
+- **China**, **Indien** und weitere Länder kritisieren den CBAM als **unfair** und **protektionistisch**.  
+- Auf der **UNO‑Klima­konferenz in Belém** forderten sie Zugeständnisse in anderen Bereichen, falls die EU den CBAM umsetzt.  
+- Die EU weist die Kritik zurück und betont, dass der CBAM Importe **gleichberechtigt** zu heimischen Produkten behandelt – kein Zoll, sondern eine CO₂‑Preisangleichung.  
+- **Catherine Wolfram**, Professorin für Energiewirtschaft am [MIT](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology), unterstützt diese Sichtweise.  
+- Gleichzeitig bleibt die EU verhandlungsbereit und verlangt von Entwicklungsländern keinen gleich hohen CO₂‑Preis, um sie vom CBAM auszunehmen.
+
+### Umsetzung und Zeitplan
+- Der CBAM wird **stufenweise** eingeführt; **2035** soll er voll operativ sein.  
+- Ob die CO₂‑Emissionen bis dahin im gewünschten Ausmaß sinken, lässt sich noch nicht abschätzen.  
+- Ein bereits erreichten Effekt: Länder wie **China** und die **Türkei** haben eigene Emissions‑Handelssysteme eingeführt, teilweise als Reaktion auf den geplanten CBAM.
+
+### Auswirkungen auf die Schweiz
+- Die Schweiz hat ihr **Emissions‑Handelssystem** seit 2020 mit dem EU‑ETS verknüpft und reduziert ebenfalls die Gratiszertifikate, wodurch die Preise tendenziell steigen.  
+- Bisher verzichtet der Bundesrat jedoch auf einen eigenen CBAM, sodass Schweizer Industrie (z. B. Zement) ungeschützt bleibt.  
+- CO₂‑intensive Branchen fordern seit Jahren einen Schweizer CBAM; sie werden von politischen Kräften von der Linken bis zur Mitte unterstützt.  
+- Der Nationalrat hat kürzlich einen Vorstoß genehmigt, der den Bundesrat auffordert, Grundlagen für einen **Schweizer CBAM** zu schaffen.  
+
+---  
+*Legende: Bild eines Holcim‑Zementwerks in Eclépens (VD).*
+
+> Relevance score: [7] - The EU's introduction of the Carbon Border Adjustment Mechanism will affect import costs for Swiss exporters and has long‑term implications for trade, climate policy, and competitiveness. It is a substantial structural development for the Swiss economy.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Luzerner Hauseigentümer hadern mit der Solarpflicht
+## Britische und französische Luftwaffe greifen IS in Syrien an
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/energiewende-luzerner-hauseigentuemer-hadern-mit-der-solarpflicht) • _Samstag, 3. Januar 2026, 17:37 Uhr_
+[Blick](https://www.blick.ch/ausland/frankreich-britische-und-franzoesische-luftwaffe-greifen-is-in-syrien-an-id21566610.html) • _Sonntag, 4. Januar 2026, 02:20 Uhr_
 
-Der Kanton Luzern ist punkto Solarenergie weiter als andere. Doch nun gibt es ausgerechnet dort Zweifel am Solarausbau.
+Mit dem Angriff auf IS-Ziele in Syrien soll ein Wiederaufleben der Terrormiliz verhindert werden. Die Terroristen hatten in letzter Zeit ihre Aktivitäten wieder verstärkt.
 
-Im Kanton Luzern ist die Solarstromleistung pro Kopf gut doppelt so hoch wie im nationalen Durchschnitt. Vor allem in den ländlich geprägten Gebieten sind zahlreiche grosse Dächer von Bauernhöfen und Gewerbegebäuden mit Photovoltaikanlagen ausgerüste... [weiterlesen](https://www.srf.ch/news/schweiz/energiewende-luzerner-hauseigentuemer-hadern-mit-der-solarpflicht)
+Keystone-SDADie Schweizer Nachrichtenagentur
+Grossbritannien und Frankreich haben gemeinsam den Islamischen Staat (IS) in Syrien angegriffen. Die britische Regierung teilte in der Nacht zu Sonntag mit, auf eine unterirdische Anlage der Terroristen nö... [weiterlesen](https://www.blick.ch/ausland/frankreich-britische-und-franzoesische-luftwaffe-greifen-is-in-syrien-an-id21566610.html)
 
-> Relevance score: [5] - Shows resistance to a cantonal renewable‑energy mandate. Relevant to Switzerland’s energy transition and local governance, but limited to one canton with modest immediate impact.
+> Relevance score: [5] - Joint airstrikes against ISIS are an important security development, but the direct impact on Swiss society, economy, or governance is limited. It is a noteworthy international event but not a major driver for Switzerland.
 
-## Berichte über Explosionen in Venezuelas Hauptstadt Caracas
+## US-Angriffe in Venezuela - Gericht in Venezuela ernennt Rodríguez zur Interimspräsidentin
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/berichte-ueber-explosionen-in-venezuelas-hauptstadt-caracas-ld.1918653) • _Samstag, 3. Januar 2026, 08:38 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/us-angriffe-in-venezuela-gericht-in-venezuela-ernennt-rodriguez-zur-interimspraesidentin) • _Sonntag, 4. Januar 2026, 05:15 Uhr_
 
-Auf Bildern sind Feuer und Rauchwolken zu sehen. Die venezolanische Regierung bestätigte den Angriff und rief den Notstand aus.
+In Venezuela hat der oberste Gerichtshof gemäss Medienberichten Delcy Rodriguez zur Interimspräsidentin ernannt.
 
-Videos vom 3. Januar zeigen Helikopter und Explosionen in der venezolanischen Hauptstadt Caracas.
-Reuters
-«Die Vereinigten Staaten von Amerika haben erfolgreich einen gross angelegten Schlag gegen Venezuela und seinen Anführer, Präsident Nicolás Madu... [weiterlesen](https://www.nzz.ch/international/berichte-ueber-explosionen-in-venezuelas-hauptstadt-caracas-ld.1918653)
+Autor: Am Liveticker ist Gabriel Gasser
+US-Präsident Donald Trump hat einen militärischen Einsatz in Venezuela in der Nacht auf Samstag bestätigt.
+Dabei seien der venezolanische Präsident Nicolás Maduro und seine Ehefrau gefangengenommen und auf ein ... [weiterlesen](https://www.srf.ch/news/international/us-angriffe-in-venezuela-gericht-in-venezuela-ernennt-rodriguez-zur-interimspraesidentin)
 
-> Relevance score: [5] - Reports of attacks in Caracas add to geopolitical instability in a oil‑producing region; may affect markets and diplomatic stances, but direct relevance to Switzerland is limited.
+> Relevance score: [3] - The claim of a US military operation and a regime change in Venezuela would be a major geopolitical event, but the story contains clear anachronisms (e.g., Donald Trump as US president in 2026) and appears unreliable, so its practical relevance is low and likely to be noise.
 
-## Virus-Variante löst Notlage aus: Krankenhäuser in Italien überfüllt - Mediziner warnt
+## Stromausfall in Berlin: 45'000 Haushalte leiden unter Kälte ohne Strom
 
-[Frankfurter Rundschau](https://www.fr.de/panorama/virus-variante-loest-notlage-aus-krankenhaeuser-in-italien-ueberfuellt-mediziner-warnt-94107472.html) • _Samstag, 3. Januar 2026, 16:28 Uhr_
+[20 Min](https://www.20min.ch/story/berlin-massiver-stromausfall-45-000-haushalte-bei-kaelte-ohne-strom-103479969) • _Samstag, 3. Januar 2026, 20:38 Uhr_
 
-Die neue Grippe-Mutation überfüllt die Notaufnahmen in Norditalien. Ärzte warnen vor gefährlichen Lungenentzündungen bei allen Altersgruppen.
+Ein Kabelbrand führt zu einem massiven Stromausfall in Berlin. Der Staatsschutz prüft ein mögliches Bekennerschreiben.
 
-Startseite
-Panorama
-Virus-Variante löst Notlage aus: Krankenhäuser in Italien überfüllt – Mediziner warnt
-Von: Christoph Gschoßmann
-Die neue Grippe-Mutation überfüllt die Notaufnahmen in Norditalien. Ärzte warnen vor gefährlichen Lungenentzündungen b... [weiterlesen](https://www.fr.de/panorama/virus-variante-loest-notlage-aus-krankenhaeuser-in-italien-ueberfuellt-mediziner-warnt-94107472.html)
+Nach dem Brand, der für einen massiven Stromausfall in Berlin gesorgt hat, liegt dem Staatsschutz ein Bekennerschreiben vor. «Unsere Kolleginnen und Kollegen prüfen derzeit die Authentizität dieses Schreibens», teilte die Polizei am Samstag mit. Durc... [weiterlesen](https://www.20min.ch/story/berlin-massiver-stromausfall-45-000-haushalte-bei-kaelte-ohne-strom-103479969)
 
-> Relevance score: [3] - A health emergency in Italy may have cross‑border implications, yet it does not directly affect Swiss public policy or society at this stage.
-
-## EZB-Chefin Christine Lagarde verdient wohl deutlich mehr als bekannt
-
-[Watson](https://www.watson.ch/international/gesellschaft-politik/772371140-ezb-chefin-christine-lagarde-verdient-wohl-deutlich-mehr-als-bekannt) • _Samstag, 3. Januar 2026, 08:09 Uhr_
-
-EZB-Chefin Christine Lagarde verdient wohl deutlich mehr als bekannt
-
-EZB-Präsidentin Christine Lagarde verdient laut einer Analyse deutlich mehr als offiziell ausgewiesen. Die Europäische Zentralbank gerät damit wegen mangelnder Transparenz in die Kritik.
-Die Präsidentin der Europäischen Zentralbank (EZB), Christine L... [weiterlesen](https://www.watson.ch/international/gesellschaft-politik/772371140-ezb-chefin-christine-lagarde-verdient-wohl-deutlich-mehr-als-bekannt)
-
-> Relevance score: [3] - Transparency issues at the ECB touch European financial governance, yet the news does not alter policy or have immediate consequences for Switzerland.
-
-## Vier Jahre James Webb: ESA lädt zum virtuellen Flug durch echte Weltraumdaten ein
-
-[t3n – digital pioneers](https://t3n.de/news/james-webb-teleskop-esa-video-flug-weltraumdaten-1723167/) • _Samstag, 3. Januar 2026, 09:20 Uhr_
-
-Zum vierten Jahrestag des James-Webb-Teleskops zeigt die ESA ein spektakuläres Video: Ein 45-minütiger Flug durch echte wissenschaftliche Daten.
-
-Pünktlich zum vierten Jahrestag des Starts des James-Webb-Weltraumteleskops (JWST) hat die Europäische Weltraumorganisation mit Sitz im französischen Paris ein bemerkenswertes Video veröffentlicht. Unter dem Titel „Fly through Webb’s cosmic vistas“ p... [weiterlesen](https://t3n.de/news/james-webb-teleskop-esa-video-flug-weltraumdaten-1723167/)
-
-> Relevance score: [2] - A scientific outreach video from ESA is interesting but has little structural or civic impact on Switzerland or the wider world.
-
-## Das ist die am schnellsten wachsende Airline der Welt
-
-[aeroTELEGRAPH](https://www.aerotelegraph.com/airlines/das-ist-die-am-schnellsten-wachsende-airline-der-welt/0cv6l6c) • _Samstag, 3. Januar 2026, 08:16 Uhr_
-
-Ein Rechtsstreit mit Easyjet bewog Kolumbiens erste Billigairline einst zur Namensänderung. Geschadet hat das nicht: Clic Air ließ in puncto Wachstum im Jahr 2025 alle hinter sich.
-
-Vor fünf Jahren bekam die Führungsriege der Fluggesellschaft Post von den Anwälten von Stelios Haji-Ioannou. Der schillernde Gründer von Easyjet, der bis heute die Rechte an der Marke besitzt, verklagte sie. Er erklärte, Easyfly sei eine Kopie des Na... [weiterlesen](https://www.aerotelegraph.com/airlines/das-ist-die-am-schnellsten-wachsende-airline-der-welt/0cv6l6c)
-
-> Relevance score: [2] - Growth of a Colombian low‑cost carrier is noteworthy for the aviation sector but carries no significant impact on Swiss interests.
-
-## „Constellation“-Chef sass wegen Entführung im Gefängnis
-
-[Inside Paradeplatz](https://insideparadeplatz.ch/2026/01/03/constellation-chef-sass-wegen-entfuehrung-im-gefaengnis/) • _Samstag, 3. Januar 2026, 07:59 Uhr_
-
-Betreiber der Todes-Bar in Crans, ein Korse, war vor Jahrzehnten in Zuhälterei-Fälle verwickelt, so Zeitung. Wallis-Regierung kürzlich in Korsika.
-
-Die Schweiz erlebt ihren schlimmsten Albtraum. Die auf schrecklichste Weise verstorbenen oder schwerst verletzten Jugendlichen dürften zu einer Klagewelle unvorstellbaren Ausmasses führen.
-Jetzt meldet die Zeitung Le Parisien, dass der Inhaber der „L... [weiterlesen](https://insideparadeplatz.ch/2026/01/03/constellation-chef-sass-wegen-entfuehrung-im-gefaengnis/)
-
-> Relevance score: [1] - Local scandal involving a bar owner; lacks broader civic, economic, or political significance.
+> Relevance score: [2] - A localized power outage affecting tens of thousands in Berlin is a regional incident without broader implications for Switzerland or global structures. Its relevance is minimal.
 
 
 </details>

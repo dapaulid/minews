@@ -2,139 +2,123 @@
 
 ---
 
-_Updated: Sunday, 4 January 2026, 06:29 AM_
+*Updated: Sunday, January 4, 2026, 18:20 CET*
 
-## SVP does not aim for a third Federal Council seat – but wants to crack 30 percent
+## AI in the Asylum Process: Efficiency vs. Fundamental Rights
 
-[Watson](https://www.watson.ch/schweiz/svp/901756897-svp-strebt-keinen-3-bundesratssitz-an-will-aber-30-prozent-knacken) • *Saturday, 3 January 2026, 08:03 AM*
+[20 Min](https://www.20min.ch/story/alterserkennung-co-bundesrat-will-projekt-entscheidet-bald-ki-wer-asyl-bekommt-103459460) • _Sunday, January 4, 2026, 04:37 CET_
 
-A third Federal Council seat is, according to the SVP’s own statements, not on the agenda for the 2027 federal elections.
+While the FDP and the Federal Council hope for relief, critics warn of bias and automated mis‑decisions.
 
-### Position on the Federal Council seat allocation
-- The **[Swiss People’s Party] (SVP)** (https://en.wikipedia.org/wiki/Swiss_People%27s_Party) will not pursue a third seat in the **[Federal Council (Switzerland)]** (https://en.wikipedia.org/wiki/Federal_Council_(Switzerland)); it remains committed to the current **[Magic formula (Swiss politics)]** (https://en.wikipedia.org/wiki/Magic_formula_(Swiss_politics)).  
-- Campaign manager **Manuel Strupler** emphasises: “We stand by the current Magic formula.”  
-- An additional seat would only be considered if the vote share justified it – which is not a current goal.  
+### Proposed Pilot Programme  
 
-### Goal for the 2027 Federal Council elections
-- The SVP wants to increase its vote share and aims to surpass the **30 percent mark**.  
-- Strupler does not quote an exact figure but stresses a desire for growth.  
+- The **[Free Democratic Party (FDP)](https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany))** wants to launch a pilot project for the use of **[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)** in the asylum system.  
+- The project will be carried out in the **[State Secretariat for Migration (SEM)](https://en.wikipedia.org/wiki/State_Secretariat_for_Migration)** and the **[Federal Office for Customs and Border Security (BAZG)](https://en.wikipedia.org/wiki/Federal_Office_for_Customs_and_Border_Security)**.  
+- Goal: AI‑assisted support systems in selected areas of asylum intake, especially in:  
+  - **Document verification** (detecting **[document forgery](https://en.wikipedia.org/wiki/Document_forgery)**)  
+  - Optimised use of **[interpreters](https://en.wikipedia.org/wiki/Interpreter_(language))**  
+  - Faster **case selection** (initial triage)  
 
-### Election poll result (October 2025)  
-- The **Sotomo** polling barometer for **[SRG SSR]** (https://en.wikipedia.org/wiki/SRG_SSR) surveyed about 32 000 eligible voters (25 Aug.–11 Sep 2025).  
-  - In a hypothetical autumn‑2025 election, the SVP would have received **30.4 %** (up 2.5 percentage points).  
-  - The **[Social Democratic Party of Switzerland]** (https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland) and **[The Greens (Switzerland)]** (https://en.wikipedia.org/wiki/The_Greens_(Switzerland)) were also recorded as winners in the poll.  
-- Thus, the 30‑percent threshold for the SVP is “within reach”.  
+### Supporting Positions  
 
-### Current Federal Council composition according to the Magic formula  
-- Since 1943 the four strongest parties have been represented in the Federal Council.  
-- Today (according to the **Magic formula** of 1959):  
-  - **SVP**, **Social Democrats (SP)** and **FDP** each hold **two** seats.  
-  - **The Centre** (formerly CVP) holds **one** seat.  
-- Although the representativeness of the Magic formula is repeatedly debated, the seat distribution remains unchanged so far.  
+- The **[Federal Council](https://en.wikipedia.org/wiki/Bundesrat)** and the **[National Council](https://en.wikipedia.org/wiki/National_Council_(Switzerland))** support the push.  
+- If the Council of States approves, the pilot programme should start within 24 months to create the necessary legal foundations.  
+- The FDP cites international examples:  
+  - **[Canada](https://en.wikipedia.org/wiki/Canada)** already uses AI for triage and digital assistance in the asylum procedure.  
+  - In several **[EU](https://en.wikipedia.org/wiki/European_Union)** states, AI is used for document verification and **age assessment**.  
 
-> Relevance score: [7] – A major Swiss party’s electoral strategy could shape the composition of the federal government after the 2027 elections, directly affecting national politics.
+### Critical Voices  
 
-## Oil, Economy, Inflation and Maduro’s Arrest
+- **[Balthasar Glättli](https://en.wikipedia.org/wiki/Balthasar_Gl%C3%A4ttli)** (Green National Council member) warns:  
+  - Decisions on essential legal rights, especially fundamental rights, must **not be made by AI**.  
+  - Officials might adopt AI suggestions uncritically, even though AI systems are known to contain **[bias](https://en.wikipedia.org/wiki/Bias)**.  
+  - Refers to the child‑benefit scandal in the Netherlands as an example of faulty automated decisions.  
+- Glättli demands:  
+  - Massive preparatory work on **digitalisation** and data quality before AI deployment.  
+  - Only high‑quality source data enable usable AI training.  
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/us-angriffe-auf-venezuela-oel-wirtschaft-inflation-und-maduros-verhaftung-ld.1918665) • *Saturday, 3 January 2026, 14:48 PM*
+### Potential Impacts & Concerns  
 
-President Maduro has driven Venezuela into a deep crisis. The consequences of his removal for the country’s economy and for financial markets remain unclear.
+- **Efficiency gains**: Routine tasks could be completed faster, freeing staff for more complex decisions.  
+- **Risks to human rights**:  
+  - Erroneous decisions in **[asylum procedures](https://en.wikipedia.org/wiki/Asylum_process)** could lead to unjustified rejections.  
+  - Bias and lack of transparency could reinforce existing prejudices.  
+- **Cost savings**: Automation could reduce administrative costs, as long as human oversight remains.  
 
-### US intervention and political developments
-- **Donald Trump** announced that the **USA** will take control of **Venezuela** after the arrest of **Nicolás Maduro** and his wife **Cilia Flores**, until a “safe, correct and considered transition” is possible.  
-- The **US military** detained Maduro and Flores on Saturday; they are now aboard a US warship and being taken to New York, where they have been charged with **drug trafficking** and **machine‑gun possession** (announcement by **Pam Bondi**).  
-- **Marco Rubio** called Maduro “the chief of a drug cartel” and accused him of **2024 election fraud**, stressing that Maduro is not a legitimate president.  
-- The Venezuelan government claimed the US attacks violate the **[Charter of the United Nations]** (https://en.wikipedia.org/wiki/Charter_of_the_United_Nations) and demanded an emergency session of the **[United Nations Security Council]** (https://en.wikipedia.org/wiki/United_Nations_Security_Council).  
+> Relevance score: [7] – A pilot program introducing AI into the Swiss asylum system touches on fundamental rights, governmental workload, and future migration policy. It could affect a sizable number of asylum seekers and set precedents for AI use in public administration, making it structurally significant for Switzerland.
 
-### Oil industry and economy
-- Despite large **oil reserves**, Venezuelan production is far below potential (pre‑blockade < 1 million bbl/day, a decade ago almost 2.5 million bbl/day).  
-- **Trump** promised that US oil companies will invest billions to rebuild the **oil infrastructure** and generate revenue for the country; the **US embargo** will remain until US demands are met.  
-- According to **Bloomberg**, the oil infrastructure was not damaged by the US attacks; **Chevron** (operating under a special US licence) continues joint‑ventures in Venezuela with roughly 3 000 employees and production of about 250 000 bbl/day.  
-- Under Maduro’s presidency there was **high inflation**, food and medicine shortages, and a deep economic crisis.  
+## The EU Introduces a New Climate Tax on Imports
 
-### Market reactions
-- Oil markets were closed at the time of writing; the exact impact of the US attacks and the arrest on prices remains unclear.  
-- An **OPEC+** virtual meeting is upcoming; observers expect output for Q1 2026 to stay unchanged.  
-- Oil prices slightly down: **WTI** $57.32 / bbl, **Brent** $60.75 / bbl (each ‑0.2 %).  
-- **Gold** continued its rise, at $4 332 / oz (+0.3 %).  
-- Equity markets opened positive: **Euro‑Stoxx‑50** hit a record high (+~1 %), **FTSE 100** briefly crossed the 10 000 mark, and the **Dow Jones** rose about 0.7 %.  
+[Swiss Radio and Television](https://www.srf.ch/news/wirtschaft/klima-grenzschutz-die-eu-erhebt-neu-eine-klimaabgabe-auf-importe-was-das-heisst) • _Saturday, January 3, 2026, 18:25 CET_
 
-> Relevance score: [6] – The arrest of Venezuela’s leader and ensuing US actions could influence global oil markets and inflation, which have indirect effects on the Swiss economy and financial markets.
+From 1 January 2026 the EU is phasing in its CO₂ border‑adjustment mechanism. Internationally it sparks criticism.
+
+### Background and Goal of the CBAM
+- The [European Union](https://en.wikipedia.org/wiki/European_Union) will gradually introduce the **Carbon Border Adjustment Mechanism (CBAM)** from **January 1, 2026**.  
+- Goal: Prevent EU industries from being disadvantaged by stricter climate measures compared to imports from countries without a CO₂ price.  
+- The CBAM complements the **Emissions Trading System (EU‑ETS)**, whose free allowances will be reduced, creating additional climate costs for imports.
+
+### Affected Products and Threshold
+- Initially, the CBAM applies to:  
+  - **Iron, steel, aluminium, cement, fertilisers, electricity and hydrogen**.  
+- Application only for import volumes exceeding **50 t**.  
+- The EU Commission plans to later extend the mechanism to processed products, mainly derived from steel and aluminium.
+
+### Reactions of Trade Partners
+- **China**, **India** and other countries criticize the CBAM as **unfair** and **protectionist**.  
+- At the **UN Climate Conference in Belém** they demanded concessions in other areas if the EU implements the CBAM.  
+- The EU rejects the criticism and emphasises that the CBAM treats imports **on an equal footing** with domestic products – not a tariff, but a CO₂ price alignment.  
+- **Catherine Wolfram**, professor of energy economics at [MIT](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology), supports this view.  
+- At the same time, the EU remains willing to negotiate and does not demand the same CO₂ price from developing countries to exempt them from the CBAM.
+
+### Implementation and Timeline
+- The CBAM will be introduced **gradually**; it should be fully operational by **2035**.  
+- It is still uncertain whether CO₂ emissions will fall as desired by then.  
+- A already observed effect: countries such as **China** and **Turkey** have introduced their own emissions‑trading systems, partly in response to the planned CBAM.
+
+### Implications for Switzerland
+- Switzerland has linked its **Emissions Trading System** to the EU‑ETS since 2020 and also reduces free allowances, causing prices to rise.  
+- So far, the Federal Council has refrained from a Swiss CBAM, leaving Swiss industry (e.g. cement) unprotected.  
+- CO₂‑intensive sectors have been calling for a Swiss CBAM for years; they are supported by political forces from the left to the centre.  
+- The National Council recently approved a motion asking the Federal Council to develop the basis for a **Swiss CBAM**.  
+
+---  
+*Legend: Image of a Holcim cement plant in Eclépens (VD).*
+
+> Relevance score: [7] – The EU's introduction of the Carbon Border Adjustment Mechanism will affect import costs for Swiss exporters and has long‑term implications for trade, climate policy, and competitiveness. It is a substantial structural development for the Swiss economy.
 
 <details><summary markdown="span">Show less important events</summary>
 
-## Lucerne homeowners balk at the solar obligation
+## British and French Air Forces Strike ISIS in Syria
 
-[Swiss Radio and Television (SRF)](https://www.srf.ch/news/schweiz/energiewende-luzerner-hauseigentuemer-hadern-mit-der-solarpflicht) • *Saturday, 3 January 2026, 17:37 PM*
+[Blick](https://www.blick.ch/ausland/frankreich-britische-und-franzoesische-luftwaffe-greifen-is-in-syrien-an-id21566610.html) • _Sunday, January 4, 2026, 02:20 CET_
 
-The canton of Lucerne is ahead of other regions in solar energy. Yet doubts about solar expansion have emerged precisely there.
+The strike on ISIS targets in Syria aims to prevent a resurgence of the terrorist militia. The terrorists had recently increased their activities.
 
-In the canton of Lucerne, solar electricity generation per capita is roughly twice the national average. Especially in rural areas, many large roofs on farms and commercial buildings are equipped with photovoltaic systems… [read more](https://www.srf.ch/news/schweiz/energiewende-luzerner-hauseigentuemer-hadern-mit-der-solarpflicht)
+Keystone‑SDA – Swiss News Agency  
+The United Kingdom and France have jointly attacked the Islamic State (IS) in Syria. The British government announced on Sunday night that they had struck an underground terrorist facility… [read more](https://www.blick.ch/ausland/frankreich-britische-und-franzoesische-luftwaffe-greifen-is-in-syrien-an-id21566610.html)
 
-> Relevance score: [5] – Shows resistance to a cantonal renewable‑energy mandate. Relevant to Switzerland’s energy transition and local governance, but limited to one canton with modest immediate impact.
+> Relevance score: [5] – Joint airstrikes against ISIS are an important security development, but the direct impact on Swiss society, economy, or governance is limited. It is a noteworthy international event but not a major driver for Switzerland.
 
-## Reports of explosions in Venezuela's capital Caracas
+## US Attacks in Venezuela – Court in Venezuela Appoints Rodríguez as Interim President
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/berichte-ueber-explosionen-in-venezuelas-hauptstadt-caracas-ld.1918653) • *Saturday, 3 January 2026, 08:38 AM*
+[Swiss Radio and Television](https://www.srf.ch/news/international/us-angriffe-in-venezuela-gericht-in-venezuela-ernennt-rodriguez-zur-interimspraesidentin) • _Sunday, January 4, 2026, 05:15 CET_
 
-Images show fire and smoke. The Venezuelan government confirmed the attack and declared a state of emergency.
+In Venezuela, the Supreme Court reportedly appointed Delcy Rodríguez as interim president.
 
-Videos from 3 January show helicopters and explosions in Caracas.  
-Reuters: “The United States of America has successfully carried out a large‑scale strike against Venezuela and its leader, President Nicolás Maduro…” [read more](https://www.nzz.ch/international/berichte-ueber-explosionen-in-venezuelas-hauptstadt-caracas-ld.1918653)
+Author: Gabriel Gasser (Live‑ticker)  
+US President Donald Trump confirmed a military operation in Venezuela on Saturday night. According to the report, Venezuelan President Nicolás Maduro and his wife were captured and taken to… [read more](https://www.srf.ch/news/international/us-angriffe-in-venezuela-gericht-in-venezuela-ernennt-rodriguez-zur-interimspraesidentin)
 
-> Relevance score: [5] – Reports of attacks in Caracas add to geopolitical instability in an oil‑producing region; may affect markets and diplomatic stances, but direct relevance to Switzerland is limited.
+> Relevance score: [3] – The claim of a US military operation and a regime change in Venezuela would be a major geopolitical event, but the story contains clear anachronisms (e.g., Donald Trump as US president in 2026) and appears unreliable, so its practical relevance is low and likely to be noise.
 
-## Virus variant triggers emergency: Hospitals in Italy overcrowded – doctor warns
+## Power Outage in Berlin: 45,000 Households Suffer Cold Without Electricity
 
-[Frankfurter Rundschau](https://www.fr.de/panorama/virus-variante-loest-notlage-aus-krankenhaeuser-in-italien-ueberfuellt-mediziner-warnt-94107472.html) • *Saturday, 3 January 2026, 04:28 PM*
+[20 Min](https://www.20min.ch/story/berlin-massiver-stromausfall-45-000-haushalte-bei-kaelte-ohne-strom-103479969) • _Saturday, January 3, 2026, 20:38 CET_
 
-The new flu mutation is overwhelming emergency rooms in northern Italy. Doctors warn of dangerous pneumonia across all age groups.
+A cable fire caused a massive power outage in Berlin. The domestic security service is examining a possible claim of responsibility.
 
-Home page → Panorama → Virus variant triggers emergency: Hospitals in Italy overcrowded – doctor warns  
-By Christoph Gschoßmann  
-The new flu mutation is overwhelming emergency rooms in northern Italy. Doctors warn of dangerous pneumonia… [read more](https://www.fr.de/panorama/virus-variante-loest-notlage-aus-krankenhaeuser-in-italien-ueberfuellt-mediziner-warnt-94107472.html)
+After the fire that caused the massive outage in Berlin, the domestic security service received a claim of responsibility. “Our colleagues are currently verifying the authenticity of this claim,” the police said on Saturday. Durc… [read more](https://www.20min.ch/story/berlin-massiver-stromausfall-45-000-haushalte-bei-kaelte-ohne-strom-103479969)
 
-> Relevance score: [3] – A health emergency in Italy may have cross‑border implications, yet it does not directly affect Swiss public policy or society at this stage.
-
-## ECB chief Christine Lagarde likely earns far more than known
-
-[Watson](https://www.watson.ch/international/gesellschaft-politik/772371140-ezb-chefin-christine-lagarde-verdient-wohl-deutlich-mehr-als-bekannt) • *Saturday, 3 January 2026, 08:09 AM*
-
-ECB President Christine Lagarde reportedly earns far more than officially disclosed. The European Central Bank faces criticism for a lack of transparency.
-
-The President of the European Central Bank (ECB), Christine L… [read more](https://www.watson.ch/international/gesellschaft-politik/772371140-ezb-chefin-christine-lagarde-verdient-wohl-deutlich-mehr-als-bekannt)
-
-> Relevance score: [3] – Transparency issues at the ECB touch European financial governance, yet the news does not alter policy or have immediate consequences for Switzerland.
-
-## Four years of James Webb: ESA invites virtual flight through real space data
-
-[t3n – digital pioneers](https://t3n.de/news/james-webb-teleskop-esa-video-flug-weltraumdaten-1723167/) • *Saturday, 3 January 2026, 09:20 AM*
-
-To mark the fourth anniversary of the James Webb Space Telescope, ESA released a spectacular video: a 45‑minute fly‑through of genuine scientific data.
-
-On the fourth anniversary of the launch of the James Webb Space Telescope (JWST), the European Space Agency, based in Paris, published a remarkable video titled “Fly through Webb’s cosmic vistas”… [read more](https://t3n.de/news/james-webb-teleskop-esa-video-flug-weltraumdaten-1723167/)
-
-> Relevance score: [2] – A scientific outreach video from ESA is interesting but has little structural or civic impact on Switzerland or the wider world.
-
-## This is the world's fastest‑growing airline
-
-[aeroTELEGRAPH](https://www.aerotelegraph.com/airlines/das-ist-die-am-schnellsten-wachsende-airline-der-welt/0cv6l6c) • *Saturday, 3 January 2026, 08:16 AM*
-
-A legal dispute with EasyJet forced Colombia’s first low‑cost airline to change its name. It didn’t hurt its growth: Clic Air left all competitors behind in 2025.
-
-Five years ago the airline’s management was sued by the lawyers of Stelios Haji‑Ioannou, founder of EasyJet, who still owns the brand rights. He claimed Easyfly was a copy of… [read more](https://www.aerotelegraph.com/airlines/das-ist-die-am-schnellsten-wachsende-airline-der-welt/0cv6l6c)
-
-> Relevance score: [2] – Growth of a Colombian low‑cost carrier is noteworthy for the aviation sector but carries no significant impact on Swiss interests.
-
-## ‘Constellation’ boss sat for kidnapping in prison
-
-[Inside Paradeplatz](https://insideparadeplatz.ch/2026/01/03/constellation-chef-sass-wegen-entfuehrung-im-gefaengnis/) • *Saturday, 3 January 2026, 07:59 AM*
-
-Owner of the Death Bar in Crans, a corset, was involved in pimping cases decades ago, according to the newspaper. The Wallis government recently in Corsica.
-
-Switzerland experiences its worst nightmare. The most severely injured or dead youths could lead to an unprecedented wave of lawsuits.  
-Now the newspaper Le Parisien reports that the owner of “L… [read more](https://insideparadeplatz.ch/2026/01/03/constellation-chef-sass-wegen-entfuehrung-im-gefaengnis/)
-
-> Relevance score: [1] – Local scandal involving a bar owner; lacks broader civic, economic, or political significance.
+> Relevance score: [2] – A localized power outage affecting tens of thousands in Berlin is a regional incident without broader implications for Switzerland or global structures. Its relevance is minimal.
 
 </details>
