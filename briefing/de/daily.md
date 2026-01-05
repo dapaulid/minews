@@ -2,126 +2,232 @@
 
 ---
 
-_Aktualisiert: Sonntag, 4. Januar 2026, 18:20 Uhr_
+_Aktualisiert: Montag, 5. Januar 2026, 18:27 Uhr_
 
-## KI im Asylprozess: Effizienz gegen Grundrechte
+## Pneumokkoken-Impfung verringert anscheinend Risiko für antibiotikaresistente Bakterien
 
-[20 Min](https://www.20min.ch/story/alterserkennung-co-bundesrat-will-projekt-entscheidet-bald-ki-wer-asyl-bekommt-103459460) • _Sonntag, 4. Januar 2026, 04:37 Uhr_
+[Kinderaerzte-im-Netz](https://www.kinderaerzte-im-netz.de/news-archiv/meldung/pneumokkoken-impfung-verringert-anscheinend-risiko-fuer-antibiotikaresistente-bakterien/) • _Montag, 5. Januar 2026, 02:28 Uhr_
 
-Während FDP und Bundesrat auf Entlastung hoffen, warnen Kritiker vor Bias und automatisierten Fehlentscheiden.
+Kinder in Guatemala, die eine gängige Impfung gegen Lungenentzündung (Pneumokokken-Impfung) erhalten hatten, wiesen laut einer neuen Studie unter der Leitung von Forscher*innen der Washington State University (WSU) ein geringeres Risiko für antibiotikaresistente Bakterien auf.
 
-### Vorgeschlagenes Pilotprogramm  
+### Hintergrund und Ziele
+- **Studie**: Untersuchung des Einflusses von Impfungen auf die Darmbesiedlung mit antibiotikaresistenten Bakterien bei Kindern in **Guatemala**.  
+- **Impfstoffe**:  
+  - **Pneumokokken‑Impfung** ([Pneumokokken-Impfstoff](https://de.wikipedia.org/wiki/Pneumokokken‑Impfstoff), PCV13)  
+  - **Rotavirus‑Impfung** ([Rotavirus‑Impfstoff](https://de.wikipedia.org/wiki/Rotavirus‑Impfstoff))  
+- **Fragestellung**: Reduzieren diese Impfstoffe die Besiedlung mit **Extended‑Spectrum‑Cephalosporin‑resistenten Enterobacterales** (ESCrE), zu denen auch **_Escherichia coli_** gehört?
 
-- Die **[Freie Demokratische Partei (FDP)](https://de.wikipedia.org/wiki/Freie_Demokratische_Partei_Deutschlands)** will ein Pilotprojekt für den Einsatz von **[Künstlicher Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz)** im Asylwesen starten.  
-- Das Projekt soll im **[Staatssekretariat für Migration (SEM)](https://de.wikipedia.org/wiki/Staatssekretariat_f%C3%BCr_Migration)** und beim **[Bundesamt für Zoll und Grenzschutz (BAZG)](https://de.wikipedia.org/wiki/Bundesamt_f%C3%BCr_Zoll_und_Gr%C3%9Fschutz)** durchgeführt werden.  
-- Ziel: KI‑gestützte Assistenzsysteme in ausgewählten Bereichen der Asylaufnahme zu erproben, insbesondere bei:  
-  - **Dokumentenprüfung** (Erkennung von **[Dokumentenbetrug](https://de.wikipedia.org/wiki/Dokumentenf%C3%A4lschung)**)  
-  - Optimierter Einsatz von **[Dolmetschern](https://de.wikipedia.org/wiki/Dolmetscher)**  
-  - Schnellere **Fallselektion** (erste Triage)  
+### Methodik
+- **Ort**: Westliches Hochland von **Guatemala**.  
+- **Teilnehmer**: 406 Kinder ≤ 5 Jahre.  
+- **Daten**:  
+  - Stuhlproben zur Bestimmung der bakteriellen Besiedlung.  
+  - Impfnachweise (PCV13, Rotavirus).  
+  - Gesundheitsdaten (Arztbesuche, Durchfall, Ernährungsgewohnheiten, Umwelteinflüsse).  
 
-### Unterstützende Positionen  
+### Hauptergebnisse
+- **Pneumokokken‑Impfung**  
+  - Geimpfte Kinder zeigten deutlich niedrigere ESCrE‑Besiedlungsraten.  
+  - Der Effekt hing stark mit **geringerer Inanspruchnahme von Arztbesuchen** zusammen, was das Risiko einer Exposition gegenüber resistenten Bakterien mindert.  
+- **Rotavirus‑Impfung**  
+  - Kein eindeutiges Ergebnis; zu wenige gemeldete Durchfallerkrankungen, um einen klaren Zusammenhang zu prüfen.  
 
-- Der **[Bundesrat](https://de.wikipedia.org/wiki/Bundesrat_(Deutschland))** und der **[Nationalrat](https://de.wikipedia.org/wiki/Nationalrat_(Schweiz))** unterstützen den Vorstoß.  
-- Bei Zustimmung des Ständerates soll das Pilotprogramm innerhalb von 24 Monaten starten, um die nötigen rechtlichen Grundlagen zu schaffen.  
-- Die FDP beruft sich auf internationale Vorbilder:  
-  - **[Kanada](https://de.wikipedia.org/wiki/Kanada)** nutzt bereits KI für Triage und digitale Assistenz im Asylverfahren.  
-  - In mehreren **[EU](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union)**‑Staaten wird KI für Dokumentenprüfung und **Altersabschätzung** eingesetzt.  
+### Zusätzliche Befunde
+- **Risikofaktoren für ESCrE‑Besiedlung**  
+  - **Durchfall im Vormonat** → signifikant höheres Risiko, vermutlich wegen Darmentzündungen.  
+  - **Landwirtschaftlich genutzte Flächen im Haushalt** → erhöhtes Risiko durch Kontakt mit kontaminiertem Boden/Wasser.  
+- **Schutzfaktoren**  
+  - **Joghurtkonsum** (probio­tische Lebensmittel) → reduzierter Besiedlungsgrad, Hinweis auf förderliche Darmflora.  
 
-### Kritische Stimmen  
+### Bedeutung und Ausblick
+- Die Studie zeigt, dass Impfungen nicht nur Krankheiten verhindern, sondern **indirekt die Verbreitung antibiotikaresistenter Bakterien** durch reduzierte Arztkontakte verringern können.  
+- Ergebnisse unterstützen die **globalen Bemühungen gegen Antibiotikaresistenzen**, ein wachsendes Gesundheitsproblem mit Millionen Todesfällen jährlich.  
+- Weitere Forschung ist geplant, um den Einfluss von **landwirtschaftlicher Flächennutzung** und anderen Umwelteinflüssen genauer zu verstehen.  
 
-- **[Balthasar Glättli](https://de.wikipedia.org/wiki/Balthasar_Gl%C3%A4ttli)** (Grüne‑Nationalrat) warnt:  
-  - Entscheidungen über wesentliche Rechtsgüter, insbesondere Grundrechte, dürfen **nicht von KI getroffen** werden.  
-  - Beamte könnten KI‑Vorschläge unkritisch übernehmen, obwohl KI‑Systeme bekanntermaßen **[Bias](https://de.wikipedia.org/wiki/Bias_(Statistik))** enthalten.  
-  - Verweist auf den **Kindergeldskandal in den Niederlanden** als Beispiel für fehlerhafte automatisierte Entscheidungen.  
-- Glättli fordert:  
-  - Vor dem KI‑Einsatz massive Hausaufgaben bei der **Digitalisierung** und Datenqualität.  
-  - Nur qualitativ hochwertige Ausgangsdaten ermöglichen ein brauchbares KI‑Training.  
+### Finanzierung und Zusammenarbeit
+- **Partner**: Washington State University ([WSU](https://de.wikipedia.org/wiki/Washington_State_University)), Universidad del Valle de Guatemala.  
+- **Förderer**: **Centers for Disease Control and Prevention** ([CDC](https://de.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention)), **Wellcome Trust** ([Wellcome Trust](https://de.wikipedia.org/wiki/Wellcome_Trust)).  
+- **Veröffentlichung**: Fachzeitschrift **Vaccine**.  
 
-### Mögliche Auswirkungen & Bedenken  
+> Relevance score: [6] - A study linking a common vaccine to reduced antimicrobial resistance has clear public‑health implications worldwide, including for Swiss vaccination policy.
 
-- **Effizienzgewinne**: Routineaufgaben könnten schneller erledigt werden, was Personal für komplexere Entscheidungen freisetzt.  
-- **Risiken für Menschenrechte**:  
-  - Fehlentscheidungen bei **[Asylverfahren](https://de.wikipedia.org/wiki/Asylverfahren)** könnten zu ungerechtfertigten Ablehnungen führen.  
-  - Bias und mangelnde Transparenz könnten bestehende Vorurteile verstärken.  
-- **Kostenersparnis**: Durch Automatisierung könnten Verwaltungskosten reduziert werden, solange die Kontrolle durch Menschen gewährleistet bleibt.  
+## Längste Beobachtung einer aktiven Sonnenregion
 
-> Relevance score: [7] - A pilot program introducing AI into the Swiss asylum system touches on fundamental rights, governmental workload, and future migration policy. It could affect a sizable number of asylum seekers and set precedents for AI use in public administration, making it structurally significant for Switzerland.
+[ETH Zürich](https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2026/01/laengste-beobachtung-einer-aktiven-sonnenregion.html) • _Montag, 5. Januar 2026, 01:00 Uhr_
 
-## Die EU erhebt neu eine Klimaabgabe auf Importe
+Im Mai 2024 tobte der stärkste Sonnensturm der letzten zwanzig Jahre. Ein internationales Team unter der Leitung der ETH Zürich hat ihn beobachtet. Die gewonnenen Erkenntnisse helfen dabei, das Weltraumwetter nun besser voraussagen zu können.
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/klima-grenzschutz-die-eu-erhebt-neu-eine-klimaabgabe-auf-importe-was-das-heisst) • _Samstag, 3. Januar 2026, 18:25 Uhr_
+### Hintergrund und Beobachtungsmission
+- Die Sonne rotiert in **≈ 28 Tagen**; von der Erde aus können aktive Regionen nur etwa **zwei Wochen** beobachtet werden, bevor sie hinter die Sonnenseite rotieren.  
+- Durch die **[Solar Orbiter](https://de.wikipedia.org/wiki/Solar_Orbiter)**‑Mission der **[ESA](https://de.wikipedia.org/wiki/European_Space_Agency)** (seit 2020) ist es möglich, die Rückseite der Sonne zu sehen.  
+- Zwischen **April und Juli 2024** verfolgte das Team um **Ioannis Kontogiannis** (ETH Zürich, IRSOL) und **Louise Harra** (ETH Zürich, PMOD/WRC) die besonders aktive Region **NOAA 13664** – eine der aktivsten der letzten 20 Jahre.
 
-Ab dem 1. Januar 2026 führt die EU stufenweise ihren CO₂-Grenzschutzmechanismus ein. International sorgt das für Kritik.
+### Ergebnisse der Beobachtung
+- Kombination von Daten:
+  - **Solar Orbiter** (Beobachtung der Rückseite)  
+  - **[Solar Dynamics Observatory](https://de.wikipedia.org/wiki/Solar_Dynamics_Observatory)** (Beobachtung der Vorderseite)  
+- **94 Tage** fast lückenlose Beobachtung – die längste Bilderserie für eine einzelne aktive Region.  
+- Chronologie der Region:
+  - **16. April 2024:** Entstehung auf der Rückseite.  
+  - **Mai 2024:** Auslösung der stärksten geomagnetischen Stürme seit 2003, spektakuläre **[Polarlichter](https://de.wikipedia.org/wiki/Polarlicht)** bis in die Schweiz.  
+  - **18. Juli 2024:** Vollständiger Zerfall.  
+- Entwicklung des Magnetfeldes:
+  - Mehrere Episoden steigerten die Komplexität bis zum **stärksten Flare seit 20 Jahren** am **20. Mai 2024**.
 
-### Hintergrund und Ziel des CBAM
-- Die [Europäische Union](https://en.wikipedia.org/wiki/European_Union) führt ab **1. Januar 2026** schrittweise den **Carbon Border Adjustment Mechanism (CBAM)** ein.  
-- Ziel: Verhindern, dass EU‑Industrien wegen strengerer Klimaschutzmaßnahmen gegenüber Importen aus Ländern ohne CO₂‑Preis benachteiligt werden.  
-- Der CBAM ergänzt das **Emissions‑Handelssystem (EU‑ETS)**, dessen Gratiszertifikate künftig reduziert werden, wodurch zusätzliche Klimakosten für Importe entstehen.
+### Auswirkungen von Sonnenstürmen
+- **Komplexe Magnetfelder** erzeugen **Flares** und koronale Massenauswürfe, die:
+  - Stromnetze ausfallen lassen, Kommunikationssignale stören, Flugzeug‑Besatzungen mit höherer Strahlung belasten.  
+  - Satelliten gefährden (z. B. **38 von 49 [Starlink](https://de.wikipedia.org/wiki/Starlink)**‑Satelliten verloren im Februar 2022).  
+  - Bahn‑Signaltechnik beeinflussen (Signalwechsel zwischen rot und grün).  
+- **NOAA 13664** störte 2024 besonders die digitale Landwirtschaft: Satelliten‑, Drohnen‑ und Sensorsignale fielen aus, was zu Arbeitsausfällen und Ernteverlusten führte.  
 
-### Betroffene Produkte und Schwellenwert
-- Anfangs gilt der CBAM für:
-  - **Eisen, Stahl, Aluminium, Zement, Düngemittel, Strom und Wasserstoff**.  
-- Anwendung erst ab einer Importmenge von **über 50 t**.  
-- Die EU‑Kommission plant, den Mechanismus später auf verarbeitete Produkte auszuweiten, die größtenteils aus Stahl und Aluminium bestehen.
+### Zukunft und Weltraumwettervorhersage
+- Ziel: **Besseres Verständnis** von Sonnenstürmen → **Genauere Vorhersage** des Weltraumwetters zum Schutz moderner Technologie.  
+- Aktuell: Nur grobe Abschätzungen möglich (komplexes Magnetfeld = hohe Energie, aber keine genaue Prognose von Eruptionsgröße oder Zeitpunkt).  
+- Geplante Mission **Vigil** (ESA, Start 2031) soll speziell das Weltraumwetter untersuchen und die Vorhersagefähigkeiten weiter verbessern.  
 
-### Reaktionen der Handelspartner
-- **China**, **Indien** und weitere Länder kritisieren den CBAM als **unfair** und **protektionistisch**.  
-- Auf der **UNO‑Klima­konferenz in Belém** forderten sie Zugeständnisse in anderen Bereichen, falls die EU den CBAM umsetzt.  
-- Die EU weist die Kritik zurück und betont, dass der CBAM Importe **gleichberechtigt** zu heimischen Produkten behandelt – kein Zoll, sondern eine CO₂‑Preisangleichung.  
-- **Catherine Wolfram**, Professorin für Energiewirtschaft am [MIT](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology), unterstützt diese Sichtweise.  
-- Gleichzeitig bleibt die EU verhandlungsbereit und verlangt von Entwicklungsländern keinen gleich hohen CO₂‑Preis, um sie vom CBAM auszunehmen.
-
-### Umsetzung und Zeitplan
-- Der CBAM wird **stufenweise** eingeführt; **2035** soll er voll operativ sein.  
-- Ob die CO₂‑Emissionen bis dahin im gewünschten Ausmaß sinken, lässt sich noch nicht abschätzen.  
-- Ein bereits erreichten Effekt: Länder wie **China** und die **Türkei** haben eigene Emissions‑Handelssysteme eingeführt, teilweise als Reaktion auf den geplanten CBAM.
-
-### Auswirkungen auf die Schweiz
-- Die Schweiz hat ihr **Emissions‑Handelssystem** seit 2020 mit dem EU‑ETS verknüpft und reduziert ebenfalls die Gratiszertifikate, wodurch die Preise tendenziell steigen.  
-- Bisher verzichtet der Bundesrat jedoch auf einen eigenen CBAM, sodass Schweizer Industrie (z. B. Zement) ungeschützt bleibt.  
-- CO₂‑intensive Branchen fordern seit Jahren einen Schweizer CBAM; sie werden von politischen Kräften von der Linken bis zur Mitte unterstützt.  
-- Der Nationalrat hat kürzlich einen Vorstoß genehmigt, der den Bundesrat auffordert, Grundlagen für einen **Schweizer CBAM** zu schaffen.  
-
----  
-*Legende: Bild eines Holcim‑Zementwerks in Eclépens (VD).*
-
-> Relevance score: [7] - The EU's introduction of the Carbon Border Adjustment Mechanism will affect import costs for Swiss exporters and has long‑term implications for trade, climate policy, and competitiveness. It is a substantial structural development for the Swiss economy.
+> Relevance score: [6] - Research led by ETH Zürich advances space‑weather forecasting, a field with long‑term relevance for satellite operations and power‑grid stability, including in Switzerland.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Britische und französische Luftwaffe greifen IS in Syrien an
+## Liechtensteinische Treuhänder verlassen Stiftungen
 
-[Blick](https://www.blick.ch/ausland/frankreich-britische-und-franzoesische-luftwaffe-greifen-is-in-syrien-an-id21566610.html) • _Sonntag, 4. Januar 2026, 02:20 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/wegen-geschaeften-mit-reichen-russen-liechtensteinische-treuhaender-fliehen-aus-angst-vor-us-sanktionen-aus-stiftungen-ld.1918251) • _Montag, 5. Januar 2026, 05:30 Uhr_
 
-Mit dem Angriff auf IS-Ziele in Syrien soll ein Wiederaufleben der Terrormiliz verhindert werden. Die Terroristen hatten in letzter Zeit ihre Aktivitäten wieder verstärkt.
+Mehrere hundert Stiftungen sind wegen der ausländischen Sanktionen bereits handlungsunfähig. Die Regierung versucht gegenzusteuern und die Finanzmarktaufsicht zu stärken.
 
-Keystone-SDADie Schweizer Nachrichtenagentur
-Grossbritannien und Frankreich haben gemeinsam den Islamischen Staat (IS) in Syrien angegriffen. Die britische Regierung teilte in der Nacht zu Sonntag mit, auf eine unterirdische Anlage der Terroristen nö... [weiterlesen](https://www.blick.ch/ausland/frankreich-britische-und-franzoesische-luftwaffe-greifen-is-in-syrien-an-id21566610.html)
+Auf dem Finanzplatz Liechtenstein macht derzeit ein neuer Begriff die Runde: «verwaiste Rechtsträger». Gemeint sind damit vor allem Stiftungen mit einem Bezug zu Russland, die von den Sanktionen des Office of Foreign Assets Control (Ofac) des US-Fina... [weiterlesen](https://www.nzz.ch/schweiz/wegen-geschaeften-mit-reichen-russen-liechtensteinische-treuhaender-fliehen-aus-angst-vor-us-sanktionen-aus-stiftungen-ld.1918251)
 
-> Relevance score: [5] - Joint airstrikes against ISIS are an important security development, but the direct impact on Swiss society, economy, or governance is limited. It is a noteworthy international event but not a major driver for Switzerland.
+> Relevance score: [5] - The exodus of trustees from Liechtenstein foundations touches the cross‑border financial sector that Switzerland is closely linked to, raising regulatory and compliance concerns.
 
-## US-Angriffe in Venezuela - Gericht in Venezuela ernennt Rodríguez zur Interimspräsidentin
+## Samsung will die Zahl der von Googles Gemini angetriebenen Mobilgeräte in diesem Jahr auf 800 Millionen verdoppeln
 
-[Schweizer Radio und Fernsehen](https://www.srf.ch/news/international/us-angriffe-in-venezuela-gericht-in-venezuela-ernennt-rodriguez-zur-interimspraesidentin) • _Sonntag, 4. Januar 2026, 05:15 Uhr_
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/samsung-will-die-zahl-der-von-googles-gemini-angetriebenen-mobilgeraete-in-diesem-jahr-auf-800-millio-ce7e59d9d08afe20) • _Montag, 5. Januar 2026, 04:01 Uhr_
 
-In Venezuela hat der oberste Gerichtshof gemäss Medienberichten Delcy Rodriguez zur Interimspräsidentin ernannt.
+Samsung Electronics plant, in diesem Jahr die Zahl seiner Mobilgeräte mit KI-Funktionen, die von Googles Gemini angetrieben werden, zu verdoppeln, wie sein Co-CEO mitteilte. Dies würde dem...
 
-Autor: Am Liveticker ist Gabriel Gasser
-US-Präsident Donald Trump hat einen militärischen Einsatz in Venezuela in der Nacht auf Samstag bestätigt.
-Dabei seien der venezolanische Präsident Nicolás Maduro und seine Ehefrau gefangengenommen und auf ein ... [weiterlesen](https://www.srf.ch/news/international/us-angriffe-in-venezuela-gericht-in-venezuela-ernennt-rodriguez-zur-interimspraesidentin)
+Samsung Electronics plant, in diesem Jahr die Zahl seiner Mobilgeräte mit KI-Funktionen, die von Googles Gemini angetrieben werden, zu verdoppeln, wie sein Co-CEO mitteilte. Dies würde dem US-Unternehmen einen Vorteil gegenüber Konkurrenten verschaff... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/samsung-will-die-zahl-der-von-googles-gemini-angetriebenen-mobilgeraete-in-diesem-jahr-auf-800-millio-ce7e59d9d08afe20)
 
-> Relevance score: [3] - The claim of a US military operation and a regime change in Venezuela would be a major geopolitical event, but the story contains clear anachronisms (e.g., Donald Trump as US president in 2026) and appears unreliable, so its practical relevance is low and likely to be noise.
+> Relevance score: [5] - The move signals a major shift in AI‑enabled consumer devices globally, affecting tech markets that Swiss companies and users participate in.
 
-## Stromausfall in Berlin: 45'000 Haushalte leiden unter Kälte ohne Strom
+## Elon Musks Grok erstellt sexualisierte Bilder ohne Einwilligung
 
-[20 Min](https://www.20min.ch/story/berlin-massiver-stromausfall-45-000-haushalte-bei-kaelte-ohne-strom-103479969) • _Samstag, 3. Januar 2026, 20:38 Uhr_
+[Blick](https://www.blick.ch/digital/kritik-an-elon-musks-porno-maschine-grok-zieht-frauen-auf-knopfdruck-aus-auch-kinder-id21567775.html) • _Sonntag, 4. Januar 2026, 22:10 Uhr_
 
-Ein Kabelbrand führt zu einem massiven Stromausfall in Berlin. Der Staatsschutz prüft ein mögliches Bekennerschreiben.
+Fake-Nacktbilder per Knopfdruck: Was nach düsterer Dystopie klingt, passiert gerade ganz offen auf Elon Musks Plattform X und Millionen schauen zu. Regierungen schlagen Alarm.
 
-Nach dem Brand, der für einen massiven Stromausfall in Berlin gesorgt hat, liegt dem Staatsschutz ein Bekennerschreiben vor. «Unsere Kolleginnen und Kollegen prüfen derzeit die Authentizität dieses Schreibens», teilte die Polizei am Samstag mit. Durc... [weiterlesen](https://www.20min.ch/story/berlin-massiver-stromausfall-45-000-haushalte-bei-kaelte-ohne-strom-103479969)
+Tobias BolzernRedaktor Digital
+«Zieh sie aus.» «Zeig sie im Bikini.» «Spreiz ihre Beine.» Was klingt wie Anweisungen aus einem absolut verstörenden Chatverlauf, sind öffentliche Nachrichten von Nutzern an Grok, den KI-Chatbot auf Elon Musks Plattform... [weiterlesen](https://www.blick.ch/digital/kritik-an-elon-musks-porno-maschine-grok-zieht-frauen-auf-knopfdruck-aus-auch-kinder-id21567775.html)
 
-> Relevance score: [2] - A localized power outage affecting tens of thousands in Berlin is a regional incident without broader implications for Switzerland or global structures. Its relevance is minimal.
+> Relevance score: [5] - The misuse of AI to generate non‑consensual sexual content raises ethical and regulatory questions that are globally relevant and affect Swiss tech and privacy discussions.
+
+## Darmkrebs: Neuer Mechanismus erklärt Risiko im Alter
+
+[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/darmkrebs-neuer-mechanismus-erklaert-risiko-im-alter/68458495) • _Sonntag, 4. Januar 2026, 18:52 Uhr_
+
+Neue Forschungsergebnisse zeigen, dass ein altersbedingter Eisenmangel im Zellkern epigenetische Schäden auslöst, die Darmkrebs begünstigen. Dies eröffnet neue Wege für Früherkennung und Prävention.
+
+Eine aktuelle Studie beschreibt einen schleichenden Prozess, der Darmstammzellen im Alter zu Krebsvorläufern macht. Der sogenannte ACCA-Drift wird durch Eisenmangel in den Zellen ausgelöst und verändert das Erbgut dauerhaft. Diese Woche rücken neue A... [weiterlesen](https://www.ad-hoc-news.de/boerse/news/ueberblick/darmkrebs-neuer-mechanismus-erklaert-risiko-im-alter/68458495)
+
+> Relevance score: [5] - A novel biological insight into age‑related colon cancer could influence future screening and treatment strategies, bearing relevance for Swiss healthcare research.
+
+## Migros verabschiedet sich
+
+[Linth24](https://linth24.ch/articles/356346-migros-verabschiedet-sich) • _Montag, 5. Januar 2026, 05:50 Uhr_
+
+Die Migros zieht sich endgültig aus dem Frohsinn-Center zurück. Trotz laufendem Mietvertrag wird es im Uzner Zentrum keine Migros-Filiale mehr geben.
+
+Damit ist klar: In Uznach fehlt bis auf Weiters eine wichtige Einkaufsmöglichkeit in Zentrumslage. Dies berichtet die «Linth-Zeitung» am Montag.
+Gültiger Mietvertrag
+Formell hätte die Migros bis Ende 2028 – mit Option bis 2035 – im Frohsinn bleiben k... [weiterlesen](https://linth24.ch/articles/356346-migros-verabschiedet-sich)
+
+> Relevance score: [4] - Migros is a major Swiss retailer; the closure of one urban store affects local shopping options but does not alter the national retail landscape.
+
+## Trump droht weiteren Ländern mit Militärinterventionen
+
+[Blick](https://www.blick.ch/ausland/kolumbien-groenland-und-mexiko-trump-droht-weiteren-laendern-mit-militaerinterventionen-id21568502.html) • _Montag, 5. Januar 2026, 04:24 Uhr_
+
+Donald Trump beschuldigt den kolumbianischen Präsidenten Gustavo Petro, Kokain in die USA zu schmuggeln. Eine «Operation» in Kolumbien klinge gut, so der US-Präsident.
+
+Gabriel KnupferRedaktor News
+US-Präsident Donald Trump (79) ist nach der Verhaftung von Nicolas Maduro (63) auf den Geschmack gekommen. Ermutigt vom Erfolg in Venezuela drohte Trump dem kolumbianischen Präsidenten Gustavo Petro (65).
+«Kolumbien wird ... [weiterlesen](https://www.blick.ch/ausland/kolumbien-groenland-und-mexiko-trump-droht-weiteren-laendern-mit-militaerinterventionen-id21568502.html)
+
+> Relevance score: [4] - US foreign‑policy posturing can influence global geopolitics, yet the specific threat toward Colombia bears minimal direct relevance for Swiss affairs.
+
+## Was folgt auf Maduros Sturz? Eindrücke vor Ort
+
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/mit-maduros-abgang-entsteht-ein-machtvakuum-wer-es-fuellen-wird-ist-unklar-ld.1918697) • _Sonntag, 4. Januar 2026, 19:54 Uhr_
+
+Den Fall des Diktators nehmen viele Venezolaner mit Erleichterung zur Kenntnis, doch Euphorie bleibt aus. Mit der kommissarisch als Präsidentin eingesetzten Delcy Rodríguez gibt es keinen Neuanfang.
+
+Seit der amerikanischen Kommandoaktion gegen den venezolanischen Machthaber Nicolás Maduro und seine Frau Cilia Flores herrscht eine gespenstische Stille in Caracas und anderen Städten Venezuelas, wie mehrere Gesprächspartner vor Ort berichten. Sie a... [weiterlesen](https://www.nzz.ch/international/mit-maduros-abgang-entsteht-ein-machtvakuum-wer-es-fuellen-wird-ist-unklar-ld.1918697)
+
+> Relevance score: [4] - The political turnover in Venezuela is an important regional development, but its direct ramifications for Switzerland are limited to diplomatic and humanitarian considerations.
+
+## Southwest Airlines im Wandel: Billigairline prüft eine Business Class
+
+[aeroTELEGRAPH](https://www.aerotelegraph.com/airlines/southwest-airlines-im-wandel-billigairline-prueft-eine-business-class/04bpbbh) • _Montag, 5. Januar 2026, 06:03 Uhr_
+
+Jahrzehntelang hatte die Billigairline aus den USA mit ihrem Angebot ohne Schnickschnack viel Erfolg. Doch jetzt ändert Southwest Airlines ihr Geschäftsmodell grundlegend. Sogar eine echte Business Class zieht sie ernsthaft in Erwägung.
+
+Seit einigen Monaten ist bei Southwest Airlines nichts mehr, wie es einmal war. Das liegt an veränderten Kundenbedürfnissen und stärkerer Konkurrenz durch etablierte Fluggesellschaften, aber auch am Druck des Anteilseigners Elliott Investment Managem... [weiterlesen](https://www.aerotelegraph.com/airlines/southwest-airlines-im-wandel-billigairline-prueft-eine-business-class/04bpbbh)
+
+> Relevance score: [3] - A US low‑cost carrier considering a premium product is a noteworthy shift in aviation business models, but its direct impact on Swiss travellers or the Swiss economy is limited.
+
+## Sabotage, Stromausfall, Staatsversagen: So leicht lässt sich Berlin lahmlegen
+
+[Neue Zürcher Zeitung](https://www.nzz.ch/der-andere-blick/sabotage-stromausfall-staatsversagen-so-leicht-laesst-sich-berlin-lahmlegen-ld.1918723) • _Montag, 5. Januar 2026, 05:30 Uhr_
+
+In der deutschen Hauptstadt sind Zehntausende Haushalte seit Samstag ohne Strom. Die sogenannte Vulkangruppe hat sich zu dem Sabotageakt bekannt. Die Sicherheitsbehörden haben ihr seit dem Jahr 2011 nichts entgegenzusetzen. Wie kann das sein?
+
+Sie lesen einen Auszug aus dem Newsletter «Der andere Blick am Morgen», heute von Jonas Hermann, Redaktor NZZ Deutschland. Abonnieren Sie den Newsletter kostenlos. Nicht in Deutschland wohnhaft? Hier profitieren.
+Rechtsextreme richten ihre Gewalt geg... [weiterlesen](https://www.nzz.ch/der-andere-blick/sabotage-stromausfall-staatsversagen-so-leicht-laesst-sich-berlin-lahmlegen-ld.1918723)
+
+> Relevance score: [3] - A large power outage in Germany highlights infrastructure vulnerability in a neighbouring EU country; relevance for Switzerland is indirect and limited.
+
+## BND hörte Barack Obama ab: Spionage ohne Auftrag enthüllt
+
+[20 Min](https://www.20min.ch/story/ohne-spionageauftrag-der-deutsche-geheimdienst-hoerte-obama-ab-103480515) • _Montag, 5. Januar 2026, 02:04 Uhr_
+
+Der deutsche Geheimdienst BND soll Barack Obamas Gespräche abgehört haben. Dies geschah ohne offiziellen Auftrag und blieb lange unentdeckt.
+
+Der deutsche Nachrichtendienst (BND) hat nach Angaben des «Zeit»-Journalisten Holger Stark den damaligen US-Präsidenten Barack Obama abgehört. Im Podcast von «Bild»-Vize Paul Ronzheimer sagte Stark, der Geheimdienst habe sich dabei zunutze gemacht, d... [weiterlesen](https://www.20min.ch/story/ohne-spionageauftrag-der-deutsche-geheimdienst-hoerte-obama-ab-103480515)
+
+> Relevance score: [3] - German intelligence misconduct toward a former US president is a significant diplomatic scandal, but its direct impact on Switzerland is modest.
+
+## Vitamin-D-Spiegel in der Schwangerschaft mit Kariesrisiko bei Kindern verknüpft
+
+[ZWP online](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/vitamin-d-spiegel-in-der-schwangerschaft-mit-kariesrisiko-bei-kindern-verknupft) • _Sonntag, 4. Januar 2026, 18:47 Uhr_
+
+Eine gute Vitamin-D-Versorgung während der Schwangerschaft könnte sich positiv auf die Zahngesundheit von Kindern auswirken. Darauf deuten Daten aus einer großen chinesischen Beobachtungsstudie hin.
+
+Foto: Vasiliy Generiert mit KI – stock.adobe.com
+Untersucht wurde der Vitamin-D-Status von Schwangeren über verschiedene Phasen der Schwangerschaft hinweg und später das Auftreten von frühkindlicher Karies bei ihren Kindern. Kinder von Müttern mit hö... [weiterlesen](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/vitamin-d-spiegel-in-der-schwangerschaft-mit-kariesrisiko-bei-kindern-verknupft)
+
+> Relevance score: [3] - The observational link between maternal vitamin‑D status and child dental health is interesting but currently of modest impact on Swiss public‑health policy.
+
+## Russland: Rossiya zankt sich mit Staatsunternehmen wegen Ersatzteilen für Yakovlev Superjet 100
+
+[aeroTELEGRAPH](https://www.aerotelegraph.com/airlines/russland-rossiya-zankt-sich-mit-staatsunternehmen-wegen-ersatzteilen-fuer-yakovlev/pm705ne) • _Montag, 5. Januar 2026, 05:11 Uhr_
+
+Nach einer gescheiterten ersten Klage legt die Aeroflot-Tochter nach. Rossiya verlangt nun fast doppelt so viel Geld wie zuvor – und rückt damit die Ersatzteilversorgung des Yakovlev Superjet 100 erneut ins Rampenlicht.
+
+Nach einer gescheiterten ersten Klage legt die Aeroflot-Tochter nach. Rossiya verlangt nun fast doppelt so viel Geld wie zuvor – und rückt damit die Ersatzteilversorgung des Yakovlev Superjet 100 erneut ins Rampenlicht.
+Es ist ein langwährender Strei... [weiterlesen](https://www.aerotelegraph.com/airlines/russland-rossiya-zankt-sich-mit-staatsunternehmen-wegen-ersatzteilen-fuer-yakovlev/pm705ne)
+
+> Relevance score: [2] - The dispute concerns Russian aviation logistics and has little immediate effect on Swiss industry or consumers.
+
+## Katie Miller provoziert Streit zwischen USA und Dänemark mit Grönland-Post
+
+[20 Min](https://www.20min.ch/story/us-ansprueche-social-media-post-groenland-karte-in-us-farben-loest-streit-aus-103480509) • _Montag, 5. Januar 2026, 00:46 Uhr_
+
+Ein Social-Media-Post von Katie Miller über Grönland in US-Farben sorgt für diplomatische Spannungen zwischen den USA und Dänemark.
+
+Ein Social-Media-Beitrag hat zu diplomatischen Verstimmungen zwischen den USA und Dänemark geführt. In dem Post auf X von Ex-Regierungsberaterin und Influencerin Katie Miller war eine Karte der zu Dänemark gehörenden Insel Grönland in den Farben der ... [weiterlesen](https://www.20min.ch/story/us-ansprueche-social-media-post-groenland-karte-in-us-farben-loest-streit-aus-103480509)
+
+> Relevance score: [2] - A social‑media incident that caused a minor diplomatic tiff has negligible consequences for Swiss foreign policy or public interest.
 
 
 </details>
