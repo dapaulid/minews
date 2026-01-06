@@ -2,232 +2,268 @@
 
 ---
 
-_Aktualisiert: Montag, 5. Januar 2026, 18:27 Uhr_
+_Aktualisiert: Dienstag, 6. Januar 2026, 18:27 Uhr_
 
-## Pneumokkoken-Impfung verringert anscheinend Risiko für antibiotikaresistente Bakterien
+## US-Regierung senkt Zahl der für Kinder empfohlenen Impfungen
 
-[Kinderaerzte-im-Netz](https://www.kinderaerzte-im-netz.de/news-archiv/meldung/pneumokkoken-impfung-verringert-anscheinend-risiko-fuer-antibiotikaresistente-bakterien/) • _Montag, 5. Januar 2026, 02:28 Uhr_
+[Watson](https://www.watson.ch/international/schweiz/564253425-us-regierung-senkt-zahl-der-fuer-kinder-empfohlenen-impfungen) • _Dienstag, 6. Januar 2026, 05:08 Uhr_
 
-Kinder in Guatemala, die eine gängige Impfung gegen Lungenentzündung (Pneumokokken-Impfung) erhalten hatten, wiesen laut einer neuen Studie unter der Leitung von Forscher*innen der Washington State University (WSU) ein geringeres Risiko für antibiotikaresistente Bakterien auf.
+US-Präsident Donald Trumps Regierung rät künftig zu deutlich weniger Impfungen für Kinder als bislang.
 
-### Hintergrund und Ziele
-- **Studie**: Untersuchung des Einflusses von Impfungen auf die Darmbesiedlung mit antibiotikaresistenten Bakterien bei Kindern in **Guatemala**.  
-- **Impfstoffe**:  
-  - **Pneumokokken‑Impfung** ([Pneumokokken-Impfstoff](https://de.wikipedia.org/wiki/Pneumokokken‑Impfstoff), PCV13)  
-  - **Rotavirus‑Impfung** ([Rotavirus‑Impfstoff](https://de.wikipedia.org/wiki/Rotavirus‑Impfstoff))  
-- **Fragestellung**: Reduzieren diese Impfstoffe die Besiedlung mit **Extended‑Spectrum‑Cephalosporin‑resistenten Enterobacterales** (ESCrE), zu denen auch **_Escherichia coli_** gehört?
+### Änderung der Impfempfehlungen in den USA
+- Die Regierung von Präsident **[Donald Trump](https://de.wikipedia.org/wiki/Donald_Trump)** reduziert die empfohlenen Kinderimpfungen von 17 auf **11**.
+- Ankündigung erfolgte über **Truth Social**; Eltern können weiterhin alle Impfungen wählen, die Kosten bleiben von den Krankenkassen gedeckt.
+- Die neuen Empfehlungen fokussieren sich auf die „elf schwerwiegendsten und gefährlichsten Krankheiten“.
+- **Entfernte Impfungen** (nicht mehr allgemein empfohlen):
+  - Rotaviren
+  - Hepatitis A
+  - Hepatitis B
+  - RSV‑Infektionen
+  - Meningokokken B
+  - Meningokokken ACWY  
 
-### Methodik
-- **Ort**: Westliches Hochland von **Guatemala**.  
-- **Teilnehmer**: 406 Kinder ≤ 5 Jahre.  
-- **Daten**:  
-  - Stuhlproben zur Bestimmung der bakteriellen Besiedlung.  
-  - Impfnachweise (PCV13, Rotavirus).  
-  - Gesundheitsdaten (Arztbesuche, Durchfall, Ernährungsgewohnheiten, Umwelteinflüsse).  
+### Neue US‑Impfempfehlungen
+- Empfohlen werden nun Impfungen gegen:
+  - Diphtherie
+  - Tetanus
+  - Keuchhusten
+  - Haemophilus influenzae Typ b (Hib)
+  - Pneumokokken
+  - Polio
+  - Masern
+  - Mumps
+  - Röteln
+  - Humane Papillomviren (**[HPV](https://de.wikipedia.org/wiki/Humanes_Papillomavirus)**)
+  - Windpocken (Varizellen)
 
-### Hauptergebnisse
-- **Pneumokokken‑Impfung**  
-  - Geimpfte Kinder zeigten deutlich niedrigere ESCrE‑Besiedlungsraten.  
-  - Der Effekt hing stark mit **geringerer Inanspruchnahme von Arztbesuchen** zusammen, was das Risiko einer Exposition gegenüber resistenten Bakterien mindert.  
-- **Rotavirus‑Impfung**  
-  - Kein eindeutiges Ergebnis; zu wenige gemeldete Durchfallerkrankungen, um einen klaren Zusammenhang zu prüfen.  
+### Vergleich mit der Schweiz
+- Das Schweizer **[Bundesamt für Gesundheit (BAG)](https://de.wikipedia.org/wiki/Bundesamt_f%C3%BCr_Gesundheit)** empfiehlt ebenfalls **11** Basisimpfungen für Kinder, die nahezu identisch zur neuen US‑Liste sind.
+- Zusätzlich empfiehlt das BAG:
+  - Rotaviren‑Impfung (optional)
+  - Meningokokken‑Impfungen (optional)
+  - Für Risikogruppen weitere Impfungen (z. B. Covid‑19, FSME, Grippe)
 
-### Zusätzliche Befunde
-- **Risikofaktoren für ESCrE‑Besiedlung**  
-  - **Durchfall im Vormonat** → signifikant höheres Risiko, vermutlich wegen Darmentzündungen.  
-  - **Landwirtschaftlich genutzte Flächen im Haushalt** → erhöhtes Risiko durch Kontakt mit kontaminiertem Boden/Wasser.  
-- **Schutzfaktoren**  
-  - **Joghurtkonsum** (probio­tische Lebensmittel) → reduzierter Besiedlungsgrad, Hinweis auf förderliche Darmflora.  
+### Kritik und Reaktionen
+- Der **[American Academy of Pediatrics (AAP)](https://de.wikipedia.org/wiki/American_Academy_of_Pediatrics)** bezeichnet die verkürzte Impfempfehlung als **„gefährlich und unnötig“**.
+- Die AAP betont Unterschiede zu anderen Ländern (z. B. Dänemark) und warnt vor einer Übertragung fremder Impfpläne auf die USA.
 
-### Bedeutung und Ausblick
-- Die Studie zeigt, dass Impfungen nicht nur Krankheiten verhindern, sondern **indirekt die Verbreitung antibiotikaresistenter Bakterien** durch reduzierte Arztkontakte verringern können.  
-- Ergebnisse unterstützen die **globalen Bemühungen gegen Antibiotikaresistenzen**, ein wachsendes Gesundheitsproblem mit Millionen Todesfällen jährlich.  
-- Weitere Forschung ist geplant, um den Einfluss von **landwirtschaftlicher Flächennutzung** und anderen Umwelteinflüssen genauer zu verstehen.  
+> Relevance score: [8] - Eine drastische Reduktion der Impfempfehlungen in den USA hat massive Folgen für die öffentliche Gesundheit, das Vertrauen in Impfungen und potenziell die weltweite Krankheitslage. Auch die Schweiz übernimmt das neue Schema, wodurch die Wirkung national relevant ist.
 
-### Finanzierung und Zusammenarbeit
-- **Partner**: Washington State University ([WSU](https://de.wikipedia.org/wiki/Washington_State_University)), Universidad del Valle de Guatemala.  
-- **Förderer**: **Centers for Disease Control and Prevention** ([CDC](https://de.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention)), **Wellcome Trust** ([Wellcome Trust](https://de.wikipedia.org/wiki/Wellcome_Trust)).  
-- **Veröffentlichung**: Fachzeitschrift **Vaccine**.  
+## strategische Partnerschaft, Rohstoffe und viele Schulden
 
-> Relevance score: [6] - A study linking a common vaccine to reduced antimicrobial resistance has clear public‑health implications worldwide, including for Swiss vaccination policy.
+[Neue Zürcher Zeitung](https://www.nzz.ch/pro/china-ist-der-groesste-geldgeber-venezuelas-ld.1918759) • _Dienstag, 6. Januar 2026, 05:30 Uhr_
 
-## Längste Beobachtung einer aktiven Sonnenregion
+Mit dem Sturz von Nicolás Maduro durch die USA rücken die von Peking gewährten Kredite in den Fokus. Auch westliche Investoren haben offene Forderungen.
 
-[ETH Zürich](https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2026/01/laengste-beobachtung-einer-aktiven-sonnenregion.html) • _Montag, 5. Januar 2026, 01:00 Uhr_
+### Strategische Partnerschaft zwischen China und Venezuela
+- Seit 2001 besteht eine offizielle strategische Partnerschaft zwischen **[China](https://en.wikipedia.org/wiki/China)** und **[Venezuela](https://en.wikipedia.org/wiki/Venezuela)**.  
+- Unter **[Hugo Chávez](https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez)** (2001‑2002) wurde die Zusammenarbeit im Rahmen des „Sozialismus des 21. Jahrhunderts“ ausgebaut, wobei Russland und Iran ebenfalls einbezogen wurden.  
+- **[Nicolás Maduro](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)** traf im September 2023 kurz vor seiner Festnahme den chinesischen Sonderbeauftragten für Lateinamerika **[Qiu Xiaoqi](https://en.wikipedia.org/wiki/Qiu_Xiaoqi)** im Miraflores‑Palast.  
 
-Im Mai 2024 tobte der stärkste Sonnensturm der letzten zwanzig Jahre. Ein internationales Team unter der Leitung der ETH Zürich hat ihn beobachtet. Die gewonnenen Erkenntnisse helfen dabei, das Weltraumwetter nun besser voraussagen zu können.
+### Ziele Chinas: Rohstoffe und Einfluss
+- China sichert sich Lieferungen von **Sojabohnen**, **Kupfer** und insbesondere **Erdöl** aus Lateinamerika, um die eigene Rohstoffversorgung zu garantieren.  
+- Venezuela ist Chinas größter Käufer von **[PDVSA](https://en.wikipedia.org/wiki/Petroleos_de_Venezuela)**‑Erdöl in Südamerika, obwohl die Lieferungen nur etwa **5 %** der gesamten chinesischen Seetrockenimportmenge ausmachen.  
+- Der chinesische Technologieriese **[Huawei](https://en.wikipedia.org/wiki/Huawei)** ist ebenfalls in Venezuela aktiv.  
 
-### Hintergrund und Beobachtungsmission
-- Die Sonne rotiert in **≈ 28 Tagen**; von der Erde aus können aktive Regionen nur etwa **zwei Wochen** beobachtet werden, bevor sie hinter die Sonnenseite rotieren.  
-- Durch die **[Solar Orbiter](https://de.wikipedia.org/wiki/Solar_Orbiter)**‑Mission der **[ESA](https://de.wikipedia.org/wiki/European_Space_Agency)** (seit 2020) ist es möglich, die Rückseite der Sonne zu sehen.  
-- Zwischen **April und Juli 2024** verfolgte das Team um **Ioannis Kontogiannis** (ETH Zürich, IRSOL) und **Louise Harra** (ETH Zürich, PMOD/WRC) die besonders aktive Region **NOAA 13664** – eine der aktivsten der letzten 20 Jahre.
+### Kreditvolumen und Besicherung
+- Laut dem Forschungsinstitut **[AidData](https://en.wikipedia.org/wiki/AidData)** (University of William & Mary) beläuft sich das zugesagte Kreditvolumen über zwei Jahrzehnte auf rund **106 Mrd. US‑$**.  
+- **[Sebastian Horn](https://en.wikipedia.org/wiki/Sebastian_Horn)** von der **[Universität Hamburg](https://en.wikipedia.org/wiki/University_of_Hamburg)** schätzt etwa **90 Mrd. US‑$**; beide Zahlen umfassen hauptsächlich Kredite, die durch zukünftige Erdölexporte besichert sind.  
+- Die Erlöse aus dem Rohstoffhandel wurden auf ein Treuhandkonto einer chinesischen Bank eingezahlt.  
 
-### Ergebnisse der Beobachtung
-- Kombination von Daten:
-  - **Solar Orbiter** (Beobachtung der Rückseite)  
-  - **[Solar Dynamics Observatory](https://de.wikipedia.org/wiki/Solar_Dynamics_Observatory)** (Beobachtung der Vorderseite)  
-- **94 Tage** fast lückenlose Beobachtung – die längste Bilderserie für eine einzelne aktive Region.  
-- Chronologie der Region:
-  - **16. April 2024:** Entstehung auf der Rückseite.  
-  - **Mai 2024:** Auslösung der stärksten geomagnetischen Stürme seit 2003, spektakuläre **[Polarlichter](https://de.wikipedia.org/wiki/Polarlicht)** bis in die Schweiz.  
-  - **18. Juli 2024:** Vollständiger Zerfall.  
-- Entwicklung des Magnetfeldes:
-  - Mehrere Episoden steigerten die Komplexität bis zum **stärksten Flare seit 20 Jahren** am **20. Mai 2024**.
+### Fehlende Transparenz und Rückzahlungsstatus
+- China vergibt Kredite meist über Staatsbanken, veröffentlicht jedoch keine detaillierten Außenstände.  
+- Ratingagenturen wie **[S&P Global](https://en.wikipedia.org/wiki/S%26P_Global)** analysieren primär Anleihen in Dollar oder Euro, die von westlichen Gläubigern gehalten werden.  
+- Nach dem Preisverfall 2014 erhielt Venezuela von China eine **Fristverlängerung**.  
+- **Brad Parks** (AidData) bezweifelt, dass der noch ausstehende Betrag verlässlich quantifizierbar sei; Sanktionen der USA haben die Ölexporte nach China weiter reduziert.  
+- Horn geht davon aus, dass nach allen Umstrukturierungen noch **10‑20 Mrd. US‑$** offen sind – für chinesische Maßstäbe ein relativ kleiner Betrag.  
 
-### Auswirkungen von Sonnenstürmen
-- **Komplexe Magnetfelder** erzeugen **Flares** und koronale Massenauswürfe, die:
-  - Stromnetze ausfallen lassen, Kommunikationssignale stören, Flugzeug‑Besatzungen mit höherer Strahlung belasten.  
-  - Satelliten gefährden (z. B. **38 von 49 [Starlink](https://de.wikipedia.org/wiki/Starlink)**‑Satelliten verloren im Februar 2022).  
-  - Bahn‑Signaltechnik beeinflussen (Signalwechsel zwischen rot und grün).  
-- **NOAA 13664** störte 2024 besonders die digitale Landwirtschaft: Satelliten‑, Drohnen‑ und Sensorsignale fielen aus, was zu Arbeitsausfällen und Ernteverlusten führte.  
+### Westliche Gläubiger und Umschuldungsdruck
+- Westliche Investoren fordern die Umstrukturierung von **≈ 60 Mrd. US‑$** Forderungen, die seit 2017 im Zahlungsverzug sind.  
+- Die Aufhebung der US‑Sanktionen wäre Voraussetzung, um diese Schulden neu zu verhandeln.  
+- In den letzten Wochen stieg der Preis venezolanischer Anleihen von **0,20 $** auf **0,30 $** pro US‑Dollar, da Investoren auf eine mögliche Rückkehr von Maduro und die damit verbundene Entlastung hoffen.  
+- Das US‑Weiße Haus könnte im Rahmen einer Umschuldung Druck ausüben, westliche Gläubiger bevorzugt zu behandeln – ein möglicher Präzedenzfall, der Peking Sorgen bereitet.  
 
-### Zukunft und Weltraumwettervorhersage
-- Ziel: **Besseres Verständnis** von Sonnenstürmen → **Genauere Vorhersage** des Weltraumwetters zum Schutz moderner Technologie.  
-- Aktuell: Nur grobe Abschätzungen möglich (komplexes Magnetfeld = hohe Energie, aber keine genaue Prognose von Eruptionsgröße oder Zeitpunkt).  
-- Geplante Mission **Vigil** (ESA, Start 2031) soll speziell das Weltraumwetter untersuchen und die Vorhersagefähigkeiten weiter verbessern.  
+### Ausblick: Herausforderungen bei der Schuldentilgung
+- Venezuelas Ölexporte sind 2024 mit **18,4 Mrd. US‑$** Bruttoeinnahmen laut **[OPEC](https://en.wikipedia.org/wiki/OPEC)** nur ein Bruchteil des Kreditvolumens.  
+- Der marode Zustand der Industrie und die begrenzte Fördersteigerung erschweren eine rasche Rückzahlung.  
+- Für China bleibt das Risiko gering, während die geopolitischen Spannungen zwischen den USA, Venezuela und China weiterhin die Finanzierungsbedingungen bestimmen.
 
-> Relevance score: [6] - Research led by ETH Zürich advances space‑weather forecasting, a field with long‑term relevance for satellite operations and power‑grid stability, including in Switzerland.
+> Relevance score: [6] - Der Sturz von Maduro und die damit verbundene Neuorientierung chinesischer Kredite sowie westlicher Forderungen können die geopolitische und wirtschaftliche Lage in Lateinamerika beeinflussen und damit indirekt globale Rohstoffmärkte betreffen.
+
+## 29 Tote und 1200 Festnahmen bei Protesten im Iran
+
+[Blick](https://www.blick.ch/ausland/studierende-gehen-landesweit-auf-die-strasse-29-tote-und-1200-festnahmen-bei-protesten-im-iran-id21571485.html) • _Montag, 5. Januar 2026, 22:37 Uhr_
+
+Die Justiz der Islamischen Republik geht im Zuge der landesweiten Demonstrationen hart vor. Mindestens 29 Menschen sind ums Leben gekommen, mehr als 1200 Menschen wurden festgenommen.
+
+### Casualties and arrests
+- At least **34 people** have been killed during the ongoing protests, **including four children** and **two security‑force members**.  
+- More than **1,200 individuals** have been detained, according to the U.S.–based human‑rights network **[HRANA](https://en.wikipedia.org/wiki/Human_rights_in_Iran)**.
+
+### Geographic spread of protests
+- Demonstrations have been reported in **minimum 88 cities** across **27 of the 31 provinces** of the **[Islamic Republic of Iran](https://en.wikipedia.org/wiki/Islamic_Republic_of_Iran)**.  
+- After violent crackdowns in rural areas, the unrest reached major metropolises such as **[Tehran](https://en.wikipedia.org/wiki/Tehran)** and **[Mashhad](https://en.wikipedia.org/wiki/Mashhad)**.
+
+### Origins and development
+- The protests were triggered more than a week ago by a **sharp shock to the Iranian foreign‑exchange market**, prompting angry market traders in Tehran to take to the streets.  
+- The economic grievance quickly morphed into a **broader political protest** that has been met with the usual harsh response from the state.  
+- On Monday, the **Judiciary of the Islamic Republic** announced that it would act “without leniency” against demonstrators.
+
+### Student participation and university incidents
+- Students have joined the protests at **at least 17 universities nationwide**.  
+- At the **University of Birjand** (capital of South Khorasan Province), violent arrests occurred on campus on Monday evening, as reported by the campus newspaper **[Amirkabir](https://en.wikipedia.org/wiki/Amirkabir_University_of_Technology)**.
+
+> Relevance score: [6] - Ein massives Vorgehen gegen Demonstranten im Iran ist ein wichtiges Menschenrechtsthema und kann internationale Beziehungen sowie regionale Stabilität beeinflussen.
 
 
 <details><summary markdown="span">Unwichtige Ereignisse anzeigen</summary>
 
-## Liechtensteinische Treuhänder verlassen Stiftungen
+## Demos, Schüsse und Jagd auf Mitverschwörer in Caracas
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/wegen-geschaeften-mit-reichen-russen-liechtensteinische-treuhaender-fliehen-aus-angst-vor-us-sanktionen-aus-stiftungen-ld.1918251) • _Montag, 5. Januar 2026, 05:30 Uhr_
+[GMX](https://www.gmx.ch/magazine/politik/us-politik/venezuela-demos-schuesse-jagd-mitverschwoerer-caracas-41753976) • _Dienstag, 6. Januar 2026, 03:23 Uhr_
 
-Mehrere hundert Stiftungen sind wegen der ausländischen Sanktionen bereits handlungsunfähig. Die Regierung versucht gegenzusteuern und die Finanzmarktaufsicht zu stärken.
+Vereidigung, Schüsse, Fahndung nach Mitverschwörern: Was in Venezuela in der Nacht geschah.
 
-Auf dem Finanzplatz Liechtenstein macht derzeit ein neuer Begriff die Runde: «verwaiste Rechtsträger». Gemeint sind damit vor allem Stiftungen mit einem Bezug zu Russland, die von den Sanktionen des Office of Foreign Assets Control (Ofac) des US-Fina... [weiterlesen](https://www.nzz.ch/schweiz/wegen-geschaeften-mit-reichen-russen-liechtensteinische-treuhaender-fliehen-aus-angst-vor-us-sanktionen-aus-stiftungen-ld.1918251)
+Venezuelas gefangengenommener Staatschef Maduro beteuert vor einem US-Gericht seine Unschuld. Derweil lässt seine ihm treue Nachfolgerin nach Mitverschwörern fahnden und in Caracas fallen Schüsse. Die Ereignisse der Nacht.
+Nach der Gefangennahme des ... [weiterlesen](https://www.gmx.ch/magazine/politik/us-politik/venezuela-demos-schuesse-jagd-mitverschwoerer-caracas-41753976)
 
-> Relevance score: [5] - The exodus of trustees from Liechtenstein foundations touches the cross‑border financial sector that Switzerland is closely linked to, raising regulatory and compliance concerns.
+> Relevance score: [5] - Gewaltsame Ereignisse nach der Verhaftung von Maduro betreffen die innere Sicherheit und Menschenrechte in Venezuela. Sie haben regionale, aber nur begrenzte weltweite Konsequenzen.
 
-## Samsung will die Zahl der von Googles Gemini angetriebenen Mobilgeräte in diesem Jahr auf 800 Millionen verdoppeln
+## Katastrophe in Crans-Montana - Geplante Brandschutz-Lockerung wird auf Eis gelegt
 
-[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/samsung-will-die-zahl-der-von-googles-gemini-angetriebenen-mobilgeraete-in-diesem-jahr-auf-800-millio-ce7e59d9d08afe20) • _Montag, 5. Januar 2026, 04:01 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/katastrophe-in-crans-montana-geplante-brandschutz-lockerung-wird-auf-eis-gelegt) • _Montag, 5. Januar 2026, 23:34 Uhr_
 
-Samsung Electronics plant, in diesem Jahr die Zahl seiner Mobilgeräte mit KI-Funktionen, die von Googles Gemini angetrieben werden, zu verdoppeln, wie sein Co-CEO mitteilte. Dies würde dem...
+Die neuen Vorschriften hätten voraussichtlich 2027 in Kraft treten sollen. Crans-Montana führt zu einem «Marschhalt».
 
-Samsung Electronics plant, in diesem Jahr die Zahl seiner Mobilgeräte mit KI-Funktionen, die von Googles Gemini angetrieben werden, zu verdoppeln, wie sein Co-CEO mitteilte. Dies würde dem US-Unternehmen einen Vorteil gegenüber Konkurrenten verschaff... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/samsung-will-die-zahl-der-von-googles-gemini-angetriebenen-mobilgeraete-in-diesem-jahr-auf-800-millio-ce7e59d9d08afe20)
+In der Schweiz war eine Lockerung bei den Brand­schutz­vorschriften geplant. Nach der Katastrophe in Crans-Montana wird nun aber ein «Marschhalt» vorgenommen, teilen die kantonalen Gebäudeversicherungen mit.
+Der Staatsanwaltschaft Wallis liegt eine e... [weiterlesen](https://www.srf.ch/news/schweiz/katastrophe-in-crans-montana-geplante-brandschutz-lockerung-wird-auf-eis-gelegt)
 
-> Relevance score: [5] - The move signals a major shift in AI‑enabled consumer devices globally, affecting tech markets that Swiss companies and users participate in.
+> Relevance score: [5] - Die Verzögerung einer geplanten Lockerung von Brandschutzvorschriften nach einer lokalen Katastrophe betrifft die Sicherheit in der Schweiz und könnte zukünftige Bau‑ und Versicherungsregeln beeinflussen.
 
-## Elon Musks Grok erstellt sexualisierte Bilder ohne Einwilligung
+## Gefahr für Grönland: USA als Bedrohung für die Nato?
 
-[Blick](https://www.blick.ch/digital/kritik-an-elon-musks-porno-maschine-grok-zieht-frauen-auf-knopfdruck-aus-auch-kinder-id21567775.html) • _Sonntag, 4. Januar 2026, 22:10 Uhr_
+[Blick](https://www.blick.ch/ausland/nach-us-zugriff-in-venezuela-waechst-die-nervositaet-unter-den-nato-partnern-wer-schuetzt-groenland-vor-trump-id21570825.html) • _Montag, 5. Januar 2026, 19:05 Uhr_
 
-Fake-Nacktbilder per Knopfdruck: Was nach düsterer Dystopie klingt, passiert gerade ganz offen auf Elon Musks Plattform X und Millionen schauen zu. Regierungen schlagen Alarm.
+Donald Trump zeigt, dass er Grenzen nicht scheut. Nach Venezuela rutscht auch Grönland ins Visier des US-Präsidenten. Das sicherheitspolitische Paradox: Die Insel wird von der Nato geschützt – und genau diese Schutzmacht wird zum Risiko.
 
-Tobias BolzernRedaktor Digital
-«Zieh sie aus.» «Zeig sie im Bikini.» «Spreiz ihre Beine.» Was klingt wie Anweisungen aus einem absolut verstörenden Chatverlauf, sind öffentliche Nachrichten von Nutzern an Grok, den KI-Chatbot auf Elon Musks Plattform... [weiterlesen](https://www.blick.ch/digital/kritik-an-elon-musks-porno-maschine-grok-zieht-frauen-auf-knopfdruck-aus-auch-kinder-id21567775.html)
+Chiara SchlenzAusland-Redaktorin
+US-Präsident Donald Trump (79) hat gezeigt, dass er bereit ist, das Undenkbare zu tun. Die militärische Operation gegen Venezuelas Machthaber Nicolás Maduro (63) wirkt wie ein Menetekel: Wenn Washington offen ein Regi... [weiterlesen](https://www.blick.ch/ausland/nach-us-zugriff-in-venezuela-waechst-die-nervositaet-unter-den-nato-partnern-wer-schuetzt-groenland-vor-trump-id21570825.html)
 
-> Relevance score: [5] - The misuse of AI to generate non‑consensual sexual content raises ethical and regulatory questions that are globally relevant and affect Swiss tech and privacy discussions.
+> Relevance score: [5] - Spekulative Analyse einer US‑Politik gegenüber Grönland berührt sicherheitspolitische Fragen und NATO‑Strategien, was potenziell bedeutsam sein könnte, wenn die Situation sich konkretisiert.
 
-## Darmkrebs: Neuer Mechanismus erklärt Risiko im Alter
+## Aspen-Gipfel startet Zeitenwende in der Gehirngesundheit
 
-[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/darmkrebs-neuer-mechanismus-erklaert-risiko-im-alter/68458495) • _Sonntag, 4. Januar 2026, 18:52 Uhr_
+[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/aspen-gipfel-startet-zeitenwende-in-der-gehirngesundheit/68463013) • _Dienstag, 6. Januar 2026, 06:15 Uhr_
 
-Neue Forschungsergebnisse zeigen, dass ein altersbedingter Eisenmangel im Zellkern epigenetische Schäden auslöst, die Darmkrebs begünstigen. Dies eröffnet neue Wege für Früherkennung und Prävention.
+Ein internationaler Workshop in Colorado leitet einen Paradigmenwechsel ein: Statt nur den kognitiven Verfall zu bremsen, rücken Strategien zur biologischen Verjüngung des Gehirns in den Fokus.
 
-Eine aktuelle Studie beschreibt einen schleichenden Prozess, der Darmstammzellen im Alter zu Krebsvorläufern macht. Der sogenannte ACCA-Drift wird durch Eisenmangel in den Zellen ausgelöst und verändert das Erbgut dauerhaft. Diese Woche rücken neue A... [weiterlesen](https://www.ad-hoc-news.de/boerse/news/ueberblick/darmkrebs-neuer-mechanismus-erklaert-risiko-im-alter/68458495)
+Ein internationaler Experten-Gipfel in Colorado startet heute eine neue Ära der Neurowissenschaft. Der Fokus verschiebt sich radikal von der Behandlung hin zur aktiven Verjüngung des Gehirns.
+In Aspen Snowmass hat der Third Annual Interdisciplinary T... [weiterlesen](https://www.ad-hoc-news.de/boerse/news/ueberblick/aspen-gipfel-startet-zeitenwende-in-der-gehirngesundheit/68463013)
 
-> Relevance score: [5] - A novel biological insight into age‑related colon cancer could influence future screening and treatment strategies, bearing relevance for Swiss healthcare research.
+> Relevance score: [4] - Ein internationales wissenschaftliches Treffen zu Gehirn‑Verjüngung ist interessant für die Forschung, hat aber noch keine politischen oder gesellschaftlichen Entscheidungen und wirkt daher nur begrenzt auf die Bevölkerung.
 
-## Migros verabschiedet sich
+## Akupressur: Neue Leitlinie für die Krebstherapie
 
-[Linth24](https://linth24.ch/articles/356346-migros-verabschiedet-sich) • _Montag, 5. Januar 2026, 05:50 Uhr_
+[AD HOC NEWS](https://www.ad-hoc-news.de/boerse/news/ueberblick/akupressur-neue-leitlinie-fuer-die-krebstherapie/68462181) • _Montag, 5. Januar 2026, 22:22 Uhr_
 
-Die Migros zieht sich endgültig aus dem Frohsinn-Center zurück. Trotz laufendem Mietvertrag wird es im Uzner Zentrum keine Migros-Filiale mehr geben.
+Neue klinische Daten bestätigen die Wirksamkeit von Akupressur gegen Krebs-Symptome wie Depression und Schmerz. Die Methode wird zunehmend in die Standardversorgung integriert, besonders für ältere Patienten.
 
-Damit ist klar: In Uznach fehlt bis auf Weiters eine wichtige Einkaufsmöglichkeit in Zentrumslage. Dies berichtet die «Linth-Zeitung» am Montag.
-Gültiger Mietvertrag
-Formell hätte die Migros bis Ende 2028 – mit Option bis 2035 – im Frohsinn bleiben k... [weiterlesen](https://linth24.ch/articles/356346-migros-verabschiedet-sich)
+Eine aktuelle Studie und internationale Initiativen machen Druckpunkte der Traditionellen Chinesischen Medizin zum neuen Standard in der Krebstherapie.
+Die integrative Onkologie erlebt einen Durchbruch. Neue klinische Daten und globale Gesundheitsber... [weiterlesen](https://www.ad-hoc-news.de/boerse/news/ueberblick/akupressur-neue-leitlinie-fuer-die-krebstherapie/68462181)
 
-> Relevance score: [4] - Migros is a major Swiss retailer; the closure of one urban store affects local shopping options but does not alter the national retail landscape.
+> Relevance score: [4] - Die Aufnahme von Akupressur in offizielle Leitlinien erweitert Therapieoptionen, hat aber bislang nur begrenzte Auswirkungen auf die allgemeine Gesundheitsversorgung.
 
-## Trump droht weiteren Ländern mit Militärinterventionen
+## USA: Verfahren gegen Senator Kelly nach Kritik an Militäreinsätzen
 
-[Blick](https://www.blick.ch/ausland/kolumbien-groenland-und-mexiko-trump-droht-weiteren-laendern-mit-militaerinterventionen-id21568502.html) • _Montag, 5. Januar 2026, 04:24 Uhr_
+[Watson](https://www.watson.ch/international/usa/300299102-usa-verfahren-gegen-senator-kelly-nach-kritik-an-militaereinsaetzen) • _Montag, 5. Januar 2026, 22:06 Uhr_
 
-Donald Trump beschuldigt den kolumbianischen Präsidenten Gustavo Petro, Kokain in die USA zu schmuggeln. Eine «Operation» in Kolumbien klinge gut, so der US-Präsident.
+Anlass seien öffentliche Äusserungen Kellys aus den vergangenen Monaten, in denen er Einsätze kritisiert und Soldaten zur Befehlsverweigerung aufgerufen habe.
 
-Gabriel KnupferRedaktor News
-US-Präsident Donald Trump (79) ist nach der Verhaftung von Nicolas Maduro (63) auf den Geschmack gekommen. Ermutigt vom Erfolg in Venezuela drohte Trump dem kolumbianischen Präsidenten Gustavo Petro (65).
-«Kolumbien wird ... [weiterlesen](https://www.blick.ch/ausland/kolumbien-groenland-und-mexiko-trump-droht-weiteren-laendern-mit-militaerinterventionen-id21568502.html)
+Verfahren gegen Senator Kelly nach Kritik an Militäreinsätzen
+Nach seiner Kritik an Einsätzen des US-Militärs ist gegen den pensionierten Marineoffizier und demokratischen Senator Mark Kelly ein Verfahren zur Überprüfung seines Ruhestandsdienstgrades... [weiterlesen](https://www.watson.ch/international/usa/300299102-usa-verfahren-gegen-senator-kelly-nach-kritik-an-militaereinsaetzen)
 
-> Relevance score: [4] - US foreign‑policy posturing can influence global geopolitics, yet the specific threat toward Colombia bears minimal direct relevance for Swiss affairs.
+> Relevance score: [4] - Ein Verfahren gegen einen US‑Senator wegen Kritik an Militäreinsätzen ist politisch bemerkenswert, wird aber voraussichtlich wenige strukturelle Veränderungen nach sich ziehen.
 
-## Was folgt auf Maduros Sturz? Eindrücke vor Ort
+## Ganzheitliche Alzheimer-Früherkennung: BAFeN-Netzwerk setzt neue Maßstäbe
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/international/mit-maduros-abgang-entsteht-ein-machtvakuum-wer-es-fuellen-wird-ist-unklar-ld.1918697) • _Sonntag, 4. Januar 2026, 19:54 Uhr_
+[it boltwise](https://www.it-boltwise.de/ganzheitliche-alzheimer-frueherkennung-bafen-netzwerk-setzt-neue-massstaebe.html) • _Montag, 5. Januar 2026, 20:58 Uhr_
 
-Den Fall des Diktators nehmen viele Venezolaner mit Erleichterung zur Kenntnis, doch Euphorie bleibt aus. Mit der kommissarisch als Präsidentin eingesetzten Delcy Rodríguez gibt es keinen Neuanfang.
+Das BAFeN-Netzwerk in Berlin optimiert die Alzheimer-Früherkennung durch die Integration von Körperfett- und Muskelmasseanalysen.
 
-Seit der amerikanischen Kommandoaktion gegen den venezolanischen Machthaber Nicolás Maduro und seine Frau Cilia Flores herrscht eine gespenstische Stille in Caracas und anderen Städten Venezuelas, wie mehrere Gesprächspartner vor Ort berichten. Sie a... [weiterlesen](https://www.nzz.ch/international/mit-maduros-abgang-entsteht-ein-machtvakuum-wer-es-fuellen-wird-ist-unklar-ld.1918697)
+BERLIN / LONDON (IT BOLTWISE) – Das Berliner Alzheimer-Früherkennungs-Netzwerk BAFeN revolutioniert die Diagnostik durch die Integration von Körperfett- und Muskelmasseanalysen. Neue Studien belegen den Einfluss dieser Faktoren auf die Gehirngesundhe... [weiterlesen](https://www.it-boltwise.de/ganzheitliche-alzheimer-frueherkennung-bafen-netzwerk-setzt-neue-massstaebe.html)
 
-> Relevance score: [4] - The political turnover in Venezuela is an important regional development, but its direct ramifications for Switzerland are limited to diplomatic and humanitarian considerations.
+> Relevance score: [4] - Innovative Diagnostik‑Methoden könnten langfristig die Früherkennung von Alzheimer verbessern, jedoch fehlt noch eine breite Implementierung in Gesundheitssystemen.
 
-## Southwest Airlines im Wandel: Billigairline prüft eine Business Class
+## Intel stellt auf der CES in Las Vegas neuen PC-Chip der nächsten Generation vor
 
-[aeroTELEGRAPH](https://www.aerotelegraph.com/airlines/southwest-airlines-im-wandel-billigairline-prueft-eine-business-class/04bpbbh) • _Montag, 5. Januar 2026, 06:03 Uhr_
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/intel-stellt-auf-der-ces-in-las-vegas-den-pc-chip-der-naechsten-generation-vor-ce7e59dede8af722) • _Dienstag, 6. Januar 2026, 00:42 Uhr_
 
-Jahrzehntelang hatte die Billigairline aus den USA mit ihrem Angebot ohne Schnickschnack viel Erfolg. Doch jetzt ändert Southwest Airlines ihr Geschäftsmodell grundlegend. Sogar eine echte Business Class zieht sie ernsthaft in Erwägung.
+Intel hat am Montag auf der Elektronikmesse CES in Las Vegas mit Panther Lake seinen neuen KI-Chip für Laptops vorgestellt. Das Unternehmen möchte damit Investoren beruhigen, denn es handelt sich um...
 
-Seit einigen Monaten ist bei Southwest Airlines nichts mehr, wie es einmal war. Das liegt an veränderten Kundenbedürfnissen und stärkerer Konkurrenz durch etablierte Fluggesellschaften, aber auch am Druck des Anteilseigners Elliott Investment Managem... [weiterlesen](https://www.aerotelegraph.com/airlines/southwest-airlines-im-wandel-billigairline-prueft-eine-business-class/04bpbbh)
+Intel hat am Montag auf der Elektronikmesse CES in Las Vegas mit Panther Lake seinen neuen KI-Chip für Laptops vorgestellt. Das Unternehmen möchte damit Investoren beruhigen, denn es handelt sich um das erste Produkt, das mit dem neuen Fertigungsproz... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/intel-stellt-auf-der-ces-in-las-vegas-den-pc-chip-der-naechsten-generation-vor-ce7e59dede8af722)
 
-> Relevance score: [3] - A US low‑cost carrier considering a premium product is a noteworthy shift in aviation business models, but its direct impact on Swiss travellers or the Swiss economy is limited.
+> Relevance score: [3] - Ein neues KI‑Chip‑Produkt ist für die Halbleiter‑ und Technologie‑Industrie von Interesse, hat jedoch kaum direkte Auswirkungen auf die breite Öffentlichkeit oder gesellschaftliche Strukturen.
 
-## Sabotage, Stromausfall, Staatsversagen: So leicht lässt sich Berlin lahmlegen
+## wie sich die Linke als Kümmerpartei inszeniert
 
-[Neue Zürcher Zeitung](https://www.nzz.ch/der-andere-blick/sabotage-stromausfall-staatsversagen-so-leicht-laesst-sich-berlin-lahmlegen-ld.1918723) • _Montag, 5. Januar 2026, 05:30 Uhr_
+[Neue Zürcher Zeitung](https://www.nzz.ch/international/nichts-an-diesem-anschlag-ist-links-waehrend-des-stromausfalls-inszeniert-sich-die-linke-als-kuemmerpartei-ld.1918862) • _Montag, 5. Januar 2026, 19:21 Uhr_
 
-In der deutschen Hauptstadt sind Zehntausende Haushalte seit Samstag ohne Strom. Die sogenannte Vulkangruppe hat sich zu dem Sabotageakt bekannt. Die Sicherheitsbehörden haben ihr seit dem Jahr 2011 nichts entgegenzusetzen. Wie kann das sein?
+Mutmassliche Linksextremisten sorgen mit einem Anschlag für einen massiven Stromausfall in Berlin. Spitzenpolitiker der Linkspartei weisen vor Ort jegliche weltanschauliche Nähe von sich und schalten auf Wahlkampf.
 
-Sie lesen einen Auszug aus dem Newsletter «Der andere Blick am Morgen», heute von Jonas Hermann, Redaktor NZZ Deutschland. Abonnieren Sie den Newsletter kostenlos. Nicht in Deutschland wohnhaft? Hier profitieren.
-Rechtsextreme richten ihre Gewalt geg... [weiterlesen](https://www.nzz.ch/der-andere-blick/sabotage-stromausfall-staatsversagen-so-leicht-laesst-sich-berlin-lahmlegen-ld.1918723)
+Es ist furchtbar kalt in Berlin-Zehlendorf. Ein eisiger Wind zieht an diesem Montagnachmittag über den Platz beim S-Bahnhof, der halb gefrorene, halb mit Schneematsch bedeckte Boden tut sein Übriges. Die Zehlendorfer gehen und schlittern interessiert... [weiterlesen](https://www.nzz.ch/international/nichts-an-diesem-anschlag-ist-links-waehrend-des-stromausfalls-inszeniert-sich-die-linke-als-kuemmerpartei-ld.1918862)
 
-> Relevance score: [3] - A large power outage in Germany highlights infrastructure vulnerability in a neighbouring EU country; relevance for Switzerland is indirect and limited.
+> Relevance score: [3] - Ein politisches Kommentar‑Stück über die deutsche Linke hat nur begrenzte Relevanz für das globale Publikum und keinen direkten Einfluss auf strukturelle Entwicklungen.
 
-## BND hörte Barack Obama ab: Spionage ohne Auftrag enthüllt
+## Afero und Texas Instruments kooperieren für eine sichere IoT-Plattform für eine vernetzte Welt
 
-[20 Min](https://www.20min.ch/story/ohne-spionageauftrag-der-deutsche-geheimdienst-hoerte-obama-ab-103480515) • _Montag, 5. Januar 2026, 02:04 Uhr_
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/afero-und-texas-instruments-kooperieren-fuer-eine-sichere-iot-plattform-fuer-eine-vernetzte-welt-ce7e59dedf89f726) • _Montag, 5. Januar 2026, 19:05 Uhr_
 
-Der deutsche Geheimdienst BND soll Barack Obamas Gespräche abgehört haben. Dies geschah ohne offiziellen Auftrag und blieb lange unentdeckt.
+Afero hat eine Zusammenarbeit mit Texas Instruments angekündigt, um eine nahtlose und sichere Internet-of-Things -Plattform für Smart-Home-Produkte zu schaffen. Die ersten Wi-Fi-Mikrocontroller von...
 
-Der deutsche Nachrichtendienst (BND) hat nach Angaben des «Zeit»-Journalisten Holger Stark den damaligen US-Präsidenten Barack Obama abgehört. Im Podcast von «Bild»-Vize Paul Ronzheimer sagte Stark, der Geheimdienst habe sich dabei zunutze gemacht, d... [weiterlesen](https://www.20min.ch/story/ohne-spionageauftrag-der-deutsche-geheimdienst-hoerte-obama-ab-103480515)
+Afero hat eine Zusammenarbeit mit Texas Instruments angekündigt, um eine nahtlose und sichere Internet-of-Things (IoT)-Plattform für Smart-Home-Produkte zu schaffen. Die ersten Wi-Fi-Mikrocontroller (MCUs) von TI, die speziell für das IoT entwickelt ... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/afero-und-texas-instruments-kooperieren-fuer-eine-sichere-iot-plattform-fuer-eine-vernetzte-welt-ce7e59dedf89f726)
 
-> Relevance score: [3] - German intelligence misconduct toward a former US president is a significant diplomatic scandal, but its direct impact on Switzerland is modest.
+> Relevance score: [3] - Die Kooperation könnte die Sicherheit von IoT‑Geräten erhöhen, ist aber primär ein Technologiethema mit begrenzter sofortiger gesellschaftlicher Auswirkung.
 
-## Vitamin-D-Spiegel in der Schwangerschaft mit Kariesrisiko bei Kindern verknüpft
+## Venezuela, das Öl und sein Fluch: Blick in die Geschichte
 
-[ZWP online](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/vitamin-d-spiegel-in-der-schwangerschaft-mit-kariesrisiko-bei-kindern-verknupft) • _Sonntag, 4. Januar 2026, 18:47 Uhr_
+[Schweizer Radio und Fernsehen](https://www.srf.ch/news/wirtschaft/erdoel-gigant-fluch-der-ressourcen-weshalb-das-oel-venezuela-ruiniert-hat) • _Montag, 5. Januar 2026, 20:09 Uhr_
 
-Eine gute Vitamin-D-Versorgung während der Schwangerschaft könnte sich positiv auf die Zahngesundheit von Kindern auswirken. Darauf deuten Daten aus einer großen chinesischen Beobachtungsstudie hin.
+Dem südamerikanischen Land ist das schwarze Gold zum Verhängnis geworden. Ein Blick zurück auf Venezuelas Öl-Geschichte.
 
-Foto: Vasiliy Generiert mit KI – stock.adobe.com
-Untersucht wurde der Vitamin-D-Status von Schwangeren über verschiedene Phasen der Schwangerschaft hinweg und später das Auftreten von frühkindlicher Karies bei ihren Kindern. Kinder von Müttern mit hö... [weiterlesen](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/vitamin-d-spiegel-in-der-schwangerschaft-mit-kariesrisiko-bei-kindern-verknupft)
+Wie alles beginnt: 1914 entdecken Geologen der Caribbean Oil Company grössere Erdölvorkommen im venezolanischen Bundesstaat Zulia. Sogleich startet das Land die Förderung und steigt in den 1930er-Jahren zum grössten Ölexporteur der Welt auf. Das Brut... [weiterlesen](https://www.srf.ch/news/wirtschaft/erdoel-gigant-fluch-der-ressourcen-weshalb-das-oel-venezuela-ruiniert-hat)
 
-> Relevance score: [3] - The observational link between maternal vitamin‑D status and child dental health is interesting but currently of modest impact on Swiss public‑health policy.
+> Relevance score: [2] - Ein historischer Rückblick liefert Kontext, stellt jedoch keine aktuelle Entwicklung dar und hat wenig unmittelbare gesellschaftliche Relevanz.
 
-## Russland: Rossiya zankt sich mit Staatsunternehmen wegen Ersatzteilen für Yakovlev Superjet 100
+## ServiceNow, Inc. kündigt Veränderungen im Vorstand an
 
-[aeroTELEGRAPH](https://www.aerotelegraph.com/airlines/russland-rossiya-zankt-sich-mit-staatsunternehmen-wegen-ersatzteilen-fuer-yakovlev/pm705ne) • _Montag, 5. Januar 2026, 05:11 Uhr_
+[MarketScreener Schweiz](https://ch.marketscreener.com/boerse-nachrichten/servicenow-inc-kuendigt-veraenderungen-im-vorstand-an-ce7e59dedf88f62c) • _Montag, 5. Januar 2026, 19:50 Uhr_
 
-Nach einer gescheiterten ersten Klage legt die Aeroflot-Tochter nach. Rossiya verlangt nun fast doppelt so viel Geld wie zuvor – und rückt damit die Ersatzteilversorgung des Yakovlev Superjet 100 erneut ins Rampenlicht.
+ServiceNow hat bekanntgegeben, dass Hossein Nowbar dem Unternehmen als Präsident und Chief Legal Officer beigetreten ist. Russ Elmer, der seit 2018 als Chief Legal Officer tätig war, wird in die...
 
-Nach einer gescheiterten ersten Klage legt die Aeroflot-Tochter nach. Rossiya verlangt nun fast doppelt so viel Geld wie zuvor – und rückt damit die Ersatzteilversorgung des Yakovlev Superjet 100 erneut ins Rampenlicht.
-Es ist ein langwährender Strei... [weiterlesen](https://www.aerotelegraph.com/airlines/russland-rossiya-zankt-sich-mit-staatsunternehmen-wegen-ersatzteilen-fuer-yakovlev/pm705ne)
+ServiceNow hat bekanntgegeben, dass Hossein Nowbar dem Unternehmen als Präsident und Chief Legal Officer (CLO) beigetreten ist. Russ Elmer, der seit 2018 als Chief Legal Officer tätig war, wird in die Rolle des Special Counsel wechseln, in der er wei... [weiterlesen](https://ch.marketscreener.com/boerse-nachrichten/servicenow-inc-kuendigt-veraenderungen-im-vorstand-an-ce7e59dedf88f62c)
 
-> Relevance score: [2] - The dispute concerns Russian aviation logistics and has little immediate effect on Swiss industry or consumers.
+> Relevance score: [2] - Ein Personalwechsel in einem US‑Software‑Unternehmen ist für die Branche interessant, hat jedoch kaum Einfluss auf die breite Öffentlichkeit oder das Wirtschaftssystem.
 
-## Katie Miller provoziert Streit zwischen USA und Dänemark mit Grönland-Post
+## Zoff mit Easyjet: Clic Air wächst 2025 am stärksten
 
-[20 Min](https://www.20min.ch/story/us-ansprueche-social-media-post-groenland-karte-in-us-farben-loest-streit-aus-103480509) • _Montag, 5. Januar 2026, 00:46 Uhr_
+[Blick](https://www.blick.ch/wirtschaft/nach-mega-zoff-mit-easyjet-diese-billig-airline-fliegt-der-konkurrenz-um-die-ohren-id21570593.html) • _Montag, 5. Januar 2026, 19:34 Uhr_
 
-Ein Social-Media-Post von Katie Miller über Grönland in US-Farben sorgt für diplomatische Spannungen zwischen den USA und Dänemark.
+Nach einem spektakulären Rechtsstreit gegen Easyjet benannte sich Easyfly in Clic Air um – mit Erfolg. 2025 war die kolumbianische Airline die am schnellsten wachsende Fluggesellschaft der Welt. Sie feiert nun ihr 20-jähriges Bestehen. Und will weiter wachsen.
 
-Ein Social-Media-Beitrag hat zu diplomatischen Verstimmungen zwischen den USA und Dänemark geführt. In dem Post auf X von Ex-Regierungsberaterin und Influencerin Katie Miller war eine Karte der zu Dänemark gehörenden Insel Grönland in den Farben der ... [weiterlesen](https://www.20min.ch/story/us-ansprueche-social-media-post-groenland-karte-in-us-farben-loest-streit-aus-103480509)
+Patrik BergerRedaktor Wirtschaft
+Easyjet-Gründer Stelios Haji-Ioannou (58) ist ein streitbarer Zeitgenosse. Wer immer sich mit dem Zusatz «easy» im Namen schmückt, der kann sich auf eine Klage gefasst machen. Vor fünf Jahren traf es die kolumbianisch... [weiterlesen](https://www.blick.ch/wirtschaft/nach-mega-zoff-mit-easyjet-diese-billig-airline-fliegt-der-konkurrenz-um-die-ohren-id21570593.html)
 
-> Relevance score: [2] - A social‑media incident that caused a minor diplomatic tiff has negligible consequences for Swiss foreign policy or public interest.
+> Relevance score: [2] - Ein Rechtsstreit und das Wachstum einer kolumbianischen Airline sind für die Luftfahrt‑Industrie relevant, aber für die globale oder nationale Öffentlichkeit von geringer Tragweite.
+
+## Buddhismus in Irland - Ein Ort für Frieden fällt dem Missbrauch zum Opfer
+
+[Schweizer Radio und Fernsehen](https://www.srf.ch/kultur/gesellschaft-religion/buddhismus-in-irland-ein-ort-fuer-frieden-faellt-dem-missbrauch-zum-opfer) • _Montag, 5. Januar 2026, 19:00 Uhr_
+
+Ein Engländer gründet in Irland einen spirituellen Rückzugsort – bis Missbrauchsvorwürfe alles erschüttern.
+
+Das Licht ist atemberaubend, das Meer wild und ungestüm, die Landschaft märchenhaft schön. Hier wollen wir bleiben, sagten sich Peter Cornish und seine Frau Harriet im August 1973, als sie mit ihrem Citroën 2CV im äussersten Südwesten Irlands ankomme... [weiterlesen](https://www.srf.ch/kultur/gesellschaft-religion/buddhismus-in-irland-ein-ort-fuer-frieden-faellt-dem-missbrauch-zum-opfer)
+
+> Relevance score: [2] - Ein lokaler Missbrauchsskandal in einem spirituellen Zentrum betrifft hauptsächlich die betroffenen Personen und hat keine breitere gesellschaftliche oder politische Tragweite.
 
 
 </details>
